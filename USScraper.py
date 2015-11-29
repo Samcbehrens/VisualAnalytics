@@ -8,9 +8,19 @@ soup = BeautifulSoup(data)
 
 tables = soup.find_all(class_="wikitable");
  
-print len(tables)
+twent = tables[4]
+for row in twent.findAll('tr'):
+	print "rows"
+	print len(row)
+	print row
+	for col in row.findAll('td'):
+		print 
+		print "cols"
+		print len(col)
+		print col
+		print 
+	
 
-print tables[4]
 
 # invalid_tags = ['b', 'i', 'u']
 
