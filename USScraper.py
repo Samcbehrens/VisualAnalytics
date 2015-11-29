@@ -6,6 +6,11 @@ r  = requests.get("https://en.wikipedia.org/wiki/Timeline_of_United_States_histo
 data = r.text
 soup = BeautifulSoup(data)
 
+tables = soup.find_all(class_="wikitable");
+ 
+print len(tables)
+
+print tables[4]
 
 # invalid_tags = ['b', 'i', 'u']
 
