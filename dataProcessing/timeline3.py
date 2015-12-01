@@ -3,6 +3,7 @@ import requests
 import re 
 import json
 import random
+import pprint
 
 r  = requests.get("http://herb.ashp.cuny.edu/items/show/1285")
 data = r.text
@@ -41,13 +42,20 @@ for n in finalOutput:
 			print "in first if" 
 			print n 
 			print 
-			n.replace("\n\n\n","")
-			addEvent["label"] = n
+			noNs = n.replace("\n\n\n","")
+			addEvent["label"] = noNs
 		else:
 			print "in else"
 			print n 
 			print 
-			addEvent["start_time"] = n
+			if n.find(':')>=0:
+				goodNum = n.replace(':','')
+				print 'in replacement : else'
+				print n
+				print 
+				addEvent["start_time"] = goodNum
+			else:
+				addEvent["start_time"] = n
 
 		if addEvent["label"]!="description" and addEvent["start_time"]!=1:
 			randomNum = random.randint(0,4)
@@ -57,4 +65,8 @@ for n in finalOutput:
 			print 
 			addEvent={"color":"blue", "label":"description", "start_time": 1, "end_time": 2}
 
-print timeline
+with open('timeline3.txt', 'w') as outfile:
+     json.dump(timeline, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
+
+pp = pprint.PrettyPrinter(indent=4)
+pp.pprint(timeline)
