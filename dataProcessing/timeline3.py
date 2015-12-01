@@ -15,7 +15,16 @@ soup = soup.find(id='primary')
 for tag in invalid_tags: 
  for match in soup.findAll(tag):
      match.replaceWithChildren()
+    
 
+for match in soup.findAll('span'):
+	match.replaceWith('')
+
+for match in soup.findAll('div'):
+	match.replaceWith('')
+
+print  'get ride of span'
+print soup
 
 soup = str(soup)
 soup = soup.replace('<strong>', "-")
@@ -33,7 +42,7 @@ print
 
 colors = ["red","orange", "yellow", "green", "blue"]
 timeline = {"label": "timeline3", "times": []}
-addEvent={"color":"blue", "label":"description", "start_time": 1, "end_time": 2}
+addEvent={"color":"blue", "label":"description", "starting_time": 1, "ending_time": 2}
 
 for n in finalOutput:
 	if n.find("span")<0 or n.find("div")<0:
@@ -53,19 +62,23 @@ for n in finalOutput:
 				print 'in replacement : else'
 				print n
 				print 
-				addEvent["start_time"] = goodNum
+				goodNum= goodNum.strip()
+				goodNum = int(goodNum)
+				addEvent["starting_time"] = goodNum
 			else:
-				addEvent["start_time"] = n
+				goodNum= n.strip()
+				##goodNum = int(goodNum)
+				addEvent["starting_time"] = goodNum
 
-		if addEvent["label"]!="description" and addEvent["start_time"]!=1:
+		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 			randomNum = random.randint(0,4)
 			addEvent["color"]=colors[randomNum]
 			timeline["times"].append(addEvent)
 			print "in other if"
 			print 
-			addEvent={"color":"blue", "label":"description", "start_time": 1, "end_time": 2}
+			addEvent={"color":"blue", "label":"description", "starting_time": 1, "end_time": 2}
 
-with open('timeline3.txt', 'w') as outfile:
+with open('timeline3.json', 'w') as outfile:
      json.dump(timeline, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
 
 pp = pprint.PrettyPrinter(indent=4)
