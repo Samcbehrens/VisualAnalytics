@@ -106,6 +106,7 @@
 	            div.find('.coloredDiv').css('background-color', colors(i))
 	            div.find('#name').text(datum.label);
 	          })
+            .tickFormat({format: d3.time.format("%Y"), tickTime: d3.time.year,tickInterval: 1, tickSize: 6 })
 	          .click(function (d, i, datum) {
 	            alert(datum.label);
 	          })
@@ -114,7 +115,7 @@
 	          });
 
 	        var svg = d3.select("#timeline3").append("svg").attr("width", width)
-	          .datum(labelTestData).call(chart);
+	          .datum(labelColorTestData).call(chart);
 	      }
 
 
@@ -128,7 +129,7 @@
 	<p> This page loads! </p>
 
 
- <div id='map'></div>
+ <!-- <div id='map'></div>
     <script type="text/javascript">
     (function () {
         var extent, scale,
@@ -147,7 +148,7 @@
         }());
 	</script>
 
-	<div>
+	<div> -->
 		<h3>A stacked timeline with hover, click, and scroll events</h3>
 		<div id="timeline3"></div>
 		<div id="hoverRes">
