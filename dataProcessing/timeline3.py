@@ -8,9 +8,13 @@ import pprint
 r  = requests.get("http://herb.ashp.cuny.edu/items/show/1285")
 data = r.text
 soup = BeautifulSoup(data)
+print 'gah'
+print soup
 
 invalid_tags = ['b', 'i', 'u', 'ul','li', 'p','em']
 soup = soup.find(id='primary')
+
+
 
 for tag in invalid_tags: 
  for match in soup.findAll(tag):
@@ -23,20 +27,16 @@ for match in soup.findAll('span'):
 for match in soup.findAll('div'):
 	match.replaceWith('')
 
-print  'get ride of span'
-print soup
 
 soup = str(soup)
-soup = soup.replace('<strong>', "-")
-soup = soup.replace('</strong>', "-")
-finalOutput = soup.split('-')
+soup = soup.replace('<strong>', "%")
+soup = soup.replace('</strong>', "%")
+finalOutput = soup.split('%')
 
 for n in range(0,4):
 	finalOutput[n]=""
 
-print finalOutput
-print
-print 
+
 
 ## formatting to turn into correct json 
 
@@ -47,26 +47,22 @@ addEvent={"color":"blue", "label":"description", "starting_time": 1, "ending_tim
 for n in finalOutput:
 	if n.find("span")<0 or n.find("div")<0:
 		if n.find("\n\n\n") >=0:
-			print n.find("\n\n\n") >=0
-			print "in first if" 
-			print n 
-			print 
+
 			noNs = n.replace("\n\n\n","")
 			addEvent["label"] = noNs
 		else:
-			print "in else"
-			print n 
-			print 
+
 			if n.find(':')>=0:
 				goodNum = n.replace(':','')
-				print 'in replacement : else'
-				print n
-				print 
+
 				goodNum= goodNum.strip()
-				goodNum = int(goodNum)
+				if goodNum.isdigit():
+					goodNum = int(goodNum)
 				addEvent["starting_time"] = goodNum
 			else:
 				goodNum= n.strip()
+				print 'error'
+				print goodNum
 				##goodNum = int(goodNum)
 				addEvent["starting_time"] = goodNum
 
@@ -74,8 +70,7 @@ for n in finalOutput:
 			randomNum = random.randint(0,4)
 			addEvent["color"]=colors[randomNum]
 			timeline["times"].append(addEvent)
-			print "in other if"
-			print 
+
 			addEvent={"color":"blue", "label":"description", "starting_time": 1, "end_time": 2}
 
 with open('timeline3.json', 'w') as outfile:
