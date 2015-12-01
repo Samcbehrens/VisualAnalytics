@@ -59,19 +59,21 @@ for n in finalOutput:
 				if goodNum.isdigit():
 					goodNum = int(goodNum)
 				addEvent["starting_time"] = goodNum
+				addEvent["ending_time"] = goodNum
 			else:
 				goodNum= n.strip()
 				print 'error'
 				print goodNum
 				##goodNum = int(goodNum)
 				addEvent["starting_time"] = goodNum
+				addEvent["ending_time"] = goodNum
 
 		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 			randomNum = random.randint(0,4)
 			addEvent["color"]=colors[randomNum]
 			timeline["times"].append(addEvent)
 
-			addEvent={"color":"blue", "label":"description", "starting_time": 1, "end_time": 2}
+			addEvent={"color":"blue", "label":"description", "starting_time": 1, "ending_time": 2}
 
 with open('timeline3.json', 'w') as outfile:
      json.dump(timeline, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
