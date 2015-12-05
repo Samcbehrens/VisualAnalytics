@@ -42,7 +42,10 @@ for n in range(0,4):
 
 colors = ["red","orange", "yellow", "green", "blue"]
 timeline = {"label": "timeline3", "times": []}
-addEvent={"color":"blue", "label":"description", "starting_time": 1, "ending_time": 2}
+addEvent={"color":"blue", "label":"description", "starting_time": 1}
+
+## Must be in a certain format have to put in a array and then a set...crying 
+outerMost = []
 
 for n in finalOutput:
 	if n.find("span")<0 or n.find("div")<0:
@@ -50,6 +53,7 @@ for n in finalOutput:
 
 			noNs = n.replace("\n\n\n","")
 			addEvent["label"] = noNs
+
 		else:
 
 			if n.find(':')>=0:
@@ -59,24 +63,28 @@ for n in finalOutput:
 				if goodNum.isdigit():
 					goodNum = int(goodNum)
 				addEvent["starting_time"] = goodNum
-				addEvent["ending_time"] = goodNum
+				
 			else:
 				goodNum= n.strip()
 				print 'error'
 				print goodNum
 				##goodNum = int(goodNum)
 				addEvent["starting_time"] = goodNum
-				addEvent["ending_time"] = goodNum
+				
 
 		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 			randomNum = random.randint(0,4)
 			addEvent["color"]=colors[randomNum]
 			timeline["times"].append(addEvent)
 
-			addEvent={"color":"blue", "label":"description", "starting_time": 1, "ending_time": 2}
+			addEvent={"color":"blue", "label":"description", "starting_time": 1}
+		
+
+outerMost.append(timeline)
+
 
 with open('timeline3.json', 'w') as outfile:
-     json.dump(timeline, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
+     json.dump(outerMost, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
 
 pp = pprint.PrettyPrinter(indent=4)
-pp.pprint(timeline)
+pp.pprint(outerMost)
