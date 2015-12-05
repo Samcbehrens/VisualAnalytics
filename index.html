@@ -47,13 +47,16 @@
     timelineHover(data);
   });
 
-    var width = 500;
+    var width = 1000;
 
     function timelineHover(data) {
       console.log('got some data in some functions' , data);
       var chart = d3.timeline()
-      .width(width*4)
+      .width(width)
       .stack()
+          .beginning(-2524520000000)
+          .ending(80000000)
+      .display("circle")
       .margin({left:70, right:30, top:0, bottom:0})
       .hover(function (d, i, datum) {
             // d is the current rendering object
@@ -64,7 +67,11 @@
             div.find('.coloredDiv').css('background-color', colors(i))
             div.find('#name').text(datum.label);
           })
-      .tickFormat({format: d3.time.format("%Y"), tickTime: d3.time.year,tickInterval: 6, tickSize: 6 })
+      .tickFormat({
+        format: d3.time.format("%Y"), 
+        tickTime: d3.time.year,
+        tickInterval: 6, 
+        tickSize: 6 })
       .click(function (d, i, datum) {
        alert(datum.label);
      })

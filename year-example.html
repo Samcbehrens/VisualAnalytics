@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<head>
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  
+   <script type = "text/javascript" src= "d3/d3.min.js"></script>
+  <script type = "text/javascript" src= "d3/d3.js"></script>
+  <script type = "text/javascript" src = "d3-timeline/src/d3-timeline.js"></script>
+
+  <style type="text/css">
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: black;
+      shape-rendering: crispEdges;
+    }
+
+    .axis text {
+      font-family: sans-serif;
+      font-size: 10px;
+    }
+
+    .timeline-label {
+      font-family: sans-serif;
+      font-size: 12px;
+    }
+
+    #timeline2 .axis {
+      transform: translate(0px,40px);
+      -ms-transform: translate(0px,40px); /* IE 9 */
+      -webkit-transform: translate(0px,40px); /* Safari and Chrome */
+      -o-transform: translate(0px,40px); /* Opera */
+      -moz-transform: translate(0px,40px); /* Firefox */
+    }
+    
+    .coloredDiv {
+      height:20px; width:20px; float:left;
+    }
+  </style>
+  <script type="text/javascript">
+    window.onload = function() {
+      
+      var yearTestData = [
+      	{label: "Event 1", times: [{"starting_time":978325200000}]},
+      	{label: "Event 2", times: [{"starting_time":978325200000}]},
+      	{label: "Event 3", times: [{"starting_time":1009861200000}]},
+        {label: "Event 4", times: [{"starting_time":920000000000}]}
+      ];
+
+      var width = 3000;
+
+
+      function timelineYear() {
+        var chart = d3.timeline()
+          .stack()
+          
+          // Setting the beginning and ending dates can be helpful in speeding up load time, otherwise it gets computed onload
+          .beginning(-2524520000000)
+          .ending(80000000)
+          
+          // Here we'll set the tick formatting to show years instead of hours
+          .tickFormat({
+			  format: d3.time.format("%Y"),
+			  tickTime: d3.time.years,
+			  tickInterval: 1,
+			  tickSize: 12
+			})	
+          .display("circle") // Useful for showing discrete events, rather than durations
+          .margin({left:70, right:30, top:0, bottom:0});
+          
+        var svg = d3.select("#timeline").append("svg").attr("width", width)
+          .datum(yearTestData).call(chart);
+      }
+
+      timelineYear();
+
+    }
+  </script>
+</head>
+<body>
+  
+  <div>
+    <h3>A stacked timeline with hover, click, and scroll events</h3>
+    <div id="timeline"></div>
+    <div id="hoverRes">
+      <div class="coloredDiv"></div>
+      <div id="name"></div>
+      <div id="scrolled_date"></div>
+    </div>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,278 @@
+[
+{
+    "label": "timeline3", 
+    "times": 
+        [
+            {
+                "color": "green", 
+                "ending_time": "", 
+                "label": "13th Amendment officially abolishes slavery.Juneteenth Freedom Celebration in Texas and Oklahoma.", 
+                "starting_time": ""
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1866, 
+                "label": "Ex-Confederates pass \"Black Codes\" limiting movement and controlling the labor of emancipated slaves.Confederate veterans in Tennessee found Ku Klux Klan.", 
+                "starting_time": 1866
+            }, 
+            {
+                "color": "green", 
+                "ending_time": 1867, 
+                "label": "Howard University is established as a theological seminary for the education of African American clergymen in Washington D.C.", 
+                "starting_time": 1867
+            }, 
+            {
+                "color": "yellow", 
+                "ending_time": 1868, 
+                "label": "14th Amendment guarantees African American citizenship.", 
+                "starting_time": 1868
+            }, 
+            {
+                "color": "green", 
+                "ending_time": 1870, 
+                "label": "15th Amendment guarantees African American men the right to vote.", 
+                "starting_time": 1870
+            }, 
+            {
+                "color": "red", 
+                "ending_time": 1871, 
+                "label": "KKK violence prompts Congressional inquiry, resulting in the \"Force Bill,\" which gives the federal government the power to prosecute the KKK.  The Bill is effective and the KKK ceases to exist, but White violence towards Blacks continues unabated.The Jubilee Singers of Fisk University, a Black college, embark on their first tour to raise money for their school.  Within ten years, they toured the northern U.S. and Europe and performed at the White House and for Queen Victoria.", 
+                "starting_time": 1871
+            }, 
+            {
+                "color": "red", 
+                "ending_time": 1873, 
+                "label": "Lincoln University, a college for African Americans, becomes the first U.S. college to accept African students.", 
+                "starting_time": 1873
+            }, 
+            {
+                "color": "green", 
+                "ending_time": 1874, 
+                "label": "\"Race riots\" erupt in Louisiana and Mississippi.", 
+                "starting_time": 1874
+            }, 
+            {
+                "color": "yellow", 
+                "ending_time": 1876, 
+                "label": "Meharry Medical College for Blacks is founded in Tennessee.", 
+                "starting_time": 1876
+            }, 
+            {
+                "color": "yellow", 
+                "ending_time": 1877, 
+                "label": "U.S. troops are removed from the South effectively ending Reconstruction.", 
+                "starting_time": 1877
+            }, 
+            {
+                "color": "blue", 
+                "ending_time": 1878, 
+                "label": "20,000 African-American \"Exodusters\" move to Kansas.", 
+                "starting_time": 1878
+            }, 
+            {
+                "color": "blue", 
+                "ending_time": 1881, 
+                "label": "African-American washerwomen in Atlanta organize a two-week strike to demand higher fees.Jim Crow law segregating railroad cars passes in Tennessee, setting precedent for other souther states.Booker T. Washington found the Normal and Industrial Institute for Negroes (later Tuskegee Institute) and becomes its president.", 
+                "starting_time": 1881
+            }, 
+            {
+                "color": "red", 
+                "ending_time": 1884, 
+                "label": "The federal government under the Morrill Act requires states with (racial) dual systems of higher education to provide land-grant institutions for both systems.  Nineteen colleges of agricultural research, home economics, and mechanical arts for African Americans are eventually established.", 
+                "starting_time": 1884
+            }, 
+            {
+                "color": "blue", 
+                "ending_time": 1890, 
+                "label": "The Association Correspondents of Race Newspapers are formed.", 
+                "starting_time": 1890
+            }, 
+            {
+                "color": "green", 
+                "ending_time": 1892, 
+                "label": "Ida B. Wells flees Memphis after receiving death threats in response to her editorial that questions the Black rapist myth.  She is forced to remain North and becomes an unrelenting crusader against lynching. The Afro-American is founded by Reverend William Alexander. It quickly becomes the largest Black owned publication onthe East Coast.", 
+                "starting_time": 1892
+            }, 
+            {
+                "color": "green", 
+                "ending_time": 1895, 
+                "label": "Booker T. Washington's \"Atlanta Compromise\" speech accepts racial separatism.", 
+                "starting_time": 1895
+            }, 
+            {
+                "color": "red", 
+                "ending_time": 1896, 
+                "label": "Plessy V. Ferguson ratifies Jim Crow (\"Separate But Equal\").The National Association of Colored Women (NACW) is founded in Washington, DC.  The organization involves itself in suffrage, anti-lynching, and anti-Jim Crow campaigns.", 
+                "starting_time": 1896
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1897, 
+                "label": "The White Rose Industrial Association is established in New York City by affluent Black women to help Southern migrant Black women.", 
+                "starting_time": 1897
+            }, 
+            {
+                "color": "blue", 
+                "ending_time": 1898, 
+                "label": "Wilmington, NC race riot.Williams v. Mississippi: Supreme Court agrees that Mississippi can disenfranchise Blacks through literacy tests.  Other states soon follow; Louisiana introduces \"grandfather clause\" into state constitution.", 
+                "starting_time": 1898
+            }, 
+            {
+                "color": "yellow", 
+                "ending_time": 1900, 
+                "label": "New Orleans, LA race riot.National Negro Business League established by Booker T. Washington.\"Lift Every Voice and Sing,\" known as the \"Black National Anthem\" is written by James Weldon Johnson.", 
+                "starting_time": 1900
+            }, 
+            {
+                "color": "blue", 
+                "ending_time": 1903, 
+                "label": "W.E.B. Du Bois publishes The Souls of Black Folk.", 
+                "starting_time": 1903
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1904, 
+                "label": "Mary McLeod Bethune opens the Daytona Educational and Industrial Training School for Negro Girls in Florida.  The name is later changed to Bethune-Cookman College.", 
+                "starting_time": 1904
+            }, 
+            {
+                "color": "yellow", 
+                "ending_time": 1905, 
+                "label": "Chicago Defender founded.", 
+                "starting_time": 1905
+            }, 
+            {
+                "color": "blue", 
+                "ending_time": 1906, 
+                "label": "Atlanta, GA race riot.", 
+                "starting_time": 1906
+            }, 
+            {
+                "color": "red", 
+                "ending_time": 1907, 
+                "label": "The Pittsburgh Courier founded.", 
+                "starting_time": 1907
+            }, 
+            {
+                "color": "red", 
+                "ending_time": 1908, 
+                "label": "Springfield, IL race riot.", 
+                "starting_time": 1908
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1909, 
+                "label": "National Association for the Advancement of Colored People (NACP) founded in New York City.The New York Amsterdam News founded.", 
+                "starting_time": 1909
+            }, 
+            {
+                "color": "green", 
+                "ending_time": 1910, 
+                "label": "Chicago has 44,000 African-American residents.\nDetroit has 6,000 African-American residents.Bessie Smith, \"Empress of the Blues\" signs record contract with Columbia Record Company.NAACP introduces its official publication \"The Crisis,\" with Du Bois as editor.  At the first printing, thee are 1,000 subscribers.White mobs attack African-Americans in Boston, New York City, Cincinnati, Houston, and Norfolk following Black boxer Jack Johnson's defeat of the \"Great White Hope,\" James Jeffries.", 
+                "starting_time": 1910
+            }, 
+            {
+                "color": "yellow", 
+                "ending_time": 1911, 
+                "label": "National Urban League is established; its goal is to help Southern migrants find jobs, housing, and adjust to city life.", 
+                "starting_time": 1911
+            }, 
+            {
+                "color": "blue", 
+                "ending_time": 1913, 
+                "label": "President Woodrow Wilson reintroduces Jim Crow to Washington, DC and sanctions segregation in the federal government.Cotton prices plummet and a sever boll weevil infestation in the South leaves many African Americans in even more dire economic straits.", 
+                "starting_time": 1913
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1918, 
+                "label": "World War I spurs Great Migration.", 
+                "starting_time": 1914
+            }, 
+            {
+                "color": "red", 
+                "ending_time": 1914, 
+                "label": "Harlem's African-American population is 50,000. ", 
+                "starting_time": 1914
+            }, 
+            {
+                "color": "green", 
+                "ending_time": 1915, 
+                "label": "A new KKK is formed, prompting the Chicago Defender to not only encourage Blacks to migrate to the North, but also to adopt the slogan \"If you must die, take at least one with you\" in reference to the widespread racial violence.Massive floods in Mississippi Valley lead to an economic and health crisis among the southern Black population.", 
+                "starting_time": 1915
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1917, 
+                "label": "NAACP rallies 10,000 in NYC is a silent protest march against lynching as part of its on-going anti-lynching campaign.St. Louis, MO race riot.Marcus Garvey establishes the first American branch of the Universal Negro Improvement Association (UNIA) and the African Communities League in NYC.", 
+                "starting_time": 1917
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1918, 
+                "label": "NACW has 300,000 members.The Crisis has 100,000 subscribers.", 
+                "starting_time": 1918
+            }, 
+            {
+                "color": "green", 
+                "ending_time": 1919, 
+                "label": "\"Red Summer\" race riots erupt nationwide.Chicago's African-American population reaches 110,000.The Associated Negro Press is formed.Liberty Hall, the official meeting place of the UNIA, is established in Harlem.", 
+                "starting_time": 1919
+            }, 
+            {
+                "color": "red", 
+                "ending_time": 1920, 
+                "label": "First UNIA International Convention.  Garvey gives the opening address before a crowd of 20,000 at Madison Square Garden.  At the convention, the official UNIA flag is unveiled.  Its colors of red, green, and black symbolize the solidarity between the struggles of African peoples, the Irish, and the Communists.", 
+                "starting_time": 1920
+            }, 
+            {
+                "color": "green", 
+                "ending_time": 1921, 
+                "label": "Tulsa, OK race riot. ", 
+                "starting_time": 1921
+            }, 
+            {
+                "color": "blue", 
+                "ending_time": 1925, 
+                "label": "Alain Locke publishes The New NegroBrotherhood of Sleeping Car Porters is formed.  A. Philip Randolph is its first president.", 
+                "starting_time": 1925
+            }, 
+            {
+                "color": "red", 
+                "ending_time": 1926, 
+                "label": "Mordecai W. Johnson becomes the first black president of Howard University. ", 
+                "starting_time": 1926
+            }, 
+            {
+                "color": "yellow", 
+                "ending_time": 1927, 
+                "label": "U.S. deports Marcus Garvey to Jamaica; his departure shatters the UNIA which had won mass support after World War I. ", 
+                "starting_time": 1927
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1928, 
+                "label": "The first Black representative to serve in Congress since Reconstruction, Oscar DePriest, is elected in Chicago.NBC premiers \"Amos 'n' Andy,\" a fifteen-minute comedy show that becomes the most popular program on radio.  Thought the show is about two Black men who own a cab company, the voices are performed by White men.", 
+                "starting_time": 1928
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1929, 
+                "label": "Chicago's Whip Newspaper launches its \"Don't Buy Where you Can't Work\" campaign. ", 
+                "starting_time": 1929
+            }, 
+            {
+                "color": "blue", 
+                "ending_time": 1930, 
+                "label": "Chicago's African-American population reaches 235,000.Detroit's African-American population reaches 120,000.Harlem's African-American population reaches 200,000.W.D. Fard establishes the Nation of Islam in Detroit. ", 
+                "starting_time": 1930
+            }, 
+            {
+                "color": "orange", 
+                "ending_time": 1960, 
+                "label": "Second Wave of African-American migration. \n</div>", 
+                "starting_time": 1940
+            }
+        ]
+    }
+]
