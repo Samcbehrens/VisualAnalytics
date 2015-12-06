@@ -4,7 +4,7 @@ import re
 from timeline3 import convertTime
 from timeline3 import webToJson
 from timeline3 import convertToFile
-
+import random
 
 ## have to parse each page differently because of formatting >:(
 def parsePage(url):
@@ -43,26 +43,9 @@ def webToJson(soup):
 
 	for n in soup:
 		if n.isdigit():
-			addEvent["starting_time"] = goodNum
+			addEvent["starting_time"] = n
 		else:
-			addEvent["label"] = n
-
-	
-	# 	# if n.find("span")<0 or n.find("div")<0:
-	# 	# 	if n.find("\n\n\n") >=0:
-
-	# 	# 		noNs = n.replace("\n\n\n", "")
-	# 	# 		addEvent["label"] = noNs
-
-	# 		# else:
-
-	# 			# if n.find(':')>=0:
-	# 			# 	goodNum = n.replace(':','')
-	# 			# 	goodNum= goodNum.strip()
-					
-	# 			# 	if goodNum.isdigit():
-	# 			# 		goodNum = convertTime(goodNum)
-	# 			# 	addEvent["starting_time"] = goodNum					
+			addEvent["label"] = n				
 
 		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 			randomNum = random.randint(0,4)
@@ -79,6 +62,7 @@ if __name__ == '__main__':
 	url ="http://tgmaa.weebly.com/chronology.html"
 	parsed = parsePage(url)
 	converted = webToJson(parsed)
+	print converted
 	
 
 
