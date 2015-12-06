@@ -22,20 +22,15 @@ def parsePage(url):
 	timelineParagraph = soup.find(class_ ="paragraph");
 	timelineParagraph = str(timelineParagraph)
 	timelineParagraph = timelineParagraph.replace("<br/>","-")
-	print 'timelineParagraph'
-	print timelineParagraph
+	
 	 
 	#finalOutput= timelineParagraph.split("-", ' -', ' - ', '- ')
 	finalOutput = re.split(' - |-| -|- ',timelineParagraph)
-	print 'output'
-	print finalOutput
 	return finalOutput
 
 ## the parse breaks up the dates in diffrent ways so also have to modify this basic code to adapt to it
 def webToJson(soup):
 
-	print 'starting this project'
-	print soup
 	## formatting to turn into correct json 
 
 	colors = ["red","orange", "yellow", "green", "blue"]
@@ -48,13 +43,12 @@ def webToJson(soup):
 
 	for n in soup:
 		if n.isdigit():
-			addEvent["starting_time"] = n
+			millis = convertTime(n)
+			addEvent["starting_time"] = millis
 			
 		else:
 			addEvent["label"] = n	
 					
-
-		
 		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 			randomNum = random.randint(0,4)
 			addEvent["color"]=colors[randomNum]
@@ -62,7 +56,6 @@ def webToJson(soup):
 
 			addEvent={"color":"blue", "label":"description", "starting_time": 1}
 			
-
 	outerMost.append(timeline)
 	return outerMost
 
