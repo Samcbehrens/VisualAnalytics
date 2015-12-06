@@ -16,20 +16,12 @@ def convertTime(dateAsString):
 	MillisecNum = calendar.timegm(d.timetuple())
 	return MillisecNum
 
-	# ConvNum = time.strptime(dateAsString, "%Y")
-	# millisecNum= calendar.gmtime(ConvNum)
-	# #goodNum = int(goodNum)
-	# goodNum = int('1800')
-	# #MillisecNum = time.mktime(ConvNum)
-	# return MillisecNum
-
 
 def parsePage(url):
 	r = requests.get(url)
 	data = r.text
 	soup = BeautifulSoup(data)
-	# print 'gah'
-	# print soup
+
 
 	invalid_tags = ['b', 'i', 'u', 'ul','li', 'p','em']
 	soup = soup.find(id='primary')
