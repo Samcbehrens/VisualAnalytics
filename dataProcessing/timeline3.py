@@ -6,12 +6,22 @@ import random
 import pprint
 import datetime
 import time
+import calendar
 
 
 def convertTime(dateAsString):
-	ConvNum = time.strptime(dateAsString, "%Y")
-	MillisecNum = time.mktime(ConvNum)
+
+	numberAsInt = int(dateAsString)
+	d = datetime.datetime(numberAsInt,1,1)
+	MillisecNum = calendar.timegm(d.timetuple())
 	return MillisecNum
+
+	# ConvNum = time.strptime(dateAsString, "%Y")
+	# millisecNum= calendar.gmtime(ConvNum)
+	# #goodNum = int(goodNum)
+	# goodNum = int('1800')
+	# #MillisecNum = time.mktime(ConvNum)
+	# return MillisecNum
 
 
 def parsePage(url):
@@ -85,7 +95,7 @@ def webToJson(soup):
 					goodNum= goodNum.strip()
 					
 					if goodNum.isdigit():
-						goodNum = int(goodNum)
+						goodNum = convertTime(goodNum)
 					addEvent["starting_time"] = goodNum					
 
 			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
