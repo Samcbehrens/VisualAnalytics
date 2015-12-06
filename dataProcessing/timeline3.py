@@ -50,7 +50,7 @@ def parsePage(url):
 
 	return finalOutput
 
-def convertToJson(formatFile):
+def convertToFile(formatFile):
 
 	with open('timeline3.json', 'w') as outfile:
 	     json.dump(formatFile, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
@@ -108,5 +108,5 @@ if __name__ == '__main__':
 
 	resultPage = parsePage(url)
 	clean = webToJson(resultPage)
-	convertToJson(clean)
+	convertToFile(clean)
 
