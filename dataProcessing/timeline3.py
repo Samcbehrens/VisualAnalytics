@@ -7,73 +7,84 @@ import pprint
 import datetime
 import time
 
-r  = requests.get("http://herb.ashp.cuny.edu/items/show/1285")
-data = r.text
-soup = BeautifulSoup(data)
-print 'gah'
-print soup
 
-invalid_tags = ['b', 'i', 'u', 'ul','li', 'p','em']
-soup = soup.find(id='primary')
+def convertTime(dateAsString):
+	ConvNum = time.strptime(dateAsString, "%Y")
+	MillisecNum = time.mktime(ConvNum)
+	return MillisecNum
 
 
 
-for tag in invalid_tags: 
- for match in soup.findAll(tag):
-     match.replaceWithChildren()
-    
+def parsePage(url):
+	r = requests.get(url)
+	data = r.text
+	soup = BeautifulSoup(data)
+	# print 'gah'
+	# print soup
 
-for match in soup.findAll('span'):
-	match.replaceWith('')
-
-for match in soup.findAll('div'):
-	match.replaceWith('')
-
-
-soup = str(soup)
-soup = soup.replace('<strong>', "%")
-soup = soup.replace('</strong>', "%")
-finalOutput = soup.split('%')
-
-for n in range(0,4):
-	finalOutput[n]=""
+	invalid_tags = ['b', 'i', 'u', 'ul','li', 'p','em']
+	soup = soup.find(id='primary')
 
 
 
-## formatting to turn into correct json 
+	for tag in invalid_tags: 
+	 for match in soup.findAll(tag):
+	     match.replaceWithChildren()
+	    
 
-colors = ["red","orange", "yellow", "green", "blue"]
-timeline = {"label": "timeline3", "times": []}
-addEvent={"color":"blue", "label":"description", "starting_time": 1}
+	for match in soup.findAll('span'):
+		match.replaceWith('')
 
-## Must be in a certain format have to put in a array and then a set...crying 
-outerMost = []
+	for match in soup.findAll('div'):
+		match.replaceWith('')
 
-print 'starting this project'
 
-for n in finalOutput:
-	if n.find("span")<0 or n.find("div")<0:
-		if n.find("\n\n\n") >=0:
+	soup = str(soup)
+	soup = soup.replace('<strong>', "%")
+	soup = soup.replace('</strong>', "%")
+	finalOutput = soup.split('%')
 
-			noNs = n.replace("\n\n\n","")
-			addEvent["label"] = noNs
+	for n in range(0,4):
+		finalOutput[n]=""
 
-		else:
+	return finalOutput
 
-			if n.find(':')>=0:
-				goodNum = n.replace(':','')
 
-				goodNum= goodNum.strip()
-				print goodNum
-				print type(goodNum)
 
-				if goodNum.isdigit():
-					print "true"
+# ## formatting to turn into correct json 
+
+# colors = ["red","orange", "yellow", "green", "blue"]
+# timeline = {"label": "timeline3", "times": []}
+# addEvent={"color":"blue", "label":"description", "starting_time": 1}
+
+# ## Must be in a certain format have to put in a array and then a set...crying 
+# outerMost = []
+
+# print 'starting this project'
+
+# for n in finalOutput:
+# 	if n.find("span")<0 or n.find("div")<0:
+# 		if n.find("\n\n\n") >=0:
+
+# 			noNs = n.replace("\n\n\n","")
+# 			addEvent["label"] = noNs
+
+# 		else:
+
+# 			if n.find(':')>=0:
+# 				goodNum = n.replace(':','')
+
+# 				goodNum= goodNum.strip()
+# 				print goodNum
+# 				print type(goodNum)
+
+# 				if goodNum.isdigit():
+# 					print "true"
+# # 					print goodNum
+# 					goodNum = time.strptime(goodNum, "%Y")
 # 					print goodNum
-					goodNum = time.strptime(goodNum, "%Y")
-					print goodNum
-					print type(goodNum)
-					goodNum = time.mktime(goodNum)
+# 					print type(goodNum)
+# 					goodNum = time.mktime(goodNum)
 # 					print goodNum
 # 					#goodNum = int(goodNum)
 # 				addEvent["starting_time"] = goodNum
@@ -100,3 +111,16 @@ for n in finalOutput:
 
 # pp = pprint.PrettyPrinter(indent=4)
 # pp.pprint(outerMost)
+
+
+if __name__ == '__main__':
+
+	testDate = '2009'
+	millis=convertTime(testDate)
+	print millis
+
+	url = "http://herb.ashp.cuny.edu/items/show/1285"
+
+	resultPage=parsePage(url)
+	print resultPage
+
