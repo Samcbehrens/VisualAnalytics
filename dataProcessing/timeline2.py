@@ -22,15 +22,20 @@ def parsePage(url):
 	timelineParagraph = soup.find(class_ ="paragraph");
 	timelineParagraph = str(timelineParagraph)
 	timelineParagraph = timelineParagraph.replace("<br/>","-")
+	print 'timelineParagraph'
+	print timelineParagraph
 	 
-	finalOutput= timelineParagraph.split("-")
+	#finalOutput= timelineParagraph.split("-", ' -', ' - ', '- ')
+	finalOutput = re.split(' - |-| -|- ',timelineParagraph)
+	print 'output'
+	print finalOutput
 	return finalOutput
 
 ## the parse breaks up the dates in diffrent ways so also have to modify this basic code to adapt to it
 def webToJson(soup):
 
 	print 'starting this project'
-
+	print soup
 	## formatting to turn into correct json 
 
 	colors = ["red","orange", "yellow", "green", "blue"]
@@ -42,11 +47,19 @@ def webToJson(soup):
 
 
 	for n in soup:
+		#cleanNum = n.strip(' ')
+		print 'on line'+n
+		print type(n)
+		print n
+		print n.isdigit()
 		if n.isdigit():
 			addEvent["starting_time"] = n
+			print 'in if'+n
 		else:
-			addEvent["label"] = n				
+			addEvent["label"] = n	
+			print 'in else'+n			
 
+		print
 		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 			randomNum = random.randint(0,4)
 			addEvent["color"]=colors[randomNum]
@@ -56,13 +69,15 @@ def webToJson(soup):
 			
 
 	outerMost.append(timeline)
+	print 'in function and got this json'
+	print outerMost
 	return outerMost
 
 if __name__ == '__main__':
 	url ="http://tgmaa.weebly.com/chronology.html"
 	parsed = parsePage(url)
 	converted = webToJson(parsed)
-	print converted
+	# print converted
 	
 
 
