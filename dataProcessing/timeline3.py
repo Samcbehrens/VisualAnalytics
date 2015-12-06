@@ -75,26 +75,18 @@ def webToJson(soup):
 		if n.find("span")<0 or n.find("div")<0:
 			if n.find("\n\n\n") >=0:
 
-				noNs = n.replace("\n\n\n","")
+				noNs = n.replace("\n\n\n", "")
 				addEvent["label"] = noNs
 
 			else:
 
 				if n.find(':')>=0:
 					goodNum = n.replace(':','')
-
 					goodNum= goodNum.strip()
+					
 					if goodNum.isdigit():
 						goodNum = int(goodNum)
-					addEvent["starting_time"] = goodNum
-					
-				else:
-					goodNum= n.strip()
-					print 'error'
-					print goodNum
-					##goodNum = int(goodNum)
-					addEvent["starting_time"] = goodNum
-					
+					addEvent["starting_time"] = goodNum					
 
 			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 				randomNum = random.randint(0,4)
@@ -104,7 +96,7 @@ def webToJson(soup):
 				addEvent={"color":"blue", "label":"description", "starting_time": 1}
 			
 
-		outerMost.append(timeline)
+	outerMost.append(timeline)
 	return outerMost
 
 
