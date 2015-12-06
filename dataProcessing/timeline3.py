@@ -14,7 +14,6 @@ def convertTime(dateAsString):
 	return MillisecNum
 
 
-
 def parsePage(url):
 	r = requests.get(url)
 	data = r.text
@@ -49,68 +48,68 @@ def parsePage(url):
 
 	return finalOutput
 
+def convertToJson(formatFile):
 
+	with open('timeline3.json', 'w') as outfile:
+	     json.dump(formatFile, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
 
-# ## formatting to turn into correct json 
+	pp = pprint.PrettyPrinter(indent=4)
+	pp.pprint(formatFile)
 
-# colors = ["red","orange", "yellow", "green", "blue"]
-# timeline = {"label": "timeline3", "times": []}
-# addEvent={"color":"blue", "label":"description", "starting_time": 1}
+def crazyness(soup):
 
-# ## Must be in a certain format have to put in a array and then a set...crying 
-# outerMost = []
+	## formatting to turn into correct json 
 
-# print 'starting this project'
+	colors = ["red","orange", "yellow", "green", "blue"]
+	timeline = {"label": "timeline3", "times": []}
+	addEvent={"color":"blue", "label":"description", "starting_time": 1}
 
-# for n in finalOutput:
-# 	if n.find("span")<0 or n.find("div")<0:
-# 		if n.find("\n\n\n") >=0:
+	## Must be in a certain format have to put in a array and then a set...crying 
+	outerMost = []
 
-# 			noNs = n.replace("\n\n\n","")
-# 			addEvent["label"] = noNs
+	print 'starting this project'
 
-# 		else:
+	for n in finalOutput:
+		if n.find("span")<0 or n.find("div")<0:
+			if n.find("\n\n\n") >=0:
 
-# 			if n.find(':')>=0:
-# 				goodNum = n.replace(':','')
+				noNs = n.replace("\n\n\n","")
+				addEvent["label"] = noNs
 
-# 				goodNum= goodNum.strip()
-# 				print goodNum
-# 				print type(goodNum)
+			else:
 
-# 				if goodNum.isdigit():
-# 					print "true"
-# # 					print goodNum
-# 					goodNum = time.strptime(goodNum, "%Y")
-# 					print goodNum
-# 					print type(goodNum)
-# 					goodNum = time.mktime(goodNum)
-# 					print goodNum
-# 					#goodNum = int(goodNum)
-# 				addEvent["starting_time"] = goodNum
-				
-# 			else:
-# 				goodNum = n.strip()
-# 				print 'error' + goodNum
-# 				##goodNum = int(goodNum)
-# 				#addEvent["starting_time"] = goodNum
+				if n.find(':')>=0:
+					goodNum = n.replace(':','')
 
-# 		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
-# 			randomNum = random.randint(0,4)
-# 			addEvent["color"]=colors[randomNum]
-# 			timeline["times"].append(addEvent)
+					goodNum= goodNum.strip()
+					print goodNum
+					print type(goodNum)
 
-# 			addEvent={"color":"blue", "label":"description", "starting_time": 1}
-		
+					if goodNum.isdigit():
+						print "true"
+	# 					print goodNum
+						goodNum = time.strptime(goodNum, "%Y")
+						print goodNum
+						print type(goodNum)
+						goodNum = time.mktime(goodNum)
+						print goodNum
+						#goodNum = int(goodNum)
+					addEvent["starting_time"] = goodNum
+					
+				else:
+					goodNum = n.strip()
+					print 'error' + goodNum
+					##goodNum = int(goodNum)
+					#addEvent["starting_time"] = goodNum
 
-# outerMost.append(timeline)
+			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
+				randomNum = random.randint(0,4)
+				addEvent["color"]=colors[randomNum]
+				timeline["times"].append(addEvent)
 
-
-# with open('timeline3.json', 'w') as outfile:
-#      json.dump(outerMost, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
-
-# pp = pprint.PrettyPrinter(indent=4)
-# pp.pprint(outerMost)
+				addEvent={"color":"blue", "label":"description", "starting_time": 1}
+	outerMost.append(timeline)
+	return outerMost
 
 
 if __name__ == '__main__':
