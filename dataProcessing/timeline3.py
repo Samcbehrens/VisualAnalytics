@@ -4,6 +4,8 @@ import re
 import json
 import random
 import pprint
+import datetime
+import time
 
 r  = requests.get("http://herb.ashp.cuny.edu/items/show/1285")
 data = r.text
@@ -47,6 +49,8 @@ addEvent={"color":"blue", "label":"description", "starting_time": 1}
 ## Must be in a certain format have to put in a array and then a set...crying 
 outerMost = []
 
+print 'starting this project'
+
 for n in finalOutput:
 	if n.find("span")<0 or n.find("div")<0:
 		if n.find("\n\n\n") >=0:
@@ -60,31 +64,39 @@ for n in finalOutput:
 				goodNum = n.replace(':','')
 
 				goodNum= goodNum.strip()
-				if goodNum.isdigit():
-					goodNum = int(goodNum)
-				addEvent["starting_time"] = goodNum
-				
-			else:
-				goodNum= n.strip()
-				print 'error'
 				print goodNum
-				##goodNum = int(goodNum)
-				addEvent["starting_time"] = goodNum
+				print type(goodNum)
+
+				if goodNum.isdigit():
+					print "true"
+# 					print goodNum
+					goodNum = time.strptime(goodNum, "%Y")
+					print goodNum
+					print type(goodNum)
+					goodNum = time.mktime(goodNum)
+# 					print goodNum
+# 					#goodNum = int(goodNum)
+# 				addEvent["starting_time"] = goodNum
 				
+# 			else:
+# 				goodNum = n.strip()
+# 				print 'error' + goodNum
+# 				##goodNum = int(goodNum)
+# 				#addEvent["starting_time"] = goodNum
 
-		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
-			randomNum = random.randint(0,4)
-			addEvent["color"]=colors[randomNum]
-			timeline["times"].append(addEvent)
+# 		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
+# 			randomNum = random.randint(0,4)
+# 			addEvent["color"]=colors[randomNum]
+# 			timeline["times"].append(addEvent)
 
-			addEvent={"color":"blue", "label":"description", "starting_time": 1}
+# 			addEvent={"color":"blue", "label":"description", "starting_time": 1}
 		
 
-outerMost.append(timeline)
+# outerMost.append(timeline)
 
 
-with open('timeline3.json', 'w') as outfile:
-     json.dump(outerMost, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
+# with open('timeline3.json', 'w') as outfile:
+#      json.dump(outerMost, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
 
-pp = pprint.PrettyPrinter(indent=4)
-pp.pprint(outerMost)
+# pp = pprint.PrettyPrinter(indent=4)
+# pp.pprint(outerMost)
