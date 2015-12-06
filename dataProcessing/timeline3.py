@@ -56,7 +56,7 @@ def convertToJson(formatFile):
 	pp = pprint.PrettyPrinter(indent=4)
 	pp.pprint(formatFile)
 
-def crazyness(soup):
+def webToJson(soup):
 
 	## formatting to turn into correct json 
 
@@ -69,7 +69,7 @@ def crazyness(soup):
 
 	print 'starting this project'
 
-	for n in finalOutput:
+	for n in soup:
 		if n.find("span")<0 or n.find("div")<0:
 			if n.find("\n\n\n") >=0:
 
@@ -93,14 +93,14 @@ def crazyness(soup):
 						print type(goodNum)
 						goodNum = time.mktime(goodNum)
 						print goodNum
-						#goodNum = int(goodNum)
+						goodNum = int(goodNum)
 					addEvent["starting_time"] = goodNum
 					
 				else:
 					goodNum = n.strip()
 					print 'error' + goodNum
-					##goodNum = int(goodNum)
-					#addEvent["starting_time"] = goodNum
+					goodNum = int(goodNum)
+					addEvent["starting_time"] = goodNum
 
 			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 				randomNum = random.randint(0,4)
@@ -114,12 +114,9 @@ def crazyness(soup):
 
 if __name__ == '__main__':
 
-	testDate = '2009'
-	millis=convertTime(testDate)
-	print millis
-
 	url = "http://herb.ashp.cuny.edu/items/show/1285"
 
-	resultPage=parsePage(url)
-	print resultPage
+	resultPage = parsePage(url)
+	clean = webToJson(resultPage)
+	convertToJson(clean)
 
