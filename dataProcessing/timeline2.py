@@ -47,19 +47,14 @@ def webToJson(soup):
 
 
 	for n in soup:
-		#cleanNum = n.strip(' ')
-		print 'on line'+n
-		print type(n)
-		print n
-		print n.isdigit()
 		if n.isdigit():
 			addEvent["starting_time"] = n
-			print 'in if'+n
+			
 		else:
 			addEvent["label"] = n	
-			print 'in else'+n			
+					
 
-		print
+		
 		if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 			randomNum = random.randint(0,4)
 			addEvent["color"]=colors[randomNum]
@@ -69,15 +64,14 @@ def webToJson(soup):
 			
 
 	outerMost.append(timeline)
-	print 'in function and got this json'
-	print outerMost
 	return outerMost
 
 if __name__ == '__main__':
 	url ="http://tgmaa.weebly.com/chronology.html"
 	parsed = parsePage(url)
 	converted = webToJson(parsed)
-	# print converted
+	convertToFile('timeline2.json',converted)
+	
 	
 
 
