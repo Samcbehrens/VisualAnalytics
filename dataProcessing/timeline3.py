@@ -58,6 +58,9 @@ def convertToJson(formatFile):
 
 def webToJson(soup):
 
+
+	print 'starting this project'
+
 	## formatting to turn into correct json 
 
 	colors = ["red","orange", "yellow", "green", "blue"]
@@ -67,7 +70,6 @@ def webToJson(soup):
 	## Must be in a certain format have to put in a array and then a set...crying 
 	outerMost = []
 
-	print 'starting this project'
 
 	for n in soup:
 		if n.find("span")<0 or n.find("div")<0:
@@ -82,25 +84,17 @@ def webToJson(soup):
 					goodNum = n.replace(':','')
 
 					goodNum= goodNum.strip()
-					print goodNum
-					print type(goodNum)
-
 					if goodNum.isdigit():
-						print "true"
-	# 					print goodNum
-						goodNum = time.strptime(goodNum, "%Y")
-						print goodNum
-						print type(goodNum)
-						goodNum = time.mktime(goodNum)
-						print goodNum
 						goodNum = int(goodNum)
 					addEvent["starting_time"] = goodNum
 					
 				else:
-					goodNum = n.strip()
-					print 'error' + goodNum
-					goodNum = int(goodNum)
+					goodNum= n.strip()
+					print 'error'
+					print goodNum
+					##goodNum = int(goodNum)
 					addEvent["starting_time"] = goodNum
+					
 
 			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 				randomNum = random.randint(0,4)
@@ -108,7 +102,9 @@ def webToJson(soup):
 				timeline["times"].append(addEvent)
 
 				addEvent={"color":"blue", "label":"description", "starting_time": 1}
-	outerMost.append(timeline)
+			
+
+		outerMost.append(timeline)
 	return outerMost
 
 
