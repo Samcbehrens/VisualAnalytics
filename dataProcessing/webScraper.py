@@ -28,13 +28,13 @@ for stuff in timelineBox:
 			
 			clean = unicode(toClean)
 			print clean
-			clean.encode('ascii', 'ignore').decode('ascii')
+			clean = clean.encode('ascii', 'ignore')
 			timeline.append(clean)
 		
 
 print timeline	
 results = webToJson(timeline)
-convertToFile('timeline1', timeline)
+convertToFile('timeline1.json', results)
 
 
 		
