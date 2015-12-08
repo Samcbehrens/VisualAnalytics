@@ -46,40 +46,37 @@ def reformat(allInformation):
 		thisPotYear = allInformation[i][0]
 		if thisPotYear.isdigit():
 			newFormation.append(allInformation[i])
-
 	return newFormation
 
-def webToJson(soup):
+# def webToJson(soup):
 
-	## formatting to turn into correct json 
+# 	## formatting to turn into correct json 
 
-	colors = ["red","orange", "yellow", "green", "blue"]
-	timeline = {"label": "timeline3", "times": []}
-	addEvent={"color":"blue", "label":"description", "starting_time": 1}
+# 	colors = ["red","orange", "yellow", "green", "blue"]
+# 	timeline = {"label": "timeline3", "times": []}
+# 	addEvent={"color":"blue", "label":"description", "starting_time": 1}
 
-	## Must be in a certain format have to put in a array and then a set...crying 
-	outerMost = []
+# 	## Must be in a certain format have to put in a array and then a set...crying 
+# 	outerMost = []
 
-	for n in soup:
-			if n[1]!='':
-				
+# 	for n in soup:
+# 			if n[1]!='':
 
-			if n.isdigit():
-				millis = convertTime(n)
-				addEvent["starting_time"] = millis
-				
-			else:
-				addEvent["label"] = n	
+# 			if n[0].isdigit():
+# 				millis = convertTime(n[0])
+# 				addEvent["starting_time"] = millis
+# 			else:
+# 				addEvent["label"] = n	
 						
-			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
-				randomNum = random.randint(0,4)
-				addEvent["color"]=colors[randomNum]
-				timeline["times"].append(addEvent)
+# 			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
+# 				randomNum = random.randint(0,4)
+# 				addEvent["color"]=colors[randomNum]
+# 				timeline["times"].append(addEvent)
 
-				addEvent={"color":"blue", "label":"description", "starting_time": 1}
+# 				addEvent={"color":"blue", "label":"description", "starting_time": 1}
 				
-	outerMost.append(timeline)
-	return outerMost
+# 	outerMost.append(timeline)
+# 	return outerMost
 
 
 if __name__ == '__main__':
