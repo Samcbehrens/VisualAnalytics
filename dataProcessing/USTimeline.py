@@ -1,4 +1,21 @@
 import csv 
+import datetime
+import json
+import calendar
+
+
+def convertTime(dateAsString):
+	MillisecNum=''
+	if len(dateAsString)>4:
+		conv = datetime.datetime.strptime(dateAsString, '%m/%d/%Y')
+		MillisecNum = calendar.timegm(conv.timetuple())
+	else:
+		numberAsInt = int(dateAsString)
+		d = datetime.datetime(numberAsInt,1,1)
+		MillisecNum = calendar.timegm(d.timetuple())
+	return MillisecNum
+
+
 
 def readCsv():
 
@@ -31,6 +48,38 @@ def reformat(allInformation):
 			newFormation.append(allInformation[i])
 
 	return newFormation
+
+def webToJson(soup):
+
+	## formatting to turn into correct json 
+
+	colors = ["red","orange", "yellow", "green", "blue"]
+	timeline = {"label": "timeline3", "times": []}
+	addEvent={"color":"blue", "label":"description", "starting_time": 1}
+
+	## Must be in a certain format have to put in a array and then a set...crying 
+	outerMost = []
+
+	for n in soup:
+			if n[1]!='':
+				
+
+			if n.isdigit():
+				millis = convertTime(n)
+				addEvent["starting_time"] = millis
+				
+			else:
+				addEvent["label"] = n	
+						
+			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
+				randomNum = random.randint(0,4)
+				addEvent["color"]=colors[randomNum]
+				timeline["times"].append(addEvent)
+
+				addEvent={"color":"blue", "label":"description", "starting_time": 1}
+				
+	outerMost.append(timeline)
+	return outerMost
 
 
 if __name__ == '__main__':
