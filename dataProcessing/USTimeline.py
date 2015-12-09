@@ -3,7 +3,7 @@ import datetime
 import json
 import calendar
 from timeline3 import convertToFile
-
+import random
 
 def convertTime(dateAsString):
 	MillisecNum=''
@@ -69,15 +69,19 @@ def webToJson(soup):
 				print n[1]
 				millis = convertTime(n[1])
 				addEvent["starting_time"] = millis
-			elif n[0].isdigit():
+
+			if n[0].isdigit():
 				millis = convertTime(n[0])
 				addEvent["starting_time"] = millis
-			else:
-				addEvent["label"] = n[2]	
-						
+				 
+	
+			addEvent["label"] = n[2]	
+			
 			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
 				randomNum = random.randint(0,4)
 				addEvent["color"]=colors[randomNum]
+				print 'addingEvent'
+				print addEvent
 				timeline["times"].append(addEvent)
 
 				addEvent={"color":"blue", "label":"description", "starting_time": 1}
