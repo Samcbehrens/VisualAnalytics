@@ -1,0 +1,239 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0011_ds83_1950_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             1950
+Geographic level: County (by State)
+Dataset:          1950 Census: Detailed Age Data [US, States & Counties]
+   NHGIS code:    1950_cAge
+   NHGIS ID:      ds83
+ 
+Tables:
+ 
+1. Race by Age
+   Universe:    Persons
+   Source code: NT13
+   NHGIS code:  B1R
+ 
+2. Race
+   Universe:    Persons
+   Source code: NT15
+   NHGIS code:  B1T
+ 
+3. Race
+   Universe:    Persons 21 Years and Over
+   Source code: NT16
+   NHGIS code:  B1U
+ 
+4. Race by Sex by Age
+   Universe:    Persons
+   Source code: NT18
+   NHGIS code:  B1W
+ 
+5. Race by Sex
+   Universe:    Persons
+   Source code: NT20
+   NHGIS code:  B1Z
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+    GISJOIN:     GIS Join Match Code
+    YEAR:        Data File Year
+    STATE:       State Name
+    STATEA:      State Code
+    COUNTY:      County Name
+    COUNTYA:     County Code
+    AREANAME:    Area name
+ 
+Table 1:     Race by Age
+Universe:    Persons
+Source code: NT13
+NHGIS code:  B1R
+    B1R001:      White >> 0 to 4 years
+    B1R002:      White >> 5 to 9 years
+    B1R003:      White >> 10 to 14 years
+    B1R004:      White >> 15 to 19 years
+    B1R005:      White >> 20 to 24 years
+    B1R006:      White >> 25 to 29 years
+    B1R007:      White >> 30 to 34 years
+    B1R008:      White >> 35 to 39 years
+    B1R009:      White >> 40 to 44 years
+    B1R010:      White >> 45 to 49 years
+    B1R011:      White >> 50 to 54 years
+    B1R012:      White >> 55 to 59 years
+    B1R013:      White >> 60 to 64 years
+    B1R014:      White >> 65 to 69 years
+    B1R015:      White >> 70 to 74 years
+    B1R016:      White >> 75 to 84 years
+    B1R017:      White >> 85 years and over
+    B1R018:      Non-white >> 0 to 4 years
+    B1R019:      Non-white >> 5 to 9 years
+    B1R020:      Non-white >> 10 to 14 years
+    B1R021:      Non-white >> 15 to 19 years
+    B1R022:      Non-white >> 20 to 24 years
+    B1R023:      Non-white >> 25 to 29 years
+    B1R024:      Non-white >> 30 to 34 years
+    B1R025:      Non-white >> 35 to 39 years
+    B1R026:      Non-white >> 40 to 44 years
+    B1R027:      Non-white >> 45 to 49 years
+    B1R028:      Non-white >> 50 to 54 years
+    B1R029:      Non-white >> 55 to 59 years
+    B1R030:      Non-white >> 60 to 64 years
+    B1R031:      Non-white >> 65 to 69 years
+    B1R032:      Non-white >> 70 to 74 years
+    B1R033:      Non-white >> 75 to 84 years
+    B1R034:      Non-white >> 85 years and over
+ 
+Table 2:     Race
+Universe:    Persons
+Source code: NT15
+NHGIS code:  B1T
+    B1T001:      White
+    B1T002:      Non-white
+ 
+Table 3:     Race
+Universe:    Persons 21 Years and Over
+Source code: NT16
+NHGIS code:  B1U
+    B1U001:      White
+    B1U002:      Non-white
+ 
+Table 4:     Race by Sex by Age
+Universe:    Persons
+Source code: NT18
+NHGIS code:  B1W
+    B1W001:      White >> Male >> 0 to 4 years
+    B1W002:      White >> Male >> 5 to 9 years
+    B1W003:      White >> Male >> 10 to 14 years
+    B1W004:      White >> Male >> 15 to 19 years
+    B1W005:      White >> Male >> 20 to 24 years
+    B1W006:      White >> Male >> 25 to 29 years
+    B1W007:      White >> Male >> 30 to 34 years
+    B1W008:      White >> Male >> 35 to 39 years
+    B1W009:      White >> Male >> 40 to 44 years
+    B1W010:      White >> Male >> 45 to 49 years
+    B1W011:      White >> Male >> 50 to 54 years
+    B1W012:      White >> Male >> 55 to 59 years
+    B1W013:      White >> Male >> 60 to 64 years
+    B1W014:      White >> Male >> 65 to 69 years
+    B1W015:      White >> Male >> 70 to 74 years
+    B1W016:      White >> Male >> 75 to 84 years
+    B1W017:      White >> Male >> 85 years and over
+    B1W018:      White >> Female >> 0 to 4 years
+    B1W019:      White >> Female >> 5 to 9 years
+    B1W020:      White >> Female >> 10 to 14 years
+    B1W021:      White >> Female >> 15 to 19 years
+    B1W022:      White >> Female >> 20 to 24 years
+    B1W023:      White >> Female >> 25 to 29 years
+    B1W024:      White >> Female >> 30 to 34 years
+    B1W025:      White >> Female >> 35 to 39 years
+    B1W026:      White >> Female >> 40 to 44 years
+    B1W027:      White >> Female >> 45 to 49 years
+    B1W028:      White >> Female >> 50 to 54 years
+    B1W029:      White >> Female >> 55 to 59 years
+    B1W030:      White >> Female >> 60 to 64 years
+    B1W031:      White >> Female >> 65 to 69 years
+    B1W032:      White >> Female >> 70 to 74 years
+    B1W033:      White >> Female >> 75 to 84 years
+    B1W034:      White >> Female >> 85 years and over
+    B1W035:      Non-white >> Male >> 0 to 4 years
+    B1W036:      Non-white >> Male >> 5 to 9 years
+    B1W037:      Non-white >> Male >> 10 to 14 years
+    B1W038:      Non-white >> Male >> 15 to 19 years
+    B1W039:      Non-white >> Male >> 20 to 24 years
+    B1W040:      Non-white >> Male >> 25 to 29 years
+    B1W041:      Non-white >> Male >> 30 to 34 years
+    B1W042:      Non-white >> Male >> 35 to 39 years
+    B1W043:      Non-white >> Male >> 40 to 44 years
+    B1W044:      Non-white >> Male >> 45 to 49 years
+    B1W045:      Non-white >> Male >> 50 to 54 years
+    B1W046:      Non-white >> Male >> 55 to 59 years
+    B1W047:      Non-white >> Male >> 60 to 64 years
+    B1W048:      Non-white >> Male >> 65 to 69 years
+    B1W049:      Non-white >> Male >> 70 to 74 years
+    B1W050:      Non-white >> Male >> 75 to 84 years
+    B1W051:      Non-white >> Male >> 85 years and over
+    B1W052:      Non-white >> Female >> 0 to 4 years
+    B1W053:      Non-white >> Female >> 5 to 9 years
+    B1W054:      Non-white >> Female >> 10 to 14 years
+    B1W055:      Non-white >> Female >> 15 to 19 years
+    B1W056:      Non-white >> Female >> 20 to 24 years
+    B1W057:      Non-white >> Female >> 25 to 29 years
+    B1W058:      Non-white >> Female >> 30 to 34 years
+    B1W059:      Non-white >> Female >> 35 to 39 years
+    B1W060:      Non-white >> Female >> 40 to 44 years
+    B1W061:      Non-white >> Female >> 45 to 49 years
+    B1W062:      Non-white >> Female >> 50 to 54 years
+    B1W063:      Non-white >> Female >> 55 to 59 years
+    B1W064:      Non-white >> Female >> 60 to 64 years
+    B1W065:      Non-white >> Female >> 65 to 69 years
+    B1W066:      Non-white >> Female >> 70 to 74 years
+    B1W067:      Non-white >> Female >> 75 to 84 years
+    B1W068:      Non-white >> Female >> 85 years and over
+ 
+Table 5:     Race by Sex
+Universe:    Persons
+Source code: NT20
+NHGIS code:  B1Z
+    B1Z001:      White >> Male
+    B1Z002:      White >> Female
+    B1Z003:      Non-white >> Male
+    B1Z004:      Non-white >> Female
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing NHGIS data (either tabular or GIS)
+  must cite it appropriately. The citation should include the following:
+
+    Minnesota Population Center. National Historical Geographic Information
+    System: Version 2.0. Minneapolis, MN: University of Minnesota 2011.
+
+* Publications and research reports employing school attendance areas data
+  (either tabular or GIS) must cite it appropriately. The citation should
+  include the following:
+
+    The College of William and Mary and the Minnesota Population Center.
+    School Attendance Boundary Information System (SABINS): Version 1.0.
+    Minneapolis, MN: University of Minnesota 2011.
+
+* If possible, citations should also include the URL for the NHGIS site:
+
+    https://www.nhgis.org/
+
+* If possible, citations involving school attendance areas should also include
+  the URL for the SABINS site:
+
+    http://www.sabinsdata.org/
+
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+Printed matter should be sent to:
+
+    NHGIS
+    Minnesota Population Center
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
+
+Send electronic material to: nhgis@umn.edu

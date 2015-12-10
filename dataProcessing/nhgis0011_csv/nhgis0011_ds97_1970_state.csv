@@ -1,0 +1,52 @@
+GISJOIN,YEAR,STATE,STATEA,COUNTYA,CTY_SUBA,PLACEA,TRACTA,SCSAA,SMSAA,URB_AREAA,BLOCKA,CDA,AREANAME,CY8001
+"G010","1970","Alabama","01",,,,,,,,,,"Alabama",903000
+"G020","1970","Alaska","02",,,,,,,,,,"Alaska",8860
+"G040","1970","Arizona","04",,,,,,,,,,"Arizona",52799
+"G050","1970","Arkansas","05",,,,,,,,,,"Arkansas",352539
+"G060","1970","California","06",,,,,,,,,,"California",1398498
+"G080","1970","Colorado","08",,,,,,,,,,"Colorado",66066
+"G090","1970","Connecticut","09",,,,,,,,,,"Connecticut",181474
+"G100","1970","Delaware","10",,,,,,,,,,"Delaware",78305
+"G110","1970","District Of Columbia","11",,,,,,,,,,"District Of Columbia",537570
+"G120","1970","Florida","12",,,,,,,,,,"Florida",1041966
+"G130","1970","Georgia","13",,,,,,,,,,"Georgia",1184062
+"G150","1970","Hawaii","15",,,,,,,,,,"Hawaii",7590
+"G160","1970","Idaho","16",,,,,,,,,,"Idaho",2037
+"G170","1970","Illinois","17",,,,,,,,,,"Illinois",1422353
+"G180","1970","Indiana","18",,,,,,,,,,"Indiana",356379
+"G190","1970","Iowa","19",,,,,,,,,,"Iowa",32542
+"G200","1970","Kansas","20",,,,,,,,,,"Kansas",106324
+"G210","1970","Kentucky","21",,,,,,,,,,"Kentucky",230363
+"G220","1970","Louisiana","22",,,,,,,,,,"Louisiana",1085227
+"G230","1970","Maine","23",,,,,,,,,,"Maine",2816
+"G240","1970","Maryland","24",,,,,,,,,,"Maryland",698494
+"G250","1970","Massachusetts","25",,,,,,,,,,"Massachusetts",173697
+"G260","1970","Michigan","26",,,,,,,,,,"Michigan",990663
+"G270","1970","Minnesota","27",,,,,,,,,,"Minnesota",34721
+"G280","1970","Mississippi","28",,,,,,,,,,"Mississippi",815626
+"G290","1970","Missouri","29",,,,,,,,,,"Missouri",479746
+"G300","1970","Montana","30",,,,,,,,,,"Montana",1800
+"G310","1970","Nebraska","31",,,,,,,,,,"Nebraska",40064
+"G320","1970","Nevada","32",,,,,,,,,,"Nevada",27621
+"G330","1970","New Hampshire","33",,,,,,,,,,"New Hampshire",2667
+"G340","1970","New Jersey","34",,,,,,,,,,"New Jersey",769245
+"G350","1970","New Mexico","35",,,,,,,,,,"New Mexico",19314
+"G360","1970","New York","36",,,,,,,,,,"New York",2164560
+"G370","1970","North Carolina","37",,,,,,,,,,"North Carolina",1125885
+"G380","1970","North Dakota","38",,,,,,,,,,"North Dakota",2519
+"G390","1970","Ohio","39",,,,,,,,,,"Ohio",970130
+"G400","1970","Oklahoma","40",,,,,,,,,,"Oklahoma",171216
+"G410","1970","Oregon","41",,,,,,,,,,"Oregon",26211
+"G420","1970","Pennsylvania","42",,,,,,,,,,"Pennsylvania",1016551
+"G440","1970","Rhode Island","44",,,,,,,,,,"Rhode Island",25219
+"G450","1970","South Carolina","45",,,,,,,,,,"South Carolina",788455
+"G460","1970","South Dakota","46",,,,,,,,,,"South Dakota",1844
+"G470","1970","Tennessee","47",,,,,,,,,,"Tennessee",620636
+"G480","1970","Texas","48",,,,,,,,,,"Texas",1396605
+"G490","1970","Utah","49",,,,,,,,,,"Utah",6324
+"G500","1970","Vermont","50",,,,,,,,,,"Vermont",684
+"G510","1970","Virginia","51",,,,,,,,,,"Virginia",860302
+"G530","1970","Washington","53",,,,,,,,,,"Washington",70859
+"G540","1970","West Virginia","54",,,,,,,,,,"West Virginia",66804
+"G550","1970","Wisconsin","55",,,,,,,,,,"Wisconsin",128128
+"G560","1970","Wyoming","56",,,,,,,,,,"Wyoming",2455

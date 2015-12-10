@@ -1,0 +1,182 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0011_ds53_1930_state'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             1930
+Geographic level: State
+Dataset:          1930 Census: 1930 Detailed Age Data from 1930 Volumes [US, States & Counties]
+   NHGIS code:    1930_cAge30
+   NHGIS ID:      ds53
+ 
+Tables:
+ 
+1. Race by Sex by Age
+   Universe:    Persons
+   Source code: NT5B
+   NHGIS code:  BDJ
+ 
+2. Race by Sex
+   Universe:    Persons
+   Source code: NT6
+   NHGIS code:  BDK
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+    GISJOIN:     GIS Join Match Code
+    YEAR:        Data File Year
+    STATE:       State Name
+    STATEA:      State Code
+    COUNTYA:     County Code
+    AREANAME:    Area name
+ 
+Table 1:     Race by Sex by Age
+Universe:    Persons
+Source code: NT5B
+NHGIS code:  BDJ
+    BDJ001:      White >> Male >> 0 to 4 years of age
+    BDJ002:      White >> Male >> 5 to 9 years of age
+    BDJ003:      White >> Male >> 10 to 14 years of age
+    BDJ004:      White >> Male >> 15 to 19 years of age
+    BDJ005:      White >> Male >> 20 to 24 years of age
+    BDJ006:      White >> Male >> 25 to 29 years of age
+    BDJ007:      White >> Male >> 30 to 34 years of age
+    BDJ008:      White >> Male >> 35 to 44 years of age
+    BDJ009:      White >> Male >> 45 to 54 years of age
+    BDJ010:      White >> Male >> 55 to 64 years of age
+    BDJ011:      White >> Male >> 65 to 74 years of age
+    BDJ012:      White >> Male >> 75 years of age and over
+    BDJ013:      White >> Male >> Unknown
+    BDJ014:      White >> Female >> 0 to 4 years of age
+    BDJ015:      White >> Female >> 5 to 9 years of age
+    BDJ016:      White >> Female >> 10 to 14 years of age
+    BDJ017:      White >> Female >> 15 to 19 years of age
+    BDJ018:      White >> Female >> 20 to 24 years of age
+    BDJ019:      White >> Female >> 25 to 29 years of age
+    BDJ020:      White >> Female >> 30 to 34 years of age
+    BDJ021:      White >> Female >> 35 to 44 years of age
+    BDJ022:      White >> Female >> 45 to 54 years of age
+    BDJ023:      White >> Female >> 55 to 64 years of age
+    BDJ024:      White >> Female >> 65 to 74 years of age
+    BDJ025:      White >> Female >> 75 years of age and over
+    BDJ026:      White >> Female >> Unknown
+    BDJ027:      Negro >> Male >> 0 to 4 years of age
+    BDJ028:      Negro >> Male >> 5 to 9 years of age
+    BDJ029:      Negro >> Male >> 10 to 14 years of age
+    BDJ030:      Negro >> Male >> 15 to 19 years of age
+    BDJ031:      Negro >> Male >> 20 to 24 years of age
+    BDJ032:      Negro >> Male >> 25 to 29 years of age
+    BDJ033:      Negro >> Male >> 30 to 34 years of age
+    BDJ034:      Negro >> Male >> 35 to 44 years of age
+    BDJ035:      Negro >> Male >> 45 to 54 years of age
+    BDJ036:      Negro >> Male >> 55 to 64 years of age
+    BDJ037:      Negro >> Male >> 65 to 74 years of age
+    BDJ038:      Negro >> Male >> 75 years of age and over
+    BDJ039:      Negro >> Male >> Unknown
+    BDJ040:      Negro >> Female >> 0 to 4 years of age
+    BDJ041:      Negro >> Female >> 5 to 9 years of age
+    BDJ042:      Negro >> Female >> 10 to 14 years of age
+    BDJ043:      Negro >> Female >> 15 to 19 years of age
+    BDJ044:      Negro >> Female >> 20 to 24 years of age
+    BDJ045:      Negro >> Female >> 25 to 29 years of age
+    BDJ046:      Negro >> Female >> 30 to 34 years of age
+    BDJ047:      Negro >> Female >> 35 to 44 years of age
+    BDJ048:      Negro >> Female >> 45 to 54 years of age
+    BDJ049:      Negro >> Female >> 55 to 64 years of age
+    BDJ050:      Negro >> Female >> 65 to 74 years of age
+    BDJ051:      Negro >> Female >> 75 years of age and over
+    BDJ052:      Negro >> Female >> Unknown
+    BDJ053:      Other >> Male >> 0 to 4 years of age
+    BDJ054:      Other >> Male >> 5 to 9 years of age
+    BDJ055:      Other >> Male >> 10 to 14 years of age
+    BDJ056:      Other >> Male >> 15 to 19 years of age
+    BDJ057:      Other >> Male >> 20 to 24 years of age
+    BDJ058:      Other >> Male >> 25 to 29 years of age
+    BDJ059:      Other >> Male >> 30 to 34 years of age
+    BDJ060:      Other >> Male >> 35 to 44 years of age
+    BDJ061:      Other >> Male >> 45 to 54 years of age
+    BDJ062:      Other >> Male >> 55 to 64 years of age
+    BDJ063:      Other >> Male >> 65 to 74 years of age
+    BDJ064:      Other >> Male >> 75 years of age and over
+    BDJ065:      Other >> Male >> Unknown
+    BDJ066:      Other >> Female >> 0 to 4 years of age
+    BDJ067:      Other >> Female >> 5 to 9 years of age
+    BDJ068:      Other >> Female >> 10 to 14 years of age
+    BDJ069:      Other >> Female >> 15 to 19 years of age
+    BDJ070:      Other >> Female >> 20 to 24 years of age
+    BDJ071:      Other >> Female >> 25 to 29 years of age
+    BDJ072:      Other >> Female >> 30 to 34 years of age
+    BDJ073:      Other >> Female >> 35 to 44 years of age
+    BDJ074:      Other >> Female >> 45 to 54 years of age
+    BDJ075:      Other >> Female >> 55 to 64 years of age
+    BDJ076:      Other >> Female >> 65 to 74 years of age
+    BDJ077:      Other >> Female >> 75 years of age and over
+    BDJ078:      Other >> Female >> Unknown
+ 
+Table 2:     Race by Sex
+Universe:    Persons
+Source code: NT6
+NHGIS code:  BDK
+    BDK001:      White >> Male
+    BDK002:      White >> Female
+    BDK003:      Negro >> Male
+    BDK004:      Negro >> Female
+    BDK005:      Other >> Male
+    BDK006:      Other >> Female
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing NHGIS data (either tabular or GIS)
+  must cite it appropriately. The citation should include the following:
+
+    Minnesota Population Center. National Historical Geographic Information
+    System: Version 2.0. Minneapolis, MN: University of Minnesota 2011.
+
+* Publications and research reports employing school attendance areas data
+  (either tabular or GIS) must cite it appropriately. The citation should
+  include the following:
+
+    The College of William and Mary and the Minnesota Population Center.
+    School Attendance Boundary Information System (SABINS): Version 1.0.
+    Minneapolis, MN: University of Minnesota 2011.
+
+* If possible, citations should also include the URL for the NHGIS site:
+
+    https://www.nhgis.org/
+
+* If possible, citations involving school attendance areas should also include
+  the URL for the SABINS site:
+
+    http://www.sabinsdata.org/
+
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+Printed matter should be sent to:
+
+    NHGIS
+    Minnesota Population Center
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
+
+Send electronic material to: nhgis@umn.edu

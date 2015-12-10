@@ -40,12 +40,15 @@
   </style>
   <script type="text/javascript">
     window.onload = function() {
-      
+      var data; // a global
+      d3.json("dataProcessing/timeline3.json", function(error, json) {
+        if (error) return console.warn(error);
+        data = json;
       var yearTestData = [
-      	{label: "Event 1", times: [{"starting_time":978325200000}]},
-      	{label: "Event 2", times: [{"starting_time":978325200000}]},
-      	{label: "Event 3", times: [{"starting_time":1009861200000}]},
-        {label: "Event 4", times: [{"starting_time":920000000000}]}
+      	{label: "Event 1", times: [{"starting_time":-3250368000}]},
+      	{label: "Event 2", times: [{"starting_time":-3218832000}]},
+      	{label: "Event 3", times: [{"starting_time":-3155673600}]},
+        {label: "Event 4", times: [{"starting_time":-1293840000}]}
       ];
 
       var width = 3000;
@@ -76,6 +79,7 @@
       timelineYear();
 
     }
+    )}
   </script>
 </head>
 <body>

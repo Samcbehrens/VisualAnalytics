@@ -17,7 +17,7 @@
     d3.json("dataProcessing/timeline3.json", function(error, json) {
       if (error) return console.warn(error);
       data = json;
-      console.log('you got some data');
+      console.log('you got some data',data);
 
       var test = [
       {label: "timeline3", 
@@ -44,7 +44,7 @@
     }
     ];
 
-    timelineHover(data);
+    timelineHover(test);
   });
 
     var width = 1000;

@@ -1,0 +1,200 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0011_ds77_1940_state'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             1940
+Geographic level: State
+Dataset:          1940 Census: Detailed Age Data [US, States & Counties]
+   NHGIS code:    1940_cAge
+   NHGIS ID:      ds77
+ 
+Tables:
+ 
+1. Race by Sex by Age
+   Universe:    Persons
+   Source code: NT5B
+   NHGIS code:  BV1
+ 
+2. Race by Sex
+   Universe:    Persons
+   Source code: NT6
+   NHGIS code:  BV2
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+    GISJOIN:     GIS Join Match Code
+    YEAR:        Data File Year
+    STATE:       State Name
+    STATEA:      State Code
+    COUNTYA:     County Code
+    AREANAME:    Area name
+ 
+Table 1:     Race by Sex by Age
+Universe:    Persons
+Source code: NT5B
+NHGIS code:  BV1
+    BV1001:      White >> Male >> 0 to 4 years of age
+    BV1002:      White >> Male >> 5 to 9 years of age
+    BV1003:      White >> Male >> 10 to 14 years of age
+    BV1004:      White >> Male >> 15 to 19 years of age
+    BV1005:      White >> Male >> 20 to 24 years of age
+    BV1006:      White >> Male >> 25 to 29 years of age
+    BV1007:      White >> Male >> 30 to 34 years of age
+    BV1008:      White >> Male >> 35 to 39 years of age
+    BV1009:      White >> Male >> 40 to 44 years of age
+    BV1010:      White >> Male >> 45 to 49 years of age
+    BV1011:      White >> Male >> 50 to 54 years of age
+    BV1012:      White >> Male >> 55 to 59 years of age
+    BV1013:      White >> Male >> 60 to 64 years of age
+    BV1014:      White >> Male >> 65 to 69 years of age
+    BV1015:      White >> Male >> 70 to 74 years of age
+    BV1016:      White >> Male >> 75 years of age and over
+    BV1017:      White >> Female >> 0 to 4 years of age
+    BV1018:      White >> Female >> 5 to 9 years of age
+    BV1019:      White >> Female >> 10 to 14 years of age
+    BV1020:      White >> Female >> 15 to 19 years of age
+    BV1021:      White >> Female >> 20 to 24 years of age
+    BV1022:      White >> Female >> 25 to 29 years of age
+    BV1023:      White >> Female >> 30 to 34 years of age
+    BV1024:      White >> Female >> 35 to 39 years of age
+    BV1025:      White >> Female >> 40 to 44 years of age
+    BV1026:      White >> Female >> 45 to 49 years of age
+    BV1027:      White >> Female >> 50 to 54 years of age
+    BV1028:      White >> Female >> 55 to 59 years of age
+    BV1029:      White >> Female >> 60 to 64 years of age
+    BV1030:      White >> Female >> 65 to 69 years of age
+    BV1031:      White >> Female >> 70 to 74 years of age
+    BV1032:      White >> Female >> 75 years of age and over
+    BV1033:      Negro >> Male >> 0 to 4 years of age
+    BV1034:      Negro >> Male >> 5 to 9 years of age
+    BV1035:      Negro >> Male >> 10 to 14 years of age
+    BV1036:      Negro >> Male >> 15 to 19 years of age
+    BV1037:      Negro >> Male >> 20 to 24 years of age
+    BV1038:      Negro >> Male >> 25 to 29 years of age
+    BV1039:      Negro >> Male >> 30 to 34 years of age
+    BV1040:      Negro >> Male >> 35 to 39 years of age
+    BV1041:      Negro >> Male >> 40 to 44 years of age
+    BV1042:      Negro >> Male >> 45 to 49 years of age
+    BV1043:      Negro >> Male >> 50 to 54 years of age
+    BV1044:      Negro >> Male >> 55 to 59 years of age
+    BV1045:      Negro >> Male >> 60 to 64 years of age
+    BV1046:      Negro >> Male >> 65 to 69 years of age
+    BV1047:      Negro >> Male >> 70 to 74 years of age
+    BV1048:      Negro >> Male >> 75 years of age and over
+    BV1049:      Negro >> Female >> 0 to 4 years of age
+    BV1050:      Negro >> Female >> 5 to 9 years of age
+    BV1051:      Negro >> Female >> 10 to 14 years of age
+    BV1052:      Negro >> Female >> 15 to 19 years of age
+    BV1053:      Negro >> Female >> 20 to 24 years of age
+    BV1054:      Negro >> Female >> 25 to 29 years of age
+    BV1055:      Negro >> Female >> 30 to 34 years of age
+    BV1056:      Negro >> Female >> 35 to 39 years of age
+    BV1057:      Negro >> Female >> 40 to 44 years of age
+    BV1058:      Negro >> Female >> 45 to 49 years of age
+    BV1059:      Negro >> Female >> 50 to 54 years of age
+    BV1060:      Negro >> Female >> 55 to 59 years of age
+    BV1061:      Negro >> Female >> 60 to 64 years of age
+    BV1062:      Negro >> Female >> 65 to 69 years of age
+    BV1063:      Negro >> Female >> 70 to 74 years of age
+    BV1064:      Negro >> Female >> 75 years of age and over
+    BV1065:      Other >> Male >> 0 to 4 years of age
+    BV1066:      Other >> Male >> 5 to 9 years of age
+    BV1067:      Other >> Male >> 10 to 14 years of age
+    BV1068:      Other >> Male >> 15 to 19 years of age
+    BV1069:      Other >> Male >> 20 to 24 years of age
+    BV1070:      Other >> Male >> 25 to 29 years of age
+    BV1071:      Other >> Male >> 30 to 34 years of age
+    BV1072:      Other >> Male >> 35 to 39 years of age
+    BV1073:      Other >> Male >> 40 to 44 years of age
+    BV1074:      Other >> Male >> 45 to 49 years of age
+    BV1075:      Other >> Male >> 50 to 54 years of age
+    BV1076:      Other >> Male >> 55 to 59 years of age
+    BV1077:      Other >> Male >> 60 to 64 years of age
+    BV1078:      Other >> Male >> 65 to 69 years of age
+    BV1079:      Other >> Male >> 70 to 74 years of age
+    BV1080:      Other >> Male >> 75 years of age and over
+    BV1081:      Other >> Female >> 0 to 4 years of age
+    BV1082:      Other >> Female >> 5 to 9 years of age
+    BV1083:      Other >> Female >> 10 to 14 years of age
+    BV1084:      Other >> Female >> 15 to 19 years of age
+    BV1085:      Other >> Female >> 20 to 24 years of age
+    BV1086:      Other >> Female >> 25 to 29 years of age
+    BV1087:      Other >> Female >> 30 to 34 years of age
+    BV1088:      Other >> Female >> 35 to 39 years of age
+    BV1089:      Other >> Female >> 40 to 44 years of age
+    BV1090:      Other >> Female >> 45 to 49 years of age
+    BV1091:      Other >> Female >> 50 to 54 years of age
+    BV1092:      Other >> Female >> 55 to 59 years of age
+    BV1093:      Other >> Female >> 60 to 64 years of age
+    BV1094:      Other >> Female >> 65 to 69 years of age
+    BV1095:      Other >> Female >> 70 to 74 years of age
+    BV1096:      Other >> Female >> 75 years of age and over
+ 
+Table 2:     Race by Sex
+Universe:    Persons
+Source code: NT6
+NHGIS code:  BV2
+    BV2001:      White >> Male
+    BV2002:      White >> Female
+    BV2003:      Negro >> Male
+    BV2004:      Negro >> Female
+    BV2005:      Other >> Male
+    BV2006:      Other >> Female
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing NHGIS data (either tabular or GIS)
+  must cite it appropriately. The citation should include the following:
+
+    Minnesota Population Center. National Historical Geographic Information
+    System: Version 2.0. Minneapolis, MN: University of Minnesota 2011.
+
+* Publications and research reports employing school attendance areas data
+  (either tabular or GIS) must cite it appropriately. The citation should
+  include the following:
+
+    The College of William and Mary and the Minnesota Population Center.
+    School Attendance Boundary Information System (SABINS): Version 1.0.
+    Minneapolis, MN: University of Minnesota 2011.
+
+* If possible, citations should also include the URL for the NHGIS site:
+
+    https://www.nhgis.org/
+
+* If possible, citations involving school attendance areas should also include
+  the URL for the SABINS site:
+
+    http://www.sabinsdata.org/
+
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+Printed matter should be sent to:
+
+    NHGIS
+    Minnesota Population Center
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
+
+Send electronic material to: nhgis@umn.edu
