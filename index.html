@@ -24,21 +24,21 @@
       times: [
       {
         "color": "green", 
-        "ending_time": 1864, 
+        "ending_time": -3345008380, 
         "label": ":Emancipation Proclamation ends slavery in the South.", 
-        "starting_time": 1863
+        "starting_time": -3345008380
       }, 
       {
         "color": "yellow", 
-        "ending_time": 1866, 
+        "ending_time": -3281849980, 
         "label": "13th Amendment officially abolishes slavery.Juneteenth Freedom Celebration in Texas and Oklahoma.", 
-        "starting_time": 1865
+        "starting_time": -3281849980
       }, 
       {
         "color": "green", 
         "ending_time": 1867, 
         "label": "Ex", 
-        "starting_time": 1866
+        "starting_time": -3281849980
       }
       ]
     }
@@ -53,8 +53,7 @@
       console.log('got some data in some functions' , data);
       var chart = d3.timeline()
       .width(width)
-      .stack()
-          .beginning(-2524520000000)
+          .beginning(-3471238780)
           .ending(80000000)
       .display("circle")
       .margin({left:70, right:30, top:0, bottom:0})
@@ -65,7 +64,7 @@
             var div = $('#hoverRes');
             var colors = chart.colors();
             div.find('.coloredDiv').css('background-color', colors(i))
-            div.find('#name').text(datum.label);
+            // div.find('#name').text(datum.label);
           })
       .tickFormat({
         format: d3.time.format("%Y"), 
@@ -80,6 +79,7 @@
      });
       var svg = d3.select("#timeline3").append("svg").attr("width", width)
       .datum(data).call(chart);
+      console.log(d3.selectAll('circle').length);
     }
   }
   </script>
