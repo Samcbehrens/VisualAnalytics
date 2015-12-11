@@ -15,7 +15,8 @@ def convertTime(dateAsString):
 		numberAsInt = int(dateAsString)
 		d = datetime.datetime(numberAsInt,1,1)
 		MillisecNum = calendar.timegm(d.timetuple())
-		MillisecNum = MillisecNum *1000
+		
+	MillisecNum = MillisecNum *1000
 	return MillisecNum
 
 
@@ -30,7 +31,7 @@ def readCsv():
 		csvfile.seek(0)
 		reader=csv.reader(csvfile,dialect)
 		for line in reader:
-
+			print line
 			allInformation.append(line)
 	return allInformation
 

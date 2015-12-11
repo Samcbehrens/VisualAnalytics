@@ -600,7 +600,812 @@
         ]
     },
     {
-        "label": "usTimeline", 
+        "label": "Blues Timeline", 
+        "times": [
+            {
+                "color": "orange", 
+                "description": " Henry “Ragtime Texas” Thomas is born.", 
+                "starting_time": -3029443200000
+            }, 
+            {
+                "color": "green", 
+                "description": "Invention of the Phonograph", 
+                "starting_time": -2934748800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Racist coon songs introduced into vaudeville and burlesque", 
+                "starting_time": -2745446400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Rise of Jim Crow- Southern states move to the \"Jim Crow\" system of legal segregation, passing laws to circumscribe many aspects of African-American life and producing, in effect, a quasi-slave society reinforced by the economics of the sharecropping system. Racial violence and lynchings increase.", 
+                "starting_time": -2524521600000
+            }, 
+            {
+                "color": "yellow", 
+                "description": " W.C. Handy travels with various shows (Knights of Pythias famously in 1903) as a musician & director", 
+                "starting_time": -2335219200000
+            }, 
+            {
+                "color": "red", 
+                "description": "Jim Crow Segregation laws", 
+                "starting_time": -2335219200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "World’s first radio station on the Isle of Wight", 
+                "starting_time": -2303596800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": " Scott Joplin publishes “Maple Leaf Rag”, making ragtime main influence on the Piedmont style of blues.", 
+                "starting_time": -2240524800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Scott Joplin publishes \"Maple Leaf Rag.\" Ragtime will become a key influence on the Piedmont style of blues.", 
+                "starting_time": -2240524800000
+            }, 
+            {
+                "color": "red", 
+                "description": "Black Music First Recorded-Victor Records issues the first known recording of black music, \"Camp Meeting Shouts.\"", 
+                "starting_time": -2145916800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "W.C. Handy sees a \"ragged loose-jointed black\" playing the guitar in a Tutwiler, Mississippi railroad station. The unknown guitarist used a knife as a slide to play the guitar. Handy remarked \"The event was unforgettable. His song, too, struck me instantly. Goin' where the Southern cross the Dog.", 
+                "starting_time": -2114380800000
+            }, 
+            {
+                "color": "red", 
+                "description": " Miss. John Hurt first picks up the guitar", 
+                "starting_time": -2114380800000
+            }, 
+            {
+                "color": "orange", 
+                "description": " Sam Chatmon, 1/2 brother of Charley Patton (and sometime teacher), remembers that he was 4 years old and already singing blues songs that his family taught him (though they were not called the Blues yet for another few years)", 
+                "starting_time": -2114380800000
+            }, 
+            {
+                "color": "orange", 
+                "description": " W.C. Handy first hears the blues at the train station, and first realizes it’s importance and impact at a dance in Cleveland, Mississippi later that year.", 
+                "starting_time": -2114380800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Bluesman Discovered-The musician W.C. Handy sees a bluesman playing guitar with a knife at a train station in Mississippi.", 
+                "starting_time": -2114380800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "W.C. Handy sees a “ragged loose-jointed black” playing the guitar in a Tutwiler, Mississippi railroad station. The unknown guitarist used a knife as a slide to play the guitar. Handy remarked “The event was unforgettable. His song, too, struck me instantly. Goin’ where the Southern cross the Dog.", 
+                "starting_time": -2114380800000
+            }, 
+            {
+                "color": "green", 
+                "description": " Ma Rainey first ran across the style of music that would be officially known as The Blues in just a few short years, and begins incorporating Blues songs into her show right away, becoming one of the first really known performers of The Blues", 
+                "starting_time": -2082844800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Introduction of double-sided gramophone records", 
+                "starting_time": -1956614400000
+            }, 
+            {
+                "color": "green", 
+                "description": " The form of music known as “The Blues” was first known as such (IOW, it finally got it’s name)", 
+                "starting_time": -1893456000000
+            }, 
+            {
+                "color": "orange", 
+                "description": " The “Blues Craze” starts", 
+                "starting_time": -1893456000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": " Tommy Johnson first left home. On his travels he met Charlie Patton & Willie Brown.", 
+                "starting_time": -1861920000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": " The first blues songs, including W.C. Handy’s “Memphis Blues”, are published as sheet music.", 
+                "starting_time": -1830384000000
+            }, 
+            {
+                "color": "red", 
+                "description": " W.C. Handy publishes Memphis Blues, crystalizing (moreso w/ St Louis Blues) what we know today as the classic blues form of the 12 bar blues.. Lighning Hopkins was born. He remembers as a child leading around Blind Lemon Jefferson.", 
+                "starting_time": -1830384000000
+            }, 
+            {
+                "color": "red", 
+                "description": " “N*gger Blues” copyrighted by a white minstrel performer in Dallas, Tx.", 
+                "starting_time": -1830384000000
+            }, 
+            {
+                "color": "green", 
+                "description": "Blues Songs First Recorded-The first blues songs, including W.C. Handy's \"Memphis Blues\", are published as sheet music.", 
+                "starting_time": -1830384000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The first appearance of the word 'blues' in a piece of music: \"The Dallas Blues\" by Hart Wand. The story goes that a black porter overheard Hart playing his violin and the porter remarked \"That give me the blues to go back to Dallas.\"", 
+                "starting_time": -1830384000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The first appearance of the word ‘blues’ in a piece of music: “The Dallas Blues” by Hart Wand. The story goes that a black porter overheard Hart playing his violin and the porter remarked “That give me the blues to go back to Dallas.”", 
+                "starting_time": -1830384000000
+            }, 
+            {
+                "color": "red", 
+                "description": "1st blues song published - W.C. Handy’s Memphis Blues", 
+                "starting_time": -1830384000000
+            }, 
+            {
+                "color": "blue", 
+                "description": " The Mississippi Shieks Formed (Half brothers of Charley Patton) & performed around Miss. (AllMusic says formed in 1926 lasted until 1935)", 
+                "starting_time": -1767225600000
+            }, 
+            {
+                "color": "red", 
+                "description": " the first recording of the Blues, despite what other historians may state.", 
+                "starting_time": -1767225600000
+            }, 
+            {
+                "color": "yellow", 
+                "description": " Charley Patton had his style down and was popular all over the Dockery Plantation (didn’t record for H.C. Speir until 1929)", 
+                "starting_time": -1735689600000
+            }, 
+            {
+                "color": "red", 
+                "description": " “N*gger Blues” recorded by George O’Conner ", 
+                "starting_time": -1704153600000
+            }, 
+            {
+                "color": "blue", 
+                "description": " By this time Blind Lemon Jefferson was widely known s was his music all throughout the South", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "green", 
+                "description": " The United States enters World War I. Military and economic mobilization starts the great internal migration of African-Americans.", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "green", 
+                "description": "The Great Migration-The United States enters World War I. Military and economic mobilization accelerates the great internal migration of African-Americans that is already underway.", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "red", 
+                "description": "Closure of Storyville - musicians move from New Orleans to Chicago & New York", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "yellow", 
+                "description": " Composer “Georgia” Thomas Dorsey joins Ma Rainey’s travelling show.", 
+                "starting_time": -1609459200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Victor & Columbia monopoly on record production broken", 
+                "starting_time": -1609459200000
+            }, 
+            {
+                "color": "blue", 
+                "description": " Mamie Smith records “Crazy Blues” and it becomes the first blues hit", 
+                "starting_time": -1577923200000
+            }, 
+            {
+                "color": "green", 
+                "description": " Bessie Smith records “Crazy Blues” ", 
+                "starting_time": -1577923200000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Mamie Smith records \"Crazy Blues\", the first of the Race Records. Race Records, was the term used by recording companies at the time for recordings of black artists with the target audience of black Americans.", 
+                "starting_time": -1577923200000
+            }, 
+            {
+                "color": "red", 
+                "description": "Mamie Smith-Mamie Smith records for Okeh Records. Her \"Crazy Blues\" becomes the first blues hit, beginning the business of \"race\" recording.", 
+                "starting_time": -1577923200000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Mamie Smith records “Crazy Blues”, the first of the Race Records. Race Records, was the term used by recording companies at the time for recordings of black artists with the target audience of black Americans.", 
+                "starting_time": -1577923200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "1st American Radio Station", 
+                "starting_time": -1577923200000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Crazy Blues by Mamie Smith", 
+                "starting_time": -1546300800000
+            }, 
+            {
+                "color": "blue", 
+                "description": " Ma Rainey ", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "red", 
+                "description": "Bessie Smith and Ma Rainey-Bessie Smith and Ma Rainey, the defining performers of the classic blues, make their recording debuts.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Folk Blues Debuts-Ralph Peer, the famous Artist & Repertory man for Okeh and Victor Records, makes his first field recordings in Atlanta, Georgia, marking the recording debut of both the folk blues and what will later be called country music.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Charleston dance premiered", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "green", 
+                "description": "First Folk Blues Records-The first male folk blues records, featuring singers Papa Charlie Jackson and Daddy Stovepipe, are issued.", 
+                "starting_time": -1451692800000
+            }, 
+            {
+                "color": "green", 
+                "description": " Blind Lemon Jefferson- essentially the first recorded Blues Guitarist", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "red", 
+                "description": " Blind Lemon Jefferson, the dominant blues figure of the late 1920s recorded first song", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "blue", 
+                "description": " Electrical recording technology is introduced and blues music is available for wider audience", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": " Lonnie Johnson’s first recordings (more jazz than blues)", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "green", 
+                "description": "New Recording Technology-Electrical recording technology is introduced.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Blind Lemon Jefferson is first recorded. He will become the dominant blues figure of the late 1920s and the first star of the folk blues.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Introduction of the electrical recording process", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Standardisation of speed of disc recording to 78rpm", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Standardization of form of the Blues into 8 or 12 bar chorus", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Texas born Blind Lemon Jefferson records in Chicago. The success of these recordings revolutionized Race Records, which had previously relied on female band vocalists with established reputations.", 
+                "starting_time": -1388534400000
+            }, 
+            {
+                "color": "green", 
+                "description": "Texas born Blind Lemon Jefferson records in Chicago. The success of these recordings revolutionized Race Records, which had previously relied on female band vocalists with established reputations.", 
+                "starting_time": -1388534400000
+            }, 
+            {
+                "color": "red", 
+                "description": "Okeh Records Race Series", 
+                "starting_time": -1388534400000
+            }, 
+            {
+                "color": "green", 
+                "description": " Eddie James “Son” House records", 
+                "starting_time": -1356998400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Texas born Blind Willie Johnson records in Dallas, TX. These and all of his subsequent recordings blurred the lines between blues and gospel music.", 
+                "starting_time": -1356998400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Texas born Blind Lemon Jefferson records in Chicago. The success of these recordings revolutionized Race Records, which had previously relied on female band vocalists with established reputations.", 
+                "starting_time": -1356998400000
+            }, 
+            {
+                "color": "red", 
+                "description": "Lindy-hop introduced leading to the jitterbug and jive", 
+                "starting_time": -1356998400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Mississippi Native John Hurt, better known as Mississippi John Hurt, records for Okeh records in New York and Memphis.", 
+                "starting_time": -1325462400000
+            }, 
+            {
+                "color": "green", 
+                "description": "Georgia Born Tampa Red records \"It's Tight Like That\". This song is considered a predecessor to urban blues and spurned numerous imitators of the song and the style.", 
+                "starting_time": -1325462400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Mississippi Native John Hurt, better known as Mississippi John Hurt, records for Okeh records in New York and Memphis.", 
+                "starting_time": -1325462400000
+            }, 
+            {
+                "color": "red", 
+                "description": "Georgia Born Tampa Red records “It’s Tight Like That”. This song is considered a predecessor to urban blues and spurned numerous imitators of the song and the style.", 
+                "starting_time": -1325462400000
+            }, 
+            {
+                "color": "red", 
+                "description": " Great Depression in the United States blacks migrated north along the route of the Illinois Central Railroad toward Chicago. New type of blues was made ", 
+                "starting_time": -1293840000000
+            }, 
+            {
+                "color": "orange", 
+                "description": " The early Delta bluesman Charley Patton recorded first song", 
+                "starting_time": -1293840000000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Charley Patton-The early Delta bluesman Charley Patton is first recorded.", 
+                "starting_time": -1293840000000
+            }, 
+            {
+                "color": "green", 
+                "description": "Mississippi Born Charlie Patton records 14 songs for Paramount Records in Richmond, Indiana. Charlie Patton would influence countless blues guitarists and musicians, including Son House and Robert Johnson.", 
+                "starting_time": -1293840000000
+            }, 
+            {
+                "color": "red", 
+                "description": "The Wall Street Crash of 1929 begins on Black Thursday, signaling the beginning of the Great Depression in the United States. Amid widespread economic ruin, sales of records and phonographs plummet, crippling the recording industry.", 
+                "starting_time": -1293840000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Blind Lemon Jefferson dies in Chicago. Both his music and his success had a tremendous impact blues musicians across the Southern United States.", 
+                "starting_time": -1293840000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Mississippi Born Charlie Patton records 14 songs for Paramount Records in Richmond, Indiana. Charlie Patton would influence countless blues guitarists and musicians, including Son House and Robert Johnson.", 
+                "starting_time": -1293840000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Blind Lemon Jefferson dies in Chicago. Both his music and his success had a tremendous impact blues musicians across the Southern United States.", 
+                "starting_time": -1293840000000
+            }, 
+            {
+                "color": "green", 
+                "description": "Invention of the Microphone", 
+                "starting_time": -1230768000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Bluebird Records", 
+                "starting_time": -1199232000000
+            }, 
+            {
+                "color": "green", 
+                "description": "Louisiana born Huddie Ledbetter, better known as Leadbelly, is recorded by John and Alan Lomax at the Louisiana State Penitentiary at Angola. Leadbelly, not exclusively a blues artist, introduced the blues to a wider audience. He was the first folk blues artist to present his music in concert to white audiences outside the South.", 
+                "starting_time": -1167609600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Louisiana born Huddie Ledbetter, better known as Leadbelly, is recorded by John and Alan Lomax at the Louisiana State Penitentiary at Angola. Leadbelly, not exclusively a blues artist, introduced the blues to a wider audience. He was the first folk blues artist to present his music in concert to white audiences outside the South.", 
+                "starting_time": -1167609600000
+            }, 
+            {
+                "color": "green", 
+                "description": "Electrification of Tennessee Valley", 
+                "starting_time": -1167609600000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Repeal of Prohibition Act", 
+                "starting_time": -1167609600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Charlie Patton dies near Holly Ridge, Mississippi. He is considered by some to be the most influential blues musician on his contemporaries. Directly influencing Son House, Robert Johnson, Howlin' Wolf, Bukka White, Big Joe Williams, Furry Lewis and Tommy Johnson, to name a few.", 
+                "starting_time": -1136073600000
+            }, 
+            {
+                "color": "green", 
+                "description": "Charlie Patton dies near Holly Ridge, Mississippi. He is considered by some to be the most influential blues musician on his contemporaries. Directly influencing Son House, Robert Johnson, Howlin’ Wolf, Bukka White, Big Joe Williams, Furry Lewis and Tommy Johnson, to name a few.", 
+                "starting_time": -1136073600000
+            }, 
+            {
+                "color": "red", 
+                "description": "Rockola mass-production of Jukeboxes", 
+                "starting_time": -1104537600000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Mississippi born Robert Johnson records for the first time in San Antonio, Texas.", 
+                "starting_time": -1073001600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Robert Johnson-Legendary Delta bluesman Robert Johnson begins his short recording career.", 
+                "starting_time": -1073001600000
+            }, 
+            {
+                "color": "red", 
+                "description": "Mississippi born Robert Johnson records for the first time in San Antonio, Texas.", 
+                "starting_time": -1073001600000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Robert Johnson dies near Greenwood, Mississippi at age 26. The cause of his death is widely disputed, but it is believed that he was murdered by a jealous husband who poisoned Robert's Whiskey. Some consider Robert Johnson the most influential of early blues musicians and his direct influence is still felt today.", 
+                "starting_time": -1009843200000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Robert Johnson dies near Greenwood, Mississippi at age 26. The cause of his death is widely disputed, but it is believed that he was murdered by a jealous husband who poisoned Robert’s Whiskey. Some consider Robert Johnson the most influential of early blues musicians and his direct influence is still felt today.", 
+                "starting_time": -1009843200000
+            }, 
+            {
+                "color": "red", 
+                "description": "First recording of the electric guitar", 
+                "starting_time": -1009843200000
+            }, 
+            {
+                "color": "red", 
+                "description": "Electric Guitar-Eddie Durham records the first music featuring the electric guitar. The modern instrument, first developed by musician George Beauchamp and engineer Adolph Rickenbacher in the early 1930s, will help to transform the sound of the blues.", 
+                "starting_time": -978307200000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Decca Sepia series", 
+                "starting_time": -946771200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Alan Lomax records McKinley Morganfield, better known as Muddy Waters, for the Library of Congress on Stovall's plantation near Clarksdale, Mississippi.", 
+                "starting_time": -915148800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Alex Rice Miller, aka Sonny Boy Williamson (#2), begins performing live on the radio (KFFA) in Helena, Arkansas. 'The King Biscuit Hour' was fairly popular and made Sonny Boy a Delta radio star.", 
+                "starting_time": -915148800000
+            }, 
+            {
+                "color": "red", 
+                "description": "Muddy Waters Recorded-Alan Lomax records McKinley Morganfield, better known as Muddy Waters, for the Library of Congress at Stovall's Farm in Mississippi.", 
+                "starting_time": -915148800000
+            }, 
+            {
+                "color": "green", 
+                "description": "U.S. Enters World War II; Migration Continues-The Japanese bombing attack on Pearl Harbor marks the entry of the United States into World War II. As had been the case during World War I, economic and military mobilization creates new opportunities for African Americans, particularly in the urban centers of the North.", 
+                "starting_time": -915148800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Alan Lomax records McKinley Morganfield, better known as Muddy Waters, for the Library of Congress on Stovall’s plantation near Clarksdale, Mississippi.", 
+                "starting_time": -915148800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Alex Rice Miller, aka Sonny Boy Williamson (#2), begins performing live on the radio (KFFA) in Helena, Arkansas. ‘The King Biscuit Hour’ was fairly popular and made Sonny Boy a Delta radio star.", 
+                "starting_time": -915148800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "First Bebop Sessions", 
+                "starting_time": -915148800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "AFM Musicians strike", 
+                "starting_time": -883612800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Billboard Harlem Hit Parade", 
+                "starting_time": -883612800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Savoy Records", 
+                "starting_time": -883612800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Muddy Waters boards a train from Clarksdale, Mississippi to Chicago, Illinois. This trip is symbolically viewed as the first step in rural country blues' transformation into urban blues.", 
+                "starting_time": -852076800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Muddy Waters boards a train from Clarksdale, Mississippi to Chicago, Illinois. This trip is symbolically viewed as the first step in rural country blues’ transformation into urban blues.", 
+                "starting_time": -852076800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Louis Jordan G.I.Jive #1 in pop charts", 
+                "starting_time": -820540800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "King Records", 
+                "starting_time": -820540800000
+            }, 
+            {
+                "color": "red", 
+                "description": "Mississippi Born Arthur 'Big Boy' Crudup records \"That's Alright Mama\" for Blue Bird records in Chicago.", 
+                "starting_time": -757382400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Arthur \"Big Boy\" Crudup records \"That's All Right,\" a tune that recalls Blind Lemon Jefferson's \"That Black Snake Moan\" from twenty years earlier. Within a decade, Elvis Presley will record \"That's All Right\" for his debut.", 
+                "starting_time": -757382400000
+            }, 
+            {
+                "color": "red", 
+                "description": "Mississippi Born Arthur ‘Big Boy’ Crudup records “That’s Alright Mama” for Blue Bird records in Chicago.", 
+                "starting_time": -757382400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "First mass-produced television sets", 
+                "starting_time": -757382400000
+            }, 
+            {
+                "color": "red", 
+                "description": " Muddy Waters makes his first Chicago recordings", 
+                "starting_time": -725846400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "T-Bone Walker Goes Electric-Bluesman T-Bone Walker plays electric guitar on the recording of his standard \"Call it Stormy Monday.\"", 
+                "starting_time": -725846400000
+            }, 
+            {
+                "color": "green", 
+                "description": "Muddy Waters and Chicago Blues-Muddy Waters makes his first Chicago recordings, beginning his tenure as the dominant figure in the Chicago blues and a key link between the Mississippi Delta and the urban styles.", 
+                "starting_time": -725846400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "WDIA Memphis - first black radio station", 
+                "starting_time": -694310400000
+            }, 
+            {
+                "color": "green", 
+                "description": "Columbia unveils 33rpm microgroove album", 
+                "starting_time": -694310400000
+            }, 
+            {
+                "color": "red", 
+                "description": "\"Rhythm and Blues\" is Born-Jerry Wexler, an editor at Billboard magazine, substitutes the term \"rhythm and blues\" for the older \"race\" records", 
+                "starting_time": -662688000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Billboard Rhythm & Blues Chart", 
+                "starting_time": -662688000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "RCA introduces 45rpm vinyl record", 
+                "starting_time": -662688000000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Introduction of 45rpm Jukebox.", 
+                "starting_time": -631152000000
+            }, 
+            {
+                "color": "red", 
+                "description": "Sun Records", 
+                "starting_time": -631152000000
+            }, 
+            {
+                "color": "red", 
+                "description": " B.B. King has his first major rhythm and blues hit with a version of “Three O’Clock Blues.”", 
+                "starting_time": -568080000000
+            }, 
+            {
+                "color": "red", 
+                "description": "B.B. King-B.B. King has his first major rhythm and blues hit with a version of \"Three O'Clock Blues.\"", 
+                "starting_time": -568080000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Whites start picking up transmissions from black radio", 
+                "starting_time": -568080000000
+            }, 
+            {
+                "color": "green", 
+                "description": "Elvis Debuts-Elvis Presley makes his recording debut on Sun Records with a version of Arthur \"Big Boy\" Crudup's \"That's All Right.\"", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Brown v. Board-The Supreme Court rules on Brown v. Board of Education, a unanimous judgment in favor of school desegregation.", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Elvis Presley records Arthur 'Big Boy' Crudup's \"That's Alright Mama\" for Sun Records in Memphis, TN. This record launched Elvis' career and a musical style called Rock and Roll.", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Elvis Presley records Arthur ‘Big Boy’ Crudup’s “That’s Alright Mama” for Sun Records in Memphis, TN. This record launched Elvis’ career and a musical style called Rock and Roll.", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "red", 
+                "description": "Mambo craze in America", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "July Chords Sh-boom #5 in pop charts", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "August Bill Haley Shake Rattle & Roll # 7 in pop charts", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "blue", 
+                "description": "December Alan Freed’s Rock’n’Roll Show", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "1st hits for Bo Diddley & Chuck Berry", 
+                "starting_time": -473385600000
+            }, 
+            {
+                "color": "blue", 
+                "description": "1st hits for James Brown & Elvis Presley", 
+                "starting_time": -441849600000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The Country Blues-Samuel Charters publishes The Country Blues, fueling the blues element of the folk music revival.", 
+                "starting_time": -347155200000
+            }, 
+            {
+                "color": "yellow", 
+                "description": " Muddy Waters performs at the Newport Jazz Festival to tremendous acclaim.", 
+                "starting_time": -315619200000
+            }, 
+            {
+                "color": "red", 
+                "description": "Muddy Waters Performs-Muddy Waters performs at the Newport Jazz Festival to tremendous acclaim.", 
+                "starting_time": -315619200000
+            }, 
+            {
+                "color": "red", 
+                "description": "Columbia Records releases selections of Robert Johnson's recordings on LP. This release was critical in the popularity of blues in England in years to come.", 
+                "starting_time": -283996800000
+            }, 
+            {
+                "color": "green", 
+                "description": "Robert Johnson Revival-John Hammond pushes to have a selection of Robert Johnson's recordings reissued on LP by Columbia.", 
+                "starting_time": -283996800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Columbia Records releases selections of Robert Johnson’s recordings on LP. This release was critical in the popularity of blues in England in years to come.", 
+                "starting_time": -283996800000
+            }, 
+            {
+                "color": "green", 
+                "description": "Mississippi John Hurt, assumed to be deceased by many, is found living in Avalon, Mississippi. Still playing and singing his folk-blues in the same manner as he did in 1928 , he is asked to tour. Hurt, the first of the 'rediscovered' early blues artists, was a big success on the coffeehouse and folk festival circuit until his death in 1966.", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Eric Clapton and the Yardbirds record John Lee Hooker's \"Boom Boom\" among other blues standards in Surrey, England. The blues begins to catch on in England and Europe.", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "green", 
+                "description": "Mississippi John Hurt, assumed to be deceased by many, is found living in Avalon, Mississippi. Still playing and singing his folk-blues in the same manner as he did in 1928 , he is asked to tour. Hurt, the first of the ‘rediscovered’ early blues artists, was a big success on the coffeehouse and folk festival circuit until his death in 1966.", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Eric Clapton and the Yardbirds record John Lee Hooker’s “Boom Boom” among other blues standards in Surrey, England. The blues begins to catch on in England and Europe.", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "green", 
+                "description": "Billboard suspends R&B chart", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "red", 
+                "description": "1st hit for Otis Redding", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "green", 
+                "description": "1st hit for Motown writers Holland/Dozier/Holland", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "orange", 
+                "description": " Delta bluesmen Son House and Skip James perform at the Newport Folk Festival.", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "orange", 
+                "description": " The first U.S. tour by the Rolling Stones marks the invasion of British blues rock bands.", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "British Invasion-The first U.S. tour by the Rolling Stones marks the invasion of British blues rock bands.", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Freedom Summer-Freedom Summer, the civil rights campaign to register black voters, draws young whites to the South.", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "green", 
+                "description": "Delta Bluesmen Perform-The recently \"rediscovered\" Delta bluesmen Son House and Skip James perform at the Newport Folk Festival.", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "green", 
+                "description": "Beatles 1st hit in USA", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Rolling Stones force Shindig to include Howlin’ Wolf on their TV special", 
+                "starting_time": -157766400000
+            }, 
+            {
+                "color": "blue", 
+                "description": " Muddy Waters and B.B. King perform at the Fillmore East, a concert venue in the East Village region of New York City, to a predominantly white audience.", 
+                "starting_time": -31536000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "White Fan Base-Muddy Waters and B.B. King perform at the Fillmore East, a concert venue in the East Village region of New York City, to a predominantly white audience.", 
+                "starting_time": -31536000000
+            }, 
+            {
+                "color": "blue", 
+                "description": " Columbia’s release of the complete Robert Johnson recordings on CD goes gold, selling 400,000 albums in six months.", 
+                "starting_time": 631152000000
+            }, 
+            {
+                "color": "green", 
+                "description": "1st stereo record release", 
+                "starting_time": -378691200000
+            }
+        ]
+    },
+    {
+        "label": "US Timeline", 
         "times": [
             {
                 "color": "red", 
