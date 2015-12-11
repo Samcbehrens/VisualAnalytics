@@ -34,7 +34,7 @@ def webToJson(soup):
 	## formatting to turn into correct json 
 
 	colors = ["red","orange", "yellow", "green", "blue"]
-	timeline = {"label": "timeline3", "times": []}
+	timeline = {"label": "timeline2", "times": []}
 	addEvent={"color":"blue", "description":"description", "starting_time": 1}
 
 	## Must be in a certain format have to put in a array and then a set...crying 
