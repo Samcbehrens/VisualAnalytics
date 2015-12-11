@@ -94,6 +94,6 @@ if __name__ == '__main__':
 	allInformation = readCsv()
 	newFormation = reformat(allInformation)
 	finalFormation = webToJson(newFormation)
-	convertToFile('usTimeline',finalFormation)
+	convertToFile('usTimeline.json',finalFormation)
 
 

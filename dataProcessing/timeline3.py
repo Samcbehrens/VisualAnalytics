@@ -14,6 +14,7 @@ def convertTime(dateAsString):
 	numberAsInt = int(dateAsString)
 	d = datetime.datetime(numberAsInt,1,1)
 	MillisecNum = calendar.timegm(d.timetuple())
+	MillisecNum = MillisecNum * 1000
 	return MillisecNum
 
 
