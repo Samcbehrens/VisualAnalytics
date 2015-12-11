@@ -18,7 +18,7 @@
   <script type = "text/javascript">
   window.onload=function(){
     var data; // a global
-    d3.json("dataProcessing/timeline1.json", function(error, json) {
+    d3.json("dataProcessing/compiledTimeline.json", function(error, json) {
       if (error) return console.warn(error);
       data = json;
       timelineHover(data);
@@ -31,8 +31,10 @@
     
     var year = d3.time.format("%Y");
     var chart = d3.timeline()
+
       .width(width)         // Set timeline width
       .height(height)       // Set timeline height
+      .stack()
       .beginning(-3471238780000)  // Set starting date for timeline
       .ending(80000000000)      // Set ending date for timeline
       .margin({left:70, right:30, top:0, bottom:0}) // Set margins
