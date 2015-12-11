@@ -1,6 +1,6 @@
 [
     {
-        "label": "timeline3", 
+        "label": "A.A. Timeline" , 
         "times": [
             {
                 "color": "green", 
@@ -145,7 +145,7 @@
             {
                 "color": "blue", 
                 "description": "President Woodrow Wilson reintroduces Jim Crow to Washington, DC and sanctions segregation in the federal government.Cotton prices plummet and a sever boll weevil infestation in the South leaves many African Americans in even more dire economic straits.", 
-                "starting_time": "1914-1918"
+                "starting_time": -1767211456000
             }, 
             {
                 "color": "red", 
@@ -212,16 +212,6 @@
                 "description": "Chicago's Whip Newspaper launches its \"Don't Buy Where you Can't Work\" campaign. ", 
                 "starting_time": -1262304000000
             }, 
-            {
-                "color": "yellow", 
-                "description": "Chicago's African-American population reaches 235,000.Detroit's African-American population reaches 120,000.Harlem's African-American population reaches 200,000.W.D. Fard establishes the Nation of Islam in Detroit. ", 
-                "starting_time": "1940-1960"
-            }
-        ]
-    },
-     {
-        "label": "timeline2", 
-        "times": [
             {
                 "color": "red", 
                 "description": "Thousands (50,000)of African American \"Exodusters\" leave the South and migrate to Kansas, Missouri, Indiana, Illinois", 
@@ -321,6 +311,291 @@
                 "color": "orange", 
                 "description": "A race riot in the Watts section of Los Angeles, California, raises concerns about violence, crime, and poverty in urban African AMerican neighborhoods; the Voting Rights Act of 1965 outlaws practices designed to restrict African Americans' right to vote", 
                 "starting_time": 0
+            },
+            {
+                "color": "blue", 
+                "description": "Timeline", 
+                "starting_time": -2524521600000
+            }, 
+            {
+                "color": "red", 
+                "description": " rural southern states to the northern cities, where they hope to find better opportunities and less discrimination.", 
+                "starting_time": -1893456000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The National Association for the Advancement of Colored People (NAACP) is founded, and prominent black leader W.E.B. Du Bois becomes editor of the group's monthly magazine, ", 
+                "starting_time": -1830384000000
+            }, 
+            {
+                "color": "red", 
+                "description": "James Weldon Johnson's influential novel ", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Jamaican-born Marcus Garvey arrives in Harlem and founds the United Negro Improvement Association, an organization that urges blacks to unite and form their own nation.", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Between 10,000 and 15,000 African Americans join the Silent Protest Parade, marching down Fifth Avenue in complete silence to protest violence against blacks.", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The politically radical black publication ", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "red", 
+                "description": "Two of Claude McKay's poems are published in the white literary journal ", 
+                "starting_time": -1609459200000
+            }, 
+            {
+                "color": "red", 
+                "description": "The 369th Infantry Regiment, a highly decorated unit made up entirely of African American soldiers, returns from World War I to a heroes' welcome in Harlem.", 
+                "starting_time": -1609459200000
+            }, 
+            {
+                "color": "green", 
+                "description": "Jessie Redmon Fauset becomes literary editor of ", 
+                "starting_time": -1609459200000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "During the \"Red Summer of Hate,\" African Americans react angrily to widespread lynchings and other violence directed against them, with race riots occurring in Chicago, Washington, D.C., and two dozen other American cities.", 
+                "starting_time": -1577923200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "James Weldon Johnson becomes the head of the NAACP.", 
+                "starting_time": -1577923200000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Acclaimed American playwright Eugene O'Neil's drama ", 
+                "starting_time": -1546300800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Harry Pace founds the Black Swan Phonograph Corporation and begins production of the \"race records\" that will help to bring jazz and blues music to a wider audience.", 
+                "starting_time": -1546300800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The musical revue ", 
+                "starting_time": -1546300800000
+            }, 
+            {
+                "color": "red", 
+                "description": "Langston Hughes's great poem \"The Negro Speaks of Rivers\" is published in ", 
+                "starting_time": -1514764800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Marian Anderson performs at New York's Town Hall, launching her career as a classical singer.", 
+                "starting_time": -1514764800000
+            }, 
+            {
+                "color": "red", 
+                "description": "The first major book of the Harlem Renaissance appears when Claude McKay's novel ", 
+                "starting_time": -1514764800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Meta Warrick Fuller's sculpture ", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Bessie Smith records \"Downhearted Blues\" and \"Gulf Coast Blues,\" soon becoming the most famous blues singer in both the northern and southern states.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "green", 
+                "description": "The National Urban League establishes ", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Roland Hayes makes his New York debut, singing a program of classical music as well as African American spirituals.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Marcus Garvey is arrested for mail fraud and imprisoned for three months.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "blue", 
+                "description": " the first drama by a black playwright to appear on the Broadway stage.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Joe \"King\" Oliver's Creole Jazz Band makes a series of recordings with trumpet player Louis Armstrong.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "green", 
+                "description": "Pianist, composer, and band leader Duke Ellington arrives in New York with his band, the Washingtonians.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "red", 
+                "description": "Jean Toomer's innovative novel ", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Harlem's largest and most famous cabaret, the Cotton Club, opens.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The Ethiopian Art Players perform Eugene O'Neill's play ", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "green", 
+                "description": "Louis Armstrong joins Fletcher Henderson's orchestra, whichperforming at the famed Roseland Ballroombecomes the most popular dance band in New York.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Kansas City-born artist Aaron Douglas arrives in New York and begins developing a new style that will make him the official artist of the Harlem Renaissance.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": " a novel by NAACP leader Walter White, is published.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "red", 
+                "description": "The publication of Jessie Redmon Fauset's ", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "At the Civic Club dinner hosted by ", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "red", 
+                "description": "Josephine Baker appears in ", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "red", 
+                "description": "Roland Hayes performs at Carnegie Hall.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "green", 
+                "description": "Poems by Harlem Renaissance star Countee Cullen appear in four major white publications.", 
+                "starting_time": -1483228800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Zora Neale Hurston publishes her first short story in ", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The exciting new musical form known as jazz is showcased in the \"First American Jazz Concert\" at Aeolian Hall in New York.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "red", 
+                "description": " magazine publishes an issue devoted entirely to the work of Harlem Renaissance writers and artists.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "green", 
+                "description": "Marcus Garvey is convicted of mail fraud and imprisoned in the Atlanta Penitentiary.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "green", 
+                "description": "Marian Anderson wins a singing competition sponsored by the New York Philharmonic Orchestra.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Countee Cullen's first volume of poetry, ", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Artist Sargent Johnson exhibits his paintings at the San Francisco Art Association, and Archibald Motley wins a medal from the Art Institute of Chicago for his painting \"A Mulatress.\"", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "green", 
+                "description": "Wallace Thurman moves from Los Angeles to New York and soon becomes a leader of the younger generation of Harlem Renaissance writers and artists.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Zora Neale Hurston enters Barnard College on a scholarship, studying anthropology.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Well-known white poet Vachel Lindsay reads the poems of Langston Hughes, then working as a restaurant busboy, to the audience at his own poetry reading, announcing that he has discovered a bright new talent.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The ", 
+                "starting_time": -1388534400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "W.C. Handy's ", 
+                "starting_time": -1388534400000
+            }, 
+            {
+                "color": "red", 
+                "description": "Langston Hughes's first volume of poetry, ", 
+                "starting_time": -1388534400000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The NAACP-sponsored theatrical group the Krigwa Players stages three plays.", 
+                "starting_time": -1388534400000
+            }, 
+            {
+                "color": "red", 
+                "description": "White author Carl Van Vechten's controversial novel ", 
+                "starting_time": -1388534400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The Harmon Foundation holds its first annual art exhibition of works by African American artists, and Palmer Hayden and Hale Woodruff win top awards.", 
+                "starting_time": -1388534400000
+            }, 
+            {
+                "color": "red", 
+                "description": "A daring new (but short-lived) literary journal called ", 
+                "starting_time": -1356998400000
+            }, 
+            {
+                "color": "green", 
+                "description": "Duke Ellington begins a three-year stint at the Cotton Club, gaining fame and praise for his innovative style and compositions.", 
+                "starting_time": -1356998400000
+            }, 
+            {
+                "color": "red", 
+                "description": "James Weldon Johnson's ", 
+                "starting_time": -1356998400000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Several young Harlem Renaissance writers and artists accept money and other help from wealthy patron Charlotte Mason, whom they call \"Godmother.\"", 
+                "starting_time": -1356998400000
             }
         ]
     },
@@ -2351,296 +2626,6 @@
                 "color": "orange", 
                 "description": "*Nixon Shock*: Nixon ended the gold standard in the United States.", 
                 "starting_time": 31536000000
-            }
-        ]
-    },
-        {
-        "label": "timeline1", 
-        "times": [
-            {
-                "color": "blue", 
-                "description": "Timeline", 
-                "starting_time": -2524521600000
-            }, 
-            {
-                "color": "red", 
-                "description": " rural southern states to the northern cities, where they hope to find better opportunities and less discrimination.", 
-                "starting_time": -1893456000000
-            }, 
-            {
-                "color": "orange", 
-                "description": "The National Association for the Advancement of Colored People (NAACP) is founded, and prominent black leader W.E.B. Du Bois becomes editor of the group's monthly magazine, ", 
-                "starting_time": -1830384000000
-            }, 
-            {
-                "color": "red", 
-                "description": "James Weldon Johnson's influential novel ", 
-                "starting_time": -1672531200000
-            }, 
-            {
-                "color": "orange", 
-                "description": "Jamaican-born Marcus Garvey arrives in Harlem and founds the United Negro Improvement Association, an organization that urges blacks to unite and form their own nation.", 
-                "starting_time": -1672531200000
-            }, 
-            {
-                "color": "orange", 
-                "description": "Between 10,000 and 15,000 African Americans join the Silent Protest Parade, marching down Fifth Avenue in complete silence to protest violence against blacks.", 
-                "starting_time": -1672531200000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The politically radical black publication ", 
-                "starting_time": -1672531200000
-            }, 
-            {
-                "color": "red", 
-                "description": "Two of Claude McKay's poems are published in the white literary journal ", 
-                "starting_time": -1609459200000
-            }, 
-            {
-                "color": "red", 
-                "description": "The 369th Infantry Regiment, a highly decorated unit made up entirely of African American soldiers, returns from World War I to a heroes' welcome in Harlem.", 
-                "starting_time": -1609459200000
-            }, 
-            {
-                "color": "green", 
-                "description": "Jessie Redmon Fauset becomes literary editor of ", 
-                "starting_time": -1609459200000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "During the \"Red Summer of Hate,\" African Americans react angrily to widespread lynchings and other violence directed against them, with race riots occurring in Chicago, Washington, D.C., and two dozen other American cities.", 
-                "starting_time": -1577923200000
-            }, 
-            {
-                "color": "blue", 
-                "description": "James Weldon Johnson becomes the head of the NAACP.", 
-                "starting_time": -1577923200000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Acclaimed American playwright Eugene O'Neil's drama ", 
-                "starting_time": -1546300800000
-            }, 
-            {
-                "color": "blue", 
-                "description": "Harry Pace founds the Black Swan Phonograph Corporation and begins production of the \"race records\" that will help to bring jazz and blues music to a wider audience.", 
-                "starting_time": -1546300800000
-            }, 
-            {
-                "color": "blue", 
-                "description": "The musical revue ", 
-                "starting_time": -1546300800000
-            }, 
-            {
-                "color": "red", 
-                "description": "Langston Hughes's great poem \"The Negro Speaks of Rivers\" is published in ", 
-                "starting_time": -1514764800000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Marian Anderson performs at New York's Town Hall, launching her career as a classical singer.", 
-                "starting_time": -1514764800000
-            }, 
-            {
-                "color": "red", 
-                "description": "The first major book of the Harlem Renaissance appears when Claude McKay's novel ", 
-                "starting_time": -1514764800000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Meta Warrick Fuller's sculpture ", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Bessie Smith records \"Downhearted Blues\" and \"Gulf Coast Blues,\" soon becoming the most famous blues singer in both the northern and southern states.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "green", 
-                "description": "The National Urban League establishes ", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Roland Hayes makes his New York debut, singing a program of classical music as well as African American spirituals.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "blue", 
-                "description": "Marcus Garvey is arrested for mail fraud and imprisoned for three months.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "blue", 
-                "description": " the first drama by a black playwright to appear on the Broadway stage.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Joe \"King\" Oliver's Creole Jazz Band makes a series of recordings with trumpet player Louis Armstrong.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "green", 
-                "description": "Pianist, composer, and band leader Duke Ellington arrives in New York with his band, the Washingtonians.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "red", 
-                "description": "Jean Toomer's innovative novel ", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "blue", 
-                "description": "Harlem's largest and most famous cabaret, the Cotton Club, opens.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The Ethiopian Art Players perform Eugene O'Neill's play ", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "green", 
-                "description": "Louis Armstrong joins Fletcher Henderson's orchestra, whichperforming at the famed Roseland Ballroombecomes the most popular dance band in New York.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "orange", 
-                "description": "Kansas City-born artist Aaron Douglas arrives in New York and begins developing a new style that will make him the official artist of the Harlem Renaissance.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "yellow", 
-                "description": " a novel by NAACP leader Walter White, is published.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "red", 
-                "description": "The publication of Jessie Redmon Fauset's ", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "orange", 
-                "description": "At the Civic Club dinner hosted by ", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "red", 
-                "description": "Josephine Baker appears in ", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "red", 
-                "description": "Roland Hayes performs at Carnegie Hall.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "green", 
-                "description": "Poems by Harlem Renaissance star Countee Cullen appear in four major white publications.", 
-                "starting_time": -1483228800000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Zora Neale Hurston publishes her first short story in ", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "orange", 
-                "description": "The exciting new musical form known as jazz is showcased in the \"First American Jazz Concert\" at Aeolian Hall in New York.", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "red", 
-                "description": " magazine publishes an issue devoted entirely to the work of Harlem Renaissance writers and artists.", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "green", 
-                "description": "Marcus Garvey is convicted of mail fraud and imprisoned in the Atlanta Penitentiary.", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "green", 
-                "description": "Marian Anderson wins a singing competition sponsored by the New York Philharmonic Orchestra.", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Countee Cullen's first volume of poetry, ", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Artist Sargent Johnson exhibits his paintings at the San Francisco Art Association, and Archibald Motley wins a medal from the Art Institute of Chicago for his painting \"A Mulatress.\"", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "green", 
-                "description": "Wallace Thurman moves from Los Angeles to New York and soon becomes a leader of the younger generation of Harlem Renaissance writers and artists.", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "orange", 
-                "description": "Zora Neale Hurston enters Barnard College on a scholarship, studying anthropology.", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Well-known white poet Vachel Lindsay reads the poems of Langston Hughes, then working as a restaurant busboy, to the audience at his own poetry reading, announcing that he has discovered a bright new talent.", 
-                "starting_time": -1420070400000
-            }, 
-            {
-                "color": "orange", 
-                "description": "The ", 
-                "starting_time": -1388534400000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "W.C. Handy's ", 
-                "starting_time": -1388534400000
-            }, 
-            {
-                "color": "red", 
-                "description": "Langston Hughes's first volume of poetry, ", 
-                "starting_time": -1388534400000
-            }, 
-            {
-                "color": "blue", 
-                "description": "The NAACP-sponsored theatrical group the Krigwa Players stages three plays.", 
-                "starting_time": -1388534400000
-            }, 
-            {
-                "color": "red", 
-                "description": "White author Carl Van Vechten's controversial novel ", 
-                "starting_time": -1388534400000
-            }, 
-            {
-                "color": "orange", 
-                "description": "The Harmon Foundation holds its first annual art exhibition of works by African American artists, and Palmer Hayden and Hale Woodruff win top awards.", 
-                "starting_time": -1388534400000
-            }, 
-            {
-                "color": "red", 
-                "description": "A daring new (but short-lived) literary journal called ", 
-                "starting_time": -1356998400000
-            }, 
-            {
-                "color": "green", 
-                "description": "Duke Ellington begins a three-year stint at the Cotton Club, gaining fame and praise for his innovative style and compositions.", 
-                "starting_time": -1356998400000
-            }, 
-            {
-                "color": "red", 
-                "description": "James Weldon Johnson's ", 
-                "starting_time": -1356998400000
-            }, 
-            {
-                "color": "blue", 
-                "description": "Several young Harlem Renaissance writers and artists accept money and other help from wealthy patron Charlotte Mason, whom they call \"Godmother.\"", 
-                "starting_time": -1356998400000
             }
         ]
     }
