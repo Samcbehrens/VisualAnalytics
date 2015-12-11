@@ -3,1977 +3,1977 @@
         "label": "usTimeline", 
         "times": [
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "President William McKinley was assassinated by Leon Czolgosz in Buffalo, \r\nNew York.", 
-                "starting_time": -2177452800
+                "starting_time": -2177452800000
             }, 
             {
-                "color": "yellow", 
+                "color": "green", 
                 "description": "Vice President Theodore Roosevelt was sworn in as president, after the \r\nassassination of President McKinley.", 
-                "starting_time": -2177452800
+                "starting_time": -2177452800000
             }, 
             {
                 "color": "green", 
                 "description": "The Hay–Pauncefote Treaty was signed.", 
-                "starting_time": -2177452800
+                "starting_time": -2177452800000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "The first *Rose Bowl Game* was played between the University of Michigan \r\nand Stanford University.", 
-                "starting_time": -2145916800
+                "starting_time": -2145916800000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "The Elkins Act was signed into law.", 
-                "starting_time": -2145916800
+                "starting_time": -2145916800000
             }, 
             {
                 "color": "green", 
                 "description": "The Drago Doctrine was announced.", 
-                "starting_time": -2145916800
+                "starting_time": -2145916800000
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "The Newlands Reclamation Act was signed into law.", 
-                "starting_time": -2145916800
+                "starting_time": -2145916800000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "The Hay–Herrán Treaty was passed.", 
-                "starting_time": -2114380800
+                "starting_time": -2114380800000
             }, 
             {
-                "color": "red", 
+                "color": "yellow", 
                 "description": "The Ford Motor Company was formed.", 
-                "starting_time": -2114380800
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The Department of Commerce and Labor was created.", 
-                "starting_time": -2114380800
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The first World Series was played between the Boston Americans and Pittsburgh \r\nPirates.", 
-                "starting_time": -2114380800
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The Hay–Bunau-Varilla Treaty was signed.", 
-                "starting_time": -2114380800
+                "starting_time": -2114380800000
             }, 
             {
                 "color": "red", 
-                "description": "The movie *The Great Train Robbery* premieres.", 
-                "starting_time": -2114380800
+                "description": "The Department of Commerce and Labor was created.", 
+                "starting_time": -2114380800000
             }, 
             {
                 "color": "green", 
+                "description": "The first World Series was played between the Boston Americans and Pittsburgh \r\nPirates.", 
+                "starting_time": -2114380800000
+            }, 
+            {
+                "color": "green", 
+                "description": "The Hay–Bunau-Varilla Treaty was signed.", 
+                "starting_time": -2114380800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The movie *The Great Train Robbery* premieres.", 
+                "starting_time": -2114380800000
+            }, 
+            {
+                "color": "blue", 
                 "description": "The Wright brothers made their first powered flight in the *Wright Flyer*.", 
-                "starting_time": -2114380800
+                "starting_time": -2114380800000
             }, 
             {
                 "color": "orange", 
                 "description": "The Roosevelt Corollary to the Monroe Doctrine was issued.", 
-                "starting_time": -2082844800
+                "starting_time": -2082844800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The Panama Canal Zone was acquired by the United States from France for $40 \r\nmillion.", 
+                "starting_time": -2082844800000
             }, 
             {
                 "color": "yellow", 
-                "description": "The Panama Canal Zone was acquired by the United States from France for $40 \r\nmillion.", 
-                "starting_time": -2082844800
-            }, 
-            {
-                "color": "green", 
                 "description": "*United States presidential election, 1904*: President Theodore Roosevelt \r\nwas reelected to a second term, defeating New York Appeals Court Judge Alton \r\nB. Parker.", 
-                "starting_time": -2082844800
+                "starting_time": -2082844800000
             }, 
             {
-                "color": "red", 
+                "color": "blue", 
                 "description": "The *Niagara Falls conference* was held.", 
-                "starting_time": -2051222400
+                "starting_time": -2051222400000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "The Treaty of Portsmouth, negotiated by President Theodore Roosevelt, was \r\nsigned, ending the Russo-Japanese War .", 
-                "starting_time": -2051222400
+                "starting_time": -2051222400000
             }, 
             {
                 "color": "green", 
                 "description": "Women's suffrage and civil rights activist Susan B. Anthony died.", 
-                "starting_time": -2019686400
+                "starting_time": -2019686400000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "The 1906 San Francisco earthquake killed over 3,400 people and destroyed \r\nover 80% of San Francisco; being the deadliest earthquake in American \r\nhistory.", 
-                "starting_time": -2019686400
+                "starting_time": -2019686400000
             }, 
             {
                 "color": "green", 
                 "description": "The Hepburn Act was signed into law.", 
-                "starting_time": -2019686400
+                "starting_time": -2019686400000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "The Pure Food and Drug Act and Meat Inspection Act were signed; \r\nestablishing the Food and Drug Administration (FDA).", 
-                "starting_time": -2019686400
+                "starting_time": -2019686400000
             }, 
             {
                 "color": "blue", 
                 "description": "President Theodore Roosevelt was awarded the Nobel Peace Prize for his role \r\nin negotiating the end of the Russo-Japanese war; becoming the first \r\nstatesman to win a Nobel Prize.", 
-                "starting_time": -2019686400
+                "starting_time": -2019686400000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "The Tillman Act was signed into law.", 
-                "starting_time": -1988150400
+                "starting_time": -1988150400000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "The Gentlemen's Agreement of 1907 was signed.", 
-                "starting_time": -1988150400
+                "starting_time": -1988150400000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "Oklahoma was admitted to the Union, becoming the 46th state.", 
-                "starting_time": -1988150400
+                "starting_time": -1988150400000
             }, 
             {
                 "color": "red", 
                 "description": "*Monongah Mining Disaster*: A coal mine exploded in Monongah, West Virginia, \r\nkilling at least 361.", 
-                "starting_time": -1988150400
+                "starting_time": -1988150400000
             }, 
             {
                 "color": "green", 
                 "description": "The Aldrich–Vreeland Act was signed into law.", 
-                "starting_time": -1956614400
-            }, 
-            {
-                "color": "red", 
-                "description": "The Bureau of Investigation (later the FBI) was established.", 
-                "starting_time": -1956614400
-            }, 
-            {
-                "color": "orange", 
-                "description": "The Ford Model T appeared on the market.", 
-                "starting_time": -1956614400
-            }, 
-            {
-                "color": "red", 
-                "description": "*United States presidential election, 1908*: U.S. Secretary of War William \r\nHoward Taft was elected President, defeating former Nebraska Representative William \r\nJennings Bryan.", 
-                "starting_time": -1956614400
-            }, 
-            {
-                "color": "orange", 
-                "description": "The Root–Takahira Agreement was reached.", 
-                "starting_time": -1956614400
-            }, 
-            {
-                "color": "red", 
-                "description": "William Howard Taft implemented Dollar Diplomacy.", 
-                "starting_time": -1924992000
-            }, 
-            {
-                "color": "red", 
-                "description": "The NAACP was founded by W. E. B. Du Bois.", 
-                "starting_time": -1924992000
-            }, 
-            {
-                "color": "blue", 
-                "description": "Robert Peary became the first person to reach the North Pole.", 
-                "starting_time": -1924992000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The first redesigned Lincoln Penny was released to the public.", 
-                "starting_time": -1924992000
-            }, 
-            {
-                "color": "orange", 
-                "description": "The Boy Scouts of America was created.", 
-                "starting_time": -1893456000
-            }, 
-            {
-                "color": "red", 
-                "description": "The Mann–Elkins Act was signed into law.", 
-                "starting_time": -1893456000
+                "starting_time": -1956614400000
             }, 
             {
                 "color": "green", 
+                "description": "The Bureau of Investigation (later the FBI) was established.", 
+                "starting_time": -1956614400000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The Ford Model T appeared on the market.", 
+                "starting_time": -1956614400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "*United States presidential election, 1908*: U.S. Secretary of War William \r\nHoward Taft was elected President, defeating former Nebraska Representative William \r\nJennings Bryan.", 
+                "starting_time": -1956614400000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The Root–Takahira Agreement was reached.", 
+                "starting_time": -1956614400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "William Howard Taft implemented Dollar Diplomacy.", 
+                "starting_time": -1924992000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The NAACP was founded by W. E. B. Du Bois.", 
+                "starting_time": -1924992000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Robert Peary became the first person to reach the North Pole.", 
+                "starting_time": -1924992000000
+            }, 
+            {
+                "color": "green", 
+                "description": "The first redesigned Lincoln Penny was released to the public.", 
+                "starting_time": -1924992000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The Boy Scouts of America was created.", 
+                "starting_time": -1893456000000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The Mann–Elkins Act was signed into law.", 
+                "starting_time": -1893456000000
+            }, 
+            {
+                "color": "blue", 
                 "description": "The Mann Act was signed into law.", 
-                "starting_time": -1893456000
+                "starting_time": -1893456000000
             }, 
             {
                 "color": "orange", 
                 "description": "The Payne–Aldrich Tariff Act was signed into law.", 
-                "starting_time": -1893456000
+                "starting_time": -1893456000000
             }, 
             {
                 "color": "green", 
                 "description": "*Standard Oil Company v. United States*: The Supreme Court found Standard \r\nOil guilty of monopolizing the petroleum industry; subsequently dividing \r\nStandard Oil into several geographically separate firms.", 
-                "starting_time": -1861920000
+                "starting_time": -1861920000000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "The first Indianapolis 500 was held; being won by Ray Harroun.", 
-                "starting_time": -1861920000
+                "starting_time": -1861920000000
             }, 
             {
                 "color": "red", 
                 "description": "New Mexico was admitted to the Union, becoming the 47th.", 
-                "starting_time": -1830384000
+                "starting_time": -1830384000000
             }, 
             {
                 "color": "red", 
                 "description": "Arizona was admitted to the Union, becoming the 48th state.", 
-                "starting_time": -1830384000
-            }, 
-            {
-                "color": "orange", 
-                "description": "Girl Scouts of the USA was created by Juliette Gordon Low.", 
-                "starting_time": -1830384000
+                "starting_time": -1830384000000
             }, 
             {
                 "color": "green", 
+                "description": "Girl Scouts of the USA was created by Juliette Gordon Low.", 
+                "starting_time": -1830384000000
+            }, 
+            {
+                "color": "yellow", 
                 "description": "The RMS *Titanic* crashed into an iceberg in the northern Atlantic Ocean, \r\nsinking the ship entirely less than three hours the initial collision, \r\nkilling over 1,500 of the 2,224 passengers aboard.", 
-                "starting_time": -1830384000
+                "starting_time": -1830384000000
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "Former President Theodore Roosevelt was shot, but not killed, while \r\ncampaigning for President as the candidate for the progressive Bull Moose \r\nParty.", 
-                "starting_time": -1830384000
+                "starting_time": -1830384000000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "*United States presidential election, 1912*: New Jersey Governor Woodrow \r\nWilson defeated incumbent President William Howard Taft, former President Theodore \r\nRoosevelt and union leader Eugene V. Debs.", 
-                "starting_time": -1830384000
+                "starting_time": -1830384000000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "The Sixteenth Amendment to the United States Constitution, establishing an income \r\ntax, was ratified.", 
-                "starting_time": -1798761600
+                "starting_time": -1798761600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The Armory Show opened in New York City, introducing American and European modern \r\nart to the American public.", 
+                "starting_time": -1798761600000
             }, 
             {
                 "color": "yellow", 
-                "description": "The Armory Show opened in New York City, introducing American and European modern \r\nart to the American public.", 
-                "starting_time": -1798761600
-            }, 
-            {
-                "color": "orange", 
                 "description": "The Seventeenth Amendment to the United States Constitution, establishing \r\ndirect election of Senators, was ratified.", 
-                "starting_time": -1798761600
-            }, 
-            {
-                "color": "orange", 
-                "description": "After mass civilian casualties in the Battle of Bud Bagsak, the Moro's \r\nsurrendered their rebellion, ending the Philippine–American War.", 
-                "starting_time": -1798761600
+                "starting_time": -1798761600000
             }, 
             {
                 "color": "red", 
+                "description": "After mass civilian casualties in the Battle of Bud Bagsak, the Moro's \r\nsurrendered their rebellion, ending the Philippine–American War.", 
+                "starting_time": -1798761600000
+            }, 
+            {
+                "color": "green", 
                 "description": "The Underwood Tariff was signed into law.", 
-                "starting_time": -1798761600
+                "starting_time": -1798761600000
             }, 
             {
                 "color": "yellow", 
                 "description": "Henry Ford developed the modern assembly line.", 
-                "starting_time": -1798761600
-            }, 
-            {
-                "color": "blue", 
-                "description": "The Federal Reserve Act was signed into law; establishing the Federal \r\nReserve System.", 
-                "starting_time": -1798761600
-            }, 
-            {
-                "color": "blue", 
-                "description": "*Ludlow Massacre*: The camps of striking coal miners were attacked by the Colorado \r\nNational Guard; killing 25, including 11 children.", 
-                "starting_time": -1767225600
+                "starting_time": -1798761600000
             }, 
             {
                 "color": "orange", 
-                "description": "*World War I*: Austria-Hungary invaded the Kingdom of Serbia after the \r\nassassination of Archduke Franz Ferdinand; triggering the start of World \r\nWar I.", 
-                "starting_time": -1767225600
+                "description": "The Federal Reserve Act was signed into law; establishing the Federal \r\nReserve System.", 
+                "starting_time": -1798761600000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
+                "description": "*Ludlow Massacre*: The camps of striking coal miners were attacked by the Colorado \r\nNational Guard; killing 25, including 11 children.", 
+                "starting_time": -1767225600000
+            }, 
+            {
+                "color": "red", 
+                "description": "*World War I*: Austria-Hungary invaded the Kingdom of Serbia after the \r\nassassination of Archduke Franz Ferdinand; triggering the start of World \r\nWar I.", 
+                "starting_time": -1767225600000
+            }, 
+            {
+                "color": "yellow", 
                 "description": "The first Mother's Day was observed.", 
-                "starting_time": -1767225600
+                "starting_time": -1767225600000
             }, 
             {
                 "color": "red", 
                 "description": "The Federal Trade Commission was established.", 
-                "starting_time": -1767225600
+                "starting_time": -1767225600000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "The Clayton Antitrust Act was signed into law.", 
-                "starting_time": -1767225600
+                "starting_time": -1767225600000
             }, 
             {
-                "color": "yellow", 
+                "color": "blue", 
                 "description": "The controversial movie *The Birth of a Nation* opened in Los Angeles, \r\nbecoming the largest-grossing movie at the time.", 
-                "starting_time": -1735689600
+                "starting_time": -1735689600000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "The RMS *Lusitania* was sunk by a German torpedo, killing 1,198 passengers; \r\npartially contributing to the U.S.'s later involvement in World War I.", 
-                "starting_time": -1735689600
+                "starting_time": -1735689600000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "Jeannette Rankin of Montana became the first woman elected to the United \r\nStates Congress.", 
-                "starting_time": -1704153600
-            }, 
-            {
-                "color": "blue", 
-                "description": "The Adamson Railway Labor Act was signed into law.", 
-                "starting_time": -1704153600
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The Federal Farm Loan Act was signed into law.", 
-                "starting_time": -1704153600
+                "starting_time": -1704153600000
             }, 
             {
                 "color": "green", 
+                "description": "The Adamson Railway Labor Act was signed into law.", 
+                "starting_time": -1704153600000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The Federal Farm Loan Act was signed into law.", 
+                "starting_time": -1704153600000
+            }, 
+            {
+                "color": "red", 
                 "description": "The Jones Act was signed into law.", 
-                "starting_time": -1704153600
-            }, 
-            {
-                "color": "blue", 
-                "description": "*United States presidential election, 1916*: President Woodrow Wilson was \r\nreelected to a second term, defeating Associate Supreme Court Justice Charles \r\nEvans Hughes of New York.", 
-                "starting_time": -1704153600
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The United States acquired the Virgin Islands from Denmark for $25,000,000.", 
-                "starting_time": -1672531200
-            }, 
-            {
-                "color": "blue", 
-                "description": "The Zimmermann telegram was published, helping shift public opinion in \r\nfavor of U.S. involvement in World War I.", 
-                "starting_time": -1672531200
+                "starting_time": -1704153600000
             }, 
             {
                 "color": "orange", 
+                "description": "*United States presidential election, 1916*: President Woodrow Wilson was \r\nreelected to a second term, defeating Associate Supreme Court Justice Charles \r\nEvans Hughes of New York.", 
+                "starting_time": -1704153600000
+            }, 
+            {
+                "color": "green", 
+                "description": "The United States acquired the Virgin Islands from Denmark for $25,000,000.", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The Zimmermann telegram was published, helping shift public opinion in \r\nfavor of U.S. involvement in World War I.", 
+                "starting_time": -1672531200000
+            }, 
+            {
+                "color": "green", 
                 "description": "The United States declared war on Germany, beginning the U.S.'s involvement \r\nin World War I.", 
-                "starting_time": -1672531200
+                "starting_time": -1672531200000
             }, 
             {
-                "color": "red", 
+                "color": "green", 
                 "description": "The Espionage Act was signed into law.", 
-                "starting_time": -1672531200
+                "starting_time": -1672531200000
             }, 
             {
-                "color": "red", 
+                "color": "green", 
                 "description": "The Lansing–Ishii Agreement was signed.", 
-                "starting_time": -1672531200
+                "starting_time": -1672531200000
             }, 
             {
-                "color": "green", 
+                "color": "orange", 
                 "description": "*First Red Scare*: The scare, marked by a widespread fear of Bolshevism and \r\nanarchism, began.", 
-                "starting_time": -1672531200
-            }, 
-            {
-                "color": "green", 
-                "description": "*World War I*: President Woodrow Wilson's Fourteen Points, which assured \r\ncitizens that the war was being fought for a moral cause and for postwar \r\npeace in Europe, was issued.", 
-                "starting_time": -1640995200
-            }, 
-            {
-                "color": "red", 
-                "description": "The *Sedition Act of 1918* was signed into law; forbidding the \"disloyal, \r\nprofane, scurrilous, or abusive language\" against the United States \r\ngovernment during a time of war.", 
-                "starting_time": -1640995200
+                "starting_time": -1672531200000
             }, 
             {
                 "color": "blue", 
+                "description": "*World War I*: President Woodrow Wilson's Fourteen Points, which assured \r\ncitizens that the war was being fought for a moral cause and for postwar \r\npeace in Europe, was issued.", 
+                "starting_time": -1640995200000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The *Sedition Act of 1918* was signed into law; forbidding the \"disloyal, \r\nprofane, scurrilous, or abusive language\" against the United States \r\ngovernment during a time of war.", 
+                "starting_time": -1640995200000
+            }, 
+            {
+                "color": "red", 
                 "description": "*Red Summer*: Heightened racial scrutinization of African-Americans during \r\nthe Red Scare prompted mass racial riots among Whites in Bisbee, Arizona, Longview, \r\nTexas, Washington D.C., Chicago, Knoxville, Omaha, and Elaine, Arkansas.", 
-                "starting_time": -1609459200
+                "starting_time": -1609459200000
             }, 
             {
                 "color": "green", 
                 "description": "Inflation from the Post–World War I recession lead to the strike of 4 \r\nmillion workers; prompting the Boston Police Strike, Seattle General Strike, \r\nSteel Strike of 1919 and Coal Strike of 1919.", 
-                "starting_time": -1609459200
+                "starting_time": -1609459200000
             }, 
             {
                 "color": "blue", 
                 "description": "*World War I*: The Treaty of Versailles ended the war.", 
-                "starting_time": -1609459200
+                "starting_time": -1609459200000
             }, 
             {
                 "color": "blue", 
                 "description": "The *Black Sox Scandal*, involving the fixing of the 1919 World Series, \r\noccurred.", 
-                "starting_time": -1609459200
+                "starting_time": -1609459200000
             }, 
             {
                 "color": "yellow", 
                 "description": "President Woodrow Wilson's veto of the Volstead Act was overridden by the \r\nSenate, establishing the Eighteenth Amendment.", 
-                "starting_time": -1609459200
+                "starting_time": -1609459200000
             }, 
             {
-                "color": "blue", 
+                "color": "yellow", 
                 "description": "The United States Senate rejected the Treaty of Versailles and the League \r\nof Nations, becoming the first time in U.S. history the Senate rejected a \r\npeace treaty.", 
-                "starting_time": -1609459200
+                "starting_time": -1609459200000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "The Eighteenth Amendment to the United States Constitution, establishing prohibition \r\nin the United States, was ratified.", 
-                "starting_time": -1577923200
+                "starting_time": -1577923200000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "The first radio broadcasts were made, in Pittsburgh and Detroit.", 
-                "starting_time": -1577923200
+                "starting_time": -1577923200000
             }, 
             {
-                "color": "blue", 
+                "color": "yellow", 
                 "description": "The Nineteenth Amendment to the United States Constitution, granting women \r\nthe right to vote, was ratified.", 
-                "starting_time": -1577923200
+                "starting_time": -1577923200000
             }, 
             {
                 "color": "green", 
                 "description": "*Wall Street Bombing*: Wall Street, the financial district of the United \r\nStates, was bombed, killing 38 people.", 
-                "starting_time": -1577923200
+                "starting_time": -1577923200000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "*United States presidential election, 1920*: Ohio Senator Warren G. Harding \r\nwas elected President, defeating Ohio Governor James M. Cox.", 
-                "starting_time": -1577923200
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The Emergency Quota Act was signed into law.", 
-                "starting_time": -1546300800
+                "starting_time": -1577923200000
             }, 
             {
                 "color": "red", 
+                "description": "The Emergency Quota Act was signed into law.", 
+                "starting_time": -1546300800000
+            }, 
+            {
+                "color": "green", 
                 "description": "The Tulsa Race Riot occurred; resulting in the deaths of up to 300 \r\nAfrican-Americans and leaving more than 8,000 homeless.", 
-                "starting_time": -1546300800
+                "starting_time": -1546300800000
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "The first meeting of the *Washington Disarmament Conference of 1921* was \r\nheld.", 
-                "starting_time": -1546300800
+                "starting_time": -1546300800000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "The Fordney–McCumber Tariff was signed into law.", 
-                "starting_time": -1514764800
+                "starting_time": -1514764800000
             }, 
             {
                 "color": "yellow", 
                 "description": "President Warren G. Harding died of a heart attack at the Palace Hotel in San \r\nFrancisco.", 
-                "starting_time": -1483228800
+                "starting_time": -1483228800000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "Vice President Calvin Coolidge was sworn in as President, the day following \r\nthe death of President Harding.", 
-                "starting_time": -1483228800
+                "starting_time": -1483228800000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "*Teapot Dome scandal*: Secretary of the Interior Albert B. Fall resigned as \r\na result of the scandal.", 
-                "starting_time": -1483228800
+                "starting_time": -1483228800000
             }, 
             {
-                "color": "green", 
+                "color": "orange", 
                 "description": "The *Equal Rights Amendment*, written by women's suffragist leader Alice \r\nPaul, was first introduced in the Senate.", 
-                "starting_time": -1483228800
+                "starting_time": -1483228800000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "J. Edgar Hoover was appointed director of the Bureau of Investigation.", 
-                "starting_time": -1451692800
+                "starting_time": -1451692800000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "The Immigration Act Basic Law was signed into law.", 
-                "starting_time": -1451692800
+                "starting_time": -1451692800000
             }, 
             {
                 "color": "orange", 
                 "description": "*United States presidential election, 1924*: President Calvin Coolidge \r\ndefeated former Solicitor General John W. Davis and Wisconsin Senator Robert \r\nM. La Follette.", 
-                "starting_time": -1451692800
-            }, 
-            {
-                "color": "blue", 
-                "description": "*Scopes Trial*: High school teacher John T. Scopes was found guilty of \r\nviolating Tennessee's Butler Act, for teaching human evolution in the \r\nclassroom.", 
-                "starting_time": -1420070400
-            }, 
-            {
-                "color": "orange", 
-                "description": "Nellie Tayloe Ross was elected Governor of Wyoming, becoming the first \r\nwoman elected governor of a U.S. State.", 
-                "starting_time": -1420070400
+                "starting_time": -1451692800000
             }, 
             {
                 "color": "green", 
+                "description": "*Scopes Trial*: High school teacher John T. Scopes was found guilty of \r\nviolating Tennessee's Butler Act, for teaching human evolution in the \r\nclassroom.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "red", 
+                "description": "Nellie Tayloe Ross was elected Governor of Wyoming, becoming the first \r\nwoman elected governor of a U.S. State.", 
+                "starting_time": -1420070400000
+            }, 
+            {
+                "color": "orange", 
                 "description": "WSM first broadcast the Grand Ole Opry.", 
-                "starting_time": -1420070400
+                "starting_time": -1420070400000
             }, 
             {
                 "color": "red", 
                 "description": "The broadcast network NBC was founded.", 
-                "starting_time": -1388534400
+                "starting_time": -1388534400000
             }, 
             {
                 "color": "blue", 
                 "description": "The radio network Columbia Broadcasting System (later CBS) was founded.", 
-                "starting_time": -1356998400
+                "starting_time": -1356998400000
             }, 
             {
-                "color": "red", 
+                "color": "blue", 
                 "description": "*Bath School disaster*: Andrew Kehoe detonated over 500 pounds of dynamite \r\nand incendiary pyrotol which he planted in an elementary school in Bath \r\nTownship, Michigan, where he later detonated the first ever car bomb in the \r\nU.S. in a suicide attack at the scene of the bombing; killing a total of 44 \r\npeople and being the deadliest mass murder at a school in U.S. History.", 
-                "starting_time": -1356998400
+                "starting_time": -1356998400000
             }, 
             {
                 "color": "orange", 
                 "description": "Charles Lindbergh made the first trans-Atlantic flight.", 
-                "starting_time": -1356998400
+                "starting_time": -1356998400000
             }, 
             {
                 "color": "green", 
                 "description": "Sacco and Vanzetti were executed.", 
-                "starting_time": -1356998400
+                "starting_time": -1356998400000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "*The Jazz Singer*, the first motion picture with sound, was released.", 
-                "starting_time": -1356998400
+                "starting_time": -1356998400000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "The Kellogg–Briand Pact was signed.", 
-                "starting_time": -1325462400
+                "starting_time": -1325462400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "*United States presidential election, 1928*: U.S. Secretary of Commerce Herbert \r\nHoover was elected President, defeating New York Governor Al Smith.", 
+                "starting_time": -1325462400000
             }, 
             {
                 "color": "blue", 
-                "description": "*United States presidential election, 1928*: U.S. Secretary of Commerce Herbert \r\nHoover was elected President, defeating New York Governor Al Smith.", 
-                "starting_time": -1325462400
-            }, 
-            {
-                "color": "orange", 
                 "description": "Disney's animated feature *Steamboat Willie*, featuring Mickey Mouse, \r\nopened.", 
-                "starting_time": -1325462400
+                "starting_time": -1325462400000
             }, 
             {
                 "color": "yellow", 
                 "description": "The St. Valentine's Day Massacre became one of the most infamous slaying \r\nbetween rival gangs of the Prohibition era; resulting in the deaths of 7.", 
-                "starting_time": -1293840000
+                "starting_time": -1293840000000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "*Wall Street Crash of 1929*: The Dow Jones Industrial Average plummeted a \r\nrecord 68 points.", 
-                "starting_time": -1293840000
+                "starting_time": -1293840000000
             }, 
             {
                 "color": "blue", 
                 "description": "The Museum of Modern Art opened to the public in New York City.", 
-                "starting_time": -1293840000
+                "starting_time": -1293840000000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "American Samoa officially became a United States territory.", 
-                "starting_time": -1293840000
+                "starting_time": -1293840000000
             }, 
             {
                 "color": "blue", 
                 "description": "The Smoot–Hawley Tariff Act was signed into law.", 
-                "starting_time": -1262304000
+                "starting_time": -1262304000000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "The Empire State Building opened in New York City.", 
-                "starting_time": -1230768000
+                "starting_time": -1230768000000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "The Stimson Doctrine was published.", 
-                "starting_time": -1199232000
+                "starting_time": -1199232000000
             }, 
             {
                 "color": "red", 
                 "description": "The Reconstruction Finance Corporation was established.", 
-                "starting_time": -1199232000
+                "starting_time": -1199232000000
             }, 
             {
-                "color": "green", 
+                "color": "orange", 
                 "description": "The Norris–La Guardia Act was signed into law.", 
-                "starting_time": -1199232000
+                "starting_time": -1199232000000
             }, 
             {
                 "color": "blue", 
                 "description": "Amelia Earhart flew solo across the Atlantic Ocean.", 
-                "starting_time": -1199232000
+                "starting_time": -1199232000000
             }, 
             {
                 "color": "orange", 
                 "description": "*United States presidential election, 1932*: New York Governor Franklin \r\nDelano Roosevelt is elected President, defeating incumbent Herbert Hoover.", 
-                "starting_time": -1199232000
+                "starting_time": -1199232000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The Twentieth Amendment to the United States Constitution, moving the \r\nbeginning and end of the terms of elected federal officials to January 20, \r\nwas ratified.", 
+                "starting_time": -1167609600000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Giuseppe Zangara assassinated Chicago Mayor Anton Cermak in an attempt on \r\nPresident-elect Franklin Delano Roosevelt's life.", 
+                "starting_time": -1167609600000
             }, 
             {
                 "color": "green", 
-                "description": "The Twentieth Amendment to the United States Constitution, moving the \r\nbeginning and end of the terms of elected federal officials to January 20, \r\nwas ratified.", 
-                "starting_time": -1167609600
-            }, 
-            {
-                "color": "blue", 
-                "description": "Giuseppe Zangara assassinated Chicago Mayor Anton Cermak in an attempt on \r\nPresident-elect Franklin Delano Roosevelt's life.", 
-                "starting_time": -1167609600
-            }, 
-            {
-                "color": "blue", 
                 "description": "President Franklin Delano Roosevelt appointed Frances Perkins United States \r\nSecretary of Labor, becoming the first woman to hold a cabinet level \r\nposition.", 
-                "starting_time": -1167609600
+                "starting_time": -1167609600000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "*New Deal*: The Agricultural Adjustment Act, Civil Works Administration, Civilian \r\nConservation Corps, Farm Credit Administration, Home Owners Loan Corporation, \r\nTennessee Valley Authority, Public Works Administration, National \r\nIndustrial Recovery Act were all established or brought into force.", 
-                "starting_time": -1167609600
+                "starting_time": -1167609600000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "The Twenty-first Amendment to the United States Constitution, ending \r\nprohibition, was ratified.", 
-                "starting_time": -1167609600
+                "starting_time": -1167609600000
             }, 
             {
                 "color": "orange", 
                 "description": "*Dust Bowl*: The Dust Bowl, characterized by severe drought and heat waves \r\nin the Great Plains, began.", 
-                "starting_time": -1136073600
+                "starting_time": -1136073600000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "The Tydings–McDuffie Act was signed into law, establishing the Philippine \r\nCommonwealth.", 
-                "starting_time": -1136073600
+                "starting_time": -1136073600000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "The U.S. Securities and Exchange Commission was established.", 
-                "starting_time": -1136073600
+                "starting_time": -1136073600000
             }, 
             {
                 "color": "blue", 
                 "description": "The Reciprocal Trade Agreements Act was signed into law.", 
-                "starting_time": -1136073600
+                "starting_time": -1136073600000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "The Glass–Steagall Act was signed into law.", 
-                "starting_time": -1136073600
-            }, 
-            {
-                "color": "green", 
-                "description": "The Indian Reorganization Act was signed into law.", 
-                "starting_time": -1136073600
+                "starting_time": -1136073600000
             }, 
             {
                 "color": "blue", 
+                "description": "The Indian Reorganization Act was signed into law.", 
+                "starting_time": -1136073600000
+            }, 
+            {
+                "color": "orange", 
                 "description": "John Dillinger was killed.", 
-                "starting_time": -1136073600
+                "starting_time": -1136073600000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "The Federal Housing Administration was established.", 
-                "starting_time": -1136073600
+                "starting_time": -1136073600000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "The FBI was established, with J. Edgar Hoover as its first director.", 
-                "starting_time": -1104537600
-            }, 
-            {
-                "color": "green", 
-                "description": "The Works Progress Administration was established.", 
-                "starting_time": -1104537600
+                "starting_time": -1104537600000
             }, 
             {
                 "color": "red", 
-                "description": "The Social Security Act was signed into law; establishing the Social \r\nSecurity Administration.", 
-                "starting_time": -1104537600
+                "description": "The Works Progress Administration was established.", 
+                "starting_time": -1104537600000
             }, 
             {
                 "color": "green", 
+                "description": "The Social Security Act was signed into law; establishing the Social \r\nSecurity Administration.", 
+                "starting_time": -1104537600000
+            }, 
+            {
+                "color": "yellow", 
                 "description": "*Schechter Poultry Corp. v. United States*: The Supreme Court ruled that \r\nthe National Industrial Recovery Act, a central piece of President \r\nRoosevelt's New Deal program, was unconstitutional.", 
-                "starting_time": -1104537600
+                "starting_time": -1104537600000
             }, 
             {
-                "color": "yellow", 
+                "color": "blue", 
                 "description": "The National Labor Relations Act was signed into law.", 
-                "starting_time": -1104537600
+                "starting_time": -1104537600000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "The Motor Carrier Act was signed into law.", 
-                "starting_time": -1104537600
+                "starting_time": -1104537600000
             }, 
             {
                 "color": "yellow", 
                 "description": "The Revenue Act of 1935 was signed into law.", 
-                "starting_time": -1104537600
+                "starting_time": -1104537600000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "The Neutrality Act of 1935 was signed into law.", 
-                "starting_time": -1104537600
+                "starting_time": -1104537600000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "Louisiana Senator Huey Long was assassinated.", 
-                "starting_time": -1104537600
+                "starting_time": -1104537600000
             }, 
             {
                 "color": "red", 
                 "description": "The Congress of Industrial Organizations was founded.", 
-                "starting_time": -1104537600
+                "starting_time": -1104537600000
+            }, 
+            {
+                "color": "green", 
+                "description": "*United States v. Butler*: The Supreme Court ruled that the processing \r\ntaxes instituted under the 1933 Agricultural Adjustment Act were \r\nunconstitutional.", 
+                "starting_time": -1073001600000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The Second London Naval Treaty was signed.", 
+                "starting_time": -1073001600000
             }, 
             {
                 "color": "yellow", 
-                "description": "*United States v. Butler*: The Supreme Court ruled that the processing \r\ntaxes instituted under the 1933 Agricultural Adjustment Act were \r\nunconstitutional.", 
-                "starting_time": -1073001600
-            }, 
-            {
-                "color": "orange", 
-                "description": "The Second London Naval Treaty was signed.", 
-                "starting_time": -1073001600
-            }, 
-            {
-                "color": "orange", 
                 "description": "The Robinson-Patman Act was signed into law.", 
-                "starting_time": -1073001600
+                "starting_time": -1073001600000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "*United States presidential election, 1936*: President Franklin Delano \r\nRoosevelt was reelected to a second term, defeating Kansas Governor Alf \r\nLandon.", 
-                "starting_time": -1073001600
-            }, 
-            {
-                "color": "orange", 
-                "description": "The Flint Sit-Down Strike began.", 
-                "starting_time": -1073001600
+                "starting_time": -1073001600000
             }, 
             {
                 "color": "red", 
+                "description": "The Flint Sit-Down Strike began.", 
+                "starting_time": -1073001600000
+            }, 
+            {
+                "color": "green", 
                 "description": "The Neutrality Act of 1937 was signed into law.", 
-                "starting_time": -1041379200
+                "starting_time": -1041379200000
             }, 
             {
                 "color": "blue", 
                 "description": "*Hindenburg disaster*: The LZ 129 Hindenburg caught fire, crashing at the Lakehurst \r\nNaval Air Station in Lakehurst, New Jersey after departing from Frankfurt, \r\nGermany; killing thirty-five passengers and one ground crewman.", 
-                "starting_time": -1041379200
+                "starting_time": -1041379200000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "The Golden Gate Bridge opened in San Francisco.", 
-                "starting_time": -1041379200
-            }, 
-            {
-                "color": "orange", 
-                "description": "*Panay incident*: A Japanese attack was made on the United States Navy \r\ngunboat USS *Panay* while it was anchored in the Yangtze River outside of \r\nNanjing; killing three Americans.", 
-                "starting_time": -1041379200
-            }, 
-            {
-                "color": "orange", 
-                "description": "The Fair Labor Standards Act was signed into law; establishing a federal minimum \r\nwage.", 
-                "starting_time": -1009843200
-            }, 
-            {
-                "color": "yellow", 
-                "description": "Orson Welles performed a broadcast of *The War of the Worlds*.", 
-                "starting_time": -1009843200
-            }, 
-            {
-                "color": "orange", 
-                "description": "Disney's Snow White and the Seven Dwarfs became the first full-length \r\nanimated film.", 
-                "starting_time": -978307200
+                "starting_time": -1041379200000
             }, 
             {
                 "color": "green", 
-                "description": "The Hatch Act, aimed at corrupt political practices, was signed into law, \r\npreventing federal civil servants from campaigning.", 
-                "starting_time": -978307200
+                "description": "*Panay incident*: A Japanese attack was made on the United States Navy \r\ngunboat USS *Panay* while it was anchored in the Yangtze River outside of \r\nNanjing; killing three Americans.", 
+                "starting_time": -1041379200000
+            }, 
+            {
+                "color": "green", 
+                "description": "The Fair Labor Standards Act was signed into law; establishing a federal minimum \r\nwage.", 
+                "starting_time": -1009843200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Orson Welles performed a broadcast of *The War of the Worlds*.", 
+                "starting_time": -1009843200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Disney's Snow White and the Seven Dwarfs became the first full-length \r\nanimated film.", 
+                "starting_time": -978307200000
             }, 
             {
                 "color": "yellow", 
+                "description": "The Hatch Act, aimed at corrupt political practices, was signed into law, \r\npreventing federal civil servants from campaigning.", 
+                "starting_time": -978307200000
+            }, 
+            {
+                "color": "orange", 
                 "description": "*Invasion of Poland (1939)*: Nazi Germany invaded Poland.", 
-                "starting_time": -978307200
+                "starting_time": -978307200000
             }, 
             {
                 "color": "yellow", 
                 "description": "In response to the Poland Campaign, President Roosevelt requested a *cash \r\nand carry policy to replace the Neutrality Acts.*", 
-                "starting_time": -978307200
+                "starting_time": -978307200000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "The Smith Act was signed into law.", 
-                "starting_time": -946771200
+                "starting_time": -946771200000
             }, 
             {
                 "color": "orange", 
                 "description": "The cartoon characters Bugs Bunny and Tom and Jerry debuted.", 
-                "starting_time": -946771200
+                "starting_time": -946771200000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "*Billboard* publishes its first music popularity chart.", 
-                "starting_time": -946771200
+                "starting_time": -946771200000
             }, 
             {
                 "color": "orange", 
                 "description": "The Selective Training and Service Act of 1940, reinstating the U.S. \r\nmilitary draft, was signed into law.", 
-                "starting_time": -946771200
+                "starting_time": -946771200000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "*U.S. presidential election, 1940*: President Franklin Delano Roosevelt was \r\nreelected to a third term, defeating corporate lawyer Wendell Willkie of \r\nIndiana.", 
-                "starting_time": -946771200
+                "starting_time": -946771200000
             }, 
             {
                 "color": "red", 
                 "description": "American Nuclear chemist Glenn T. Seaborg, with fellow U.C. Berkeley \r\nresearchers, discovered the chemical element plutonium.", 
-                "starting_time": -915148800
+                "starting_time": -915148800000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "*World War II*: Lend-Lease, which supplied the United Kingdom, the Soviet \r\nUnion, China, France and other Allied nations with vast amounts of war \r\nmaterial, began.", 
-                "starting_time": -915148800
+                "starting_time": -915148800000
             }, 
             {
                 "color": "yellow", 
                 "description": "President Roosevelt signed Executive Order 8802, prohibiting racial \r\ndiscrimination in the defense industry.", 
-                "starting_time": -915148800
+                "starting_time": -915148800000
             }, 
             {
-                "color": "yellow", 
+                "color": "green", 
                 "description": "*World War II*: The Atlantic Charter was drafted by Britain and the United \r\nStates to serve as a blueprint for the postwar world.", 
-                "starting_time": -915148800
+                "starting_time": -915148800000
             }, 
             {
                 "color": "red", 
                 "description": "*Attack on Pearl Harbor*: The Empire of Japan declares war on the United \r\nStates and Britain, attacking the U.S. Naval Base in Pearl Harbor, Hawaii. \r\nSinking six U.S. ships, including the *USS Arizona*, and destroying 188 \r\naircraft, the attack on Pearl Harbor resulted in the deaths of 2,402 \r\nAmericans, leaving 1,247 wounded.", 
-                "starting_time": -915148800
-            }, 
-            {
-                "color": "orange", 
-                "description": "The United States declares war on the Empire of Japan, beginning the U.S. \r\nentry into World War II.", 
-                "starting_time": -915148800
+                "starting_time": -915148800000
             }, 
             {
                 "color": "blue", 
+                "description": "The United States declares war on the Empire of Japan, beginning the U.S. \r\nentry into World War II.", 
+                "starting_time": -915148800000
+            }, 
+            {
+                "color": "yellow", 
                 "description": "The United States declares war on Germany and Italy, after both nations \r\ndeclared war with United States.", 
-                "starting_time": -915148800
+                "starting_time": -915148800000
             }, 
             {
-                "color": "yellow", 
+                "color": "blue", 
                 "description": "The Congress of Racial Equality was established.", 
-                "starting_time": -883612800
+                "starting_time": -883612800000
             }, 
             {
-                "color": "red", 
+                "color": "green", 
                 "description": "The Office of Price Administration was established.", 
-                "starting_time": -883612800
+                "starting_time": -883612800000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "Automobile production in the United States for private consumers is halted \r\nby the War Production Board.", 
-                "starting_time": -883612800
+                "starting_time": -883612800000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "*Japanese American internment*: Internment and seizure of property began, \r\nper Executive Order 9066 issued by President Roosevelt.", 
-                "starting_time": -883612800
+                "starting_time": -883612800000
             }, 
             {
-                "color": "yellow", 
+                "color": "blue", 
                 "description": "The U.S. surrenders to Japan in the Battle of Bataan, beginning the three \r\nyear occupation of the Commonwealth of the Philippines by Japanese forces.", 
-                "starting_time": -883612800
+                "starting_time": -883612800000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "President Roosevelt signed Executive order 8734; establishing the Office of \r\nPrice Administration.", 
-                "starting_time": -883612800
+                "starting_time": -883612800000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "*Pacific Theater of Operations*: The Doolittle Raid begins the first U.S. \r\nbombing of Japanese archipelago.", 
-                "starting_time": -883612800
+                "starting_time": -883612800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The Aleutian Islands Campaign begins the Japanese occupation of Alaska \r\nTerritory.", 
+                "starting_time": -883612800000
             }, 
             {
                 "color": "red", 
-                "description": "The Aleutian Islands Campaign begins the Japanese occupation of Alaska \r\nTerritory.", 
-                "starting_time": -883612800
+                "description": "The Battle of Midway was fought.", 
+                "starting_time": -883612800000
+            }, 
+            {
+                "color": "red", 
+                "description": "The *Guadalcanal Campaign* begins in the Solomon Islands.", 
+                "starting_time": -883612800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The *Manhattan Project*, leading to the development of the first atomic bomb, \r\nbegan.", 
+                "starting_time": -883612800000
             }, 
             {
                 "color": "yellow", 
-                "description": "The Battle of Midway was fought.", 
-                "starting_time": -883612800
-            }, 
-            {
-                "color": "orange", 
-                "description": "The *Guadalcanal Campaign* begins in the Solomon Islands.", 
-                "starting_time": -883612800
-            }, 
-            {
-                "color": "orange", 
-                "description": "The *Manhattan Project*, leading to the development of the first atomic bomb, \r\nbegan.", 
-                "starting_time": -883612800
-            }, 
-            {
-                "color": "green", 
                 "description": "The Revenue Act of 1942 was signed into law.", 
-                "starting_time": -883612800
+                "starting_time": -883612800000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "The *Cocoanut Grove fire*, the deadliest nightclub fire in U.S. History, \r\nkilled 492 people in Boston.", 
-                "starting_time": -883612800
+                "starting_time": -883612800000
             }, 
             {
-                "color": "red", 
+                "color": "yellow", 
                 "description": "The *Casablanca Conference* was held.", 
-                "starting_time": -852076800
+                "starting_time": -852076800000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "The Broadway musical *Oklahoma!* opened.", 
-                "starting_time": -852076800
+                "starting_time": -852076800000
             }, 
             {
                 "color": "red", 
                 "description": "The Detroit Race Riot occurred; resulting in the deaths of 34 Whites and \r\nAfrican-Americans and leaving 670 injured.", 
-                "starting_time": -852076800
+                "starting_time": -852076800000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "*Armistice of Cassibile*: General Dwight Eisenhower publicly announces the \r\nsurrender of Italy to the Allied Powers; with Italy later declaring war on \r\nGermany one month later.", 
-                "starting_time": -852076800
+                "starting_time": -852076800000
             }, 
             {
                 "color": "green", 
                 "description": "The *Cairo Conference* was held.", 
-                "starting_time": -852076800
+                "starting_time": -852076800000
             }, 
             {
                 "color": "orange", 
                 "description": "The *Tehran Conference* was held between the \"Big Three\" Allied leaders of \r\nWorld War II.", 
-                "starting_time": -852076800
+                "starting_time": -852076800000
             }, 
             {
-                "color": "red", 
+                "color": "yellow", 
                 "description": "*Normandy Landings (D-Day)*: The Invasion of Normandy, one of the largest amphibious \r\nmilitary assaults in history, began in the Allied Powers broader Operation \r\nOverlord; leading to the Liberation of Paris.", 
-                "starting_time": -820540800
+                "starting_time": -820540800000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "The G.I. Bill was signed into law.", 
-                "starting_time": -820540800
+                "starting_time": -820540800000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "*United Nations Monetary and Financial Conference*: Delegates from 44 \r\nnations met to discuss a new post-WWII monetary policy.", 
-                "starting_time": -820540800
+                "starting_time": -820540800000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "The *Dumbarton Oaks Conference* began, starting the first talks between \r\nworld leaders on the establishment of the United Nations.", 
-                "starting_time": -820540800
+                "starting_time": -820540800000
             }, 
             {
-                "color": "blue", 
+                "color": "yellow", 
                 "description": "*U.S. presidential election, 1944*: President Franklin Delano Roosevelt was \r\nreelected to a fourth term, defeating New York Governor Thomas E. Dewey.", 
-                "starting_time": -820540800
+                "starting_time": -820540800000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "The Battle of the Bulge, Germany's final major offensive of World War II, \r\nbegan; being the deadliest military battle for the United States during \r\nWorld War II.", 
-                "starting_time": -820540800
-            }, 
-            {
-                "color": "blue", 
-                "description": "The Yalta Conference was held in the Soviet Union.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "blue", 
-                "description": "The *Battle of Iwo Jima* began.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The Western Allied invasion of Germany began.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The *Battle of Okinawa* began, being the deadliest battle of the Pacific War\r\n.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "red", 
-                "description": "President Franklin D. Roosevelt died of a cerebral hemorrhage in Warm \r\nSprings, Georgia; with Vice President Harry S. Truman succeeding him, \r\nbecoming the 33rd President.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "yellow", 
-                "description": "German Chancellor Adolf Hitler committed suicide alongside wife Eva Braun \r\nin Berlin.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "green", 
-                "description": "Germany surrenders to the Allied Powers, leading to the End of World War II \r\nin Europe.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "red", 
-                "description": "*United Nations Charter*: The United Nations was founded, replacing the League \r\nof Nations.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "red", 
-                "description": "*Operation Downfall*: The United States conducted the only two atomic \r\nbombings during a war on Hiroshima and Nagasaki; killing between an \r\nestimated 150,000-246,000 people.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "blue", 
-                "description": "*Surrender of Japan*: In a broadcast to the Japanese public, Emperor \r\nHirohito announced that Japan had accepted the Potsdam Declaration, \r\nsurrendering to the Allied Powers.", 
-                "starting_time": -788918400
-            }, 
-            {
-                "color": "blue", 
-                "description": "The Japanese Instrument of Surrender was signed between the Empire of Japan, \r\nthe United States, United Kingdom, Soviet Union, Republic of China, France, \r\nNetherlands, Canada, Australia and New Zealand, on the deck of the *USS \r\nMissouri* in Tokyo Bay; marking the end of World War II.", 
-                "starting_time": -788918400
+                "starting_time": -820540800000
             }, 
             {
                 "color": "orange", 
-                "description": "*Nuremberg Trials*: The military tribunals against Nazi Germany leadership \r\nbegan.", 
-                "starting_time": -788918400
+                "description": "The Yalta Conference was held in the Soviet Union.", 
+                "starting_time": -788918400000
             }, 
             {
-                "color": "yellow", 
-                "description": "*Strike Wave of 1945–1946*: Nationwide labor strikes were held, with over \r\n4.6 million workers striking.", 
-                "starting_time": -788918400
+                "color": "red", 
+                "description": "The *Battle of Iwo Jima* began.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The Western Allied invasion of Germany began.", 
+                "starting_time": -788918400000
             }, 
             {
                 "color": "green", 
-                "description": "Automobile production in the United States for private consumers resumed.", 
-                "starting_time": -757382400
+                "description": "The *Battle of Okinawa* began, being the deadliest battle of the Pacific War\r\n.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "President Franklin D. Roosevelt died of a cerebral hemorrhage in Warm \r\nSprings, Georgia; with Vice President Harry S. Truman succeeding him, \r\nbecoming the 33rd President.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "red", 
+                "description": "German Chancellor Adolf Hitler committed suicide alongside wife Eva Braun \r\nin Berlin.", 
+                "starting_time": -788918400000
             }, 
             {
                 "color": "blue", 
+                "description": "Germany surrenders to the Allied Powers, leading to the End of World War II \r\nin Europe.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "*United Nations Charter*: The United Nations was founded, replacing the League \r\nof Nations.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "*Operation Downfall*: The United States conducted the only two atomic \r\nbombings during a war on Hiroshima and Nagasaki; killing between an \r\nestimated 150,000-246,000 people.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "*Surrender of Japan*: In a broadcast to the Japanese public, Emperor \r\nHirohito announced that Japan had accepted the Potsdam Declaration, \r\nsurrendering to the Allied Powers.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The Japanese Instrument of Surrender was signed between the Empire of Japan, \r\nthe United States, United Kingdom, Soviet Union, Republic of China, France, \r\nNetherlands, Canada, Australia and New Zealand, on the deck of the *USS \r\nMissouri* in Tokyo Bay; marking the end of World War II.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "red", 
+                "description": "*Nuremberg Trials*: The military tribunals against Nazi Germany leadership \r\nbegan.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "red", 
+                "description": "*Strike Wave of 1945–1946*: Nationwide labor strikes were held, with over \r\n4.6 million workers striking.", 
+                "starting_time": -788918400000
+            }, 
+            {
+                "color": "red", 
+                "description": "Automobile production in the United States for private consumers resumed.", 
+                "starting_time": -757382400000
+            }, 
+            {
+                "color": "red", 
                 "description": "The Employment Act was signed into law; establishing the Council of \r\nEconomic Advisers.", 
-                "starting_time": -757382400
+                "starting_time": -757382400000
             }, 
             {
                 "color": "orange", 
                 "description": "The Philippines regained independence from the United States.", 
-                "starting_time": -757382400
+                "starting_time": -757382400000
             }, 
             {
-                "color": "red", 
+                "color": "green", 
                 "description": "Benjamin Spock's *The Common Sense Book of Baby and Child Care* was \r\npublished.", 
-                "starting_time": -757382400
+                "starting_time": -757382400000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "The United States Atomic Energy Act of 1946 was signed into law; \r\nestablishing the United States Atomic Energy Commission.", 
-                "starting_time": -757382400
+                "starting_time": -757382400000
             }, 
             {
                 "color": "blue", 
                 "description": "President Truman signed Executive Order 9808; establishing the President's \r\nCommittee on Civil Rights.", 
-                "starting_time": -757382400
+                "starting_time": -757382400000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "The Truman Doctrine was declared, establishing \"the policy of the United \r\nStates to support free peoples who are resisting attempted subjugation by \r\narmed minorities or by outside pressures.\"", 
-                "starting_time": -725846400
-            }, 
-            {
-                "color": "green", 
-                "description": "President Truman signed executive order 9835; establishing the Federal \r\nEmployee Loyalty Program to search out the \"infiltration of disloyal \r\npersons\" in the U.S. Government.", 
-                "starting_time": -725846400
-            }, 
-            {
-                "color": "red", 
-                "description": "Jackie Robinson of the Brooklyn Dodgers broke the color line in Major \r\nLeague Baseball.", 
-                "starting_time": -725846400
-            }, 
-            {
-                "color": "green", 
-                "description": "The Marshall Plan was announced by U.S. Secretary of State George Marshall.", 
-                "starting_time": -725846400
-            }, 
-            {
-                "color": "red", 
-                "description": "The Taft Hartley Act was enacted, with the House and Senate overriding \r\nPresident Truman's veto of the bill.", 
-                "starting_time": -725846400
+                "starting_time": -725846400000
             }, 
             {
                 "color": "blue", 
+                "description": "President Truman signed executive order 9835; establishing the Federal \r\nEmployee Loyalty Program to search out the \"infiltration of disloyal \r\npersons\" in the U.S. Government.", 
+                "starting_time": -725846400000
+            }, 
+            {
+                "color": "blue", 
+                "description": "Jackie Robinson of the Brooklyn Dodgers broke the color line in Major \r\nLeague Baseball.", 
+                "starting_time": -725846400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The Marshall Plan was announced by U.S. Secretary of State George Marshall.", 
+                "starting_time": -725846400000
+            }, 
+            {
+                "color": "orange", 
+                "description": "The Taft Hartley Act was enacted, with the House and Senate overriding \r\nPresident Truman's veto of the bill.", 
+                "starting_time": -725846400000
+            }, 
+            {
+                "color": "green", 
                 "description": "The *Roswell UFO incident* occurred near Roswell, New Mexico.", 
-                "starting_time": -725846400
+                "starting_time": -725846400000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "The Presidential Succession Act was signed into law.", 
-                "starting_time": -725846400
+                "starting_time": -725846400000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "The National Security Act of 1947 was signed into law, establishing the Central \r\nIntelligence Agency.", 
-                "starting_time": -725846400
+                "starting_time": -725846400000
             }, 
             {
                 "color": "red", 
                 "description": "The General Agreement on Tariffs and Trade was signed in Geneva.", 
-                "starting_time": -725846400
-            }, 
-            {
-                "color": "red", 
-                "description": "The Charter of the Organization of American States was adopted.", 
-                "starting_time": -694310400
-            }, 
-            {
-                "color": "blue", 
-                "description": "*Texaco Star Theater*, the first top-rated United States network television \r\nshow, debuted on television.", 
-                "starting_time": -694310400
+                "starting_time": -725846400000
             }, 
             {
                 "color": "yellow", 
+                "description": "The Charter of the Organization of American States was adopted.", 
+                "starting_time": -694310400000
+            }, 
+            {
+                "color": "green", 
+                "description": "*Texaco Star Theater*, the first top-rated United States network television \r\nshow, debuted on television.", 
+                "starting_time": -694310400000
+            }, 
+            {
+                "color": "orange", 
                 "description": "The *Berlin Blockade*, the first major crisis of the Cold War, took place.", 
-                "starting_time": -694310400
+                "starting_time": -694310400000
             }, 
             {
                 "color": "green", 
                 "description": "The Selective Service Act of 1948 was signed into law.", 
-                "starting_time": -694310400
+                "starting_time": -694310400000
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "President Truman signed Executive Order 9981, leading to the desegregating \r\nthe United States Armed Forces.", 
-                "starting_time": -694310400
+                "starting_time": -694310400000
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "*U.S. presidential election, 1948*: President Harry S. Truman was reelected \r\nto a second term, defeating New York Governor and 1944 Presidential nominee Thomas \r\nE. Dewey, and South Carolina Governor Strom Thurmond, in what is regarded \r\nas one of the biggest upsets in American political history.", 
-                "starting_time": -694310400
+                "starting_time": -694310400000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "The Polaroid camera was first offered for sale.", 
-                "starting_time": -694310400
+                "starting_time": -694310400000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "In the 1949 State of the Union Address, President Truman proposed the \r\nunsuccessful Fair Deal; his administration's agenda for economic and \r\ndomestic policy.", 
-                "starting_time": -662688000
+                "starting_time": -662688000000
             }, 
             {
                 "color": "green", 
                 "description": "Allied-occupied Germany was divided into East and West Germany.", 
-                "starting_time": -662688000
+                "starting_time": -662688000000
             }, 
             {
-                "color": "red", 
+                "color": "blue", 
                 "description": "*North Atlantic Treaty*: The North Atlantic Treaty Organization was founded.", 
-                "starting_time": -662688000
+                "starting_time": -662688000000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "The *Nuremberg Trials* ended, with the convictions of 24 major Nazi \r\npolitical and military leaders, among others.", 
-                "starting_time": -662688000
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The National Security Amendments of 1949 was signed into law by President \r\nTruman, renaming the Department of War the Department of Defense.", 
-                "starting_time": -662688000
+                "starting_time": -662688000000
             }, 
             {
                 "color": "blue", 
+                "description": "The National Security Amendments of 1949 was signed into law by President \r\nTruman, renaming the Department of War the Department of Defense.", 
+                "starting_time": -662688000000
+            }, 
+            {
+                "color": "green", 
                 "description": "*First Lightning*: The Soviet Union tested its first atomic bomb.", 
-                "starting_time": -662688000
+                "starting_time": -662688000000
             }, 
             {
-                "color": "yellow", 
+                "color": "blue", 
                 "description": "*Second Red Scare*: McCarthyism, the term to describe \"the practice of \r\nmaking unfair allegations or using unfair investigative techniques, \r\nespecially of pro-Communist activity\" of Senator Joseph McCarthy,[308] \r\nbegan after heightened fears of Communist influence in America.", 
-                "starting_time": -631152000
+                "starting_time": -631152000000
+            }, 
+            {
+                "color": "green", 
+                "description": "A grand jury found former State Department official and President of the Carnegie \r\nEndowment for International Peace Alger Hiss guilty on two counts of \r\nperjury in connection with charges that he was a Soviet spy.", 
+                "starting_time": -631152000000
             }, 
             {
                 "color": "yellow", 
-                "description": "A grand jury found former State Department official and President of the Carnegie \r\nEndowment for International Peace Alger Hiss guilty on two counts of \r\nperjury in connection with charges that he was a Soviet spy.", 
-                "starting_time": -631152000
+                "description": "Senator McCarthy came to national prominence after claiming to have a list \r\nof 205 State Department employees who were members of the Communist Party \r\nand \"helping to shape [the U.S.'s] foreign policy.\"", 
+                "starting_time": -631152000000
             }, 
             {
                 "color": "orange", 
-                "description": "Senator McCarthy came to national prominence after claiming to have a list \r\nof 205 State Department employees who were members of the Communist Party \r\nand \"helping to shape [the U.S.'s] foreign policy.\"", 
-                "starting_time": -631152000
-            }, 
-            {
-                "color": "yellow", 
                 "description": "*Korean War*: The North Korean military began the Communist lead invasion \r\nof South Korea.", 
-                "starting_time": -631152000
+                "starting_time": -631152000000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "President Truman ordered U.S. air and naval support to aid South Korea \r\nagainst the Northern lead invasion; prompting the beginning of the U.S. \r\ninvolvement in the Korean War.", 
-                "starting_time": -631152000
+                "starting_time": -631152000000
             }, 
             {
-                "color": "green", 
+                "color": "orange", 
                 "description": "The McCarran Internal Security Act was enacted, with the House and Senate \r\noverriding President Truman's veto of the bill.", 
-                "starting_time": -631152000
-            }, 
-            {
-                "color": "green", 
-                "description": "The comic strip *Peanuts*, by Charles M. Schulz, was first published.", 
-                "starting_time": -631152000
-            }, 
-            {
-                "color": "green", 
-                "description": "*Truman assassination attempt*: Two Puerto Rican nationals attempted to \r\nassassinate President Harry S. Truman while he stayed at Blair House.", 
-                "starting_time": -631152000
+                "starting_time": -631152000000
             }, 
             {
                 "color": "blue", 
+                "description": "The comic strip *Peanuts*, by Charles M. Schulz, was first published.", 
+                "starting_time": -631152000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "*Truman assassination attempt*: Two Puerto Rican nationals attempted to \r\nassassinate President Harry S. Truman while he stayed at Blair House.", 
+                "starting_time": -631152000000
+            }, 
+            {
+                "color": "orange", 
                 "description": "The Twenty-second Amendment to the United States Constitution, establishing \r\nterm limits for President, was ratified.", 
-                "starting_time": -599616000
+                "starting_time": -599616000000
             }, 
             {
                 "color": "yellow", 
                 "description": "President Truman relieved General Douglas MacArthur of his commands after \r\ncriticizing the limited war efforts of the Truman administration, and \r\nstarting unauthorized talks with China in the Korean war.", 
-                "starting_time": -599616000
+                "starting_time": -599616000000
             }, 
             {
-                "color": "yellow", 
+                "color": "green", 
                 "description": "The ANZUS Treaty was signed.", 
-                "starting_time": -599616000
+                "starting_time": -599616000000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "The Japanese Peace Treaty Conference was held San Francisco.", 
-                "starting_time": -599616000
+                "starting_time": -599616000000
             }, 
             {
                 "color": "red", 
                 "description": "The Mutual Security Act was signed into law.", 
-                "starting_time": -599616000
-            }, 
-            {
-                "color": "orange", 
-                "description": "The McCarran–Walter Act was enacted, with the House and Senate overriding \r\nPresident Truman's veto of the bill.", 
-                "starting_time": -568080000
-            }, 
-            {
-                "color": "orange", 
-                "description": "*United States presidential election, 1952*: Five-Star General and former Chief \r\nof Staff of the United States Army Dwight D. Eisenhower was elected \r\nPresident, defeating Illinois Governor Adlai Stevenson II.", 
-                "starting_time": -568080000
-            }, 
-            {
-                "color": "blue", 
-                "description": "Molecular biologists James Watson and Francis Crick published their paper \r\non the discovery of the molecular structure of DNA.", 
-                "starting_time": -536457600
-            }, 
-            {
-                "color": "red", 
-                "description": "Julius and Ethel Rosenberg were executed on conspiracy to commit espionage \r\nafter they were found guilty of giving U.S. atomic secrets to the Soviet \r\nUnion.", 
-                "starting_time": -536457600
-            }, 
-            {
-                "color": "red", 
-                "description": "The Korean Armistice Agreement was signed, ending the Korean War.", 
-                "starting_time": -536457600
-            }, 
-            {
-                "color": "yellow", 
-                "description": "*Operation Ajax*: Mohammad Reza Pahlavi returned to power after the CIA \r\nconducted a *coup d'état* in Iran.", 
-                "starting_time": -536457600
+                "starting_time": -599616000000
             }, 
             {
                 "color": "green", 
-                "description": "*Tournament of Roses Parade*: The parade was the first national color \r\ntelevision broadcast.", 
-                "starting_time": -504921600
+                "description": "The McCarran–Walter Act was enacted, with the House and Senate overriding \r\nPresident Truman's veto of the bill.", 
+                "starting_time": -568080000000
             }, 
             {
                 "color": "red", 
+                "description": "*United States presidential election, 1952*: Five-Star General and former Chief \r\nof Staff of the United States Army Dwight D. Eisenhower was elected \r\nPresident, defeating Illinois Governor Adlai Stevenson II.", 
+                "starting_time": -568080000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Molecular biologists James Watson and Francis Crick published their paper \r\non the discovery of the molecular structure of DNA.", 
+                "starting_time": -536457600000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Julius and Ethel Rosenberg were executed on conspiracy to commit espionage \r\nafter they were found guilty of giving U.S. atomic secrets to the Soviet \r\nUnion.", 
+                "starting_time": -536457600000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The Korean Armistice Agreement was signed, ending the Korean War.", 
+                "starting_time": -536457600000
+            }, 
+            {
+                "color": "green", 
+                "description": "*Operation Ajax*: Mohammad Reza Pahlavi returned to power after the CIA \r\nconducted a *coup d'état* in Iran.", 
+                "starting_time": -536457600000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "*Tournament of Roses Parade*: The parade was the first national color \r\ntelevision broadcast.", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "yellow", 
                 "description": "*Geneva Conference (1954)*: A conference was held where the United States \r\nattempted to find a way to unify Korea and restore peace in Indochina.", 
-                "starting_time": -504921600
+                "starting_time": -504921600000
             }, 
             {
                 "color": "orange", 
                 "description": "*Brown v. Board of Education*: The Supreme Court declared that state laws \r\nestablishing separate public schools for black and white students, and \r\ndenying black children equal educational opportunities, were \r\nunconstitutional.", 
-                "starting_time": -504921600
-            }, 
-            {
-                "color": "yellow", 
-                "description": "*Army-McCarthy hearings*: Senator McCarthy was nationally discredited after \r\nfailing to provide credible evidence supporting accusations of communist \r\nactivity in the U.S. government amid the two months of televised hearings.", 
-                "starting_time": -504921600
-            }, 
-            {
-                "color": "yellow", 
-                "description": "*Operation PBSUCCESS*: The CIA organized the overthrow of Guatemala's \r\ndemocratically elected President Jacobo Arbenz Guzmán.", 
-                "starting_time": -504921600
+                "starting_time": -504921600000
             }, 
             {
                 "color": "red", 
+                "description": "*Army-McCarthy hearings*: Senator McCarthy was nationally discredited after \r\nfailing to provide credible evidence supporting accusations of communist \r\nactivity in the U.S. government amid the two months of televised hearings.", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "red", 
+                "description": "*Operation PBSUCCESS*: The CIA organized the overthrow of Guatemala's \r\ndemocratically elected President Jacobo Arbenz Guzmán.", 
+                "starting_time": -504921600000
+            }, 
+            {
+                "color": "orange", 
                 "description": "The United States became a member of the Southeast Asia Treaty Organization \r\n(SEATO).", 
-                "starting_time": -504921600
+                "starting_time": -504921600000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "The Dow Jones Industrial Average closed at an all-time high of 382.74, the \r\nfirst time it closed above its peak set before the Wall Street Crash of \r\n1929.", 
-                "starting_time": -504921600
+                "starting_time": -504921600000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "The United States and the Republic of China signed the Sino-American Mutual \r\nDefense Treaty, amid the First Taiwan Strait Crisis.", 
-                "starting_time": -504921600
+                "starting_time": -504921600000
             }, 
             {
                 "color": "orange", 
                 "description": "The first successful kidney transplant on a human was performed in Boston.", 
-                "starting_time": -504921600
+                "starting_time": -504921600000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "The African-American Civil Rights Movement (1955–1968) began.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "The announcement that the polio vaccine developed by Jonas Salk was found \r\nto be \"safe, effective and potent\" was made by the University of Michigan.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "Ray Kroc opened the first McDonald's fast food restaurant in Des Plaines, \r\nIllinois.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "The Warsaw Pact was signed, establishing a mutual defense arrangement \r\nsubscribed to by eight Communist states in Eastern Europe, including the \r\nSoviet Union.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "Disneyland opened at Anaheim, California.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "blue", 
+                "color": "yellow", 
                 "description": "Emmett Till was kidnapped, beaten and murdered in Money, Mississippi after \r\nreportedly flirting with a white woman; with the pictures of his open \r\ncasket funeral, and the acquittal of his captors, the public reaction of \r\nTill's death helped spark the Civil Rights Movement.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "Actor James Dean was killed in a highway collision in Salinas, California.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "yellow", 
+                "color": "green", 
                 "description": "*Vietnam War*: President Eisenhower deploys the first American personnel \r\nfrom the Military Assistance Advisory Group to South Vietnam after the First \r\nIndochina War.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "Rosa Parks was arrested in Montgomery, Alabama after refusing to give up \r\nher bus seat to a white passenger, inciting the 386-day Montgomery Bus \r\nBoycott led by Reverend Dr. Martin Luther King Jr.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "The American Federation of Labor and Congress of Industrial Organizations \r\nmerged into the AFL-CIO, becoming the largest labor union in the United \r\nStates.", 
-                "starting_time": -473385600
+                "starting_time": -473385600000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "The Federal Aid Highway Act of 1956, authorizing the construction of 41,000 \r\nmiles of the Interstate Highway System over a 20-year period, was signed \r\ninto law.", 
-                "starting_time": -441849600
+                "starting_time": -441849600000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "*Hungarian Revolution of 1956*: The United States refused to support the \r\nrevolution.", 
-                "starting_time": -441849600
+                "starting_time": -441849600000
             }, 
             {
-                "color": "red", 
+                "color": "yellow", 
                 "description": "*United States presidential election, 1956*: President Dwight D. Eisenhower \r\nwas reelected to a second term, defeating 1952 Democratic presidential \r\nnominee Adlai Stevenson II in the rematch election.", 
-                "starting_time": -441849600
+                "starting_time": -441849600000
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "The Eisenhower Doctrine, wherein a country could request American economic \r\nassistance or military aid if threatened by outside armed aggression, was \r\nproclaimed.", 
-                "starting_time": -410227200
-            }, 
-            {
-                "color": "red", 
-                "description": "Dr. King, Rustin, Lowrey, Shuttlesworth and Abernathy founded the Southern \r\nChristian Leadership Council (SCLC).", 
-                "starting_time": -410227200
+                "starting_time": -410227200000
             }, 
             {
                 "color": "green", 
+                "description": "Dr. King, Rustin, Lowrey, Shuttlesworth and Abernathy founded the Southern \r\nChristian Leadership Council (SCLC).", 
+                "starting_time": -410227200000
+            }, 
+            {
+                "color": "red", 
                 "description": "*Little Rock Integration Crisis*: Arkansas Governor Orval Faubus deployed \r\nmembers of the Arkansas National Guard to prevent African-American students \r\nfrom integrating in the Little Rock Central High School.", 
-                "starting_time": -410227200
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The Civil Rights Act of 1957, primarily a voting rights bill, was signed \r\ninto law.", 
-                "starting_time": -410227200
-            }, 
-            {
-                "color": "red", 
-                "description": "President Eisenhower federalized the Arkansas National Guard and sent \r\nmembers of the 101st Airborne Division to escort the Little Rock Nine to \r\ntheir classrooms in response to Governor Faubus' efforts preventing school \r\ndesegregation.", 
-                "starting_time": -410227200
-            }, 
-            {
-                "color": "red", 
-                "description": "*Space race*: The Soviet Union launched *Sputnik*.", 
-                "starting_time": -410227200
-            }, 
-            {
-                "color": "yellow", 
-                "description": "*Atoms for Peace*: The Shippingport Atomic Power Station, the first \r\ncommercial nuclear power plant, went into service.", 
-                "starting_time": -410227200
+                "starting_time": -410227200000
             }, 
             {
                 "color": "orange", 
+                "description": "The Civil Rights Act of 1957, primarily a voting rights bill, was signed \r\ninto law.", 
+                "starting_time": -410227200000
+            }, 
+            {
+                "color": "orange", 
+                "description": "President Eisenhower federalized the Arkansas National Guard and sent \r\nmembers of the 101st Airborne Division to escort the Little Rock Nine to \r\ntheir classrooms in response to Governor Faubus' efforts preventing school \r\ndesegregation.", 
+                "starting_time": -410227200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "*Space race*: The Soviet Union launched *Sputnik*.", 
+                "starting_time": -410227200000
+            }, 
+            {
+                "color": "red", 
+                "description": "*Atoms for Peace*: The Shippingport Atomic Power Station, the first \r\ncommercial nuclear power plant, went into service.", 
+                "starting_time": -410227200000
+            }, 
+            {
+                "color": "green", 
                 "description": "*Explorer 1*: The first U.S. satellite was launched into space.", 
-                "starting_time": -378691200
+                "starting_time": -378691200000
             }, 
             {
-                "color": "red", 
+                "color": "yellow", 
                 "description": "The National Aeronautics and Space Act was signed into law; establishing \r\nthe National Aeronautics and Space Administration.", 
-                "starting_time": -378691200
+                "starting_time": -378691200000
             }, 
             {
-                "color": "yellow", 
+                "color": "blue", 
                 "description": "Jack Kilby invented the integrated circuit.", 
-                "starting_time": -378691200
+                "starting_time": -378691200000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "The National Defense Education Act was signed into law.", 
-                "starting_time": -378691200
-            }, 
-            {
-                "color": "green", 
-                "description": "Alaska was admitted to the Union, becoming the 49th state.", 
-                "starting_time": -347155200
-            }, 
-            {
-                "color": "red", 
-                "description": "*The Day the Music Died*: Musicians Buddy Holly, Ritchie Valens, J. P. \"The \r\nBig Bopper\" Richardson, and pilot, Roger Peterson, were killed in a plane \r\naccident.", 
-                "starting_time": -347155200
-            }, 
-            {
-                "color": "green", 
-                "description": "The First Grammy Awards was held.", 
-                "starting_time": -347155200
-            }, 
-            {
-                "color": "red", 
-                "description": "U.S. Army Master Sergeant Chester Ovnand and Major Dale M. Buis were killed \r\nin South Vietnam, being the first two official American casualties of the Vietnam \r\nWar.", 
-                "starting_time": -347155200
-            }, 
-            {
-                "color": "blue", 
-                "description": "Hawaii was admitted to the Union, becoming the 50th state.", 
-                "starting_time": -347155200
-            }, 
-            {
-                "color": "blue", 
-                "description": "The *Greensboro sit-ins*, sparked by the refusal of four African American \r\ncollege students to move from a segregated lunch counter, began similar \r\nwidespread acts of civil disobedience to protest Jim Crow laws.", 
-                "starting_time": -315619200
+                "starting_time": -378691200000
             }, 
             {
                 "color": "yellow", 
+                "description": "Alaska was admitted to the Union, becoming the 49th state.", 
+                "starting_time": -347155200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "*The Day the Music Died*: Musicians Buddy Holly, Ritchie Valens, J. P. \"The \r\nBig Bopper\" Richardson, and pilot, Roger Peterson, were killed in a plane \r\naccident.", 
+                "starting_time": -347155200000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The First Grammy Awards was held.", 
+                "starting_time": -347155200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "U.S. Army Master Sergeant Chester Ovnand and Major Dale M. Buis were killed \r\nin South Vietnam, being the first two official American casualties of the Vietnam \r\nWar.", 
+                "starting_time": -347155200000
+            }, 
+            {
+                "color": "red", 
+                "description": "Hawaii was admitted to the Union, becoming the 50th state.", 
+                "starting_time": -347155200000
+            }, 
+            {
+                "color": "green", 
+                "description": "The *Greensboro sit-ins*, sparked by the refusal of four African American \r\ncollege students to move from a segregated lunch counter, began similar \r\nwidespread acts of civil disobedience to protest Jim Crow laws.", 
+                "starting_time": -315619200000
+            }, 
+            {
+                "color": "red", 
                 "description": "The Student Nonviolent Coordinating Committee was founded.", 
-                "starting_time": -315619200
+                "starting_time": -315619200000
             }, 
             {
                 "color": "blue", 
                 "description": "*U-2 incident*: A CIA U-2 spy plane was shot down while flying a \r\nreconnaissance mission over Soviet airspace.", 
-                "starting_time": -315619200
+                "starting_time": -315619200000
             }, 
             {
-                "color": "blue", 
+                "color": "yellow", 
                 "description": "The Civil Rights Act of 1960, establishing federal inspection of local \r\nvoter registration polls and penalties for those attempting to obstruct the \r\nright to vote, was signed into law.", 
-                "starting_time": -315619200
+                "starting_time": -315619200000
             }, 
             {
                 "color": "orange", 
                 "description": "The first ever general election debate between presidential candidates was \r\nheld between Democratic nominee John F. Kennedy and Republican nominee Richard \r\nM. Nixon.", 
-                "starting_time": -315619200
+                "starting_time": -315619200000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "*United States presidential election, 1960*: Massachusetts Senator John F. \r\nKennedy was elected President, defeating Vice President Richard M. Nixon \r\nand becoming the youngest person to be elected to the office of the \r\nPresidency.", 
-                "starting_time": -315619200
-            }, 
-            {
-                "color": "blue", 
-                "description": "*Boynton v. Virginia*: In a 7-2 ruling, the Supreme Court ruled that \r\nAfrican-Americans were protected from racial segregation on buses by the \r\nInterstate Commerce Act.", 
-                "starting_time": -315619200
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The National Front for the Liberation of Vietnam was formed.", 
-                "starting_time": -315619200
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The United States broke diplomatic relations with Cuba.", 
-                "starting_time": -283996800
-            }, 
-            {
-                "color": "blue", 
-                "description": "President Eisenhower gave his farewell address which warned of the \"military–industrial \r\ncomplex\".", 
-                "starting_time": -283996800
+                "starting_time": -315619200000
             }, 
             {
                 "color": "green", 
+                "description": "*Boynton v. Virginia*: In a 7-2 ruling, the Supreme Court ruled that \r\nAfrican-Americans were protected from racial segregation on buses by the \r\nInterstate Commerce Act.", 
+                "starting_time": -315619200000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The National Front for the Liberation of Vietnam was formed.", 
+                "starting_time": -315619200000
+            }, 
+            {
+                "color": "green", 
+                "description": "The United States broke diplomatic relations with Cuba.", 
+                "starting_time": -283996800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "President Eisenhower gave his farewell address which warned of the \"military–industrial \r\ncomplex\".", 
+                "starting_time": -283996800000
+            }, 
+            {
+                "color": "red", 
                 "description": "The United States embargo against Cuba came into force.", 
-                "starting_time": -283996800
+                "starting_time": -283996800000
             }, 
             {
                 "color": "red", 
                 "description": "President Kennedy signed Executive Order 10924, establishing the Peace Corps\r\n.", 
-                "starting_time": -283996800
+                "starting_time": -283996800000
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "The Twenty-third Amendment to the United States Constitution, which granted \r\nelectors to the District of Columbia, was ratified.", 
-                "starting_time": -283996800
+                "starting_time": -283996800000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "*Bay of Pigs Invasion*: The failed U.S. led invasion and attempted coup \r\nd'état of Cuban Prime Minister Fidel Castro took place.", 
-                "starting_time": -283996800
+                "starting_time": -283996800000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "The *Freedom Rides* began in Washington D.C. after the failure to enforce \r\nthe Supreme Court's ruling in *Boynton v. Virginia*.", 
-                "starting_time": -283996800
+                "starting_time": -283996800000
             }, 
             {
-                "color": "yellow", 
+                "color": "blue", 
                 "description": "Alan Shepard piloted the Freedom 7 capsule to become the first American in \r\nspace.", 
-                "starting_time": -283996800
+                "starting_time": -283996800000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "President Kennedy proposed the Apollo program, with the goal of \"landing a \r\nman on the moon and returning him safely to the earth.\"", 
-                "starting_time": -283996800
+                "starting_time": -283996800000
             }, 
             {
                 "color": "orange", 
                 "description": "*Vietnam War*: President Kennedy deployed an additional 400 U.S. military \r\nadvisors (900 total) to South Vietnam; totaling 3,200 American troops by \r\n1963, and more than 11,000 by mid-1964.", 
-                "starting_time": -283996800
+                "starting_time": -283996800000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "John Glenn orbited the Earth.", 
-                "starting_time": -252460800
-            }, 
-            {
-                "color": "blue", 
-                "description": "A decision was reached in *Baker v. Carr* which enabled federal courts to \r\nintervene in and to decide reapportionment cases.", 
-                "starting_time": -252460800
-            }, 
-            {
-                "color": "red", 
-                "description": "A decision in *Engel v. Vitale* determined that it was unconstitutional for \r\nstate officials to compose an official school prayer and require its \r\nrecitation in public schools.", 
-                "starting_time": -252460800
+                "starting_time": -252460800000
             }, 
             {
                 "color": "yellow", 
-                "description": "Marilyn Monroe died of an apparent overdose from acute barbiturate poisoning \r\nat age thirty-six.", 
-                "starting_time": -252460800
+                "description": "A decision was reached in *Baker v. Carr* which enabled federal courts to \r\nintervene in and to decide reapportionment cases.", 
+                "starting_time": -252460800000
             }, 
             {
                 "color": "blue", 
+                "description": "A decision in *Engel v. Vitale* determined that it was unconstitutional for \r\nstate officials to compose an official school prayer and require its \r\nrecitation in public schools.", 
+                "starting_time": -252460800000
+            }, 
+            {
+                "color": "orange", 
+                "description": "Marilyn Monroe died of an apparent overdose from acute barbiturate poisoning \r\nat age thirty-six.", 
+                "starting_time": -252460800000
+            }, 
+            {
+                "color": "red", 
                 "description": "*Cuban missile crisis*: A nuclear confrontation took place between the \r\nUnited States and the Soviet Union.", 
-                "starting_time": -252460800
+                "starting_time": -252460800000
             }, 
             {
                 "color": "yellow", 
                 "description": "Betty Friedan's *The Feminine Mystique*, attributed to sparking Second-wave \r\nfeminism, was published.", 
-                "starting_time": -220924800
+                "starting_time": -220924800000
             }, 
             {
                 "color": "green", 
                 "description": "*Gideon v. Wainwright*: In a unanimous decision, the Supreme Court ruled \r\nthat the right to counsel is protected under the Sixth Amendment.", 
-                "starting_time": -220924800
+                "starting_time": -220924800000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "*Birmingham campaign*: The nonviolent led protests against racial \r\nsegregation in Birmingham, Alabama was launched by the SCLC.", 
-                "starting_time": -220924800
+                "starting_time": -220924800000
             }, 
             {
                 "color": "red", 
                 "description": "*Letter from a Birmingham Jail*: Dr. King was arrested amid the Birmingham \r\ncampaign, writing an open letter defending the strategy nonviolent protest.", 
-                "starting_time": -220924800
+                "starting_time": -220924800000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "The Equal Pay Act of 1963 was signed into law.", 
-                "starting_time": -220924800
+                "starting_time": -220924800000
             }, 
             {
-                "color": "green", 
+                "color": "orange", 
                 "description": "NAACP field secretary Medgar Evers was assassinated at his home in \r\nMississippi by white supremacists, hours after President Kennedy gave his Civil \r\nRights Address.", 
-                "starting_time": -220924800
+                "starting_time": -220924800000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "*March on Washington for Jobs and Freedom*: Dr. Martin Luther King Jr., \r\namong other notable civil rights leaders, spoke on the Lincoln Memorial, \r\ngiving his historic \"I Have a Dream\" speech at the march that drew over \r\n200,000 demonstrators.", 
-                "starting_time": -220924800
+                "starting_time": -220924800000
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "The *16th Street Baptist Church bombing*, carried out by a KKK splinter \r\ngroup, killed four African-Americans girls in what was seen as a turning \r\npoint for the Civil Rights Movement.", 
-                "starting_time": -220924800
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The Atomic Test Ban Treaty was signed.", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "President John F. Kennedy was assassinated by a sniper in Dallas, Texas \r\nwhile traveling in an open presidential motorcade with Texas Governor John \r\nConnally, who was injured in the incident.", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Vice President Lyndon B. Johnson was sworn in as President, hours after the \r\nassassination of President John F. Kennedy.", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "Lee Harvey Oswald, the sniper who assassinated President Kennedy, was \r\nkilled after being fatally shot by Dallas nightclub owner Jack Ruby.", 
+                "starting_time": -220924800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "The Warren Commission was established by President Johnson to investigate \r\nthe assassination of President Kennedy.", 
+                "starting_time": -220924800000
             }, 
             {
                 "color": "red", 
-                "description": "The Atomic Test Ban Treaty was signed.", 
-                "starting_time": -220924800
-            }, 
-            {
-                "color": "yellow", 
-                "description": "President John F. Kennedy was assassinated by a sniper in Dallas, Texas \r\nwhile traveling in an open presidential motorcade with Texas Governor John \r\nConnally, who was injured in the incident.", 
-                "starting_time": -220924800
-            }, 
-            {
-                "color": "orange", 
-                "description": "Vice President Lyndon B. Johnson was sworn in as President, hours after the \r\nassassination of President John F. Kennedy.", 
-                "starting_time": -220924800
-            }, 
-            {
-                "color": "green", 
-                "description": "Lee Harvey Oswald, the sniper who assassinated President Kennedy, was \r\nkilled after being fatally shot by Dallas nightclub owner Jack Ruby.", 
-                "starting_time": -220924800
-            }, 
-            {
-                "color": "green", 
-                "description": "The Warren Commission was established by President Johnson to investigate \r\nthe assassination of President Kennedy.", 
-                "starting_time": -220924800
-            }, 
-            {
-                "color": "yellow", 
                 "description": "The Clean Air Act was signed into law.", 
-                "starting_time": -220924800
+                "starting_time": -220924800000
             }, 
             {
                 "color": "blue", 
                 "description": "The Twenty-fourth Amendment to the United States Constitution, prohibiting \r\nboth Congress and the states from conditioning the right to vote in federal \r\nelections on payment of a poll tax or other types of tax, was ratified.", 
-                "starting_time": -189388800
+                "starting_time": -189388800000
             }, 
             {
                 "color": "green", 
                 "description": "*British Invasion*: The Beatles arrived in the United States.", 
-                "starting_time": -189388800
-            }, 
-            {
-                "color": "blue", 
-                "description": "President Johnson proposed the Great Society, a set of social reforms aimed \r\nat the elimination of poverty and racial injustice.", 
-                "starting_time": -189388800
-            }, 
-            {
-                "color": "green", 
-                "description": "The *Freedom Summer* began, aimed to increase voter registration for \r\nAfrican Americans.", 
-                "starting_time": -189388800
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The Civil Rights Act of 1964, outlawing both segregation and major forms of \r\ndiscrimination against blacks and women, was signed into law.", 
-                "starting_time": -189388800
+                "starting_time": -189388800000
             }, 
             {
                 "color": "red", 
-                "description": "*Tonkin Gulf incident*, a false flag operation with 'deliberately skewed' \r\nintelligence to expand U.S. military involvement in Vietnam, occurred.", 
-                "starting_time": -189388800
+                "description": "President Johnson proposed the Great Society, a set of social reforms aimed \r\nat the elimination of poverty and racial injustice.", 
+                "starting_time": -189388800000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
+                "description": "The *Freedom Summer* began, aimed to increase voter registration for \r\nAfrican Americans.", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "green", 
+                "description": "The Civil Rights Act of 1964, outlawing both segregation and major forms of \r\ndiscrimination against blacks and women, was signed into law.", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "blue", 
+                "description": "*Tonkin Gulf incident*, a false flag operation with 'deliberately skewed' \r\nintelligence to expand U.S. military involvement in Vietnam, occurred.", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "green", 
                 "description": "*Mississippi civil rights workers' murders*: The bodies of three missing \r\ncivil rights activists, working to register voters as a part of the Freedom \r\nSummer, were found near Philadelphia, Mississippi.", 
-                "starting_time": -189388800
+                "starting_time": -189388800000
             }, 
             {
                 "color": "orange", 
                 "description": "The Gulf of Tonkin Resolution, not a formal declaration of war in Vietnam, \r\nwas signed by President Johnson", 
-                "starting_time": -189388800
-            }, 
-            {
-                "color": "green", 
-                "description": "The Economic Opportunity Act was signed into law.", 
-                "starting_time": -189388800
+                "starting_time": -189388800000
             }, 
             {
                 "color": "yellow", 
-                "description": "*United States presidential election, 1964*: President Lyndon B. Johnson \r\ndefeated Arizona Senator Barry Goldwater.", 
-                "starting_time": -189388800
+                "description": "The Economic Opportunity Act was signed into law.", 
+                "starting_time": -189388800000
             }, 
             {
                 "color": "blue", 
-                "description": "Dr. King became the youngest person ever to be awarded the Nobel Peace Prize, \r\nfor his 'nonviolent campaign against racism'.", 
-                "starting_time": -189388800
-            }, 
-            {
-                "color": "yellow", 
-                "description": "*Vietnam War*: Johnson escalates United States military involvement in the \r\nwar, with the number of U.S. troops totaling more than 184,000.", 
-                "starting_time": -157766400
-            }, 
-            {
-                "color": "orange", 
-                "description": "African American Muslim minister and human rights activist Malcolm X was \r\nassassinated at the Audubon Ballroom in Harlem, New York.", 
-                "starting_time": -157766400
+                "description": "*United States presidential election, 1964*: President Lyndon B. Johnson \r\ndefeated Arizona Senator Barry Goldwater.", 
+                "starting_time": -189388800000
             }, 
             {
                 "color": "green", 
+                "description": "Dr. King became the youngest person ever to be awarded the Nobel Peace Prize, \r\nfor his 'nonviolent campaign against racism'.", 
+                "starting_time": -189388800000
+            }, 
+            {
+                "color": "red", 
+                "description": "*Vietnam War*: Johnson escalates United States military involvement in the \r\nwar, with the number of U.S. troops totaling more than 184,000.", 
+                "starting_time": -157766400000
+            }, 
+            {
+                "color": "red", 
+                "description": "African American Muslim minister and human rights activist Malcolm X was \r\nassassinated at the Audubon Ballroom in Harlem, New York.", 
+                "starting_time": -157766400000
+            }, 
+            {
+                "color": "orange", 
                 "description": "*Operation Rolling Thunder* began in the Vietnam War.", 
-                "starting_time": -157766400
+                "starting_time": -157766400000
             }, 
             {
                 "color": "orange", 
                 "description": "The *Selma to Montgomery marches*, known as \"Bloody Sunday\", drew national \r\noutrage after Alabama State Troopers severely beat and used tear gas \r\nagainst the nonviolent demonstrators.", 
-                "starting_time": -157766400
+                "starting_time": -157766400000
             }, 
             {
                 "color": "green", 
                 "description": "In a third attempt to march from Selma to Montgomery, 3,200 civil rights \r\ndemonstrators reached the Alabama State Capitol, where they were joined \r\nwith a crowd of 25,000, after four days of marching.", 
-                "starting_time": -157766400
+                "starting_time": -157766400000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "*March Against the Vietnam War*: The Students for a Democratic Society \r\n(SDS) and the SNCC led the first major anti-war demonstration against the \r\nVietnam War in Washington, D.C., with over 25,000 protesters.", 
-                "starting_time": -157766400
+                "starting_time": -157766400000
             }, 
             {
                 "color": "orange", 
                 "description": "The Social Security Amendments of 1965 was signed into law, establishing \r\nMedicaid and Medicare in the United States.", 
-                "starting_time": -157766400
+                "starting_time": -157766400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The Voting Rights Act was signed into law.", 
+                "starting_time": -157766400000
             }, 
             {
                 "color": "red", 
-                "description": "The Voting Rights Act was signed into law.", 
-                "starting_time": -157766400
-            }, 
-            {
-                "color": "yellow", 
                 "description": "The *Watts riots* began in the Watts neighborhood of Los Angeles, resulting \r\nin the deaths of 34 people.", 
-                "starting_time": -157766400
+                "starting_time": -157766400000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "The United States Department of Housing and Urban Development (HUD) was \r\nestablished, after the Housing and Urban Development Act of 1965 was signed \r\ninto law by President Johnson.", 
-                "starting_time": -157766400
+                "starting_time": -157766400000
             }, 
             {
                 "color": "red", 
                 "description": "The Immigration Act of 1965 was signed into law, abolishing the National \r\nOrigins Formula.", 
-                "starting_time": -157766400
+                "starting_time": -157766400000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "The Higher Education Act of 1965 was passed.", 
-                "starting_time": -157766400
+                "starting_time": -157766400000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "Robert C. Weaver was sworn in as the first United States Secretary of \r\nHousing and Urban Development, becoming the first African American to hold \r\na cabinet-level position.", 
-                "starting_time": -126230400
-            }, 
-            {
-                "color": "yellow", 
-                "description": "*Miranda v. Arizona*: The Supreme Court ruled that not informing suspects \r\nheld in custody on their right to counsel and silence violated protection \r\nagainst self incrimination, establishing what later became known as \"Miranda \r\nRights\".", 
-                "starting_time": -126230400
-            }, 
-            {
-                "color": "yellow", 
-                "description": "The feminist group the National Organization for Women (NOW) was formed.", 
-                "starting_time": -126230400
-            }, 
-            {
-                "color": "red", 
-                "description": "The Freedom of Information Act was signed into law.", 
-                "starting_time": -126230400
+                "starting_time": -126230400000
             }, 
             {
                 "color": "green", 
+                "description": "*Miranda v. Arizona*: The Supreme Court ruled that not informing suspects \r\nheld in custody on their right to counsel and silence violated protection \r\nagainst self incrimination, establishing what later became known as \"Miranda \r\nRights\".", 
+                "starting_time": -126230400000
+            }, 
+            {
+                "color": "green", 
+                "description": "The feminist group the National Organization for Women (NOW) was formed.", 
+                "starting_time": -126230400000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "The Freedom of Information Act was signed into law.", 
+                "starting_time": -126230400000
+            }, 
+            {
+                "color": "blue", 
                 "description": "The National Traffic and Motor Vehicle Safety Act was passed.", 
-                "starting_time": -126230400
+                "starting_time": -126230400000
             }, 
             {
                 "color": "red", 
                 "description": "Jack Ruby died of a pulmonary embolism at Parkland Hospital, where Oswald \r\nhad died and where President Kennedy had been pronounced dead after his \r\nassassination.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
                 "color": "yellow", 
                 "description": "*Operation Cedar Falls*, the largest ground operation of the Vietnam War, \r\nbegan; with over 500,000 with the number of U.S. troops totaling more than \r\n500,000 by the end of 1967.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "*Super Bowl I*: In the first Super Bowl took place between the Green Bay \r\nPackers and the Kansas City Chiefs.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
-                "color": "yellow", 
+                "color": "green", 
                 "description": "The Twenty-fifth Amendment to the United States Constitution, establishing \r\nsuccession to the Presidency and procedures for filling a vacancy in the \r\noffice of the Vice President, was ratified.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
                 "color": "yellow", 
                 "description": "The United States Department of Transportation was established.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "*National Mobilization Committee to End the War in Vietnam*: 400,000 \r\ndemonstrators march in New York City from Central Park to the United \r\nNations Headquarters against the Vietnam War; with 100,000 protesting the \r\nwar in San Francisco, being one of the largest demonstrations against the \r\nVietnam War.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
                 "color": "red", 
                 "description": "The *Summer of Love* took place, marking a defining period for the counterculture \r\nmovement in the U.S.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "*Loving v. Virginia*: The Supreme Court overruled the prohibition of interracial \r\nmarriage.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
                 "color": "yellow", 
                 "description": "American Samoa became self-governing under a new Constitution.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "Thurgood Marshall was sworn in as an Associate Justice of the Supreme Court; \r\nbecoming the first African-American Justice to serve on the court.", 
-                "starting_time": -94694400
+                "starting_time": -94694400000
             }, 
             {
                 "color": "green", 
                 "description": "The *Tet Offensive*, a campaign of surprise attacks by the Viet Cong, began.", 
-                "starting_time": -63158400
+                "starting_time": -63158400000
             }, 
             {
                 "color": "orange", 
                 "description": "Civil rights leader Dr. Martin Luther King Jr. was assassinated by a sniper \r\nat the Lorraine Motel in Memphis, Tennessee.", 
-                "starting_time": -63158400
+                "starting_time": -63158400000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "*King assassination riots*: The assassination of Dr. King prompted mass \r\nriots in Chicago, Washington D.C., Baltimore, Kansas City and Louisville; \r\nleaving 36 people dead.", 
-                "starting_time": -63158400
+                "starting_time": -63158400000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "The Civil Rights Act of 1968, providing equal housing protection, was \r\nsigned into law.", 
-                "starting_time": -63158400
+                "starting_time": -63158400000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "Robert F. Kennedy was assassinated at the Ambassador Hotel in Los Angeles \r\nby Sirhan Sirhan, after winning the California primary while campaigning \r\nfor President.", 
-                "starting_time": -63158400
+                "starting_time": -63158400000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "The United States signed the Nuclear Non-Proliferation Treaty.", 
-                "starting_time": -63158400
+                "starting_time": -63158400000
             }, 
             {
                 "color": "orange", 
                 "description": "Chicago City Police clashed with anti-war protesters at the 1968 Democratic \r\nNational Convention in Chicago.", 
-                "starting_time": -63158400
-            }, 
-            {
-                "color": "blue", 
-                "description": "The Gun Control Act of 1968 was signed into law.", 
-                "starting_time": -63158400
-            }, 
-            {
-                "color": "yellow", 
-                "description": "*United States presidential election, 1968*: Former Vice President Richard \r\nNixon was elected President, defeating incumbent Vice President Hubert \r\nHumphrey and Alabama Governor George Wallace.", 
-                "starting_time": -63158400
+                "starting_time": -63158400000
             }, 
             {
                 "color": "green", 
+                "description": "The Gun Control Act of 1968 was signed into law.", 
+                "starting_time": -63158400000
+            }, 
+            {
+                "color": "blue", 
+                "description": "*United States presidential election, 1968*: Former Vice President Richard \r\nNixon was elected President, defeating incumbent Vice President Hubert \r\nHumphrey and Alabama Governor George Wallace.", 
+                "starting_time": -63158400000
+            }, 
+            {
+                "color": "orange", 
                 "description": "Shirley Chisholm of New York became the first African-American woman \r\nelected to Congress.", 
-                "starting_time": -63158400
+                "starting_time": -63158400000
             }, 
             {
                 "color": "orange", 
                 "description": "*Apollo 8*: The first manned spacecraft to leave Earth's orbit occurred.", 
-                "starting_time": -63158400
+                "starting_time": -63158400000
             }, 
             {
-                "color": "green", 
+                "color": "orange", 
                 "description": "*Operation Menu*: The United States began its covert bombings of North \r\nVietnamese positions in Cambodia and Laos.", 
-                "starting_time": -31536000
+                "starting_time": -31536000000
             }, 
             {
-                "color": "blue", 
+                "color": "yellow", 
                 "description": "The *Stonewall riots* took place, beginning after police raided the Stonewall \r\nInn in New York City, which would mark the start of the modern gay \r\nliberation movement in the United States.", 
-                "starting_time": -31536000
+                "starting_time": -31536000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "*Chappaquiddick incident*: Senator Edward M. Kennedy drove off a bridge on \r\nhis way home from a party on Chappaquiddick Island, killing his passenger, Mary \r\nJo Kopechne.", 
+                "starting_time": -31536000000
             }, 
             {
                 "color": "blue", 
-                "description": "*Chappaquiddick incident*: Senator Edward M. Kennedy drove off a bridge on \r\nhis way home from a party on Chappaquiddick Island, killing his passenger, Mary \r\nJo Kopechne.", 
-                "starting_time": -31536000
+                "description": "*Apollo 11*: Americans astronauts Neil Armstrong, Buzz Aldrin and Michael \r\nCollins became the first men to land on the moon, with Armstrong becoming \r\nthe first man to walk on the moon's surface.", 
+                "starting_time": -31536000000
             }, 
             {
                 "color": "green", 
-                "description": "*Apollo 11*: Americans astronauts Neil Armstrong, Buzz Aldrin and Michael \r\nCollins became the first men to land on the moon, with Armstrong becoming \r\nthe first man to walk on the moon's surface.", 
-                "starting_time": -31536000
-            }, 
-            {
-                "color": "red", 
                 "description": "The *Woodstock Festival* took place in White Lake, New York, proclaimed as \r\n\"three days of peace and music\", it became one of the defining events \r\nrepresenting counterculture movement.", 
-                "starting_time": -31536000
+                "starting_time": -31536000000
             }, 
             {
                 "color": "yellow", 
                 "description": "*Vietnamization*: President Nixon outlaid his administration's Vietnam \r\npolicy in response to the Tet Offensive.", 
-                "starting_time": -31536000
-            }, 
-            {
-                "color": "red", 
-                "description": "*Sesame Street* premiered on National Educational Television.", 
-                "starting_time": -31536000
-            }, 
-            {
-                "color": "orange", 
-                "description": "*Moratorium to End the War in Vietnam*: Over 500,000 peaceful demonstrators \r\nprotested the Vietnam War in Washington D.C., being the largest anti-war \r\nprotest in U.S. history.", 
-                "starting_time": -31536000
-            }, 
-            {
-                "color": "red", 
-                "description": "President Nixon announces the withdrawal of 50,000 U.S. troops from \r\nVietnam; reaching the peak level of U.S. troops in Vietnam at 541,000.", 
-                "starting_time": -31536000
+                "starting_time": -31536000000
             }, 
             {
                 "color": "green", 
+                "description": "*Sesame Street* premiered on National Educational Television.", 
+                "starting_time": -31536000000
+            }, 
+            {
+                "color": "yellow", 
+                "description": "*Moratorium to End the War in Vietnam*: Over 500,000 peaceful demonstrators \r\nprotested the Vietnam War in Washington D.C., being the largest anti-war \r\nprotest in U.S. history.", 
+                "starting_time": -31536000000
+            }, 
+            {
+                "color": "orange", 
+                "description": "President Nixon announces the withdrawal of 50,000 U.S. troops from \r\nVietnam; reaching the peak level of U.S. troops in Vietnam at 541,000.", 
+                "starting_time": -31536000000
+            }, 
+            {
+                "color": "red", 
                 "description": "The National Environmental Policy Act was signed into law.", 
                 "starting_time": 0
             }, 
             {
-                "color": "red", 
+                "color": "blue", 
                 "description": "*Kent State shootings*: Shootings occurred during anti-war, student \r\nprotests that grew violent, resulting in the deaths of four demonstrators \r\nby the Ohio National Guard.", 
                 "starting_time": 0
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "President Nixon announces the further withdrawal of 150,000 troops in \r\nVietnam.", 
                 "starting_time": 0
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "President Nixon announces the beginning of the Cambodian Campaign.", 
                 "starting_time": 0
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "The first Earth Day was observed.", 
                 "starting_time": 0
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "*American Top 40*, hosted by radio personality Casey Kasem, which featured \r\na weekly countdown, premiered.", 
                 "starting_time": 0
             }, 
@@ -1983,49 +1983,49 @@
                 "starting_time": 0
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "The United States Environmental Protection Agency was established.", 
                 "starting_time": 0
             }, 
             {
-                "color": "orange", 
+                "color": "blue", 
                 "description": "The Occupational Safety and Health Act was signed into law, establishing \r\nOSHA.", 
                 "starting_time": 0
             }, 
             {
-                "color": "yellow", 
+                "color": "green", 
                 "description": "Charles Manson is sentenced to death (with his sentence later commuted to \r\nlife in prison) for his involvement in the Tate-LaBianca murders.", 
-                "starting_time": 31536000
+                "starting_time": 31536000000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "The Public Health Cigarette Smoking Act was signed into law, banning \r\ncigarette advertisements on radio and television and issuing a Surgeon \r\nGeneral's warning on tobacco products.", 
-                "starting_time": 31536000
+                "starting_time": 31536000000
             }, 
             {
-                "color": "green", 
+                "color": "yellow", 
                 "description": "*Pentagon Papers*: The New York Times publishes its first story on the \r\nclassified 7,000 page Department of Defense study, leaked by study \r\nparticipant Daniel Ellsberg, on the U.S.'s political-military involvement \r\nin Vietnam since 1945.", 
-                "starting_time": 31536000
+                "starting_time": 31536000000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "President Nixon declares a \"*War on Drugs*\", stating that drug use in the \r\nU.S. is \"public enemy number one.\"", 
-                "starting_time": 31536000
+                "starting_time": 31536000000
             }, 
             {
                 "color": "green", 
                 "description": "*New York Times Co. v. United States*: The Supreme Court ruled that the \r\nPentagon Papers may be published, rejecting government injunctions as \r\nunconstitutional prior restraint.", 
-                "starting_time": 31536000
+                "starting_time": 31536000000
             }, 
             {
                 "color": "blue", 
                 "description": "The Twenty-sixth Amendment to the United States Constitution, lowering the \r\nvoting age from 21 to 18, was ratified.", 
-                "starting_time": 31536000
+                "starting_time": 31536000000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "*Nixon Shock*: Nixon ended the gold standard in the United States.", 
-                "starting_time": 31536000
+                "starting_time": 31536000000
             }
         ]
     }
