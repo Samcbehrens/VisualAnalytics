@@ -1,24 +1,24 @@
 [
     {
-        "description": "timeline3", 
+        "label": "timeline3", 
         "times": [
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "13th Amendment officially abolishes slavery.Juneteenth Freedom Celebration in Texas and Oklahoma.", 
                 "starting_time": -3281904000000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "Ex-Confederates pass \"Black Codes\" limiting movement and controlling the labor of emancipated slaves.Confederate veterans in Tennessee found Ku Klux Klan.", 
                 "starting_time": -3250368000000
             }, 
             {
-                "color": "blue", 
+                "color": "orange", 
                 "description": "Howard University is established as a theological seminary for the education of African American clergymen in Washington D.C.", 
                 "starting_time": -3218832000000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "14th Amendment guarantees African American citizenship.", 
                 "starting_time": -3155673600000
             }, 
@@ -28,42 +28,42 @@
                 "starting_time": -3124137600000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "KKK violence prompts Congressional inquiry, resulting in the \"Force Bill,\" which gives the federal government the power to prosecute the KKK.  The Bill is effective and the KKK ceases to exist, but White violence towards Blacks continues unabated.The Jubilee Singers of Fisk University, a Black college, embark on their first tour to raise money for their school.  Within ten years, they toured the northern U.S. and Europe and performed at the White House and for Queen Victoria.", 
                 "starting_time": -3060979200000
             }, 
             {
-                "color": "orange", 
+                "color": "yellow", 
                 "description": "Lincoln University, a college for African Americans, becomes the first U.S. college to accept African students.", 
                 "starting_time": -3029443200000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "\"Race riots\" erupt in Louisiana and Mississippi.", 
                 "starting_time": -2966371200000
             }, 
             {
-                "color": "red", 
+                "color": "green", 
                 "description": "Meharry Medical College for Blacks is founded in Tennessee.", 
                 "starting_time": -2934748800000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "U.S. troops are removed from the South effectively ending Reconstruction.", 
                 "starting_time": -2903212800000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "20,000 African-American \"Exodusters\" move to Kansas.", 
                 "starting_time": -2808518400000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "African-American washerwomen in Atlanta organize a two-week strike to demand higher fees.Jim Crow law segregating railroad cars passes in Tennessee, setting precedent for other souther states.Booker T. Washington found the Normal and Industrial Institute for Negroes (later Tuskegee Institute) and becomes its president.", 
                 "starting_time": -2713910400000
             }, 
             {
-                "color": "yellow", 
+                "color": "blue", 
                 "description": "The federal government under the Morrill Act requires states with (racial) dual systems of higher education to provide land-grant institutions for both systems.  Nineteen colleges of agricultural research, home economics, and mechanical arts for African Americans are eventually established.", 
                 "starting_time": -2524521600000
             }, 
@@ -78,7 +78,7 @@
                 "starting_time": -2366755200000
             }, 
             {
-                "color": "blue", 
+                "color": "yellow", 
                 "description": "Plessy V. Ferguson ratifies Jim Crow (\"Separate But Equal\").The National Association of Colored Women (NACW) is founded in Washington, DC.  The organization involves itself in suffrage, anti-lynching, and anti-Jim Crow campaigns.", 
                 "starting_time": -2303596800000
             }, 
@@ -93,17 +93,17 @@
                 "starting_time": -2208988800000
             }, 
             {
-                "color": "green", 
+                "color": "orange", 
                 "description": "New Orleans, LA race riot.National Negro Business League established by Booker T. Washington.\"Lift Every Voice and Sing,\" known as the \"Black National Anthem\" is written by James Weldon Johnson.", 
                 "starting_time": -2114380800000
             }, 
             {
-                "color": "red", 
+                "color": "blue", 
                 "description": "W.E.B. Du Bois publishes The Souls of Black Folk.", 
                 "starting_time": -2082844800000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "Mary McLeod Bethune opens the Daytona Educational and Industrial Training School for Negro Girls in Florida.  The name is later changed to Bethune-Cookman College.", 
                 "starting_time": -2051222400000
             }, 
@@ -113,17 +113,17 @@
                 "starting_time": -2019686400000
             }, 
             {
-                "color": "orange", 
+                "color": "green", 
                 "description": "Atlanta, GA race riot.", 
                 "starting_time": -1988150400000
             }, 
             {
-                "color": "red", 
+                "color": "yellow", 
                 "description": "The Pittsburgh Courier founded.", 
                 "starting_time": -1956614400000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "Springfield, IL race riot.", 
                 "starting_time": -1924992000000
             }, 
@@ -133,32 +133,32 @@
                 "starting_time": -1893456000000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "", 
                 "starting_time": -1861920000000
             }, 
             {
-                "color": "blue", 
+                "color": "green", 
                 "description": "National Urban League is established; its goal is to help Southern migrants find jobs, housing, and adjust to city life.", 
                 "starting_time": -1798761600000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "President Woodrow Wilson reintroduces Jim Crow to Washington, DC and sanctions segregation in the federal government.Cotton prices plummet and a sever boll weevil infestation in the South leaves many African Americans in even more dire economic straits.", 
                 "starting_time": "1914-1918"
             }, 
             {
-                "color": "red", 
+                "color": "green", 
                 "description": "World War I spurs Great Migration.", 
                 "starting_time": -1767225600000
             }, 
             {
-                "color": "red", 
+                "color": "orange", 
                 "description": "Harlem's African-American population is 50,000. ", 
                 "starting_time": -1735689600000
             }, 
             {
-                "color": "yellow", 
+                "color": "orange", 
                 "description": "A new KKK is formed, prompting the Chicago Defender to not only encourage Blacks to migrate to the North, but also to adopt the slogan \"If you must die, take at least one with you\" in reference to the widespread racial violence.Massive floods in Mississippi Valley lead to an economic and health crisis among the southern Black population.", 
                 "starting_time": -1672531200000
             }, 
@@ -178,7 +178,7 @@
                 "starting_time": -1577923200000
             }, 
             {
-                "color": "blue", 
+                "color": "yellow", 
                 "description": "First UNIA International Convention.  Garvey gives the opening address before a crowd of 20,000 at Madison Square Garden.  At the convention, the official UNIA flag is unveiled.  Its colors of red, green, and black symbolize the solidarity between the struggles of African peoples, the Irish, and the Communists.", 
                 "starting_time": -1546300800000
             }, 
@@ -193,27 +193,27 @@
                 "starting_time": -1388534400000
             }, 
             {
-                "color": "red", 
+                "color": "blue", 
                 "description": "Mordecai W. Johnson becomes the first black president of Howard University. ", 
                 "starting_time": -1356998400000
             }, 
             {
-                "color": "yellow", 
+                "color": "blue", 
                 "description": "U.S. deports Marcus Garvey to Jamaica; his departure shatters the UNIA which had won mass support after World War I. ", 
                 "starting_time": -1325462400000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "The first Black representative to serve in Congress since Reconstruction, Oscar DePriest, is elected in Chicago.NBC premiers \"Amos 'n' Andy,\" a fifteen-minute comedy show that becomes the most popular program on radio.  Thought the show is about two Black men who own a cab company, the voices are performed by White men.", 
                 "starting_time": -1293840000000
             }, 
             {
-                "color": "red", 
+                "color": "blue", 
                 "description": "Chicago's Whip Newspaper launches its \"Don't Buy Where you Can't Work\" campaign. ", 
                 "starting_time": -1262304000000
             }, 
             {
-                "color": "green", 
+                "color": "blue", 
                 "description": "Chicago's African-American population reaches 235,000.Detroit's African-American population reaches 120,000.Harlem's African-American population reaches 200,000.W.D. Fard establishes the Nation of Islam in Detroit. ", 
                 "starting_time": "1940-1960"
             }

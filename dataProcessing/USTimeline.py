@@ -57,7 +57,7 @@ def webToJson(soup):
 
 	colors = ["red","orange", "yellow", "green", "blue"]
 	timeline = {"label": "timeline3", "times": []}
-	addEvent={"color":"blue", "label":"description", "starting_time": 1}
+	addEvent={"color":"blue", "description":"description", "starting_time": 1}
 
 	## Must be in a certain format have to put in a array and then a set...crying 
 	outerMost = []
@@ -75,16 +75,16 @@ def webToJson(soup):
 				addEvent["starting_time"] = millis
 				 
 	
-			addEvent["label"] = n[2]	
+			addEvent["description"] = n[2]	
 			
-			if addEvent["label"]!="description" and addEvent["starting_time"]!=1:
+			if addEvent["description"]!="description" and addEvent["starting_time"]!=1:
 				randomNum = random.randint(0,4)
 				addEvent["color"]=colors[randomNum]
 				print 'addingEvent'
 				print addEvent
 				timeline["times"].append(addEvent)
 
-				addEvent={"color":"blue", "label":"description", "starting_time": 1}
+				addEvent={"color":"blue", "description":"description", "starting_time": 1}
 				
 	outerMost.append(timeline)
 	return outerMost

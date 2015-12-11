@@ -3,103 +3,103 @@
         "label": "timeline3", 
         "times": [
             {
-                "color": "green", 
-                "label": "Thousands (50,000)of African American \"Exodusters\" leave the South and migrate to Kansas, Missouri, Indiana, Illinois", 
+                "color": "yellow", 
+                "description": "Thousands (50,000)of African American \"Exodusters\" leave the South and migrate to Kansas, Missouri, Indiana, Illinois", 
                 "starting_time": -2335219200000
             }, 
             {
-                "color": "green", 
-                "label": "The U.S. Supreme Court finds that racial segregation does not violate the Constitution in its ruling in Plessy v. Ferguson", 
+                "color": "blue", 
+                "description": "The U.S. Supreme Court finds that racial segregation does not violate the Constitution in its ruling in Plessy v. Ferguson", 
                 "starting_time": -2051222400000
             }, 
             {
-                "color": "yellow", 
-                "label": "The Chicago Defender, a newspaper that will heavily promote the Great Migration, was founded.", 
+                "color": "blue", 
+                "description": "The Chicago Defender, a newspaper that will heavily promote the Great Migration, was founded.", 
                 "starting_time": -1924992000000
             }, 
             {
-                "color": "orange", 
-                "label": "The National Association for the Advancement for of the COlored People (NAACP) is established", 
+                "color": "red", 
+                "description": "The National Association for the Advancement for of the COlored People (NAACP) is established", 
                 "starting_time": -1735689600000
             }, 
             {
                 "color": "yellow", 
-                "label": "Approximately 1.25 million southern African Americans head to the North during the Great Migration", 
+                "description": "Approximately 1.25 million southern African Americans head to the North during the Great Migration", 
                 "starting_time": -1262304000000
             }, 
             {
                 "color": "yellow", 
-                "label": "The Pennsylvania Railroad Company sends thousands of southern blacks to the north to work on rail lines, initiating the widespread recruitment of African American laborers by northern companies", 
+                "description": "The Pennsylvania Railroad Company sends thousands of southern blacks to the north to work on rail lines, initiating the widespread recruitment of African American laborers by northern companies", 
                 "starting_time": -1704153600000
             }, 
             {
-                "color": "red", 
-                "label": "Race riots break out in dozens of American cities during \"Red Summer.\"", 
+                "color": "green", 
+                "description": "Race riots break out in dozens of American cities during \"Red Summer.\"", 
                 "starting_time": -1609459200000
             }, 
             {
-                "color": "orange", 
-                "label": "early 1930 : Black literary figures, artists, and intellectuals join the creative movement known as the Harlem Renaissance", 
+                "color": "blue", 
+                "description": "early 1930 : Black literary figures, artists, and intellectuals join the creative movement known as the Harlem Renaissance", 
                 "starting_time": -1325462400000
             }, 
             {
-                "color": "red", 
-                "label": "Oscar Stanton DePriest ends the Great Migration as southern blacks are no longer able to find jobs in the North", 
+                "color": "orange", 
+                "description": "Oscar Stanton DePriest ends the Great Migration as southern blacks are no longer able to find jobs in the North", 
                 "starting_time": -1262304000000
             }, 
             {
                 "color": "orange", 
-                "label": "The Great Depression ends the Great Migration as southern blacks are no longer able to find jobs in the North", 
+                "description": "The Great Depression ends the Great Migration as southern blacks are no longer able to find jobs in the North", 
                 "starting_time": -1167609600000
             }, 
             {
                 "color": "orange", 
-                "label": "The passage of the Agricultural Adjustment Act contributes to the end of sharecropping, leaving many rural southern blacks with no means of making a living.", 
+                "description": "The passage of the Agricultural Adjustment Act contributes to the end of sharecropping, leaving many rural southern blacks with no means of making a living.", 
                 "starting_time": -978307200000
             }, 
             {
-                "color": "yellow", 
-                "label": "World War II breaks out in Europe, increasing the demand for products made by the American defense industries.", 
+                "color": "orange", 
+                "description": "World War II breaks out in Europe, increasing the demand for products made by the American defense industries.", 
                 "starting_time": -946771200000
             }, 
             {
-                "color": "orange", 
-                "label": "1970 : About 4.5 million African Americans move from the South to the North and West during the Second Great Migration", 
+                "color": "blue", 
+                "description": "1970 : About 4.5 million African Americans move from the South to the North and West during the Second Great Migration", 
                 "starting_time": -915148800000
             }, 
             {
-                "color": "blue", 
-                "label": "African American cicil rights workers persuade President Franklin D. Roosevelt to issue Executive Order 8802, which bans employment discrimination by race in industries receiving government defense contracts.", 
+                "color": "yellow", 
+                "description": "African American cicil rights workers persuade President Franklin D. Roosevelt to issue Executive Order 8802, which bans employment discrimination by race in industries receiving government defense contracts.", 
                 "starting_time": -852076800000
             }, 
             {
-                "color": "blue", 
-                "label": "Federal troops take control of Detroit, Michigan, after the city is rocked by massive race riot.", 
+                "color": "yellow", 
+                "description": "Federal troops take control of Detroit, Michigan, after the city is rocked by massive race riot.", 
                 "starting_time": -788918400000
             }, 
             {
-                "color": "red", 
-                "label": "John H. Johnson begins publishing Ebony, a popular general interest magazine for an African American audience.", 
+                "color": "yellow", 
+                "description": "John H. Johnson begins publishing Ebony, a popular general interest magazine for an African American audience.", 
                 "starting_time": -694310400000
             }, 
             {
-                "color": "orange", 
-                "label": "The U.S. Supreme Court rules that restrictive covenants are unconstitutional, which allows more blacks to buy houses in the white neighborhood.", 
+                "color": "blue", 
+                "description": "The U.S. Supreme Court rules that restrictive covenants are unconstitutional, which allows more blacks to buy houses in the white neighborhood.", 
                 "starting_time": -504921600000
             }, 
             {
-                "color": "orange", 
-                "label": "In Brown v. Board of Education, the U.S Supreme Court finds that segregation in public schools is unconstitutional, which accelerates the flight of white city residents to the suburbs.", 
+                "color": "blue", 
+                "description": "In Brown v. Board of Education, the U.S Supreme Court finds that segregation in public schools is unconstitutional, which accelerates the flight of white city residents to the suburbs.", 
                 "starting_time": -189388800000
             }, 
             {
                 "color": "yellow", 
-                "label": "The Civil Rights Act of 1964 ends racial segregation in schools, workplaces, and public facilities.", 
+                "description": "The Civil Rights Act of 1964 ends racial segregation in schools, workplaces, and public facilities.", 
                 "starting_time": -157766400000
             }, 
             {
                 "color": "orange", 
-                "label": "A race riot in the Watts section of Los Angeles, California, raises concerns about violence, crime, and poverty in urban African AMerican neighborhoods; the Voting Rights Act of 1965 outlaws practices designed to restrict African Americans' right to vote", 
+                "description": "A race riot in the Watts section of Los Angeles, California, raises concerns about violence, crime, and poverty in urban African AMerican neighborhoods; the Voting Rights Act of 1965 outlaws practices designed to restrict African Americans' right to vote", 
                 "starting_time": 0
             }
         ]
