@@ -38,14 +38,23 @@ def process(allInformation, ArrayOfIndex):
 		print num1.isdigit()
 		print num2.isdigit()
 
-		if num1 or num1.strip():
-			num1 = 0
-		elif num1.isdigit(): 
+		
+		if num1.isdigit(): 
+			print "in if"
 			num1 = int(n[ArrayOfIndex[0]])
-		if num2  or num2.strip():
+			print num1
+			print 
+		else:
+			print "el"
+			num1 = 0
+		if num2.isdigit():
+			print "in if"
+			print num2
+			num2 = int(n[ArrayOfIndex[1]])	
+		else:
+			print "in if"
 			num2 = 0
-		elif num2.isdigit():
-			num2 = int(n[ArrayOfIndex[1]])
+
 
 		print "num1"
 		print num1 
@@ -78,7 +87,7 @@ if __name__ == '__main__':
 	#fileName= 
 	#while fileName!= 'quit':
 
-	fileName = ""
+	fileName = "nhgis0011_ds31_1900_county.csv"
 	arrayOfIndex = [9,10]
 	outputName = "Pop1900.json"
 
