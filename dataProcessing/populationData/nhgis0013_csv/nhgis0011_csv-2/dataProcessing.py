@@ -2,6 +2,7 @@ import datetime
 import calendar
 import json
 import csv
+import pprint
 
 def convertToFile(filename,formatFile):
 
@@ -34,17 +35,29 @@ def process(allInformation, ArrayOfIndex):
 		print n[ArrayOfIndex[1]]
 		num2 = n[ArrayOfIndex[1]]
 		
+		print num1.isdigit()
+		print num2.isdigit()
+
 		if num1 or num1.strip():
-			num1=0
+			num1 = 0
 		elif num1.isdigit(): 
 			num1 = int(n[ArrayOfIndex[0]])
 		if num2  or num2.strip():
-			num2=0
+			num2 = 0
 		elif num2.isdigit():
-			int(n[ArrayOfIndex[1]])
+			num2 = int(n[ArrayOfIndex[1]])
+
+		print "num1"
+		print num1 
+
+		print "num2"
+		print num2
+
+
 		newPop = num1 + num2
 		print 
 		print newPop
+
 		print 
 		final = addEvent
 		final['GISJOIN'] = n[0]
@@ -55,20 +68,26 @@ def process(allInformation, ArrayOfIndex):
 		final['COUNTYA'] = n[5]
 		final['AREANAME'] = n[6]
 		final['POP'] = newPop
+		newPop = 0
 		print final
 		finalOutput.append(final)
 	return finalOutput
 
 if __name__ == '__main__':
 
-	fileName= ''
-	while fileName!= 'quit':
-		fileName = input("Please tell fileName, or enter 'quit': ")
-		readInfo = readPopulationData(fileName)
+	#fileName= 
+	#while fileName!= 'quit':
 
-		arrayOfIndex = input('enter Array numbers in Array Format')
-		final = process(readInfo, arrayOfIndex)
+	fileName = ""
+	arrayOfIndex = [9,10]
+	outputName = "Pop1900.json"
 
-		outputName = input("Please tell what to save it as")
-		convertToFile(final)
+	#fileName = input("Please tell fileName, or enter 'quit': ")
+	readInfo = readPopulationData(fileName)
+
+	#arrayOfIndex = input('enter Array numbers in Array Format')
+	final = process(readInfo, arrayOfIndex)
+
+	#outputName = input("Please tell what to save it as")
+	convertToFile(outputName,final)
 	
