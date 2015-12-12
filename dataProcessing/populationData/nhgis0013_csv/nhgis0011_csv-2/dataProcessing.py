@@ -27,9 +27,22 @@ def process(allInformation, ArrayOfIndex):
 	finalOutput = []
 	for n in allInformation:
 		addEvent={'GISJOIN': 'fill','YEAR': 'fill','STATE': 'fill','STATEA': 'fill','COUNTY': 'fill','COUNTYA': 'fill','AREANAME': 'fill','POP': 'fill'}
+		print 'contents of population in file'
 		print n[ArrayOfIndex[0]]
+		num1 = n[ArrayOfIndex[0]]
+		print 'contents of population in file'
 		print n[ArrayOfIndex[1]]
-		newPop = int(n[ArrayOfIndex[0]])+int(n[ArrayOfIndex[1]])
+		num2 = n[ArrayOfIndex[1]]
+		
+		if num1 or num1.strip():
+			num1=0
+		elif num1.isdigit(): 
+			num1 = int(n[ArrayOfIndex[0]])
+		if num2  or num2.strip():
+			num2=0
+		elif num2.isdigit():
+			int(n[ArrayOfIndex[1]])
+		newPop = num1 + num2
 		print 
 		print newPop
 		print 
@@ -47,12 +60,15 @@ def process(allInformation, ArrayOfIndex):
 	return finalOutput
 
 if __name__ == '__main__':
-	
+
 	fileName= ''
 	while fileName!= 'quit':
 		fileName = input("Please tell fileName, or enter 'quit': ")
 		readInfo = readPopulationData(fileName)
+
 		arrayOfIndex = input('enter Array numbers in Array Format')
-		final = process(arrayOfIndex)
+		final = process(readInfo, arrayOfIndex)
+
+		outputName = input("Please tell what to save it as")
 		convertToFile(final)
 	
