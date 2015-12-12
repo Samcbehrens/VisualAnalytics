@@ -4,6 +4,16 @@ import json
 import csv
 import pprint
 
+
+def findCountyId(StateA, CountyA):
+    stateA = stateA.rstrip("0")
+    print stateA
+    if countyA[-1] == '0':
+          countyA = countyA[0:-1]
+	print countyA
+	final=stateA+countyA
+	return final
+
 def convertToFile(filename,formatFile):
 
 	with open(filename, 'w') as outfile:

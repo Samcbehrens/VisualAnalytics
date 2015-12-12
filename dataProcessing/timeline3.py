@@ -59,6 +59,14 @@ def convertToFile(filename,formatFile):
 	pp = pprint.PrettyPrinter(indent=4)
 	pp.pprint(formatFile)
 
+def convertToFile(filename,formatFile):
+
+	with open(filename, 'w') as outfile:
+	     json.dump(formatFile, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
+
+	pp = pprint.PrettyPrinter(indent=4)
+	pp.pprint(formatFile)
+
 def webToJson(soup):
 
 
