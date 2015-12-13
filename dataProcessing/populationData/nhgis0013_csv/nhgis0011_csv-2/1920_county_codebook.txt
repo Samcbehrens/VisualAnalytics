@@ -39,7 +39,7 @@ Context Fields
     COUNTY:      County Name
     COUNTYA:     County Code
     AREANAME:    Area name
- 
+   == [0,6]
 Table 1:     Race/Nativity by Sex
 Universe:    Persons
 Source code: NT5

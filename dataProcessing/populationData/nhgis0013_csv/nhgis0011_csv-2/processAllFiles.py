@@ -8,9 +8,9 @@ def convertToCSV(outputFileName, contents):
 	f = open(outputFileName, 'wt')
 	try:
 		writer = csv.writer(f)
-		writer.writerow( ('year', 'state', 'id', 'county', 'areaname', 'pop') )
+		writer.writerow( 'state', 'id', 'county', 'areaname', '1900', '1910','1920','1930','1940', '1950','1960','1970') )
 		for county in contents :
-			writer.writerow( (county['YEAR'], county['STATE'], county['ID'], county['COUNTY'], county['AREANAME'], county['POP']))
+			writer.writerow( (county['STATE'], county['ID'], county['COUNTY'], county['AREANAME'], county['POP10'],county['POP20'],county['POP30'],county['POP40'],county['POP50'],county['POP60'],county['POP70']))
 	except:
 		print "problem"
 	finally:
@@ -23,15 +23,11 @@ def findCountyId(StateA, CountyA):
 	modCounty=''
 	if CountyA[-1] == '0':
 		modState = StateA[0:-1]
-		print "state code"
-		print modState
 	if CountyA[-1] == '0':
 		modCounty = CountyA[0:-1]
-		print "county code"
-		print modCounty
+
 	final = modState+modCounty
-	print "this is the id"
-	print final
+
 
 	final = final.lstrip('0')
 
@@ -57,84 +53,87 @@ def readPopulationData(fileName):
 			allInformation.append(line)
 	return allInformation
 
+def compileAllDates(DateDictionary):
+	allCounties = []
+	template = {'STATE': 'fill', "ID" : "fill" ,'COUNTY': 'fill','AREANAME': 'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	
+	
+
 def process(allInformation, ArrayOfIndex):
 	finalOutput = []
 	for n in allInformation:
 		addEvent={'YEAR': 'fill', 'STATE': 'fill', "ID" : "fill" ,'COUNTY': 'fill','AREANAME': 'fill','POP': 'fill'}
-		print 'contents of population in file'
-		print n[ArrayOfIndex[0]]
-		num1 = n[ArrayOfIndex[0]]
-		print 'contents of population in file'
-		print n[ArrayOfIndex[1]]
-		num2 = n[ArrayOfIndex[1]]
 		
-		print num1.isdigit()
-		print num2.isdigit()
+		newPop = 0
+		if len(arrayOfIndex)>1:
+			num1 = n[ArrayOfIndex[0]]
+			num2 = n[ArrayOfIndex[1]]
+			if num1.isdigit(): 
+				
+				num1 = int(n[ArrayOfIndex[0]])
+			
+			else:
+				
+				num1 = 0
+			if num2.isdigit():
+				num2 = int(n[ArrayOfIndex[1]])	
+			else:
+				num2 = 0
 
-		
-		if num1.isdigit(): 
-			print "in if"
-			num1 = int(n[ArrayOfIndex[0]])
-			print num1
-			print 
+			newPop = num1 + num2
 		else:
-			print "el"
-			num1 = 0
-		if num2.isdigit():
-			print "in if"
-			print num2
-			num2 = int(n[ArrayOfIndex[1]])	
-		else:
-			print "in if"
-			num2 = 0
+			newPop = arrayOfIndex[0]
 
-
-		print "num1"
-		print num1 
-
-		print "num2"
-		print num2
-
-
-		newPop = num1 + num2
-		print 
-		print newPop
-
-		print 
 		final = addEvent
 		final['YEAR'] = n[1]
 		final['STATE'] = n[2]
-		print "where the hell"
-		print n[3]
-		print n[5]
+
 		final['ID'] = findCountyId(n[3],n[5])
-		print "printing ID"
-		print final['ID']
+
 		final['COUNTY'] = n[4]
 		final['AREANAME'] = n[6]
 		final['POP'] = newPop
 		newPop = 0
-		print final
 		finalOutput.append(final)
 	return finalOutput
 
+
 if __name__ == '__main__':
 
-	#fileName= 
-	#while fileName!= 'quit':
 
-	fileName = "nhgis0013_ds91_1960_county.csv"
-	arrayOfIndex = [1,8]
-	outputName = "Pop1900.json"
+	popFiles = ["1900Pop.csv",[9,10],"1910Pop.csv",[9,10],"1920Pop.csv",[11,12],"1930Pop.csv",[9],"1940Pop.csv",[9],"1950Pop.csv",[9,13],"1960Pop.csv",[8,15],"1970Pop.csv",[15]]
+	outputName = "allPopData.csv"
 
-	#fileName = input("Please tell fileName, or enter 'quit': ")
-	readInfo = readPopulationData(fileName)
+	allYearOutputs = {'1900': 'fill','1910': 'fill','1920': 'fill','1930': 'fill','1940': 'fill','1950': 'fill','1960': 'fill','1970': 'fill'}
 
-	#arrayOfIndex = input('enter Array numbers in Array Format')
-	final = process(readInfo, arrayOfIndex)
+	for i in range(len(popFiles)/2):
+		## read all 
 
-	#outputName = input("Please tell what to save it as")
-	#convertToFile(outputName,final)
+		readInfo = readPopulationData(popFiles[i*2])
+		arrayOfIndex =popFiles[(i*2)+1]
+		final = process(readInfo, arrayOfIndex)
 
-	convertToCSV("test1960.csv",final)
+		if i == 0:
+			allYearOutputs['1900'] = final
+		elif i == 1:
+			allYearOutputs['1910'] = final
+		elif i == 2:
+			allYearOutputs['1920'] = final
+		elif i == 3:
+			allYearOutputs['1930'] = final
+		elif i == 4:
+			allYearOutputs['1940'] = final
+		elif i == 5:
+			allYearOutputs['1950'] = final
+		elif i == 6:
+			allYearOutputs['1960'] = final
+		else:
+			allYearOutputs['1970'] = final
+ 
+	print allYearOutputs['1900']
+
+
+
+
+	# convertToCSV(outputName,final)
 	
