@@ -8,7 +8,7 @@ def convertToCSV(outputFileName, contents):
 	f = open(outputFileName, 'wt')
 	try:
 		writer = csv.writer(f)
-		writer.writerow( 'state', 'id', 'county', 'areaname', '1900', '1910','1920','1930','1940', '1950','1960','1970') )
+		writer.writerow( ('state', 'id', 'county', 'areaname', '1900', '1910','1920','1930','1940', '1950','1960','1970') )
 		for county in contents :
 			writer.writerow( (county['STATE'], county['ID'], county['COUNTY'], county['AREANAME'], county['POP10'],county['POP20'],county['POP30'],county['POP40'],county['POP50'],county['POP60'],county['POP70']))
 	except:
@@ -53,12 +53,33 @@ def readPopulationData(fileName):
 			allInformation.append(line)
 	return allInformation
 
-def compileAllDates(DateDictionary):
-	allCounties = []
-	template = {'STATE': 'fill', "ID" : "fill" ,'COUNTY': 'fill','AREANAME': 'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
-	
-	
+def checkIfExists(findId, DateDictionary):
+	if findId in dateDictionary:
+		return true
+	else:
+		return false
 
+
+def compileAllDates(DateDictionary):
+	allCounties = {}
+	
+	template= {'ID': {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}}
+	
+	for n in DateDictionary['1900']:
+		whatIndex = checkIfExists(n['ID'], allCounties)
+		if  keyExists == false:
+			## create new key by county id 
+			template[n['ID']] = mydict.pop('ID')
+			## assign population at that date 
+			template[n['ID']]['POP'] = n['POP']
+			#add to all county key container 
+			allCounties[template]
+			#reset 
+			template= {'ID': {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}}
+		else:
+			#key exists so just assign that years pop to key 
+			allCounties[n['ID']]['POP'] = n['POP']
+			
 def process(allInformation, ArrayOfIndex):
 	finalOutput = []
 	for n in allInformation:
