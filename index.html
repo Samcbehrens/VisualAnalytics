@@ -13,6 +13,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
   <script type = "text/javascript" src="http://d3js.org/topojson.v1.min.js"></script>
   <script type ="text/javascript" src="d3-slider/d3.slider.js" ></script>
+  <link rel="stylesheet" href="d3-slider/d3.slider.css" />  
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -183,7 +184,7 @@ window.onload=function(){
       .attr("d", path);
     });
 
-    d3.select('#slider7').call(d3.slider().axis(true).min(2000).max(2100).step(5));
+    d3.select('#slider7').call(d3.slider().axis(true).min(1900).max(1970).step(10));
 
     </script>
     </div>
