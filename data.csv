@@ -1,0 +1,2917 @@
+year,state,id,county,areaname,pop
+1900,Alabama,01001,Autauga,Autauga,11173
+1900,Alabama,01003,Baldwin,Baldwin,4179
+1900,Alabama,01005,Barbour,Barbour,22371
+1900,Alabama,01007,Bibb,Bibb,6213
+1900,Alabama,01009,Blount,Blount,1781
+1900,Alabama,01011,Bullock,Bullock,26097
+1900,Alabama,01013,Butler,Butler,13246
+1900,Alabama,01015,Calhoun,Calhoun,10626
+1900,Alabama,01017,Chambers,Chambers,17415
+1900,Alabama,01019,Cherokee,Cherokee,3016
+1900,Alabama,01021,Chilton,Chilton,3264
+1900,Alabama,01023,Choctaw,Choctaw,10277
+1900,Alabama,01025,Clarke,Clarke,15829
+1900,Alabama,01027,Clay,Clay,1884
+1900,Alabama,01029,Cleburne,Cleburne,881
+1900,Alabama,01031,Coffee,Coffee,4233
+1900,Alabama,01033,Colbert,Colbert,9546
+1900,Alabama,01035,Conecuh,Conecuh,7793
+1900,Alabama,01037,Coosa,Coosa,5288
+1900,Alabama,01039,Covington,Covington,2434
+1900,Alabama,01041,Crenshaw,Crenshaw,5601
+1900,Alabama,01043,Cullman,Cullman,21
+1900,Alabama,01045,Dale,Dale,4869
+1900,Alabama,01047,Dallas,Dallas,45372
+1900,Alabama,01049,DeKalb,Dekalb,972
+1900,Alabama,01051,Elmore,Elmore,12051
+1900,Alabama,01053,Escambia,Escambia,3515
+1900,Alabama,01055,Etowah,Etowah,4366
+1900,Alabama,01057,Fayette,Fayette,1701
+1900,Alabama,01059,Franklin,Franklin,2158
+1900,Alabama,01061,Geneva,Geneva,3218
+1900,Alabama,01063,Greene,Greene,20875
+1900,Alabama,01065,Hale,Hale,25347
+1900,Alabama,01067,Henry,Henry,13604
+1900,Alabama,01071,Jackson,Jackson,3642
+1900,Alabama,01073,Jefferson,Jefferson,56917
+1900,Alabama,01075,Lamar,Lamar,3069
+1900,Alabama,01077,Lauderdale,Lauderdale,7390
+1900,Alabama,01079,Lawrence,Lawrence,7156
+1900,Alabama,01081,Lee,Lee,19067
+1900,Alabama,01083,Limestone,Limestone,9828
+1900,Alabama,01085,Lowndes,Lowndes,30889
+1900,Alabama,01087,Macon,Macon,18874
+1900,Alabama,01089,Madison,Madison,19875
+1900,Alabama,01091,Marengo,Marengo,29473
+1900,Alabama,01093,Marion,Marion,778
+1900,Alabama,01095,Marshall,Marshall,1500
+1900,Alabama,01097,Mobile,Mobile,28409
+1900,Alabama,01099,Monroe,Monroe,13116
+1900,Alabama,01101,Montgomery,Montgomery,52207
+1900,Alabama,01103,Morgan,Morgan,7378
+1900,Alabama,01105,Perry,Perry,24962
+1900,Alabama,01107,Pickens,Pickens,13921
+1900,Alabama,01109,Pike,Pike,12474
+1900,Alabama,01111,Randolph,Randolph,5178
+1900,Alabama,01113,Russell,Russell,21152
+1900,Alabama,01115,St Clair,St Clair,3442
+1900,Alabama,01117,Shelby,Shelby,7004
+1900,Alabama,01119,Sumter,Sumter,27038
+1900,Alabama,01121,Talladega,Talladega,18223
+1900,Alabama,01123,Tallapoosa,Tallapoosa,10688
+1900,Alabama,01125,Tuscaloosa,Tuscaloosa,14638
+1900,Alabama,01127,Walker,Walker,4116
+1900,Alabama,01129,Washington,Washington,5028
+1900,Alabama,01131,Wilcox,Wilcox,28652
+1900,Alabama,01133,Winston,Winston,7
+1900,Alaska Territory,,Northern District,Northern District,24
+1900,Alaska Territory,,Southern District,Southern District,144
+1900,Arizona Territory,,Apache,Apache,2
+1900,Arizona Territory,,Cochise,Cochise,275
+1900,Arizona Territory,,Coconino,Coconino,53
+1900,Arizona Territory,,Gila,Gila,48
+1900,Arizona Territory,,Graham,Graham,68
+1900,Arizona Territory,,Maricopa,Maricopa,210
+1900,Arizona Territory,,Mohave,Mohave,177
+1900,Arizona Territory,,Navajo,Navajo,326
+1900,Arizona Territory,,Pima,Pima,118
+1900,Arizona Territory,,Pinal,Pinal,417
+1900,Arizona Territory,,Santa Cruz,Santa Cruz,10
+1900,Arizona Territory,,Yavapai,Yavapai,123
+1900,Arizona Territory,,Yuma,Yuma,21
+1900,Arizona Territory,,Colorado River Indian Reservation,Colorado River Indian Reservation,0
+1900,Arizona Territory,,Fort Apache Indian Reservation,Fort Apache Indian Reservation,0
+1900,Arizona Territory,,Gila Bend Indian Reservation,Gila Bend Indian Reservation,0
+1900,Arizona Territory,,Gila River and Salt River Indian Reservations,Gila River and Salt River Indian Reservations,0
+1900,Arizona Territory,,Moqui Indian Reservation,Moqui Indian Reservation,0
+1900,Arizona Territory,,Navaho Indian Reservation,Navaho Indian Reservation,0
+1900,Arizona Territory,,Papago Indian Reservation,Papago Indian Reservation,0
+1900,Arizona Territory,,San Carlos Indian Reservation,San Carlos Indian Reservation,0
+1900,Arizona Territory,,Supai and Walapai Indian Reservations,Supai and Walapai Indian Reservations,0
+1900,Arkansas,05001,Arkansas,Arkansas,4058
+1900,Arkansas,05003,Ashley,Ashley,10599
+1900,Arkansas,05005,Baxter,Baxter,5
+1900,Arkansas,05007,Benton,Benton,112
+1900,Arkansas,05009,Boone,Boone,142
+1900,Arkansas,05011,Bradley,Bradley,3340
+1900,Arkansas,05013,Calhoun,Calhoun,3285
+1900,Arkansas,05015,Carroll,Carroll,166
+1900,Arkansas,05017,Chicot,Chicot,12650
+1900,Arkansas,05019,Clark,Clark,7267
+1900,Arkansas,05021,Clay,Clay,9
+1900,Arkansas,05023,Cleburne,Cleburne,11
+1900,Arkansas,05025,Cleveland,Cleveland,3514
+1900,Arkansas,05027,Columbia,Columbia,9467
+1900,Arkansas,05029,Conway,Conway,7622
+1900,Arkansas,05031,Craighead,Craighead,1203
+1900,Arkansas,05033,Crawford,Crawford,2224
+1900,Arkansas,05035,Crittenden,Crittenden,12290
+1900,Arkansas,05037,Cross,Cross,4863
+1900,Arkansas,05039,Dallas,Dallas,4583
+1900,Arkansas,05041,Desha,Desha,9405
+1900,Arkansas,05043,Drew,Drew,10289
+1900,Arkansas,05045,Faulkner,Faulkner,4440
+1900,Arkansas,05047,Franklin,Franklin,587
+1900,Arkansas,05049,Fulton,Fulton,79
+1900,Arkansas,05051,Garland,Garland,3674
+1900,Arkansas,05053,Grant,Grant,846
+1900,Arkansas,05055,Greene,Greene,81
+1900,Arkansas,05057,Hempstead,Hempstead,11990
+1900,Arkansas,05059,Hot Spring,Hot Spring,1485
+1900,Arkansas,05061,Howard,Howard,3098
+1900,Arkansas,05063,Independence,Independence,1483
+1900,Arkansas,05065,Izard,Izard,285
+1900,Arkansas,05067,Jackson,Jackson,5290
+1900,Arkansas,05069,Jefferson,Jefferson,29812
+1900,Arkansas,05071,Johnson,Johnson,619
+1900,Arkansas,05073,Lafayette,Lafayette,6486
+1900,Arkansas,05075,Lawrence,Lawrence,1051
+1900,Arkansas,05077,Lee,Lee,15105
+1900,Arkansas,05079,Lincoln,Lincoln,8451
+1900,Arkansas,05081,Little River,Little River,5749
+1900,Arkansas,05083,Logan,Logan,779
+1900,Arkansas,05085,Lonoke,Lonoke,9294
+1900,Arkansas,05087,Madison,Madison,44
+1900,Arkansas,05089,Marion,Marion,38
+1900,Arkansas,05091,Miller,Miller,7619
+1900,Arkansas,05093,Mississippi,Mississippi,8321
+1900,Arkansas,05095,Monroe,Monroe,10995
+1900,Arkansas,05097,Montgomery,Montgomery,319
+1900,Arkansas,05099,Nevada,Nevada,5833
+1900,Arkansas,05101,Newton,Newton,7
+1900,Arkansas,05103,Ouachita,Ouachita,11634
+1900,Arkansas,05105,Perry,Perry,810
+1900,Arkansas,05107,Phillips,Phillips,20877
+1900,Arkansas,05109,Pike,Pike,596
+1900,Arkansas,05111,Poinsett,Poinsett,1031
+1900,Arkansas,05113,Polk,Polk,177
+1900,Arkansas,05115,Pope,Pope,1865
+1900,Arkansas,05117,Prairie,Prairie,4191
+1900,Arkansas,05119,Pulaski,Pulaski,29116
+1900,Arkansas,05121,Randolph,Randolph,606
+1900,Arkansas,05123,St Francis,St Francis,11005
+1900,Arkansas,05125,Saline,Saline,1920
+1900,Arkansas,05127,Scott,Scott,102
+1900,Arkansas,05129,Searcy,Searcy,16
+1900,Arkansas,05131,Sebastian,Sebastian,4407
+1900,Arkansas,05133,Sevier,Sevier,2041
+1900,Arkansas,05135,Sharp,Sharp,212
+1900,Arkansas,05137,Stone,Stone,79
+1900,Arkansas,05139,Union,Union,9720
+1900,Arkansas,05141,Van Buren,Van Buren,326
+1900,Arkansas,05143,Washington,Washington,888
+1900,Arkansas,05145,White,White,2656
+1900,Arkansas,05147,Woodruff,Woodruff,9947
+1900,Arkansas,05149,Yell,Yell,1670
+1900,California,06001,Alameda,Alameda,1334
+1900,California,06003,Alpine,Alpine,3
+1900,California,06005,Amador,Amador,28
+1900,California,06007,Butte,Butte,106
+1900,California,06009,Calaveras,Calaveras,69
+1900,California,06011,Colusa,Colusa,76
+1900,California,06013,Contra Costa,Contra Costa,47
+1900,California,06015,Del Norte,Del Norte,1
+1900,California,06017,El Dorado,El Dorado,99
+1900,California,06019,Fresno,Fresno,399
+1900,California,06021,Glenn,Glenn,18
+1900,California,06023,Humboldt,Humboldt,12
+1900,California,06027,Inyo,Inyo,15
+1900,California,06029,Kern,Kern,208
+1900,California,06031,Kings,Kings,76
+1900,California,06033,Lake,Lake,12
+1900,California,06035,Lassen,Lassen,1
+1900,California,06037,Los Angeles,Los Angeles,2841
+1900,California,06039,Madera,Madera,51
+1900,California,06041,Marin,Marin,137
+1900,California,06043,Mariposa,Mariposa,35
+1900,California,06045,Mendocino,Mendocino,38
+1900,California,06047,Merced,Merced,31
+1900,California,06049,Modoc,Modoc,7
+1900,California,06051,Mono,Mono,1
+1900,California,06053,Monterey,Monterey,80
+1900,California,06055,Napa,Napa,29
+1900,California,06057,Nevada,Nevada,70
+1900,California,06059,Orange,Orange,98
+1900,California,06061,Placer,Placer,35
+1900,California,06063,Plumas,Plumas,3
+1900,California,06065,Riverside,Riverside,254
+1900,California,06067,Sacramento,Sacramento,511
+1900,California,06069,San Benito,San Benito,57
+1900,California,06071,San Bernardino,San Bernardino,216
+1900,California,06073,San Diego,San Diego,406
+1900,California,06075,San Francisco,San Francisco,1654
+1900,California,06077,San Joaquin,San Joaquin,322
+1900,California,06079,San Luis Obispo,San Luis Obispo,77
+1900,California,06081,San Mateo,San Mateo,89
+1900,California,06083,Santa Barbara,Santa Barbara,33
+1900,California,06085,Santa Clara,Santa Clara,251
+1900,California,06087,Santa Cruz,Santa Cruz,81
+1900,California,06089,Shasta,Shasta,203
+1900,California,06091,Sierra,Sierra,7
+1900,California,06093,Siskiyou,Siskiyou,38
+1900,California,06095,Solano,Solano,101
+1900,California,06097,Sonoma,Sonoma,32
+1900,California,06099,Stanislaus,Stanislaus,61
+1900,California,06101,Sutter,Sutter,34
+1900,California,06103,Tehama,Tehama,147
+1900,California,06105,Trinity,Trinity,9
+1900,California,06107,Tulare,Tulare,73
+1900,California,06109,Tuolumne,Tuolumne,53
+1900,California,06111,Ventura,Ventura,34
+1900,California,06113,Yolo,Yolo,172
+1900,California,06115,Yuba,Yuba,170
+1900,California,,Hupa Valley Indian Reservation,Hupa Valley Indian Reservation,0
+1900,California,,Mission Indian Reservation,Mission Indian Reservation,0
+1900,California,,Round Valley Indian Reservation,Round Valley Indian Reservation,0
+1900,California,,Tule River Indian Reservation,Tule River Indian Reservation,0
+1900,Colorado,08005,Arapahoe,Arapahoe,4106
+1900,Colorado,08007,Archuleta,Archuleta,2
+1900,Colorado,08009,Baca,Baca,1
+1900,Colorado,08011,Bent,Bent,14
+1900,Colorado,08013,Boulder,Boulder,132
+1900,Colorado,08015,Chaffee,Chaffee,56
+1900,Colorado,08017,Cheyenne,Cheyenne,21
+1900,Colorado,08019,Clear Creek,Clear Creek,62
+1900,Colorado,08021,Conejos,Conejos,10
+1900,Colorado,08023,Costilla,Costilla,3
+1900,Colorado,08027,Custer,Custer,5
+1900,Colorado,08029,Delta,Delta,0
+1900,Colorado,08033,Dolores,Dolores,0
+1900,Colorado,08035,Douglas,Douglas,7
+1900,Colorado,08037,Eagle,Eagle,4
+1900,Colorado,08039,Elbert,Elbert,8
+1900,Colorado,08041,El Paso,El Paso,1033
+1900,Colorado,08043,Fremont,Fremont,164
+1900,Colorado,08045,Garfield,Garfield,48
+1900,Colorado,08047,Gilpin,Gilpin,48
+1900,Colorado,08049,Grand,Grand,1
+1900,Colorado,08051,Gunnison,Gunnison,48
+1900,Colorado,08053,Hinsdale,Hinsdale,21
+1900,Colorado,08055,Huerfano,Huerfano,120
+1900,Colorado,08059,Jefferson,Jefferson,62
+1900,Colorado,08061,Kiowa,Kiowa,0
+1900,Colorado,08063,Kit Carson,Kit Carson,0
+1900,Colorado,08065,Lake,Lake,204
+1900,Colorado,08067,La Plata,La Plata,28
+1900,Colorado,08069,Larimer,Larimer,25
+1900,Colorado,08071,Las Animas,Las Animas,168
+1900,Colorado,08073,Lincoln,Lincoln,18
+1900,Colorado,08075,Logan,Logan,2
+1900,Colorado,08077,Mesa,Mesa,52
+1900,Colorado,08079,Mineral,Mineral,7
+1900,Colorado,08083,Montezuma,Montezuma,1
+1900,Colorado,08085,Montrose,Montrose,14
+1900,Colorado,08087,Morgan,Morgan,7
+1900,Colorado,08089,Otero,Otero,95
+1900,Colorado,08091,Ouray,Ouray,25
+1900,Colorado,08093,Park,Park,26
+1900,Colorado,08095,Phillips,Phillips,0
+1900,Colorado,08097,Pitkin,Pitkin,27
+1900,Colorado,08099,Prowers,Prowers,42
+1900,Colorado,08101,Pueblo,Pueblo,1404
+1900,Colorado,08103,Rio Blanco,Rio Blanco,4
+1900,Colorado,08105,Rio Grande,Rio Grande,10
+1900,Colorado,08107,Routt,Routt,4
+1900,Colorado,08109,Saguache,Saguache,0
+1900,Colorado,08111,San Juan,San Juan,16
+1900,Colorado,08113,San Miguel,San Miguel,51
+1900,Colorado,08115,Sedgwick,Sedgwick,6
+1900,Colorado,08117,Summit,Summit,4
+1900,Colorado,08119,Teller,Teller,310
+1900,Colorado,08121,Washington,Washington,29
+1900,Colorado,08123,Weld,Weld,15
+1900,Colorado,08125,Yuma,Yuma,0
+1900,Colorado,,Southern Ute Indian Reservation,Southern Ute Indian Reservation,0
+1900,Connecticut,09001,Fairfield,Fairfield,3227
+1900,Connecticut,09003,Hartford,Hartford,3191
+1900,Connecticut,09005,Litchfield,Litchfield,967
+1900,Connecticut,09007,Middlesex,Middlesex,452
+1900,Connecticut,09009,New Haven,New Haven,5085
+1900,Connecticut,09011,New London,New London,1669
+1900,Connecticut,09013,Tolland,Tolland,91
+1900,Connecticut,09015,Windham,Windham,544
+1900,Delaware,10001,Kent,Kent,7738
+1900,Delaware,10003,New Castle,New Castle,16197
+1900,Delaware,10005,Sussex,Sussex,6762
+1900,Florida,12001,Alachua,Alachua,18965
+1900,Florida,12003,Baker,Baker,1191
+1900,Florida,12007,Bradford,Bradford,2727
+1900,Florida,12009,Brevard,Brevard,1074
+1900,Florida,12013,Calhoun,Calhoun,2040
+1900,Florida,12017,Citrus,Citrus,2637
+1900,Florida,12019,Clay,Clay,1832
+1900,Florida,12023,Columbia,Columbia,9321
+1900,Florida,12025,Dade,Dade,1293
+1900,Florida,12027,De Soto,De Soto,672
+1900,Florida,12031,Duval,Duval,22417
+1900,Florida,12033,Escambia,Escambia,11925
+1900,Florida,12037,Franklin,Franklin,2242
+1900,Florida,12039,Gadsden,Gadsden,9856
+1900,Florida,12047,Hamilton,Hamilton,5376
+1900,Florida,12053,Hernando,Hernando,1815
+1900,Florida,12057,Hillsborough,Hillsborough,8449
+1900,Florida,12059,Holmes,Holmes,1281
+1900,Florida,12063,Jackson,Jackson,12276
+1900,Florida,12065,Jefferson,Jefferson,12620
+1900,Florida,12067,Lafayette,Lafayette,763
+1900,Florida,12069,Lake,Lake,2636
+1900,Florida,12071,Lee,Lee,188
+1900,Florida,12073,Leon,Leon,15999
+1900,Florida,12075,Levy,Levy,3282
+1900,Florida,12077,Liberty,Liberty,1497
+1900,Florida,12079,Madison,Madison,8904
+1900,Florida,12081,Manatee,Manatee,458
+1900,Florida,12083,Marion,Marion,15047
+1900,Florida,12087,Monroe,Monroe,5788
+1900,Florida,12089,Nassau,Nassau,5092
+1900,Florida,12095,Orange,Orange,4027
+1900,Florida,12097,Osceola,Osceola,431
+1900,Florida,12101,Pasco,Pasco,1679
+1900,Florida,12105,Polk,Polk,2948
+1900,Florida,12107,Putnam,Putnam,5621
+1900,Florida,12109,St Johns,St Johns,3621
+1900,Florida,12113,Santa Rosa,Santa Rosa,2466
+1900,Florida,12119,Sumter,Sumter,2280
+1900,Florida,12121,Suwannee,Suwannee,6577
+1900,Florida,12123,Taylor,Taylor,438
+1900,Florida,12127,Volusia,Volusia,3464
+1900,Florida,12129,Wakulla,Wakulla,2790
+1900,Florida,12131,Walton,Walton,2039
+1900,Florida,12133,Washington,Washington,2686
+1900,Georgia,13001,Appling,Appling,3513
+1900,Georgia,13007,Baker,Baker,4770
+1900,Georgia,13009,Baldwin,Baldwin,11256
+1900,Georgia,13011,Banks,Banks,2097
+1900,Georgia,13015,Bartow,Bartow,6187
+1900,Georgia,13019,Berrien,Berrien,5937
+1900,Georgia,13021,Bibb,Bibb,27384
+1900,Georgia,13027,Brooks,Brooks,10904
+1900,Georgia,13029,Bryan,Bryan,3153
+1900,Georgia,13031,Bulloch,Bulloch,9164
+1900,Georgia,13033,Burke,Burke,24643
+1900,Georgia,13035,Butts,Butts,6807
+1900,Georgia,13037,Calhoun,Calhoun,6875
+1900,Georgia,13039,Camden,Camden,5246
+1900,Georgia,,Campbell,Campbell,3168
+1900,Georgia,13045,Carroll,Carroll,5036
+1900,Georgia,13047,Catoosa,Catoosa,482
+1900,Georgia,13049,Charlton,Charlton,743
+1900,Georgia,13051,Chatham,Chatham,41257
+1900,Georgia,13053,Chattahoochee,Chattahoochee,3938
+1900,Georgia,13055,Chattooga,Chattooga,2238
+1900,Georgia,13057,Cherokee,Cherokee,1285
+1900,Georgia,13059,Clarke,Clarke,9476
+1900,Georgia,13061,Clay,Clay,5703
+1900,Georgia,13063,Clayton,Clayton,4026
+1900,Georgia,13065,Clinch,Clinch,3590
+1900,Georgia,13067,Cobb,Cobb,7328
+1900,Georgia,13069,Coffee,Coffee,6611
+1900,Georgia,13071,Colquitt,Colquitt,3602
+1900,Georgia,13073,Columbia,Columbia,7753
+1900,Georgia,13077,Coweta,Coweta,14220
+1900,Georgia,13079,Crawford,Crawford,5818
+1900,Georgia,13083,Dade,Dade,438
+1900,Georgia,13085,Dawson,Dawson,171
+1900,Georgia,13087,Decatur,Decatur,15778
+1900,Georgia,13089,DeKalb,De Kalb,7044
+1900,Georgia,13091,Dodge,Dodge,5705
+1900,Georgia,13093,Dooly,Dooly,14684
+1900,Georgia,13095,Dougherty,Dougherty,11228
+1900,Georgia,13097,Douglas,Douglas,2155
+1900,Georgia,13099,Early,Early,8965
+1900,Georgia,13101,Echols,Echols,991
+1900,Georgia,13103,Effingham,Effingham,3704
+1900,Georgia,13105,Elbert,Elbert,9792
+1900,Georgia,13107,Emanuel,Emanuel,8406
+1900,Georgia,13111,Fannin,Fannin,296
+1900,Georgia,13113,Fayette,Fayette,3561
+1900,Georgia,13115,Floyd,Floyd,11476
+1900,Georgia,13117,Forsyth,Forsyth,1083
+1900,Georgia,13119,Franklin,Franklin,4204
+1900,Georgia,13121,Fulton,Fulton,45532
+1900,Georgia,13123,Gilmer,Gilmer,77
+1900,Georgia,13125,Glascock,Glascock,1515
+1900,Georgia,13127,Glynn,Glynn,9104
+1900,Georgia,13129,Gordon,Gordon,1631
+1900,Georgia,13133,Greene,Greene,11217
+1900,Georgia,13135,Gwinnett,Gwinnett,4143
+1900,Georgia,13137,Habersham,Habersham,1792
+1900,Georgia,13139,Hall,Hall,3272
+1900,Georgia,13141,Hancock,Hancock,13628
+1900,Georgia,13143,Haralson,Haralson,1639
+1900,Georgia,13145,Harris,Harris,12186
+1900,Georgia,13147,Hart,Hart,4025
+1900,Georgia,13149,Heard,Heard,4014
+1900,Georgia,13151,Henry,Henry,9389
+1900,Georgia,13153,Houston,Houston,17006
+1900,Georgia,13155,Irwin,Irwin,4680
+1900,Georgia,13157,Jackson,Jackson,7606
+1900,Georgia,13159,Jasper,Jasper,9645
+1900,Georgia,13163,Jefferson,Jefferson,11578
+1900,Georgia,13167,Johnson,Johnson,4531
+1900,Georgia,13169,Jones,Jones,9450
+1900,Georgia,13175,Laurens,Laurens,11338
+1900,Georgia,13177,Lee,Lee,8837
+1900,Georgia,13179,Liberty,Liberty,8614
+1900,Georgia,13181,Lincoln,Lincoln,4273
+1900,Georgia,13185,Lowndes,Lowndes,10688
+1900,Georgia,13187,Lumpkin,Lumpkin,482
+1900,Georgia,13189,McDuffie,Mcduffie,6143
+1900,Georgia,13191,McIntosh,Mcintosh,5081
+1900,Georgia,13193,Macon,Macon,9791
+1900,Georgia,13195,Madison,Madison,3885
+1900,Georgia,13197,Marion,Marion,5849
+1900,Georgia,13199,Meriwether,Meriwether,13817
+1900,Georgia,13201,Miller,Miller,2708
+1900,Georgia,,Milton,Milton,763
+1900,Georgia,13205,Mitchell,Mitchell,7989
+1900,Georgia,13207,Monroe,Monroe,13865
+1900,Georgia,13209,Montgomery,Montgomery,6706
+1900,Georgia,13211,Morgan,Morgan,10606
+1900,Georgia,13213,Murray,Murray,521
+1900,Georgia,13215,Muscogee,Muscogee,15597
+1900,Georgia,13217,Newton,Newton,8144
+1900,Georgia,13219,Oconee,Oconee,4413
+1900,Georgia,13221,Oglethorpe,Oglethorpe,12243
+1900,Georgia,13223,Paulding,Paulding,1345
+1900,Georgia,13227,Pickens,Pickens,415
+1900,Georgia,13229,Pierce,Pierce,2184
+1900,Georgia,13231,Pike,Pike,9602
+1900,Georgia,13233,Polk,Polk,4916
+1900,Georgia,13235,Pulaski,Pulaski,11029
+1900,Georgia,13237,Putnam,Putnam,10057
+1900,Georgia,13239,Quitman,Quitman,3447
+1900,Georgia,13241,Rabun,Rabun,181
+1900,Georgia,13243,Randolph,Randolph,11297
+1900,Georgia,13245,Richmond,Richmond,26255
+1900,Georgia,13247,Rockdale,Rockdale,3096
+1900,Georgia,13249,Schley,Schley,3583
+1900,Georgia,13251,Screven,Screven,10946
+1900,Georgia,13255,Spalding,Spalding,9154
+1900,Georgia,13259,Stewart,Stewart,11837
+1900,Georgia,13261,Sumter,Sumter,18813
+1900,Georgia,13263,Talbot,Talbot,8539
+1900,Georgia,13265,Taliaferro,Taliaferro,5521
+1900,Georgia,13267,Tattnall,Tattnall,7113
+1900,Georgia,13269,Taylor,Taylor,5026
+1900,Georgia,13271,Telfair,Telfair,4126
+1900,Georgia,13273,Terrell,Terrell,13349
+1900,Georgia,13275,Thomas,Thomas,17450
+1900,Georgia,13281,Towns,Towns,71
+1900,Georgia,13285,Troup,Troup,15332
+1900,Georgia,13289,Twiggs,Twiggs,5805
+1900,Georgia,13291,Union,Union,128
+1900,Georgia,13293,Upson,Upson,7481
+1900,Georgia,13295,Walker,Walker,2464
+1900,Georgia,13297,Walton,Walton,8341
+1900,Georgia,13299,Ware,Ware,5109
+1900,Georgia,13301,Warren,Warren,7621
+1900,Georgia,13303,Washington,Washington,17422
+1900,Georgia,13305,Wayne,Wayne,2227
+1900,Georgia,13307,Webster,Webster,4114
+1900,Georgia,13311,White,White,600
+1900,Georgia,13313,Whitfield,Whitfield,1824
+1900,Georgia,13315,Wilcox,Wilcox,4204
+1900,Georgia,13317,Wilkes,Wilkes,14442
+1900,Georgia,13319,Wilkinson,Wilkinson,6031
+1900,Georgia,13321,Worth,Worth,8412
+1900,Hawaii Territory,,Hawaii,Hawaii,44
+1900,Hawaii Territory,,Kauai,Kauai,23
+1900,Hawaii Territory,,Maui,Maui,13
+1900,Hawaii Territory,,Molokai,Molokai,2
+1900,Hawaii Territory,,Niihau,Niihau,0
+1900,Hawaii Territory,,Oahu,Oahu,151
+1900,Idaho,16001,Ada,Ada,48
+1900,Idaho,16005,Bannock,Bannock,39
+1900,Idaho,16007,Bear Lake,Bear Lake,0
+1900,Idaho,16011,Bingham,Bingham,34
+1900,Idaho,16013,Blaine,Blaine,8
+1900,Idaho,16015,Boise,Boise,4
+1900,Idaho,16027,Canyon,Canyon,42
+1900,Idaho,16031,Cassia,Cassia,0
+1900,Idaho,16037,Custer,Custer,1
+1900,Idaho,16039,Elmore,Elmore,2
+1900,Idaho,16043,Fremont,Fremont,4
+1900,Idaho,16049,Idaho,Idaho,8
+1900,Idaho,16055,Kootenai,Kootenai,26
+1900,Idaho,16057,Latah,Latah,17
+1900,Idaho,16059,Lemhi,Lemhi,2
+1900,Idaho,16063,Lincoln,Lincoln,1
+1900,Idaho,16069,Nez Perce,Nez Perce,10
+1900,Idaho,16071,Oneida,Oneida,0
+1900,Idaho,16073,Owyhee,Owyhee,2
+1900,Idaho,16079,Shoshone,Shoshone,36
+1900,Idaho,16087,Washington,Washington,9
+1900,Idaho,,Coeur d'Alane Indian Reservation,Coeur d'Alane Indian Reservation,0
+1900,Idaho,,Fort Hall Indian Reservation,Fort Hall Indian Reservation,0
+1900,Idaho,,Lemhi Indian Reservation,Lemhi Indian Reservation,0
+1900,Illinois,17001,Adams,Adams,2312
+1900,Illinois,17003,Alexander,Alexander,6318
+1900,Illinois,17005,Bond,Bond,214
+1900,Illinois,17007,Boone,Boone,52
+1900,Illinois,17009,Brown,Brown,15
+1900,Illinois,17011,Bureau,Bureau,299
+1900,Illinois,17013,Calhoun,Calhoun,0
+1900,Illinois,17015,Carroll,Carroll,25
+1900,Illinois,17017,Cass,Cass,3
+1900,Illinois,17019,Champaign,Champaign,551
+1900,Illinois,17021,Christian,Christian,165
+1900,Illinois,17023,Clark,Clark,40
+1900,Illinois,17025,Clay,Clay,49
+1900,Illinois,17027,Clinton,Clinton,331
+1900,Illinois,17029,Coles,Coles,299
+1900,Illinois,17031,Cook,Cook,31838
+1900,Illinois,17033,Crawford,Crawford,21
+1900,Illinois,17035,Cumberland,Cumberland,17
+1900,Illinois,17037,DeKalb,De Kalb,79
+1900,Illinois,17039,De Witt,De Witt,85
+1900,Illinois,17041,Douglas,Douglas,77
+1900,Illinois,17043,Du Page,Du Page,165
+1900,Illinois,17045,Edgar,Edgar,292
+1900,Illinois,17047,Edwards,Edwards,103
+1900,Illinois,17049,Effingham,Effingham,18
+1900,Illinois,17051,Fayette,Fayette,13
+1900,Illinois,17053,Ford,Ford,99
+1900,Illinois,17055,Franklin,Franklin,15
+1900,Illinois,17057,Fulton,Fulton,213
+1900,Illinois,17059,Gallatin,Gallatin,639
+1900,Illinois,17061,Greene,Greene,118
+1900,Illinois,17063,Grundy,Grundy,99
+1900,Illinois,17065,Hamilton,Hamilton,37
+1900,Illinois,17067,Hancock,Hancock,95
+1900,Illinois,17069,Hardin,Hardin,193
+1900,Illinois,17071,Henderson,Henderson,22
+1900,Illinois,17073,Henry,Henry,191
+1900,Illinois,17075,Iroquois,Iroquois,197
+1900,Illinois,17077,Jackson,Jackson,2122
+1900,Illinois,17079,Jasper,Jasper,84
+1900,Illinois,17081,Jefferson,Jefferson,317
+1900,Illinois,17083,Jersey,Jersey,151
+1900,Illinois,17085,Jo Daviess,Jo Daviess,29
+1900,Illinois,17087,Johnson,Johnson,259
+1900,Illinois,17089,Kane,Kane,612
+1900,Illinois,17091,Kankakee,Kankakee,231
+1900,Illinois,17093,Kendall,Kendall,43
+1900,Illinois,17095,Knox,Knox,852
+1900,Illinois,17097,Lake,Lake,185
+1900,Illinois,17099,La Salle,La Salle,228
+1900,Illinois,17101,Lawrence,Lawrence,272
+1900,Illinois,17103,Lee,Lee,70
+1900,Illinois,17105,Livingston,Livingston,498
+1900,Illinois,17107,Logan,Logan,314
+1900,Illinois,17109,McDonough,Mcdonough,180
+1900,Illinois,17111,McHenry,Mchenry,24
+1900,Illinois,17113,McLean,Mclean,1057
+1900,Illinois,17115,Macon,Macon,656
+1900,Illinois,17117,Macoupin,Macoupin,306
+1900,Illinois,17119,Madison,Madison,2817
+1900,Illinois,17121,Marion,Marion,522
+1900,Illinois,17123,Marshall,Marshall,114
+1900,Illinois,17125,Mason,Mason,16
+1900,Illinois,17127,Massac,Massac,2154
+1900,Illinois,17129,Menard,Menard,133
+1900,Illinois,17131,Mercer,Mercer,143
+1900,Illinois,17133,Monroe,Monroe,23
+1900,Illinois,17135,Montgomery,Montgomery,271
+1900,Illinois,17137,Morgan,Morgan,1172
+1900,Illinois,17139,Moultrie,Moultrie,11
+1900,Illinois,17141,Ogle,Ogle,51
+1900,Illinois,17143,Peoria,Peoria,1535
+1900,Illinois,17145,Perry,Perry,715
+1900,Illinois,17147,Piatt,Piatt,44
+1900,Illinois,17149,Pike,Pike,305
+1900,Illinois,17151,Pope,Pope,689
+1900,Illinois,17153,Pulaski,Pulaski,5826
+1900,Illinois,17155,Putnam,Putnam,18
+1900,Illinois,17157,Randolph,Randolph,1332
+1900,Illinois,17159,Richland,Richland,12
+1900,Illinois,17161,Rock Island,Rock Island,601
+1900,Illinois,17163,St Clair,St Clair,3987
+1900,Illinois,17165,Saline,Saline,868
+1900,Illinois,17167,Sangamon,Sangamon,3106
+1900,Illinois,17169,Schuyler,Schuyler,7
+1900,Illinois,17171,Scott,Scott,34
+1900,Illinois,17173,Shelby,Shelby,68
+1900,Illinois,17175,Stark,Stark,6
+1900,Illinois,17177,Stephenson,Stephenson,60
+1900,Illinois,17179,Tazewell,Tazewell,24
+1900,Illinois,17181,Union,Union,194
+1900,Illinois,17183,Vermilion,Vermilion,1124
+1900,Illinois,17185,Wabash,Wabash,53
+1900,Illinois,17187,Warren,Warren,376
+1900,Illinois,17189,Washington,Washington,79
+1900,Illinois,17191,Wayne,Wayne,5
+1900,Illinois,17193,White,White,545
+1900,Illinois,17195,Whiteside,Whiteside,54
+1900,Illinois,17197,Will,Will,1244
+1900,Illinois,17199,Williamson,Williamson,610
+1900,Illinois,17201,Winnebago,Winnebago,238
+1900,Illinois,17203,Woodford,Woodford,103
+1900,Indian Territory,,Cherokee Nation,Cherokee Nation,9162
+1900,Indian Territory,,Chickasaw Nation,Chickasaw Nation,9066
+1900,Indian Territory,,Choctaw Nation,Choctaw Nation,10123
+1900,Indian Territory,,Creek Nation,Creek Nation,7520
+1900,Indian Territory,,Seminole Nation,Seminole Nation,981
+1900,Indian Territory,,Modoc Indian Reservation,Modoc Indian Reservation,0
+1900,Indian Territory,,Ottawa Indian Reservation,Ottawa Indian Reservation,0
+1900,Indian Territory,,Peroria Indian Reservation,Peroria Indian Reservation,1
+1900,Indian Territory,,Quapaw Indian Reservation,Quapaw Indian Reservation,0
+1900,Indian Territory,,Seneca Indian Reservation,Seneca Indian Reservation,0
+1900,Indian Territory,,Shawnee Indian Reservation,Shawnee Indian Reservation,0
+1900,Indian Territory,,Wyandotte Indian Reservation,Wyandotte Indian Reservation,0
+1900,Indiana,18001,Adams,Adams,0
+1900,Indiana,18003,Allen,Allen,307
+1900,Indiana,18005,Bartholomew,Bartholomew,335
+1900,Indiana,18007,Benton,Benton,72
+1900,Indiana,18009,Blackford,Blackford,23
+1900,Indiana,18011,Boone,Boone,119
+1900,Indiana,18013,Brown,Brown,1
+1900,Indiana,18015,Carroll,Carroll,27
+1900,Indiana,18017,Cass,Cass,243
+1900,Indiana,18019,Clark,Clark,3182
+1900,Indiana,18021,Clay,Clay,412
+1900,Indiana,18023,Clinton,Clinton,99
+1900,Indiana,18025,Crawford,Crawford,2
+1900,Indiana,18027,Daviess,Daviess,379
+1900,Indiana,18029,Dearborn,Dearborn,149
+1900,Indiana,18031,Decatur,Decatur,133
+1900,Indiana,18033,DeKalb,De Kalb,11
+1900,Indiana,18035,Delaware,Delaware,994
+1900,Indiana,18037,Dubois,Dubois,19
+1900,Indiana,18039,Elkhart,Elkhart,51
+1900,Indiana,18041,Fayette,Fayette,433
+1900,Indiana,18043,Floyd,Floyd,2107
+1900,Indiana,18045,Fountain,Fountain,29
+1900,Indiana,18047,Franklin,Franklin,7
+1900,Indiana,18049,Fulton,Fulton,26
+1900,Indiana,18051,Gibson,Gibson,1481
+1900,Indiana,18053,Grant,Grant,1366
+1900,Indiana,18055,Greene,Greene,133
+1900,Indiana,18057,Hamilton,Hamilton,594
+1900,Indiana,18059,Hancock,Hancock,114
+1900,Indiana,18061,Harrison,Harrison,358
+1900,Indiana,18063,Hendricks,Hendricks,364
+1900,Indiana,18065,Henry,Henry,472
+1900,Indiana,18067,Howard,Howard,546
+1900,Indiana,18069,Huntington,Huntington,12
+1900,Indiana,18071,Jackson,Jackson,228
+1900,Indiana,18073,Jasper,Jasper,6
+1900,Indiana,18075,Jay,Jay,145
+1900,Indiana,18077,Jefferson,Jefferson,868
+1900,Indiana,18079,Jennings,Jennings,374
+1900,Indiana,18081,Johnson,Johnson,418
+1900,Indiana,18083,Knox,Knox,612
+1900,Indiana,18085,Kosciusko,Kosciusko,30
+1900,Indiana,18087,Lagrange,Lagrange,9
+1900,Indiana,18089,Lake,Lake,41
+1900,Indiana,18091,LaPorte,Laporte,269
+1900,Indiana,18093,Lawrence,Lawrence,435
+1900,Indiana,18095,Madison,Madison,1179
+1900,Indiana,18097,Marion,Marion,17536
+1900,Indiana,18099,Marshall,Marshall,15
+1900,Indiana,18101,Martin,Martin,217
+1900,Indiana,18103,Miami,Miami,80
+1900,Indiana,18105,Monroe,Monroe,428
+1900,Indiana,18107,Montgomery,Montgomery,282
+1900,Indiana,18109,Morgan,Morgan,106
+1900,Indiana,18111,Newton,Newton,40
+1900,Indiana,18113,Noble,Noble,6
+1900,Indiana,18115,Ohio,Ohio,143
+1900,Indiana,18117,Orange,Orange,194
+1900,Indiana,18119,Owen,Owen,108
+1900,Indiana,18121,Parke,Parke,321
+1900,Indiana,18123,Perry,Perry,252
+1900,Indiana,18125,Pike,Pike,146
+1900,Indiana,18127,Porter,Porter,11
+1900,Indiana,18129,Posey,Posey,1226
+1900,Indiana,18131,Pulaski,Pulaski,6
+1900,Indiana,18133,Putnam,Putnam,258
+1900,Indiana,18135,Randolph,Randolph,396
+1900,Indiana,18137,Ripley,Ripley,32
+1900,Indiana,18139,Rush,Rush,577
+1900,Indiana,18141,St Joseph,St Joseph,627
+1900,Indiana,18143,Scott,Scott,1
+1900,Indiana,18145,Shelby,Shelby,383
+1900,Indiana,18147,Spencer,Spencer,1321
+1900,Indiana,18149,Starke,Starke,4
+1900,Indiana,18151,Steuben,Steuben,8
+1900,Indiana,18153,Sullivan,Sullivan,169
+1900,Indiana,18155,Switzerland,Switzerland,81
+1900,Indiana,18157,Tippecanoe,Tippecanoe,386
+1900,Indiana,18159,Tipton,Tipton,7
+1900,Indiana,18161,Union,Union,120
+1900,Indiana,18163,Vanderburgh,Vanderburgh,8059
+1900,Indiana,18165,Vermillion,Vermillion,120
+1900,Indiana,18167,Vigo,Vigo,2253
+1900,Indiana,18169,Wabash,Wabash,151
+1900,Indiana,18171,Warren,Warren,24
+1900,Indiana,18173,Warrick,Warrick,715
+1900,Indiana,18175,Washington,Washington,5
+1900,Indiana,18177,Wayne,Wayne,1402
+1900,Indiana,18179,Wells,Wells,3
+1900,Indiana,18181,White,White,11
+1900,Indiana,18183,Whitley,Whitley,61
+1900,Iowa,19001,Adair,Adair,13
+1900,Iowa,19003,Adams,Adams,28
+1900,Iowa,19005,Allamakee,Allamakee,16
+1900,Iowa,19007,Appanoose,Appanoose,368
+1900,Iowa,19009,Audubon,Audubon,3
+1900,Iowa,19011,Benton,Benton,22
+1900,Iowa,19013,Black Hawk,Black Hawk,22
+1900,Iowa,19015,Boone,Boone,235
+1900,Iowa,19017,Bremer,Bremer,6
+1900,Iowa,19019,Buchanan,Buchanan,26
+1900,Iowa,19021,Buena Vista,Buena Vista,3
+1900,Iowa,19023,Butler,Butler,1
+1900,Iowa,19025,Calhoun,Calhoun,3
+1900,Iowa,19027,Carroll,Carroll,32
+1900,Iowa,19029,Cass,Cass,9
+1900,Iowa,19031,Cedar,Cedar,47
+1900,Iowa,19033,Cerro Gordo,Cerro Gordo,58
+1900,Iowa,19035,Cherokee,Cherokee,17
+1900,Iowa,19037,Chickasaw,Chickasaw,3
+1900,Iowa,19039,Clarke,Clarke,69
+1900,Iowa,19041,Clay,Clay,2
+1900,Iowa,19043,Clayton,Clayton,3
+1900,Iowa,19045,Clinton,Clinton,182
+1900,Iowa,19047,Crawford,Crawford,15
+1900,Iowa,19049,Dallas,Dallas,23
+1900,Iowa,19051,Davis,Davis,59
+1900,Iowa,19053,Decatur,Decatur,58
+1900,Iowa,19055,Delaware,Delaware,1
+1900,Iowa,19057,Des Moines,Des Moines,428
+1900,Iowa,19059,Dickinson,Dickinson,4
+1900,Iowa,19061,Dubuque,Dubuque,118
+1900,Iowa,19063,Emmet,Emmet,7
+1900,Iowa,19065,Fayette,Fayette,89
+1900,Iowa,19067,Floyd,Floyd,15
+1900,Iowa,19069,Franklin,Franklin,5
+1900,Iowa,19071,Fremont,Fremont,64
+1900,Iowa,19073,Greene,Greene,11
+1900,Iowa,19075,Grundy,Grundy,3
+1900,Iowa,19077,Guthrie,Guthrie,7
+1900,Iowa,19079,Hamilton,Hamilton,40
+1900,Iowa,19081,Hancock,Hancock,8
+1900,Iowa,19083,Hardin,Hardin,55
+1900,Iowa,19085,Harrison,Harrison,39
+1900,Iowa,19087,Henry,Henry,367
+1900,Iowa,19089,Howard,Howard,15
+1900,Iowa,19091,Humboldt,Humboldt,2
+1900,Iowa,19093,Ida,Ida,3
+1900,Iowa,19095,Iowa,Iowa,2
+1900,Iowa,19097,Jackson,Jackson,1
+1900,Iowa,19099,Jasper,Jasper,190
+1900,Iowa,19101,Jefferson,Jefferson,71
+1900,Iowa,19103,Johnson,Johnson,62
+1900,Iowa,19105,Jones,Jones,58
+1900,Iowa,19107,Keokuk,Keokuk,33
+1900,Iowa,19109,Kossuth,Kossuth,3
+1900,Iowa,19111,Lee,Lee,1632
+1900,Iowa,19113,Linn,Linn,258
+1900,Iowa,19115,Louisa,Louisa,8
+1900,Iowa,19117,Lucas,Lucas,194
+1900,Iowa,19119,Lyon,Lyon,0
+1900,Iowa,19121,Madison,Madison,4
+1900,Iowa,19123,Mahaska,Mahaska,1737
+1900,Iowa,19125,Marion,Marion,44
+1900,Iowa,19127,Marshall,Marshall,167
+1900,Iowa,19129,Mills,Mills,44
+1900,Iowa,19131,Mitchell,Mitchell,15
+1900,Iowa,19133,Monona,Monona,6
+1900,Iowa,19135,Monroe,Monroe,553
+1900,Iowa,19137,Montgomery,Montgomery,51
+1900,Iowa,19139,Muscatine,Muscatine,146
+1900,Iowa,19141,O Brien,O Brien,0
+1900,Iowa,19143,Osceola,Osceola,1
+1900,Iowa,19145,Page,Page,232
+1900,Iowa,19147,Palo Alto,Palo Alto,0
+1900,Iowa,19149,Plymouth,Plymouth,1
+1900,Iowa,19151,Pocahontas,Pocahontas,0
+1900,Iowa,19153,Polk,Polk,2041
+1900,Iowa,19155,Pottawattamie,Pottawattamie,271
+1900,Iowa,19157,Poweshiek,Poweshiek,51
+1900,Iowa,19159,Ringgold,Ringgold,3
+1900,Iowa,19161,Sac,Sac,6
+1900,Iowa,19163,Scott,Scott,496
+1900,Iowa,19165,Shelby,Shelby,10
+1900,Iowa,19167,Sioux,Sioux,1
+1900,Iowa,19169,Story,Story,3
+1900,Iowa,19171,Tama,Tama,23
+1900,Iowa,19173,Taylor,Taylor,74
+1900,Iowa,19175,Union,Union,102
+1900,Iowa,19177,Van Buren,Van Buren,102
+1900,Iowa,19179,Wapello,Wapello,793
+1900,Iowa,19181,Warren,Warren,68
+1900,Iowa,19183,Washington,Washington,69
+1900,Iowa,19185,Wayne,Wayne,10
+1900,Iowa,19187,Webster,Webster,115
+1900,Iowa,19189,Winnebago,Winnebago,2
+1900,Iowa,19191,Winneshiek,Winneshiek,19
+1900,Iowa,19193,Woodbury,Woodbury,292
+1900,Iowa,19195,Worth,Worth,13
+1900,Iowa,19197,Wright,Wright,12
+1900,Iowa,,Sac and Fox Indian Reservation (Iowa part),Sac and Fox Indian Reservation (Iowa part),0
+1900,Kansas,20001,Allen,Allen,386
+1900,Kansas,20003,Anderson,Anderson,313
+1900,Kansas,20005,Atchison,Atchison,2929
+1900,Kansas,20007,Barber,Barber,55
+1900,Kansas,20009,Barton,Barton,286
+1900,Kansas,20011,Bourbon,Bourbon,1489
+1900,Kansas,20013,Brown,Brown,488
+1900,Kansas,20015,Butler,Butler,157
+1900,Kansas,20017,Chase,Chase,177
+1900,Kansas,20019,Chautauqua,Chautauqua,184
+1900,Kansas,20021,Cherokee,Cherokee,1956
+1900,Kansas,20023,Cheyenne,Cheyenne,0
+1900,Kansas,20025,Clark,Clark,6
+1900,Kansas,20027,Clay,Clay,181
+1900,Kansas,20029,Cloud,Cloud,61
+1900,Kansas,20031,Coffey,Coffey,145
+1900,Kansas,20033,Comanche,Comanche,0
+1900,Kansas,20035,Cowley,Cowley,685
+1900,Kansas,20037,Crawford,Crawford,1657
+1900,Kansas,20039,Decatur,Decatur,10
+1900,Kansas,20041,Dickinson,Dickinson,228
+1900,Kansas,20043,Doniphan,Doniphan,813
+1900,Kansas,20045,Douglas,Douglas,2794
+1900,Kansas,20047,Edwards,Edwards,83
+1900,Kansas,20049,Elk,Elk,3
+1900,Kansas,20051,Ellis,Ellis,63
+1900,Kansas,20053,Ellsworth,Ellsworth,158
+1900,Kansas,20055,Finney,Finney,110
+1900,Kansas,20057,Ford,Ford,65
+1900,Kansas,20059,Franklin,Franklin,696
+1900,Kansas,20061,Geary,Geary,381
+1900,Kansas,20063,Gove,Gove,33
+1900,Kansas,20065,Graham,Graham,531
+1900,Kansas,20067,Grant,Grant,0
+1900,Kansas,20069,Gray,Gray,15
+1900,Kansas,20071,Greeley,Greeley,1
+1900,Kansas,20073,Greenwood,Greenwood,66
+1900,Kansas,20075,Hamilton,Hamilton,6
+1900,Kansas,20077,Harper,Harper,52
+1900,Kansas,20079,Harvey,Harvey,278
+1900,Kansas,20081,Haskell,Haskell,0
+1900,Kansas,20083,Hodgeman,Hodgeman,125
+1900,Kansas,20085,Jackson,Jackson,177
+1900,Kansas,20087,Jefferson,Jefferson,688
+1900,Kansas,20089,Jewell,Jewell,7
+1900,Kansas,20091,Johnson,Johnson,810
+1900,Kansas,20093,Kearny,Kearny,1
+1900,Kansas,20095,Kingman,Kingman,60
+1900,Kansas,20097,Kiowa,Kiowa,9
+1900,Kansas,20099,Labette,Labette,1737
+1900,Kansas,20101,Lane,Lane,0
+1900,Kansas,20103,Leavenworth,Leavenworth,4498
+1900,Kansas,20105,Lincoln,Lincoln,37
+1900,Kansas,20107,Linn,Linn,628
+1900,Kansas,20109,Logan,Logan,15
+1900,Kansas,20111,Lyon,Lyon,973
+1900,Kansas,20113,McPherson,Mcpherson,30
+1900,Kansas,20115,Marion,Marion,111
+1900,Kansas,20117,Marshall,Marshall,266
+1900,Kansas,20119,Meade,Meade,6
+1900,Kansas,20121,Miami,Miami,1015
+1900,Kansas,20123,Mitchell,Mitchell,66
+1900,Kansas,20125,Montgomery,Montgomery,1593
+1900,Kansas,20127,Morris,Morris,405
+1900,Kansas,20129,Morton,Morton,17
+1900,Kansas,20131,Nemaha,Nemaha,278
+1900,Kansas,20133,Neosho,Neosho,281
+1900,Kansas,20135,Ness,Ness,0
+1900,Kansas,20137,Norton,Norton,38
+1900,Kansas,20139,Osage,Osage,523
+1900,Kansas,20141,Osborne,Osborne,118
+1900,Kansas,20143,Ottawa,Ottawa,84
+1900,Kansas,20145,Pawnee,Pawnee,85
+1900,Kansas,20147,Phillips,Phillips,116
+1900,Kansas,20149,Pottawatomie,Pottawatomie,226
+1900,Kansas,20151,Pratt,Pratt,163
+1900,Kansas,20153,Rawlins,Rawlins,0
+1900,Kansas,20155,Reno,Reno,491
+1900,Kansas,20157,Republic,Republic,12
+1900,Kansas,20159,Rice,Rice,142
+1900,Kansas,20161,Riley,Riley,344
+1900,Kansas,20163,Rooks,Rooks,97
+1900,Kansas,20165,Rush,Rush,9
+1900,Kansas,20167,Russell,Russell,67
+1900,Kansas,20169,Saline,Saline,437
+1900,Kansas,20171,Scott,Scott,0
+1900,Kansas,20173,Sedgwick,Sedgwick,1489
+1900,Kansas,20175,Seward,Seward,4
+1900,Kansas,20177,Shawnee,Shawnee,5889
+1900,Kansas,20179,Sheridan,Sheridan,8
+1900,Kansas,20181,Sherman,Sherman,10
+1900,Kansas,20183,Smith,Smith,1
+1900,Kansas,20185,Stafford,Stafford,170
+1900,Kansas,20187,Stanton,Stanton,0
+1900,Kansas,20189,Stevens,Stevens,5
+1900,Kansas,20191,Sumner,Sumner,240
+1900,Kansas,20193,Thomas,Thomas,5
+1900,Kansas,20195,Trego,Trego,24
+1900,Kansas,20197,Wabaunsee,Wabaunsee,757
+1900,Kansas,20199,Wallace,Wallace,20
+1900,Kansas,20201,Washington,Washington,26
+1900,Kansas,20203,Wichita,Wichita,0
+1900,Kansas,20205,Wilson,Wilson,40
+1900,Kansas,20207,Woodson,Woodson,66
+1900,Kansas,20209,Wyandotte,Wyandotte,8923
+1900,Kansas,,Kikapoo Indian Reservation,Kikapoo Indian Reservation,0
+1900,Kansas,,Pottawatomi Indian Reservation,Pottawatomi Indian Reservation,0
+1900,Kansas,,Sac and Fox Indian Reservation (Kansas part),Sac and Fox Indian Reservation (Kansas part),0
+1900,Kentucky,21001,Adair,Adair,1594
+1900,Kentucky,21003,Allen,Allen,1098
+1900,Kentucky,21005,Anderson,Anderson,994
+1900,Kentucky,21007,Ballard,Ballard,1502
+1900,Kentucky,21009,Barren,Barren,3787
+1900,Kentucky,21011,Bath,Bath,1692
+1900,Kentucky,21013,Bell,Bell,1754
+1900,Kentucky,21015,Boone,Boone,810
+1900,Kentucky,21017,Bourbon,Bourbon,6792
+1900,Kentucky,21019,Boyd,Boyd,771
+1900,Kentucky,21021,Boyle,Boyle,4781
+1900,Kentucky,21023,Bracken,Bracken,572
+1900,Kentucky,21025,Breathitt,Breathitt,299
+1900,Kentucky,21027,Breckinridge,Breckinridge,2096
+1900,Kentucky,21029,Bullitt,Bullitt,1094
+1900,Kentucky,21031,Butler,Butler,725
+1900,Kentucky,21033,Caldwell,Caldwell,2775
+1900,Kentucky,21035,Calloway,Calloway,1258
+1900,Kentucky,21037,Campbell,Campbell,580
+1900,Kentucky,21039,Carlisle,Carlisle,638
+1900,Kentucky,21041,Carroll,Carroll,804
+1900,Kentucky,21043,Carter,Carter,143
+1900,Kentucky,21045,Casey,Casey,504
+1900,Kentucky,21047,Christian,Christian,16597
+1900,Kentucky,21049,Clark,Clark,5177
+1900,Kentucky,21051,Clay,Clay,564
+1900,Kentucky,21053,Clinton,Clinton,175
+1900,Kentucky,21055,Crittenden,Crittenden,876
+1900,Kentucky,21057,Cumberland,Cumberland,922
+1900,Kentucky,21059,Daviess,Daviess,5554
+1900,Kentucky,21061,Edmonson,Edmonson,452
+1900,Kentucky,21063,Elliott,Elliott,2
+1900,Kentucky,21065,Estill,Estill,223
+1900,Kentucky,21067,Fayette,Fayette,15409
+1900,Kentucky,21069,Fleming,Fleming,1585
+1900,Kentucky,21071,Floyd,Floyd,136
+1900,Kentucky,21073,Franklin,Franklin,4348
+1900,Kentucky,21075,Fulton,Fulton,2838
+1900,Kentucky,21077,Gallatin,Gallatin,565
+1900,Kentucky,21079,Garrard,Garrard,2946
+1900,Kentucky,21081,Grant,Grant,427
+1900,Kentucky,21083,Graves,Graves,3345
+1900,Kentucky,21085,Grayson,Grayson,428
+1900,Kentucky,21087,Green,Green,1739
+1900,Kentucky,21089,Greenup,Greenup,272
+1900,Kentucky,21091,Hancock,Hancock,644
+1900,Kentucky,21093,Hardin,Hardin,2071
+1900,Kentucky,21095,Harlan,Harlan,226
+1900,Kentucky,21097,Harrison,Harrison,2421
+1900,Kentucky,21099,Hart,Hart,2220
+1900,Kentucky,21101,Henderson,Henderson,8804
+1900,Kentucky,21103,Henry,Henry,1930
+1900,Kentucky,21105,Hickman,Hickman,2123
+1900,Kentucky,21107,Hopkins,Hopkins,5118
+1900,Kentucky,21109,Jackson,Jackson,19
+1900,Kentucky,21111,Jefferson,Jefferson,43916
+1900,Kentucky,21113,Jessamine,Jessamine,3349
+1900,Kentucky,21115,Johnson,Johnson,1
+1900,Kentucky,21117,Kenton,Kenton,3282
+1900,Kentucky,21119,Knott,Knott,169
+1900,Kentucky,21121,Knox,Knox,754
+1900,Kentucky,21123,Larue,Larue,782
+1900,Kentucky,21125,Laurel,Laurel,654
+1900,Kentucky,21127,Lawrence,Lawrence,185
+1900,Kentucky,21129,Lee,Lee,271
+1900,Kentucky,21131,Leslie,Leslie,75
+1900,Kentucky,21133,Letcher,Letcher,46
+1900,Kentucky,21135,Lewis,Lewis,175
+1900,Kentucky,21137,Lincoln,Lincoln,3512
+1900,Kentucky,21139,Livingston,Livingston,778
+1900,Kentucky,21141,Logan,Logan,6738
+1900,Kentucky,21143,Lyon,Lyon,1932
+1900,Kentucky,21145,McCracken,Mccracken,7283
+1900,Kentucky,21149,McLean,Mclean,874
+1900,Kentucky,21151,Madison,Madison,6690
+1900,Kentucky,21153,Magoffin,Magoffin,136
+1900,Kentucky,21155,Marion,Marion,2811
+1900,Kentucky,21157,Marshall,Marshall,348
+1900,Kentucky,21159,Martin,Martin,15
+1900,Kentucky,21161,Mason,Mason,3768
+1900,Kentucky,21163,Meade,Meade,890
+1900,Kentucky,21165,Menifee,Menifee,41
+1900,Kentucky,21167,Mercer,Mercer,2468
+1900,Kentucky,21169,Metcalfe,Metcalfe,999
+1900,Kentucky,21171,Monroe,Monroe,682
+1900,Kentucky,21173,Montgomery,Montgomery,3483
+1900,Kentucky,21175,Morgan,Morgan,53
+1900,Kentucky,21177,Muhlenberg,Muhlenberg,2157
+1900,Kentucky,21179,Nelson,Nelson,3442
+1900,Kentucky,21181,Nicholas,Nicholas,1332
+1900,Kentucky,21183,Ohio,Ohio,1393
+1900,Kentucky,21185,Oldham,Oldham,1620
+1900,Kentucky,21187,Owen,Owen,1470
+1900,Kentucky,21189,Owsley,Owsley,73
+1900,Kentucky,21191,Pendleton,Pendleton,488
+1900,Kentucky,21193,Perry,Perry,161
+1900,Kentucky,21195,Pike,Pike,190
+1900,Kentucky,21197,Powell,Powell,375
+1900,Kentucky,21199,Pulaski,Pulaski,1336
+1900,Kentucky,21201,Robertson,Robertson,128
+1900,Kentucky,21203,Rockcastle,Rockcastle,157
+1900,Kentucky,21205,Rowan,Rowan,54
+1900,Kentucky,21207,Russell,Russell,294
+1900,Kentucky,21209,Scott,Scott,5062
+1900,Kentucky,21211,Shelby,Shelby,4698
+1900,Kentucky,21213,Simpson,Simpson,2550
+1900,Kentucky,21215,Spencer,Spencer,1251
+1900,Kentucky,21217,Taylor,Taylor,1643
+1900,Kentucky,21219,Todd,Todd,6169
+1900,Kentucky,21221,Trigg,Trigg,3497
+1900,Kentucky,21223,Trimble,Trimble,201
+1900,Kentucky,21225,Union,Union,3113
+1900,Kentucky,21227,Warren,Warren,6992
+1900,Kentucky,21229,Washington,Washington,1899
+1900,Kentucky,21231,Wayne,Wayne,608
+1900,Kentucky,21233,Webster,Webster,2389
+1900,Kentucky,21235,Whitley,Whitley,769
+1900,Kentucky,21237,Wolfe,Wolfe,97
+1900,Kentucky,21239,Woodford,Woodford,4719
+1900,Louisiana,22001,Acadia,Acadia,4820
+1900,Louisiana,22005,Ascension,Ascension,12081
+1900,Louisiana,22007,Assumption,Assumption,9438
+1900,Louisiana,22009,Avoyelles,Avoyelles,11891
+1900,Louisiana,22013,Bienville,Bienville,8240
+1900,Louisiana,22015,Bossier,Bossier,18890
+1900,Louisiana,22017,Caddo,Caddo,30662
+1900,Louisiana,22019,Calcasieu,Calcasieu,5966
+1900,Louisiana,22021,Caldwell,Caldwell,3076
+1900,Louisiana,22023,Cameron,Cameron,577
+1900,Louisiana,22025,Catahoula,Catahoula,6793
+1900,Louisiana,22027,Claiborne,Claiborne,13827
+1900,Louisiana,22029,Concordia,Concordia,11845
+1900,Louisiana,22031,De Soto,De Soto,16903
+1900,Louisiana,22033,East Baton Rouge,East Baton Rouge,20578
+1900,Louisiana,22035,East Carroll,East Carroll,10412
+1900,Louisiana,22037,East Feliciana,East Feliciana,14871
+1900,Louisiana,22041,Franklin,Franklin,5020
+1900,Louisiana,22043,Grant,Grant,3665
+1900,Louisiana,22045,Iberia,Iberia,14282
+1900,Louisiana,22047,Iberville,Iberville,17159
+1900,Louisiana,22049,Jackson,Jackson,3204
+1900,Louisiana,22051,Jefferson,Jefferson,6279
+1900,Louisiana,22055,Lafayette,Lafayette,9516
+1900,Louisiana,22057,Lafourche,Lafourche,8184
+1900,Louisiana,22061,Lincoln,Lincoln,6759
+1900,Louisiana,22063,Livingston,Livingston,1144
+1900,Louisiana,22065,Madison,Madison,11422
+1900,Louisiana,22067,Morehouse,Morehouse,12722
+1900,Louisiana,22069,Natchitoches,Natchitoches,19544
+1900,Louisiana,22071,Orleans,Orleans,77714
+1900,Louisiana,22073,Ouachita,Ouachita,13098
+1900,Louisiana,22075,Plaquemines,Plaquemines,7276
+1900,Louisiana,22077,Pointe Coupee,Pointe Coupee,19174
+1900,Louisiana,22079,Rapides,Rapides,21210
+1900,Louisiana,22081,Red River,Red River,7471
+1900,Louisiana,22083,Richland,Richland,7892
+1900,Louisiana,22085,Sabine,Sabine,3002
+1900,Louisiana,22087,St Bernard,St Bernard,2197
+1900,Louisiana,22089,St Charles,St Charles,6102
+1900,Louisiana,22091,St Helena,St Helena,4583
+1900,Louisiana,22093,St James,St James,11356
+1900,Louisiana,22095,St John The Baptist,St John The Baptist,7184
+1900,Louisiana,22097,St Landry,St Landry,26658
+1900,Louisiana,22099,St Martin,St Martin,8883
+1900,Louisiana,22101,St Mary,St Mary,20264
+1900,Louisiana,22103,St Tammany,St Tammany,4889
+1900,Louisiana,22105,Tangipahoa,Tangipahoa,5375
+1900,Louisiana,22107,Tensas,Tensas,17839
+1900,Louisiana,22109,Terrebonne,Terrebonne,10312
+1900,Louisiana,22111,Union,Union,6967
+1900,Louisiana,22113,Vermilion,Vermilion,3747
+1900,Louisiana,22115,Vernon,Vernon,1279
+1900,Louisiana,22117,Washington,Washington,2776
+1900,Louisiana,22119,Webster,Webster,8262
+1900,Louisiana,22121,West Baton Rouge,West Baton Rouge,7934
+1900,Louisiana,22123,West Carroll,West Carroll,2128
+1900,Louisiana,22125,West Feliciana,West Feliciana,13781
+1900,Louisiana,22127,Winn,Winn,1681
+1900,Maine,23001,Androscoggin,Androscoggin,64
+1900,Maine,23003,Aroostook,Aroostook,49
+1900,Maine,23005,Cumberland,Cumberland,410
+1900,Maine,23007,Franklin,Franklin,32
+1900,Maine,23009,Hancock,Hancock,52
+1900,Maine,23011,Kennebec,Kennebec,122
+1900,Maine,23013,Knox,Knox,97
+1900,Maine,23015,Lincoln,Lincoln,27
+1900,Maine,23017,Oxford,Oxford,22
+1900,Maine,23019,Penobscot,Penobscot,222
+1900,Maine,23021,Piscataquis,Piscataquis,5
+1900,Maine,23023,Sagadahoc,Sagadahoc,81
+1900,Maine,23025,Somerset,Somerset,2
+1900,Maine,23027,Waldo,Waldo,16
+1900,Maine,23029,Washington,Washington,65
+1900,Maine,23031,York,York,53
+1900,Maryland,24001,Allegany,Allegany,1669
+1900,Maryland,24003,Anne Arundel,Anne Arundel,15367
+1900,Maryland,24005,Baltimore,Baltimore,11618
+1900,Maryland,24009,Calvert,Calvert,5143
+1900,Maryland,24011,Caroline,Caroline,4237
+1900,Maryland,24013,Carroll,Carroll,2143
+1900,Maryland,24015,Cecil,Cecil,3805
+1900,Maryland,24017,Charles,Charles,9648
+1900,Maryland,24019,Dorchester,Dorchester,9484
+1900,Maryland,24021,Frederick,Frederick,6012
+1900,Maryland,24023,Garrett,Garrett,126
+1900,Maryland,24025,Harford,Harford,5854
+1900,Maryland,24027,Howard,Howard,4405
+1900,Maryland,24029,Kent,Kent,7442
+1900,Maryland,24031,Montgomery,Montgomery,10054
+1900,Maryland,24033,Prince Georges,Prince Georges,11985
+1900,Maryland,24035,Queen Anne's,Queen Anne's,6372
+1900,Maryland,24037,St Mary's,St Mary's,8256
+1900,Maryland,24039,Somerset,Somerset,9533
+1900,Maryland,24041,Talbot,Talbot,7466
+1900,Maryland,24043,Washington,Washington,2488
+1900,Maryland,24045,Wicomico,Wicomico,5828
+1900,Maryland,24047,Worcester,Worcester,6871
+1900,Maryland,24510,Baltimore City,Baltimore City,79258
+1900,Massachusetts,25001,Barnstable,Barnstable,615
+1900,Massachusetts,25003,Berkshire,Berkshire,1295
+1900,Massachusetts,25005,Bristol,Bristol,2749
+1900,Massachusetts,25007,Dukes,Dukes,150
+1900,Massachusetts,25009,Essex,Essex,1947
+1900,Massachusetts,25011,Franklin,Franklin,118
+1900,Massachusetts,25013,Hampden,Hampden,1312
+1900,Massachusetts,25015,Hampshire,Hampshire,390
+1900,Massachusetts,25017,Middlesex,Middlesex,7259
+1900,Massachusetts,25019,Nantucket,Nantucket,46
+1900,Massachusetts,25021,Norfolk,Norfolk,734
+1900,Massachusetts,25023,Plymouth,Plymouth,1132
+1900,Massachusetts,25025,Suffolk,Suffolk,12408
+1900,Massachusetts,25027,Worcester,Worcester,1819
+1900,Michigan,26001,Alcona,Alcona,1
+1900,Michigan,26003,Alger,Alger,7
+1900,Michigan,26005,Allegan,Allegan,261
+1900,Michigan,26007,Alpena,Alpena,3
+1900,Michigan,26009,Antrim,Antrim,49
+1900,Michigan,26011,Arenac,Arenac,4
+1900,Michigan,26013,Baraga,Baraga,8
+1900,Michigan,26015,Barry,Barry,43
+1900,Michigan,26017,Bay,Bay,161
+1900,Michigan,26019,Benzie,Benzie,90
+1900,Michigan,26021,Berrien,Berrien,647
+1900,Michigan,26023,Branch,Branch,58
+1900,Michigan,26025,Calhoun,Calhoun,695
+1900,Michigan,26027,Cass,Cass,1568
+1900,Michigan,26029,Charlevoix,Charlevoix,65
+1900,Michigan,26031,Cheboygan,Cheboygan,29
+1900,Michigan,26033,Chippewa,Chippewa,40
+1900,Michigan,26035,Clare,Clare,1
+1900,Michigan,26037,Clinton,Clinton,35
+1900,Michigan,26039,Crawford,Crawford,4
+1900,Michigan,26041,Delta,Delta,39
+1900,Michigan,26043,Dickinson,Dickinson,8
+1900,Michigan,26045,Eaton,Eaton,75
+1900,Michigan,26047,Emmet,Emmet,68
+1900,Michigan,26049,Genesee,Genesee,277
+1900,Michigan,26051,Gladwin,Gladwin,1
+1900,Michigan,26053,Gogebic,Gogebic,5
+1900,Michigan,26055,Grand Traverse,Grand Traverse,39
+1900,Michigan,26057,Gratiot,Gratiot,119
+1900,Michigan,26059,Hillsdale,Hillsdale,35
+1900,Michigan,26061,Houghton,Houghton,44
+1900,Michigan,26063,Huron,Huron,10
+1900,Michigan,26065,Ingham,Ingham,410
+1900,Michigan,26067,Ionia,Ionia,95
+1900,Michigan,26069,Iosco,Iosco,9
+1900,Michigan,26071,Iron,Iron,13
+1900,Michigan,26073,Isabella,Isabella,167
+1900,Michigan,26075,Jackson,Jackson,504
+1900,Michigan,26077,Kalamazoo,Kalamazoo,564
+1900,Michigan,26079,Kalkaska,Kalkaska,14
+1900,Michigan,26081,Kent,Kent,681
+1900,Michigan,26083,Keweenaw,Keweenaw,1
+1900,Michigan,26085,Lake,Lake,3
+1900,Michigan,26087,Lapeer,Lapeer,31
+1900,Michigan,26089,Leelanau,Leelanau,12
+1900,Michigan,26091,Lenawee,Lenawee,352
+1900,Michigan,26093,Livingston,Livingston,52
+1900,Michigan,26095,Luce,Luce,0
+1900,Michigan,26097,Mackinac,Mackinac,19
+1900,Michigan,26099,Macomb,Macomb,91
+1900,Michigan,26101,Manistee,Manistee,25
+1900,Michigan,26103,Marquette,Marquette,64
+1900,Michigan,26105,Mason,Mason,5
+1900,Michigan,26107,Mecosta,Mecosta,316
+1900,Michigan,26109,Menominee,Menominee,11
+1900,Michigan,26111,Midland,Midland,32
+1900,Michigan,26113,Missaukee,Missaukee,7
+1900,Michigan,26115,Monroe,Monroe,122
+1900,Michigan,26117,Montcalm,Montcalm,119
+1900,Michigan,26119,Montmorency,Montmorency,2
+1900,Michigan,26121,Muskegon,Muskegon,53
+1900,Michigan,26123,Newaygo,Newaygo,17
+1900,Michigan,26125,Oakland,Oakland,222
+1900,Michigan,26127,Oceana,Oceana,35
+1900,Michigan,26129,Ogemaw,Ogemaw,7
+1900,Michigan,26131,Ontonagon,Ontonagon,11
+1900,Michigan,26133,Osceola,Osceola,21
+1900,Michigan,26135,Oscoda,Oscoda,4
+1900,Michigan,26137,Otsego,Otsego,4
+1900,Michigan,26139,Ottawa,Ottawa,27
+1900,Michigan,26141,Presque Isle,Presque Isle,12
+1900,Michigan,26143,Roscommon,Roscommon,0
+1900,Michigan,26145,Saginaw,Saginaw,438
+1900,Michigan,26147,St Clair,St Clair,79
+1900,Michigan,26149,St Joseph,St Joseph,96
+1900,Michigan,26151,Sanilac,Sanilac,11
+1900,Michigan,26153,Schoolcraft,Schoolcraft,2
+1900,Michigan,26155,Shiawassee,Shiawassee,44
+1900,Michigan,26157,Tuscola,Tuscola,36
+1900,Michigan,26159,Van Buren,Van Buren,676
+1900,Michigan,26161,Washtenaw,Washtenaw,1240
+1900,Michigan,26163,Wayne,Wayne,4535
+1900,Michigan,26165,Wexford,Wexford,36
+1900,Minnesota,27001,Aitkin,Aitkin,47
+1900,Minnesota,27003,Anoka,Anoka,13
+1900,Minnesota,27005,Becker,Becker,4
+1900,Minnesota,27007,Beltrami,Beltrami,12
+1900,Minnesota,27009,Benton,Benton,0
+1900,Minnesota,27011,Big Stone,Big Stone,5
+1900,Minnesota,27013,Blue Earth,Blue Earth,12
+1900,Minnesota,27015,Brown,Brown,6
+1900,Minnesota,27017,Carlton,Carlton,2
+1900,Minnesota,27019,Carver,Carver,1
+1900,Minnesota,27021,Cass,Cass,8
+1900,Minnesota,27023,Chippewa,Chippewa,3
+1900,Minnesota,27025,Chisago,Chisago,1
+1900,Minnesota,27027,Clay,Clay,7
+1900,Minnesota,27031,Cook,Cook,1
+1900,Minnesota,27033,Cottonwood,Cottonwood,1
+1900,Minnesota,27035,Crow Wing,Crow Wing,8
+1900,Minnesota,27037,Dakota,Dakota,42
+1900,Minnesota,27039,Dodge,Dodge,10
+1900,Minnesota,27041,Douglas,Douglas,3
+1900,Minnesota,27043,Faribault,Faribault,21
+1900,Minnesota,27045,Fillmore,Fillmore,14
+1900,Minnesota,27047,Freeborn,Freeborn,29
+1900,Minnesota,27049,Goodhue,Goodhue,39
+1900,Minnesota,27051,Grant,Grant,2
+1900,Minnesota,27053,Hennepin,Hennepin,1584
+1900,Minnesota,27055,Houston,Houston,0
+1900,Minnesota,27057,Hubbard,Hubbard,5
+1900,Minnesota,27059,Isanti,Isanti,6
+1900,Minnesota,27061,Itasca,Itasca,3
+1900,Minnesota,27063,Jackson,Jackson,1
+1900,Minnesota,27065,Kanabec,Kanabec,5
+1900,Minnesota,27067,Kandiyohi,Kandiyohi,1
+1900,Minnesota,27069,Kittson,Kittson,0
+1900,Minnesota,27073,Lac Qui Parle,Lac Qui Parle,10
+1900,Minnesota,27075,Lake,Lake,3
+1900,Minnesota,27079,Le Sueur,Le Sueur,2
+1900,Minnesota,27081,Lincoln,Lincoln,0
+1900,Minnesota,27083,Lyon,Lyon,4
+1900,Minnesota,27085,McLeod,Mcleod,6
+1900,Minnesota,27089,Marshall,Marshall,0
+1900,Minnesota,27091,Martin,Martin,3
+1900,Minnesota,27093,Meeker,Meeker,7
+1900,Minnesota,27095,Mille Lacs,Mille Lacs,0
+1900,Minnesota,27097,Morrison,Morrison,4
+1900,Minnesota,27099,Mower,Mower,5
+1900,Minnesota,27101,Murray,Murray,0
+1900,Minnesota,27103,Nicollet,Nicollet,3
+1900,Minnesota,27105,Nobles,Nobles,9
+1900,Minnesota,27107,Norman,Norman,1
+1900,Minnesota,27109,Olmsted,Olmsted,12
+1900,Minnesota,27111,Otter Tail,Otter Tail,60
+1900,Minnesota,27115,Pine,Pine,2
+1900,Minnesota,27117,Pipestone,Pipestone,6
+1900,Minnesota,27119,Polk,Polk,15
+1900,Minnesota,27121,Pope,Pope,3
+1900,Minnesota,27123,Ramsey,Ramsey,2280
+1900,Minnesota,27125,Red Lake,Red Lake,7
+1900,Minnesota,27127,Redwood,Redwood,35
+1900,Minnesota,27129,Renville,Renville,1
+1900,Minnesota,27131,Rice,Rice,32
+1900,Minnesota,27133,Rock,Rock,1
+1900,Minnesota,27135,Roseau,Roseau,1
+1900,Minnesota,27137,St Louis,St Louis,370
+1900,Minnesota,27139,Scott,Scott,2
+1900,Minnesota,27141,Sherburne,Sherburne,5
+1900,Minnesota,27143,Sibley,Sibley,1
+1900,Minnesota,27145,Stearns,Stearns,23
+1900,Minnesota,27147,Steele,Steele,22
+1900,Minnesota,27149,Stevens,Stevens,2
+1900,Minnesota,27151,Swift,Swift,2
+1900,Minnesota,27153,Todd,Todd,0
+1900,Minnesota,27155,Traverse,Traverse,1
+1900,Minnesota,27157,Wabasha,Wabasha,8
+1900,Minnesota,27159,Wadena,Wadena,0
+1900,Minnesota,27161,Waseca,Waseca,4
+1900,Minnesota,27163,Washington,Washington,66
+1900,Minnesota,27165,Watonwan,Watonwan,7
+1900,Minnesota,27167,Wilkin,Wilkin,2
+1900,Minnesota,27169,Winona,Winona,34
+1900,Minnesota,27171,Wright,Wright,2
+1900,Minnesota,27173,Yellow Medicine,Yellow Medicine,0
+1900,Minnesota,,Red Lake Indian Reservation,Red Lake Indian Reservation,0
+1900,Minnesota,,White Earth Indian Reservation,White Earth Indian Reservation,0
+1900,Minnesota,,Winnibigoshish Indian Reservation,Winnibigoshish Indian Reservation,0
+1900,Mississippi,28001,Adams,Adams,23668
+1900,Mississippi,28003,Alcorn,Alcorn,3825
+1900,Mississippi,28005,Amite,Amite,12308
+1900,Mississippi,28007,Attala,Attala,12350
+1900,Mississippi,28009,Benton,Benton,5200
+1900,Mississippi,28011,Bolivar,Bolivar,31197
+1900,Mississippi,28013,Calhoun,Calhoun,4097
+1900,Mississippi,28015,Carroll,Carroll,12919
+1900,Mississippi,28017,Chickasaw,Chickasaw,11744
+1900,Mississippi,28019,Choctaw,Choctaw,3585
+1900,Mississippi,28021,Claiborne,Claiborne,16213
+1900,Mississippi,28023,Clarke,Clarke,8493
+1900,Mississippi,28025,Clay,Clay,13633
+1900,Mississippi,28027,Coahoma,Coahoma,23183
+1900,Mississippi,28029,Copiah,Copiah,18036
+1900,Mississippi,28031,Covington,Covington,4605
+1900,Mississippi,28033,De Soto,De Soto,18513
+1900,Mississippi,28037,Franklin,Franklin,6799
+1900,Mississippi,28041,Greene,Greene,1778
+1900,Mississippi,28043,Grenada,Grenada,10281
+1900,Mississippi,28045,Hancock,Hancock,3469
+1900,Mississippi,28047,Harrison,Harrison,6367
+1900,Mississippi,28049,Hinds,Hinds,39531
+1900,Mississippi,28051,Holmes,Holmes,28707
+1900,Mississippi,28055,Issaquena,Issaquena,9771
+1900,Mississippi,28057,Itawamba,Itawamba,1342
+1900,Mississippi,28059,Jackson,Jackson,5815
+1900,Mississippi,28061,Jasper,Jasper,7474
+1900,Mississippi,28063,Jefferson,Jefferson,17270
+1900,Mississippi,28067,Jones,Jones,4670
+1900,Mississippi,28069,Kemper,Kemper,11645
+1900,Mississippi,28071,Lafayette,Lafayette,9730
+1900,Mississippi,28075,Lauderdale,Lauderdale,18958
+1900,Mississippi,28077,Lawrence,Lawrence,7568
+1900,Mississippi,28079,Leake,Leake,6231
+1900,Mississippi,28081,Lee,Lee,8658
+1900,Mississippi,28083,Leflore,Leflore,21031
+1900,Mississippi,28085,Lincoln,Lincoln,9209
+1900,Mississippi,28087,Lowndes,Lowndes,21972
+1900,Mississippi,28089,Madison,Madison,25918
+1900,Mississippi,28091,Marion,Marion,4323
+1900,Mississippi,28093,Marshall,Marshall,18708
+1900,Mississippi,28095,Monroe,Monroe,18656
+1900,Mississippi,28097,Montgomery,Montgomery,8573
+1900,Mississippi,28099,Neshoba,Neshoba,2279
+1900,Mississippi,28101,Newton,Newton,7614
+1900,Mississippi,28103,Noxubee,Noxubee,26146
+1900,Mississippi,28105,Oktibbeha,Oktibbeha,13819
+1900,Mississippi,28107,Panola,Panola,19366
+1900,Mississippi,28109,Pearl River,Pearl River,1792
+1900,Mississippi,28111,Perry,Perry,4822
+1900,Mississippi,28113,Pike,Pike,13713
+1900,Mississippi,28115,Pontotoc,Pontotoc,4827
+1900,Mississippi,28117,Prentiss,Prentiss,3131
+1900,Mississippi,28119,Quitman,Quitman,4177
+1900,Mississippi,28121,Rankin,Rankin,12269
+1900,Mississippi,28123,Scott,Scott,6065
+1900,Mississippi,28125,Sharkey,Sharkey,10723
+1900,Mississippi,28127,Simpson,Simpson,4954
+1900,Mississippi,28129,Smith,Smith,2360
+1900,Mississippi,28133,Sunflower,Sunflower,12070
+1900,Mississippi,28135,Tallahatchie,Tallahatchie,13281
+1900,Mississippi,28137,Tate,Tate,12179
+1900,Mississippi,28139,Tippah,Tippah,2903
+1900,Mississippi,28141,Tishomingo,Tishomingo,1051
+1900,Mississippi,28143,Tunica,Tunica,14914
+1900,Mississippi,28145,Union,Union,4142
+1900,Mississippi,28149,Warren,Warren,30554
+1900,Mississippi,28151,Washington,Washington,44143
+1900,Mississippi,28153,Wayne,Wayne,5058
+1900,Mississippi,28155,Webster,Webster,3925
+1900,Mississippi,28157,Wilkinson,Wilkinson,17069
+1900,Mississippi,28159,Winston,Winston,5901
+1900,Mississippi,28161,Yalobusha,Yalobusha,10458
+1900,Mississippi,28163,Yazoo,Yazoo,33902
+1900,Missouri,29001,Adair,Adair,316
+1900,Missouri,29003,Andrew,Andrew,220
+1900,Missouri,29005,Atchison,Atchison,31
+1900,Missouri,29007,Audrain,Audrain,1627
+1900,Missouri,29009,Barry,Barry,9
+1900,Missouri,29011,Barton,Barton,48
+1900,Missouri,29013,Bates,Bates,307
+1900,Missouri,29015,Benton,Benton,190
+1900,Missouri,29017,Bollinger,Bollinger,14
+1900,Missouri,29019,Boone,Boone,4564
+1900,Missouri,29021,Buchanan,Buchanan,6509
+1900,Missouri,29023,Butler,Butler,1524
+1900,Missouri,29025,Caldwell,Caldwell,430
+1900,Missouri,29027,Callaway,Callaway,4104
+1900,Missouri,29029,Camden,Camden,95
+1900,Missouri,29031,Cape Girardeau,Cape Girardeau,1987
+1900,Missouri,29033,Carroll,Carroll,1332
+1900,Missouri,29035,Carter,Carter,4
+1900,Missouri,29037,Cass,Cass,592
+1900,Missouri,29039,Cedar,Cedar,45
+1900,Missouri,29041,Chariton,Chariton,3246
+1900,Missouri,29043,Christian,Christian,117
+1900,Missouri,29045,Clark,Clark,142
+1900,Missouri,29047,Clay,Clay,1115
+1900,Missouri,29049,Clinton,Clinton,1070
+1900,Missouri,29051,Cole,Cole,2259
+1900,Missouri,29053,Cooper,Cooper,3505
+1900,Missouri,29055,Crawford,Crawford,46
+1900,Missouri,29057,Dade,Dade,294
+1900,Missouri,29059,Dallas,Dallas,11
+1900,Missouri,29061,Daviess,Daviess,329
+1900,Missouri,29063,DeKalb,De Kalb,127
+1900,Missouri,29065,Dent,Dent,28
+1900,Missouri,29067,Douglas,Douglas,27
+1900,Missouri,29069,Dunklin,Dunklin,205
+1900,Missouri,29071,Franklin,Franklin,1825
+1900,Missouri,29073,Gasconade,Gasconade,68
+1900,Missouri,29075,Gentry,Gentry,16
+1900,Missouri,29077,Greene,Greene,3298
+1900,Missouri,29079,Grundy,Grundy,232
+1900,Missouri,29081,Harrison,Harrison,51
+1900,Missouri,29083,Henry,Henry,1092
+1900,Missouri,29085,Hickory,Hickory,1
+1900,Missouri,29087,Holt,Holt,137
+1900,Missouri,29089,Howard,Howard,4182
+1900,Missouri,29091,Howell,Howell,222
+1900,Missouri,29093,Iron,Iron,248
+1900,Missouri,29095,Jackson,Jackson,19044
+1900,Missouri,29097,Jasper,Jasper,1428
+1900,Missouri,29099,Jefferson,Jefferson,1119
+1900,Missouri,29101,Johnson,Johnson,1710
+1900,Missouri,29103,Knox,Knox,175
+1900,Missouri,29105,Laclede,Laclede,364
+1900,Missouri,29107,Lafayette,Lafayette,3677
+1900,Missouri,29109,Lawrence,Lawrence,283
+1900,Missouri,29111,Lewis,Lewis,1043
+1900,Missouri,29113,Lincoln,Lincoln,1731
+1900,Missouri,29115,Linn,Linn,786
+1900,Missouri,29117,Livingston,Livingston,795
+1900,Missouri,29119,McDonald,Mcdonald,2
+1900,Missouri,29121,Macon,Macon,1580
+1900,Missouri,29123,Madison,Madison,242
+1900,Missouri,29125,Maries,Maries,1
+1900,Missouri,29127,Marion,Marion,3354
+1900,Missouri,29129,Mercer,Mercer,58
+1900,Missouri,29131,Miller,Miller,190
+1900,Missouri,29133,Mississippi,Mississippi,2265
+1900,Missouri,29135,Moniteau,Moniteau,706
+1900,Missouri,29137,Monroe,Monroe,1608
+1900,Missouri,29139,Montgomery,Montgomery,1411
+1900,Missouri,29141,Morgan,Morgan,438
+1900,Missouri,29143,New Madrid,New Madrid,2027
+1900,Missouri,29145,Newton,Newton,699
+1900,Missouri,29147,Nodaway,Nodaway,129
+1900,Missouri,29149,Oregon,Oregon,7
+1900,Missouri,29151,Osage,Osage,274
+1900,Missouri,29153,Ozark,Ozark,26
+1900,Missouri,29155,Pemiscot,Pemiscot,862
+1900,Missouri,29157,Perry,Perry,440
+1900,Missouri,29159,Pettis,Pettis,2897
+1900,Missouri,29161,Phelps,Phelps,184
+1900,Missouri,29163,Pike,Pike,4239
+1900,Missouri,29165,Platte,Platte,1095
+1900,Missouri,29167,Polk,Polk,185
+1900,Missouri,29169,Pulaski,Pulaski,37
+1900,Missouri,29171,Putnam,Putnam,16
+1900,Missouri,29173,Ralls,Ralls,927
+1900,Missouri,29175,Randolph,Randolph,2842
+1900,Missouri,29177,Ray,Ray,1608
+1900,Missouri,29179,Reynolds,Reynolds,0
+1900,Missouri,29181,Ripley,Ripley,1
+1900,Missouri,29183,St Charles,St Charles,2139
+1900,Missouri,29185,St Clair,St Clair,260
+1900,Missouri,29186,Ste Genevieve,Ste Genevieve,474
+1900,Missouri,29187,St Francois,St Francois,611
+1900,Missouri,29189,St Louis,St Louis,3526
+1900,Missouri,29195,Saline,Saline,4761
+1900,Missouri,29197,Schuyler,Schuyler,0
+1900,Missouri,29199,Scotland,Scotland,80
+1900,Missouri,29201,Scott,Scott,505
+1900,Missouri,29203,Shannon,Shannon,4
+1900,Missouri,29205,Shelby,Shelby,679
+1900,Missouri,29207,Stoddard,Stoddard,47
+1900,Missouri,29209,Stone,Stone,4
+1900,Missouri,29211,Sullivan,Sullivan,114
+1900,Missouri,29213,Taney,Taney,2
+1900,Missouri,29215,Texas,Texas,3
+1900,Missouri,29217,Vernon,Vernon,241
+1900,Missouri,29219,Warren,Warren,614
+1900,Missouri,29221,Washington,Washington,641
+1900,Missouri,29223,Wayne,Wayne,115
+1900,Missouri,29225,Webster,Webster,116
+1900,Missouri,29227,Worth,Worth,8
+1900,Missouri,29229,Wright,Wright,428
+1900,Missouri,29510,St Louis City,St Louis City,35516
+1900,Montana,30001,Beaverhead,Beaverhead,12
+1900,Montana,30007,Broadwater,Broadwater,16
+1900,Montana,30009,Carbon,Carbon,4
+1900,Montana,30013,Cascade,Cascade,162
+1900,Montana,30015,Chouteau,Chouteau,156
+1900,Montana,30017,Custer,Custer,48
+1900,Montana,30021,Dawson,Dawson,4
+1900,Montana,30023,Deer Lodge,Deer Lodge,171
+1900,Montana,30027,Fergus,Fergus,30
+1900,Montana,30029,Flathead,Flathead,36
+1900,Montana,30031,Gallatin,Gallatin,35
+1900,Montana,30039,Granite,Granite,4
+1900,Montana,30043,Jefferson,Jefferson,15
+1900,Montana,30049,Lewis And Clark,Lewis And Clark,313
+1900,Montana,30057,Madison,Madison,28
+1900,Montana,30059,Meagher,Meagher,24
+1900,Montana,30063,Missoula,Missoula,54
+1900,Montana,30067,Park,Park,15
+1900,Montana,30081,Ravalli,Ravalli,17
+1900,Montana,30093,Silver Bow,Silver Bow,262
+1900,Montana,30097,Sweet Grass,Sweet Grass,8
+1900,Montana,30099,Teton,Teton,6
+1900,Montana,30105,Valley,Valley,2
+1900,Montana,30111,Yellowstone,Yellowstone,97
+1900,Montana,,Blackfeet Indian Reservation,Blackfeet Indian Reservation,0
+1900,Montana,,Crow Indian Reservation,Crow Indian Reservation,4
+1900,Montana,,Flathead Indian Reservation,Flathead Indian Reservation,0
+1900,Montana,,Fort Peck Indian Reservation,Fort Peck Indian Reservation,0
+1900,Montana,,Northern Cheyenne Indian Reservation,Northern Cheyenne Indian Reservation,0
+1900,Nebraska,31001,Adams,Adams,63
+1900,Nebraska,31003,Antelope,Antelope,2
+1900,Nebraska,31007,Banner,Banner,0
+1900,Nebraska,31009,Blaine,Blaine,0
+1900,Nebraska,31011,Boone,Boone,2
+1900,Nebraska,31013,Box Butte,Box Butte,78
+1900,Nebraska,31015,Boyd,Boyd,0
+1900,Nebraska,31017,Brown,Brown,0
+1900,Nebraska,31019,Buffalo,Buffalo,34
+1900,Nebraska,31021,Burt,Burt,1
+1900,Nebraska,31023,Butler,Butler,6
+1900,Nebraska,31025,Cass,Cass,35
+1900,Nebraska,31027,Cedar,Cedar,1
+1900,Nebraska,31029,Chase,Chase,1
+1900,Nebraska,31031,Cherry,Cherry,19
+1900,Nebraska,31033,Cheyenne,Cheyenne,5
+1900,Nebraska,31035,Clay,Clay,17
+1900,Nebraska,31037,Colfax,Colfax,27
+1900,Nebraska,31039,Cuming,Cuming,0
+1900,Nebraska,31041,Custer,Custer,62
+1900,Nebraska,31043,Dakota,Dakota,14
+1900,Nebraska,31045,Dawes,Dawes,49
+1900,Nebraska,31047,Dawson,Dawson,49
+1900,Nebraska,31049,Deuel,Deuel,1
+1900,Nebraska,31051,Dixon,Dixon,0
+1900,Nebraska,31053,Dodge,Dodge,72
+1900,Nebraska,31055,Douglas,Douglas,4046
+1900,Nebraska,31057,Dundy,Dundy,3
+1900,Nebraska,31059,Fillmore,Fillmore,23
+1900,Nebraska,31061,Franklin,Franklin,8
+1900,Nebraska,31063,Frontier,Frontier,2
+1900,Nebraska,31065,Furnas,Furnas,16
+1900,Nebraska,31067,Gage,Gage,29
+1900,Nebraska,31071,Garfield,Garfield,11
+1900,Nebraska,31073,Gosper,Gosper,3
+1900,Nebraska,31075,Grant,Grant,2
+1900,Nebraska,31077,Greeley,Greeley,12
+1900,Nebraska,31079,Hall,Hall,42
+1900,Nebraska,31081,Hamilton,Hamilton,14
+1900,Nebraska,31083,Harlan,Harlan,8
+1900,Nebraska,31085,Hayes,Hayes,3
+1900,Nebraska,31087,Hitchcock,Hitchcock,1
+1900,Nebraska,31089,Holt,Holt,14
+1900,Nebraska,31091,Hooker,Hooker,0
+1900,Nebraska,31093,Howard,Howard,4
+1900,Nebraska,31095,Jefferson,Jefferson,22
+1900,Nebraska,31097,Johnson,Johnson,4
+1900,Nebraska,31099,Kearney,Kearney,0
+1900,Nebraska,31101,Keith,Keith,0
+1900,Nebraska,31103,Keya Paha,Keya Paha,0
+1900,Nebraska,31105,Kimball,Kimball,0
+1900,Nebraska,31107,Knox,Knox,8
+1900,Nebraska,31109,Lancaster,Lancaster,873
+1900,Nebraska,31111,Lincoln,Lincoln,15
+1900,Nebraska,31113,Logan,Logan,0
+1900,Nebraska,31115,Loup,Loup,5
+1900,Nebraska,31117,McPherson,Mcpherson,0
+1900,Nebraska,31119,Madison,Madison,54
+1900,Nebraska,31121,Merrick,Merrick,8
+1900,Nebraska,31125,Nance,Nance,0
+1900,Nebraska,31127,Nemaha,Nemaha,35
+1900,Nebraska,31129,Nuckolls,Nuckolls,7
+1900,Nebraska,31131,Otoe,Otoe,152
+1900,Nebraska,31133,Pawnee,Pawnee,0
+1900,Nebraska,31135,Perkins,Perkins,0
+1900,Nebraska,31137,Phelps,Phelps,14
+1900,Nebraska,31139,Pierce,Pierce,4
+1900,Nebraska,31141,Platte,Platte,20
+1900,Nebraska,31143,Polk,Polk,1
+1900,Nebraska,31145,Red Willow,Red Willow,3
+1900,Nebraska,31147,Richardson,Richardson,87
+1900,Nebraska,31149,Rock,Rock,2
+1900,Nebraska,31151,Saline,Saline,25
+1900,Nebraska,31153,Sarpy,Sarpy,22
+1900,Nebraska,31155,Saunders,Saunders,17
+1900,Nebraska,31157,Scotts Bluff,Scotts Bluff,1
+1900,Nebraska,31159,Seward,Seward,19
+1900,Nebraska,31161,Sheridan,Sheridan,11
+1900,Nebraska,31163,Sherman,Sherman,0
+1900,Nebraska,31165,Sioux,Sioux,1
+1900,Nebraska,31167,Stanton,Stanton,1
+1900,Nebraska,31169,Thayer,Thayer,6
+1900,Nebraska,31171,Thomas,Thomas,0
+1900,Nebraska,31173,Thurston,Thurston,0
+1900,Nebraska,31175,Valley,Valley,3
+1900,Nebraska,31177,Washington,Washington,5
+1900,Nebraska,31179,Wayne,Wayne,4
+1900,Nebraska,31181,Webster,Webster,5
+1900,Nebraska,31183,Wheeler,Wheeler,24
+1900,Nebraska,31185,York,York,32
+1900,Nevada,32001,Churchill,Churchill,0
+1900,Nevada,32005,Douglas,Douglas,6
+1900,Nevada,32007,Elko,Elko,17
+1900,Nevada,32009,Esmeralda,Esmeralda,0
+1900,Nevada,32011,Eureka,Eureka,10
+1900,Nevada,32013,Humboldt,Humboldt,20
+1900,Nevada,32015,Lander,Lander,10
+1900,Nevada,32017,Lincoln,Lincoln,15
+1900,Nevada,32019,Lyon,Lyon,1
+1900,Nevada,32023,Nye,Nye,0
+1900,Nevada,32025,Ormsby,Ormsby,12
+1900,Nevada,32029,Storey,Storey,9
+1900,Nevada,32031,Washoe,Washoe,33
+1900,Nevada,32033,White Pine,White Pine,1
+1900,Nevada,,Duck Valley Indian Reservation,Duck Valley Indian Reservation,0
+1900,Nevada,,Pyramid Lake Indian Reservation,Pyramid Lake Indian Reservation,0
+1900,Nevada,,Walker River Indian Reservation,Wlaker River Indian Reservation,0
+1900,New Hampshire,33001,Belknap,Belknap,59
+1900,New Hampshire,33003,Carroll,Carroll,9
+1900,New Hampshire,33005,Cheshire,Cheshire,21
+1900,New Hampshire,33007,Coos,Coos,12
+1900,New Hampshire,33009,Grafton,Grafton,61
+1900,New Hampshire,33011,Hillsborough,Hillsborough,139
+1900,New Hampshire,33013,Merrimack,Merrimack,123
+1900,New Hampshire,33015,Rockingham,Rockingham,179
+1900,New Hampshire,33017,Strafford,Strafford,22
+1900,New Hampshire,33019,Sullivan,Sullivan,37
+1900,New Jersey,34001,Atlantic,Atlantic,6920
+1900,New Jersey,34003,Bergen,Bergen,2600
+1900,New Jersey,34005,Burlington,Burlington,3130
+1900,New Jersey,34007,Camden,Camden,8583
+1900,New Jersey,34009,Cape May,Cape May,869
+1900,New Jersey,34011,Cumberland,Cumberland,2403
+1900,New Jersey,34013,Essex,Essex,12559
+1900,New Jersey,34015,Gloucester,Gloucester,2058
+1900,New Jersey,34017,Hudson,Hudson,4439
+1900,New Jersey,34019,Hunterdon,Hunterdon,518
+1900,New Jersey,34021,Mercer,Mercer,4152
+1900,New Jersey,34023,Middlesex,Middlesex,1900
+1900,New Jersey,34025,Monmouth,Monmouth,6907
+1900,New Jersey,34027,Morris,Morris,1618
+1900,New Jersey,34029,Ocean,Ocean,270
+1900,New Jersey,34031,Passaic,Passaic,1949
+1900,New Jersey,34033,Salem,Salem,3029
+1900,New Jersey,34035,Somerset,Somerset,1559
+1900,New Jersey,34037,Sussex,Sussex,160
+1900,New Jersey,34039,Union,Union,3854
+1900,New Jersey,34041,Warren,Warren,367
+1900,New Mexico Territory,,Bernalillo,Bernalillo,332
+1900,New Mexico Territory,,Chaves,Chaves,66
+1900,New Mexico Territory,,Colfax,Colfax,352
+1900,New Mexico Territory,,Dona Ana,Dona Ana,26
+1900,New Mexico Territory,,Eddy,Eddy,37
+1900,New Mexico Territory,,Grant,Grant,186
+1900,New Mexico Territory,,Guadalupe,Guadalupe,3
+1900,New Mexico Territory,,Lincoln,Lincoln,23
+1900,New Mexico Territory,,Mora,Mora,8
+1900,New Mexico Territory,,Otero,Otero,16
+1900,New Mexico Territory,,Rio Arriba,Rio Arriba,41
+1900,New Mexico Territory,,San Juan,San Juan,9
+1900,New Mexico Territory,,San Miguel,San Miguel,156
+1900,New Mexico Territory,,Santa Fe,Santa Fe,92
+1900,New Mexico Territory,,Sierra,Sierra,12
+1900,New Mexico Territory,,Socorro,Socorro,22
+1900,New Mexico Territory,,Taos,Taos,1
+1900,New Mexico Territory,,Union,Union,5
+1900,New Mexico Territory,,Valencia,Valencia,223
+1900,New Mexico Territory,,Jicarilla Apache Indian Reservation,Jicarilla Apache Indian Reservation,0
+1900,New Mexico Territory,,Pueblo Indian Reservation,Pueblo Indian Reservation,0
+1900,New Mexico Territory,,Zuni Indian Reservation,Zuni Indian Reservation,0
+1900,New York,36001,Albany,Albany,1534
+1900,New York,36003,Allegany,Allegany,353
+1900,New York,36007,Broome,Broome,633
+1900,New York,36009,Cattaraugus,Cattaraugus,337
+1900,New York,36011,Cayuga,Cayuga,675
+1900,New York,36013,Chautauqua,Chautauqua,148
+1900,New York,36015,Chemung,Chemung,897
+1900,New York,36017,Chenango,Chenango,212
+1900,New York,36019,Clinton,Clinton,138
+1900,New York,36021,Columbia,Columbia,1417
+1900,New York,36023,Cortland,Cortland,81
+1900,New York,36025,Delaware,Delaware,208
+1900,New York,36027,Dutchess,Dutchess,2226
+1900,New York,36029,Erie,Erie,1805
+1900,New York,36031,Essex,Essex,60
+1900,New York,36033,Franklin,Franklin,62
+1900,New York,36035,Fulton,Fulton,348
+1900,New York,36037,Genesee,Genesee,161
+1900,New York,36039,Greene,Greene,795
+1900,New York,36041,Hamilton,Hamilton,1
+1900,New York,36043,Herkimer,Herkimer,210
+1900,New York,36045,Jefferson,Jefferson,172
+1900,New York,36047,Kings,Kings,18367
+1900,New York,36049,Lewis,Lewis,25
+1900,New York,36051,Livingston,Livingston,232
+1900,New York,36053,Madison,Madison,352
+1900,New York,36055,Monroe,Monroe,832
+1900,New York,36057,Montgomery,Montgomery,208
+1900,New York,36059,Nassau,Nassau,2310
+1900,New York,36061,New York,New York,38616
+1900,New York,36063,Niagara,Niagara,542
+1900,New York,36065,Oneida,Oneida,462
+1900,New York,36067,Onondaga,Onondaga,1246
+1900,New York,36069,Ontario,Ontario,434
+1900,New York,36071,Orange,Orange,2796
+1900,New York,36073,Orleans,Orleans,103
+1900,New York,36075,Oswego,Oswego,152
+1900,New York,36077,Otsego,Otsego,143
+1900,New York,36079,Putnam,Putnam,109
+1900,New York,36081,Queens,Queens,2611
+1900,New York,36083,Rensselaer,Rensselaer,657
+1900,New York,36085,Richmond,Richmond,1072
+1900,New York,36087,Rockland,Rockland,2041
+1900,New York,36089,St Lawrence,St Lawrence,75
+1900,New York,36091,Saratoga,Saratoga,837
+1900,New York,36093,Schenectady,Schenectady,165
+1900,New York,36095,Schoharie,Schoharie,297
+1900,New York,36097,Schuyler,Schuyler,178
+1900,New York,36099,Seneca,Seneca,134
+1900,New York,36101,Steuben,Steuben,493
+1900,New York,36103,Suffolk,Suffolk,3035
+1900,New York,36105,Sullivan,Sullivan,84
+1900,New York,36107,Tioga,Tioga,309
+1900,New York,36109,Tompkins,Tompkins,459
+1900,New York,36111,Ulster,Ulster,1351
+1900,New York,36113,Warren,Warren,53
+1900,New York,36115,Washington,Washington,237
+1900,New York,36117,Wayne,Wayne,246
+1900,New York,36119,Westchester,Westchester,5318
+1900,New York,36121,Wyoming,Wyoming,47
+1900,New York,36123,Yates,Yates,131
+1900,North Carolina,37001,Alamance,Alamance,6723
+1900,North Carolina,37003,Alexander,Alexander,856
+1900,North Carolina,37005,Alleghany,Alleghany,466
+1900,North Carolina,37007,Anson,Anson,11674
+1900,North Carolina,37009,Ashe,Ashe,684
+1900,North Carolina,37013,Beaufort,Beaufort,11336
+1900,North Carolina,37015,Bertie,Bertie,11821
+1900,North Carolina,37017,Bladen,Bladen,8223
+1900,North Carolina,37019,Brunswick,Brunswick,5044
+1900,North Carolina,37021,Buncombe,Buncombe,8120
+1900,North Carolina,37023,Burke,Burke,2676
+1900,North Carolina,37025,Cabarrus,Cabarrus,6101
+1900,North Carolina,37027,Caldwell,Caldwell,1931
+1900,North Carolina,37029,Camden,Camden,2191
+1900,North Carolina,37031,Carteret,Carteret,2127
+1900,North Carolina,37033,Caswell,Caswell,8199
+1900,North Carolina,37035,Catawba,Catawba,2985
+1900,North Carolina,37037,Chatham,Chatham,8339
+1900,North Carolina,37039,Cherokee,Cherokee,432
+1900,North Carolina,37041,Chowan,Chowan,5850
+1900,North Carolina,37043,Clay,Clay,134
+1900,North Carolina,37045,Cleveland,Cleveland,4820
+1900,North Carolina,37047,Columbus,Columbus,6476
+1900,North Carolina,37049,Craven,Craven,14543
+1900,North Carolina,37051,Cumberland,Cumberland,12571
+1900,North Carolina,37053,Currituck,Currituck,1777
+1900,North Carolina,37055,Dare,Dare,574
+1900,North Carolina,37057,Davidson,Davidson,3174
+1900,North Carolina,37059,Davie,Davie,2635
+1900,North Carolina,37061,Duplin,Duplin,8528
+1900,North Carolina,37063,Durham,Durham,9749
+1900,North Carolina,37065,Edgecombe,Edgecombe,16584
+1900,North Carolina,37067,Forsyth,Forsyth,10541
+1900,North Carolina,37069,Franklin,Franklin,12438
+1900,North Carolina,37071,Gaston,Gaston,7242
+1900,North Carolina,37073,Gates,Gates,4804
+1900,North Carolina,37075,Graham,Graham,26
+1900,North Carolina,37077,Granville,Granville,11887
+1900,North Carolina,37079,Greene,Greene,5778
+1900,North Carolina,37081,Guilford,Guilford,11103
+1900,North Carolina,37083,Halifax,Halifax,19733
+1900,North Carolina,37085,Harnett,Harnett,5058
+1900,North Carolina,37087,Haywood,Haywood,613
+1900,North Carolina,37089,Henderson,Henderson,1759
+1900,North Carolina,37091,Hertford,Hertford,8391
+1900,North Carolina,37095,Hyde,Hyde,4014
+1900,North Carolina,37097,Iredell,Iredell,7332
+1900,North Carolina,37099,Jackson,Jackson,591
+1900,North Carolina,37101,Johnston,Johnston,8171
+1900,North Carolina,37103,Jones,Jones,3760
+1900,North Carolina,37107,Lenoir,Lenoir,8046
+1900,North Carolina,37109,Lincoln,Lincoln,2961
+1900,North Carolina,37111,McDowell,Mcdowell,1893
+1900,North Carolina,37113,Macon,Macon,673
+1900,North Carolina,37115,Madison,Madison,551
+1900,North Carolina,37117,Martin,Martin,7327
+1900,North Carolina,37119,Mecklenburg,Mecklenburg,23873
+1900,North Carolina,37121,Mitchell,Mitchell,536
+1900,North Carolina,37123,Montgomery,Montgomery,3682
+1900,North Carolina,37125,Moore,Moore,7849
+1900,North Carolina,37127,Nash,Nash,10619
+1900,North Carolina,37129,New Hanover,New Hanover,13109
+1900,North Carolina,37131,Northampton,Northampton,12118
+1900,North Carolina,37133,Onslow,Onslow,3610
+1900,North Carolina,37135,Orange,Orange,5261
+1900,North Carolina,37137,Pamlico,Pamlico,2637
+1900,North Carolina,37139,Pasquotank,Pasquotank,7027
+1900,North Carolina,37141,Pender,Pender,6909
+1900,North Carolina,37143,Perquimans,Perquimans,5003
+1900,North Carolina,37145,Person,Person,7023
+1900,North Carolina,37147,Pitt,Pitt,15492
+1900,North Carolina,37149,Polk,Polk,1207
+1900,North Carolina,37151,Randolph,Randolph,3672
+1900,North Carolina,37153,Richmond,Richmond,7763
+1900,North Carolina,37155,Robeson,Robeson,16917
+1900,North Carolina,37157,Rockingham,Rockingham,11617
+1900,North Carolina,37159,Rowan,Rowan,8115
+1900,North Carolina,37161,Rutherford,Rutherford,4441
+1900,North Carolina,37163,Sampson,Sampson,9130
+1900,North Carolina,37165,Scotland,Scotland,6710
+1900,North Carolina,37167,Stanly,Stanly,1799
+1900,North Carolina,37169,Stokes,Stokes,2991
+1900,North Carolina,37171,Surry,Surry,2904
+1900,North Carolina,37173,Swain,Swain,174
+1900,North Carolina,37175,Transylvania,Transylvania,615
+1900,North Carolina,37177,Tyrrell,Tyrrell,1462
+1900,North Carolina,37179,Union,Union,7999
+1900,North Carolina,37181,Vance,Vance,9755
+1900,North Carolina,37183,Wake,Wake,24358
+1900,North Carolina,37185,Warren,Warren,13069
+1900,North Carolina,37187,Washington,Washington,5366
+1900,North Carolina,37189,Watauga,Watauga,391
+1900,North Carolina,37191,Wayne,Wayne,13419
+1900,North Carolina,37193,Wilkes,Wilkes,2437
+1900,North Carolina,37195,Wilson,Wilson,9905
+1900,North Carolina,37197,Yadkin,Yadkin,1187
+1900,North Carolina,37199,Yancey,Yancey,283
+1900,North Dakota,38003,Barnes,Barnes,3
+1900,North Dakota,38005,Benson,Benson,0
+1900,North Dakota,38007,Billings,Billings,4
+1900,North Dakota,38009,Bottineau,Bottineau,1
+1900,North Dakota,38015,Burleigh,Burleigh,49
+1900,North Dakota,38017,Cass,Cass,69
+1900,North Dakota,38019,Cavalier,Cavalier,0
+1900,North Dakota,38021,Dickey,Dickey,1
+1900,North Dakota,38027,Eddy,Eddy,9
+1900,North Dakota,38029,Emmons,Emmons,4
+1900,North Dakota,38031,Foster,Foster,2
+1900,North Dakota,38035,Grand Forks,Grand Forks,31
+1900,North Dakota,38039,Griggs,Griggs,8
+1900,North Dakota,38043,Kidder,Kidder,3
+1900,North Dakota,38045,La Moure,La Moure,0
+1900,North Dakota,38047,Logan,Logan,0
+1900,North Dakota,38049,McHenry,Mchenry,5
+1900,North Dakota,38051,McIntosh,Mcintosh,0
+1900,North Dakota,38055,McLean,Mclean,3
+1900,North Dakota,38057,Mercer,Mercer,0
+1900,North Dakota,38059,Morton,Morton,11
+1900,North Dakota,38063,Nelson,Nelson,0
+1900,North Dakota,38065,Oliver,Oliver,0
+1900,North Dakota,38067,Pembina,Pembina,2
+1900,North Dakota,38069,Pierce,Pierce,17
+1900,North Dakota,38071,Ramsey,Ramsey,9
+1900,North Dakota,38073,Ransom,Ransom,14
+1900,North Dakota,38077,Richland,Richland,13
+1900,North Dakota,38079,Rolette,Rolette,4
+1900,North Dakota,38081,Sargent,Sargent,1
+1900,North Dakota,38089,Stark,Stark,3
+1900,North Dakota,38091,Steele,Steele,1
+1900,North Dakota,38093,Stutsman,Stutsman,2
+1900,North Dakota,38095,Towner,Towner,0
+1900,North Dakota,38097,Traill,Traill,1
+1900,North Dakota,38099,Walsh,Walsh,2
+1900,North Dakota,38101,Ward,Ward,3
+1900,North Dakota,38103,Wells,Wells,0
+1900,North Dakota,38105,Williams,Williams,8
+1900,North Dakota,,Devils Lake Indian Reservation,Devils Lake Indian Reservation,0
+1900,North Dakota,,Fort Berthold Indian Reservation,Fort Berthold Indian Reservation,0
+1900,North Dakota,,Standing Rock Indian Reservation,Standing Rock Indian Reservation,3
+1900,North Dakota,,Turtle Mountain Indian Reservation,Turtle Mountain Indian Reservation,0
+1900,Ohio,39001,Adams,Adams,277
+1900,Ohio,39003,Allen,Allen,842
+1900,Ohio,39005,Ashland,Ashland,13
+1900,Ohio,39007,Ashtabula,Ashtabula,239
+1900,Ohio,39009,Athens,Athens,1329
+1900,Ohio,39011,Auglaize,Auglaize,24
+1900,Ohio,39013,Belmont,Belmont,1857
+1900,Ohio,39015,Brown,Brown,1675
+1900,Ohio,39017,Butler,Butler,1183
+1900,Ohio,39019,Carroll,Carroll,32
+1900,Ohio,39021,Champaign,Champaign,1460
+1900,Ohio,39023,Clark,Clark,5243
+1900,Ohio,39025,Clermont,Clermont,1183
+1900,Ohio,39027,Clinton,Clinton,1199
+1900,Ohio,39029,Columbiana,Columbiana,812
+1900,Ohio,39031,Coshocton,Coshocton,91
+1900,Ohio,39033,Crawford,Crawford,59
+1900,Ohio,39035,Cuyahoga,Cuyahoga,6189
+1900,Ohio,39037,Darke,Darke,421
+1900,Ohio,39039,Defiance,Defiance,63
+1900,Ohio,39041,Delaware,Delaware,578
+1900,Ohio,39043,Erie,Erie,425
+1900,Ohio,39045,Fairfield,Fairfield,402
+1900,Ohio,39047,Fayette,Fayette,1398
+1900,Ohio,39049,Franklin,Franklin,9223
+1900,Ohio,39051,Fulton,Fulton,21
+1900,Ohio,39053,Gallia,Gallia,2281
+1900,Ohio,39055,Geauga,Geauga,16
+1900,Ohio,39057,Greene,Greene,4055
+1900,Ohio,39059,Guernsey,Guernsey,472
+1900,Ohio,39061,Hamilton,Hamilton,17695
+1900,Ohio,39063,Hancock,Hancock,386
+1900,Ohio,39065,Hardin,Hardin,524
+1900,Ohio,39067,Harrison,Harrison,628
+1900,Ohio,39069,Henry,Henry,30
+1900,Ohio,39071,Highland,Highland,1575
+1900,Ohio,39073,Hocking,Hocking,252
+1900,Ohio,39075,Holmes,Holmes,0
+1900,Ohio,39077,Huron,Huron,197
+1900,Ohio,39079,Jackson,Jackson,756
+1900,Ohio,39081,Jefferson,Jefferson,1569
+1900,Ohio,39083,Knox,Knox,285
+1900,Ohio,39085,Lake,Lake,249
+1900,Ohio,39087,Lawrence,Lawrence,1651
+1900,Ohio,39089,Licking,Licking,399
+1900,Ohio,39091,Logan,Logan,947
+1900,Ohio,39093,Lorain,Lorain,1344
+1900,Ohio,39095,Lucas,Lucas,1768
+1900,Ohio,39097,Madison,Madison,973
+1900,Ohio,39099,Mahoning,Mahoning,1023
+1900,Ohio,39101,Marion,Marion,176
+1900,Ohio,39103,Medina,Medina,141
+1900,Ohio,39105,Meigs,Meigs,969
+1900,Ohio,39107,Mercer,Mercer,142
+1900,Ohio,39109,Miami,Miami,1153
+1900,Ohio,39111,Monroe,Monroe,84
+1900,Ohio,39113,Montgomery,Montgomery,4000
+1900,Ohio,39115,Morgan,Morgan,131
+1900,Ohio,39117,Morrow,Morrow,56
+1900,Ohio,39119,Muskingum,Muskingum,1255
+1900,Ohio,39121,Noble,Noble,37
+1900,Ohio,39123,Ottawa,Ottawa,40
+1900,Ohio,39125,Paulding,Paulding,766
+1900,Ohio,39127,Perry,Perry,555
+1900,Ohio,39129,Pickaway,Pickaway,788
+1900,Ohio,39131,Pike,Pike,758
+1900,Ohio,39133,Portage,Portage,250
+1900,Ohio,39135,Preble,Preble,327
+1900,Ohio,39137,Putnam,Putnam,58
+1900,Ohio,39139,Richland,Richland,204
+1900,Ohio,39141,Ross,Ross,2663
+1900,Ohio,39143,Sandusky,Sandusky,196
+1900,Ohio,39145,Scioto,Scioto,1101
+1900,Ohio,39147,Seneca,Seneca,198
+1900,Ohio,39149,Shelby,Shelby,298
+1900,Ohio,39151,Stark,Stark,391
+1900,Ohio,39153,Summit,Summit,586
+1900,Ohio,39155,Trumbull,Trumbull,247
+1900,Ohio,39157,Tuscarawas,Tuscarawas,264
+1900,Ohio,39159,Union,Union,384
+1900,Ohio,39161,Van Wert,Van Wert,411
+1900,Ohio,39163,Vinton,Vinton,91
+1900,Ohio,39165,Warren,Warren,948
+1900,Ohio,39167,Washington,Washington,1597
+1900,Ohio,39169,Wayne,Wayne,69
+1900,Ohio,39171,Williams,Williams,54
+1900,Ohio,39173,Wood,Wood,137
+1900,Ohio,39175,Wyandot,Wyandot,63
+1900,Oklahoma Territory,,Beaver,Beaver,18
+1900,Oklahoma Territory,,Blaine,Blaine,1106
+1900,Oklahoma Territory,,Canadian,Canadian,363
+1900,Oklahoma Territory,,Cleveland,Cleveland,475
+1900,Oklahoma Territory,,Custer,Custer,190
+1900,Oklahoma Territory,,Day,Day,0
+1900,Oklahoma Territory,,Dewey,Dewey,74
+1900,Oklahoma Territory,,Garfield,Garfield,368
+1900,Oklahoma Territory,,Grant,Grant,92
+1900,Oklahoma Territory,,Greer,Greer,9
+1900,Oklahoma Territory,,Kay,Kay,276
+1900,Oklahoma Territory,,Kingfisher,Kingfisher,2453
+1900,Oklahoma Territory,,Lincoln,Lincoln,2158
+1900,Oklahoma Territory,,Logan,Logan,6102
+1900,Oklahoma Territory,,Noble,Noble,448
+1900,Oklahoma Territory,,Oklahoma,Oklahoma,2944
+1900,Oklahoma Territory,,Pawnee,Pawnee,192
+1900,Oklahoma Territory,,Payne,Payne,450
+1900,Oklahoma Territory,,Pottowatomie,Pottowatomie,815
+1900,Oklahoma Territory,,Roger Mills,Roger Mills,2
+1900,Oklahoma Territory,,Washita,Washita,7
+1900,Oklahoma Territory,,Woods,Woods,167
+1900,Oklahoma Territory,,Woodward,Woodward,10
+1900,Oklahoma Territory,,Kaw Indian Reservation,Kaw Indian Reservation,1
+1900,Oklahoma Territory,,Kiowa Comanche And Apache Indian Reservations,Kiowa Comanche And Apache Indian Reservations,71
+1900,Oklahoma Territory,,Osage Indian Reservation,Osage Indian Reservation,19
+1900,Oklahoma Territory,,Wichita Indian Reservation,Wichta Indian Reservation,21
+1900,Oklahoma Territory,,Ponca And Otoe Indian Reservation,Ponca And Otoe Indian Reservation,0
+1900,Oregon,41001,Baker,Baker,62
+1900,Oregon,41003,Benton,Benton,1
+1900,Oregon,41005,Clackamas,Clackamas,14
+1900,Oregon,41007,Clatsop,Clatsop,13
+1900,Oregon,41009,Columbia,Columbia,2
+1900,Oregon,41011,Coos,Coos,36
+1900,Oregon,41013,Crook,Crook,3
+1900,Oregon,41015,Curry,Curry,2
+1900,Oregon,41019,Douglas,Douglas,2
+1900,Oregon,41021,Gilliam,Gilliam,0
+1900,Oregon,41023,Grant,Grant,6
+1900,Oregon,41025,Harney,Harney,3
+1900,Oregon,41029,Jackson,Jackson,9
+1900,Oregon,41033,Josephine,Josephine,1
+1900,Oregon,41035,Klamath,Klamath,2
+1900,Oregon,41037,Lake,Lake,4
+1900,Oregon,41039,Lane,Lane,17
+1900,Oregon,41041,Lincoln,Lincoln,5
+1900,Oregon,41043,Linn,Linn,16
+1900,Oregon,41045,Malheur,Malheur,7
+1900,Oregon,41047,Marion,Marion,49
+1900,Oregon,41049,Morrow,Morrow,0
+1900,Oregon,41051,Multnomah,Multnomah,782
+1900,Oregon,41053,Polk,Polk,2
+1900,Oregon,41055,Sherman,Sherman,1
+1900,Oregon,41057,Tillamook,Tillamook,3
+1900,Oregon,41059,Umatilla,Umatilla,30
+1900,Oregon,41061,Union,Union,5
+1900,Oregon,41063,Wallowa,Wallowa,1
+1900,Oregon,41065,Wasco,Wasco,10
+1900,Oregon,41067,Washington,Washington,16
+1900,Oregon,41069,Wheeler,Wheeler,0
+1900,Oregon,41071,Yamhill,Yamhill,1
+1900,Oregon,,Grand Ronde Reservation,Grand Ronde Reservation,0
+1900,Oregon,,Klamath Reservation,Klamath Reservation,0
+1900,Oregon,,Siletz Reservation,Siletz Reservation,0
+1900,Oregon,,Umatilla Reservation,Umatilla Reservation,0
+1900,Oregon,,Warm Springs Reservation,Warm Springs Reservation,0
+1900,Pennsylvania,42001,Adams,Adams,338
+1900,Pennsylvania,42003,Allegheny,Allegheny,27753
+1900,Pennsylvania,42005,Armstrong,Armstrong,381
+1900,Pennsylvania,42007,Beaver,Beaver,975
+1900,Pennsylvania,42009,Bedford,Bedford,499
+1900,Pennsylvania,42011,Berks,Berks,709
+1900,Pennsylvania,42013,Blair,Blair,784
+1900,Pennsylvania,42015,Bradford,Bradford,309
+1900,Pennsylvania,42017,Bucks,Bucks,2200
+1900,Pennsylvania,42019,Butler,Butler,115
+1900,Pennsylvania,42021,Cambria,Cambria,519
+1900,Pennsylvania,42023,Cameron,Cameron,39
+1900,Pennsylvania,42025,Carbon,Carbon,12
+1900,Pennsylvania,42027,Centre,Centre,382
+1900,Pennsylvania,42029,Chester,Chester,9242
+1900,Pennsylvania,42031,Clarion,Clarion,16
+1900,Pennsylvania,42033,Clearfield,Clearfield,218
+1900,Pennsylvania,42035,Clinton,Clinton,253
+1900,Pennsylvania,42037,Columbia,Columbia,126
+1900,Pennsylvania,42039,Crawford,Crawford,359
+1900,Pennsylvania,42041,Cumberland,Cumberland,1818
+1900,Pennsylvania,42043,Dauphin,Dauphin,6445
+1900,Pennsylvania,42045,Delaware,Delaware,9894
+1900,Pennsylvania,42047,Elk,Elk,32
+1900,Pennsylvania,42049,Erie,Erie,311
+1900,Pennsylvania,42051,Fayette,Fayette,4952
+1900,Pennsylvania,42053,Forest,Forest,24
+1900,Pennsylvania,42055,Franklin,Franklin,1954
+1900,Pennsylvania,42057,Fulton,Fulton,106
+1900,Pennsylvania,42059,Greene,Greene,313
+1900,Pennsylvania,42061,Huntingdon,Huntingdon,352
+1900,Pennsylvania,42063,Indiana,Indiana,160
+1900,Pennsylvania,42065,Jefferson,Jefferson,68
+1900,Pennsylvania,42067,Juniata,Juniata,172
+1900,Pennsylvania,42069,Lackawanna,Lackawanna,619
+1900,Pennsylvania,42071,Lancaster,Lancaster,2461
+1900,Pennsylvania,42073,Lawrence,Lawrence,542
+1900,Pennsylvania,42075,Lebanon,Lebanon,223
+1900,Pennsylvania,42077,Lehigh,Lehigh,173
+1900,Pennsylvania,42079,Luzerne,Luzerne,945
+1900,Pennsylvania,42081,Lycoming,Lycoming,1350
+1900,Pennsylvania,42083,McKean,Mckean,302
+1900,Pennsylvania,42085,Mercer,Mercer,351
+1900,Pennsylvania,42087,Mifflin,Mifflin,162
+1900,Pennsylvania,42089,Monroe,Monroe,151
+1900,Pennsylvania,42091,Montgomery,Montgomery,4503
+1900,Pennsylvania,42093,Montour,Montour,88
+1900,Pennsylvania,42095,Northampton,Northampton,660
+1900,Pennsylvania,42097,Northumberland,Northumberland,240
+1900,Pennsylvania,42099,Perry,Perry,82
+1900,Pennsylvania,42101,Philadelphia,Philadelphia,62613
+1900,Pennsylvania,42103,Pike,Pike,81
+1900,Pennsylvania,42105,Potter,Potter,65
+1900,Pennsylvania,42107,Schuylkill,Schuylkill,252
+1900,Pennsylvania,42109,Snyder,Snyder,3
+1900,Pennsylvania,42111,Somerset,Somerset,198
+1900,Pennsylvania,42113,Sullivan,Sullivan,29
+1900,Pennsylvania,42115,Susquehanna,Susquehanna,141
+1900,Pennsylvania,42117,Tioga,Tioga,85
+1900,Pennsylvania,42119,Union,Union,65
+1900,Pennsylvania,42121,Venango,Venango,522
+1900,Pennsylvania,42123,Warren,Warren,52
+1900,Pennsylvania,42125,Washington,Washington,4366
+1900,Pennsylvania,42127,Wayne,Wayne,18
+1900,Pennsylvania,42129,Westmoreland,Westmoreland,1984
+1900,Pennsylvania,42131,Wyoming,Wyoming,14
+1900,Pennsylvania,42133,York,York,1675
+1900,Rhode Island,44001,Bristol,Bristol,158
+1900,Rhode Island,44003,Kent,Kent,335
+1900,Rhode Island,44005,Newport,Newport,1944
+1900,Rhode Island,44007,Providence,Providence,5721
+1900,Rhode Island,44009,Washington,Washington,934
+1900,South Carolina,45001,Abbeville,Abbeville,22069
+1900,South Carolina,45003,Aiken,Aiken,21640
+1900,South Carolina,45007,Anderson,Anderson,23496
+1900,South Carolina,45009,Bamberg,Bamberg,11638
+1900,South Carolina,45011,Barnwell,Barnwell,25416
+1900,South Carolina,45013,Beaufort,Beaufort,32137
+1900,South Carolina,45015,Berkeley,Berkeley,23973
+1900,South Carolina,45019,Charleston,Charleston,60312
+1900,South Carolina,45021,Cherokee,Cherokee,7396
+1900,South Carolina,45023,Chester,Chester,19372
+1900,South Carolina,45025,Chesterfield,Chesterfield,8145
+1900,South Carolina,45027,Clarendon,Clarendon,20151
+1900,South Carolina,45029,Colleton,Colleton,22265
+1900,South Carolina,45031,Darlington,Darlington,19304
+1900,South Carolina,45035,Dorchester,Dorchester,10089
+1900,South Carolina,45037,Edgefield,Edgefield,18131
+1900,South Carolina,45039,Fairfield,Fairfield,22375
+1900,South Carolina,45041,Florence,Florence,16654
+1900,South Carolina,45043,Georgetown,Georgetown,17507
+1900,South Carolina,45045,Greenville,Greenville,19488
+1900,South Carolina,45047,Greenwood,Greenwood,18906
+1900,South Carolina,45049,Hampton,Hampton,15502
+1900,South Carolina,45051,Horry,Horry,6320
+1900,South Carolina,45055,Kershaw,Kershaw,14693
+1900,South Carolina,45057,Lancaster,Lancaster,12110
+1900,South Carolina,45059,Laurens,Laurens,22177
+1900,South Carolina,45063,Lexington,Lexington,10303
+1900,South Carolina,45067,Marion,Marion,18160
+1900,South Carolina,45069,Marlboro,Marlboro,16413
+1900,South Carolina,45071,Newberry,Newberry,19831
+1900,South Carolina,45073,Oconee,Oconee,6104
+1900,South Carolina,45075,Orangeburg,Orangeburg,41442
+1900,South Carolina,45077,Pickens,Pickens,4801
+1900,South Carolina,45079,Richland,Richland,28070
+1900,South Carolina,45081,Saluda,Saluda,10147
+1900,South Carolina,45083,Spartanburg,Spartanburg,21167
+1900,South Carolina,45085,Sumter,Sumter,38353
+1900,South Carolina,45087,Union,Union,14558
+1900,South Carolina,45089,Williamsburg,Williamsburg,19867
+1900,South Carolina,45091,York,York,21839
+1900,South Carolina,,Catawba Reservation,Catawba Reservation,0
+1900,South Dakota,46001,Armstrong,Armstrong,0
+1900,South Dakota,46003,Aurora,Aurora,6
+1900,South Dakota,46005,Beadle,Beadle,6
+1900,South Dakota,46009,Bon Homme,Bon Homme,2
+1900,South Dakota,46011,Brookings,Brookings,29
+1900,South Dakota,46013,Brown,Brown,16
+1900,South Dakota,46015,Brule,Brule,0
+1900,South Dakota,46017,Buffalo,Buffalo,0
+1900,South Dakota,46019,Butte,Butte,0
+1900,South Dakota,46021,Campbell,Campbell,0
+1900,South Dakota,46023,Charles Mix,Charles Mix,2
+1900,South Dakota,46025,Clark,Clark,5
+1900,South Dakota,46027,Clay,Clay,1
+1900,South Dakota,46029,Codington,Codington,5
+1900,South Dakota,46033,Custer,Custer,5
+1900,South Dakota,46035,Davison,Davison,6
+1900,South Dakota,46037,Day,Day,1
+1900,South Dakota,46039,Deuel,Deuel,0
+1900,South Dakota,46043,Douglas,Douglas,1
+1900,South Dakota,46045,Edmunds,Edmunds,0
+1900,South Dakota,46047,Fall River,Fall River,29
+1900,South Dakota,46049,Faulk,Faulk,5
+1900,South Dakota,46051,Grant,Grant,0
+1900,South Dakota,46053,Gregory,Gregory,0
+1900,South Dakota,46057,Hamlin,Hamlin,0
+1900,South Dakota,46059,Hand,Hand,1
+1900,South Dakota,46061,Hanson,Hanson,1
+1900,South Dakota,46065,Hughes,Hughes,7
+1900,South Dakota,46067,Hutchinson,Hutchinson,1
+1900,South Dakota,46069,Hyde,Hyde,0
+1900,South Dakota,46073,Jerauld,Jerauld,0
+1900,South Dakota,46077,Kingsbury,Kingsbury,12
+1900,South Dakota,46079,Lake,Lake,2
+1900,South Dakota,46081,Lawrence,Lawrence,106
+1900,South Dakota,46083,Lincoln,Lincoln,9
+1900,South Dakota,46085,Lyman,Lyman,5
+1900,South Dakota,46087,McCook,Mccook,1
+1900,South Dakota,46089,McPherson,Mcpherson,0
+1900,South Dakota,46091,Marshall,Marshall,10
+1900,South Dakota,46093,Meade,Meade,24
+1900,South Dakota,,Meyer,Meyer,0
+1900,South Dakota,46097,Miner,Miner,1
+1900,South Dakota,46099,Minnehaha,Minnehaha,40
+1900,South Dakota,46101,Moody,Moody,1
+1900,South Dakota,46103,Pennington,Pennington,24
+1900,South Dakota,46107,Potter,Potter,0
+1900,South Dakota,46109,Roberts,Roberts,4
+1900,South Dakota,46111,Sanborn,Sanborn,1
+1900,South Dakota,46115,Spink,Spink,1
+1900,South Dakota,46117,Stanley,Stanley,2
+1900,South Dakota,46119,Sully,Sully,6
+1900,South Dakota,46125,Turner,Turner,1
+1900,South Dakota,46127,Union,Union,4
+1900,South Dakota,46129,Walworth,Walworth,6
+1900,South Dakota,46133,Washington,Washington,0
+1900,South Dakota,46135,Yankton,Yankton,71
+1900,South Dakota,,Cheyenne River Indian Reservation,Cheyenne River Indian Reservation,1
+1900,South Dakota,,Crow Creek Indian Reservation,Crow Creek Indian Reservation,0
+1900,South Dakota,,Lower Brule Indian Reservation,Lower Brule Indian Reservation,0
+1900,South Dakota,,Pine Ridge Indian Reservation,Pine Ridge Indian Reservation,1
+1900,South Dakota,,Rosebud Indian Reservation,Rosebud Indian Reservation,2
+1900,South Dakota,,Standing Rock Indian Reservation (South Dakota,Standing Rock Indian Reservation (South Dakota,1
+1900,Tennessee,47001,Anderson,Anderson,1118
+1900,Tennessee,47003,Bedford,Bedford,6268
+1900,Tennessee,47005,Benton,Benton,540
+1900,Tennessee,47007,Bledsoe,Bledsoe,475
+1900,Tennessee,47009,Blount,Blount,1607
+1900,Tennessee,47011,Bradley,Bradley,2085
+1900,Tennessee,47013,Campbell,Campbell,616
+1900,Tennessee,47015,Cannon,Cannon,827
+1900,Tennessee,47017,Carroll,Carroll,5581
+1900,Tennessee,47019,Carter,Carter,661
+1900,Tennessee,47021,Cheatham,Cheatham,1662
+1900,Tennessee,47023,Chester,Chester,2026
+1900,Tennessee,47025,Claiborne,Claiborne,729
+1900,Tennessee,47027,Clay,Clay,368
+1900,Tennessee,47029,Cocke,Cocke,1261
+1900,Tennessee,47031,Coffee,Coffee,1802
+1900,Tennessee,47033,Crockett,Crockett,4046
+1900,Tennessee,47035,Cumberland,Cumberland,572
+1900,Tennessee,47037,Davidson,Davidson,43902
+1900,Tennessee,47039,Decatur,Decatur,1220
+1900,Tennessee,47041,DeKalb,De Kalb,1108
+1900,Tennessee,47043,Dickson,Dickson,2919
+1900,Tennessee,47045,Dyer,Dyer,5742
+1900,Tennessee,47047,Fayette,Fayette,21682
+1900,Tennessee,47049,Fentress,Fentress,25
+1900,Tennessee,47051,Franklin,Franklin,3439
+1900,Tennessee,47053,Gibson,Gibson,10313
+1900,Tennessee,47055,Giles,Giles,11406
+1900,Tennessee,47057,Grainger,Grainger,650
+1900,Tennessee,47059,Greene,Greene,1569
+1900,Tennessee,47061,Grundy,Grundy,315
+1900,Tennessee,47063,Hamblen,Hamblen,1791
+1900,Tennessee,47065,Hamilton,Hamilton,19490
+1900,Tennessee,47067,Hancock,Hancock,273
+1900,Tennessee,47069,Hardeman,Hardeman,10205
+1900,Tennessee,47071,Hardin,Hardin,2678
+1900,Tennessee,47073,Hawkins,Hawkins,2154
+1900,Tennessee,47075,Haywood,Haywood,17080
+1900,Tennessee,47077,Henderson,Henderson,2637
+1900,Tennessee,47079,Henry,Henry,5999
+1900,Tennessee,47081,Hickman,Hickman,2611
+1900,Tennessee,47083,Houston,Houston,1056
+1900,Tennessee,47085,Humphreys,Humphreys,1515
+1900,Tennessee,47087,Jackson,Jackson,470
+1900,Tennessee,,James,James,506
+1900,Tennessee,47089,Jefferson,Jefferson,2174
+1900,Tennessee,47091,Johnson,Johnson,368
+1900,Tennessee,47093,Knox,Knox,11777
+1900,Tennessee,47095,Lake,Lake,1984
+1900,Tennessee,47097,Lauderdale,Lauderdale,10169
+1900,Tennessee,47099,Lawrence,Lawrence,967
+1900,Tennessee,47101,Lewis,Lewis,392
+1900,Tennessee,47103,Lincoln,Lincoln,6084
+1900,Tennessee,47105,Loudon,Loudon,1360
+1900,Tennessee,47107,McMinn,Mcminn,1997
+1900,Tennessee,47109,McNairy,Mcnairy,2442
+1900,Tennessee,47111,Macon,Macon,874
+1900,Tennessee,47113,Madison,Madison,16754
+1900,Tennessee,47115,Marion,Marion,2105
+1900,Tennessee,47117,Marshall,Marshall,4260
+1900,Tennessee,47119,Maury,Maury,18164
+1900,Tennessee,47121,Meigs,Meigs,663
+1900,Tennessee,47123,Monroe,Monroe,1222
+1900,Tennessee,47125,Montgomery,Montgomery,16158
+1900,Tennessee,47127,Moore,Moore,469
+1900,Tennessee,47129,Morgan,Morgan,600
+1900,Tennessee,47131,Obion,Obion,4840
+1900,Tennessee,47133,Overton,Overton,273
+1900,Tennessee,47135,Perry,Perry,665
+1900,Tennessee,47137,Pickett,Pickett,11
+1900,Tennessee,47139,Polk,Polk,303
+1900,Tennessee,47141,Putnam,Putnam,768
+1900,Tennessee,47143,Rhea,Rhea,1878
+1900,Tennessee,47145,Roane,Roane,2625
+1900,Tennessee,47147,Robertson,Robertson,6822
+1900,Tennessee,47149,Rutherford,Rutherford,12965
+1900,Tennessee,47151,Scott,Scott,335
+1900,Tennessee,47153,Sequatchie,Sequatchie,37
+1900,Tennessee,47155,Sevier,Sevier,565
+1900,Tennessee,47157,Shelby,Shelby,84773
+1900,Tennessee,47159,Smith,Smith,3008
+1900,Tennessee,47161,Stewart,Stewart,2352
+1900,Tennessee,47163,Sullivan,Sullivan,1565
+1900,Tennessee,47165,Sumner,Sumner,6677
+1900,Tennessee,47167,Tipton,Tipton,13965
+1900,Tennessee,47169,Trousdale,Trousdale,2033
+1900,Tennessee,47171,Unicoi,Unicoi,130
+1900,Tennessee,47173,Union,Union,79
+1900,Tennessee,47175,Van Buren,Van Buren,55
+1900,Tennessee,47177,Warren,Warren,2074
+1900,Tennessee,47179,Washington,Washington,2147
+1900,Tennessee,47181,Wayne,Wayne,1144
+1900,Tennessee,47183,Weakley,Weakley,4228
+1900,Tennessee,47185,White,White,1024
+1900,Tennessee,47187,Williamson,Williamson,9664
+1900,Tennessee,47189,Wilson,Wilson,7256
+1900,Texas,48001,Anderson,Anderson,11615
+1900,Texas,48003,Andrews,Andrews,0
+1900,Texas,48005,Angelina,Angelina,2156
+1900,Texas,48007,Aransas,Aransas,189
+1900,Texas,48009,Archer,Archer,2
+1900,Texas,48011,Armstrong,Armstrong,2
+1900,Texas,48013,Atascosa,Atascosa,277
+1900,Texas,48015,Austin,Austin,6193
+1900,Texas,48017,Bailey,Bailey,0
+1900,Texas,48019,Bandera,Bandera,89
+1900,Texas,48021,Bastrop,Bastrop,10369
+1900,Texas,48023,Baylor,Baylor,16
+1900,Texas,48025,Bee,Bee,476
+1900,Texas,48027,Bell,Bell,3812
+1900,Texas,48029,Bexar,Bexar,8530
+1900,Texas,48031,Blanco,Blanco,224
+1900,Texas,48033,Borden,Borden,2
+1900,Texas,48035,Bosque,Bosque,845
+1900,Texas,48037,Bowie,Bowie,10199
+1900,Texas,48039,Brazoria,Brazoria,8219
+1900,Texas,48041,Brazos,Brazos,8845
+1900,Texas,48043,Brewster,Brewster,80
+1900,Texas,48045,Briscoe,Briscoe,0
+1900,Texas,48049,Brown,Brown,206
+1900,Texas,48051,Burleson,Burleson,8321
+1900,Texas,48053,Burnet,Burnet,264
+1900,Texas,48055,Caldwell,Caldwell,5687
+1900,Texas,48057,Calhoun,Calhoun,271
+1900,Texas,48059,Callahan,Callahan,25
+1900,Texas,48061,Cameron,Cameron,177
+1900,Texas,48063,Camp,Camp,4354
+1900,Texas,48065,Carson,Carson,2
+1900,Texas,48067,Cass,Cass,8908
+1900,Texas,48069,Castro,Castro,0
+1900,Texas,48071,Chambers,Chambers,829
+1900,Texas,48073,Cherokee,Cherokee,8196
+1900,Texas,48075,Childress,Childress,1
+1900,Texas,48077,Clay,Clay,44
+1900,Texas,48079,Cochran,Cochran,0
+1900,Texas,48081,Coke,Coke,2
+1900,Texas,48083,Coleman,Coleman,90
+1900,Texas,48085,Collin,Collin,2456
+1900,Texas,48087,Collingsworth,Collingsworth,2
+1900,Texas,48089,Colorado,Colorado,9633
+1900,Texas,48091,Comal,Comal,259
+1900,Texas,48093,Comanche,Comanche,0
+1900,Texas,48095,Concho,Concho,14
+1900,Texas,48097,Cooke,Cooke,1875
+1900,Texas,48099,Coryell,Coryell,570
+1900,Texas,48101,Cottle,Cottle,0
+1900,Texas,48103,Crane,Crane,0
+1900,Texas,48105,Crockett,Crockett,8
+1900,Texas,48107,Crosby,Crosby,3
+1900,Texas,48111,Dallam,Dallam,0
+1900,Texas,48113,Dallas,Dallas,13646
+1900,Texas,48115,Dawson,Dawson,0
+1900,Texas,48117,Deaf Smith,Deaf Smith,1
+1900,Texas,48119,Delta,Delta,967
+1900,Texas,48121,Denton,Denton,2067
+1900,Texas,48123,De Witt,De Witt,4940
+1900,Texas,48125,Dickens,Dickens,0
+1900,Texas,48127,Dimmit,Dimmit,41
+1900,Texas,48129,Donley,Donley,49
+1900,Texas,48131,Duval,Duval,12
+1900,Texas,48133,Eastland,Eastland,51
+1900,Texas,48135,Ector,Ector,3
+1900,Texas,48137,Edwards,Edwards,11
+1900,Texas,48139,Ellis,Ellis,4841
+1900,Texas,48141,El Paso,El Paso,620
+1900,Texas,48143,Erath,Erath,579
+1900,Texas,48145,Falls,Falls,11985
+1900,Texas,48147,Fannin,Fannin,5465
+1900,Texas,48149,Fayette,Fayette,10394
+1900,Texas,48151,Fisher,Fisher,3
+1900,Texas,48153,Floyd,Floyd,8
+1900,Texas,48155,Foard,Foard,0
+1900,Texas,48157,Fort Bend,Fort Bend,10814
+1900,Texas,48159,Franklin,Franklin,929
+1900,Texas,48161,Freestone,Freestone,8302
+1900,Texas,48163,Frio,Frio,163
+1900,Texas,48165,Gaines,Gaines,0
+1900,Texas,48167,Galveston,Galveston,8798
+1900,Texas,48169,Garza,Garza,2
+1900,Texas,48171,Gillespie,Gillespie,105
+1900,Texas,48173,Glasscock,Glasscock,1
+1900,Texas,48175,Goliad,Goliad,1806
+1900,Texas,48177,Gonzales,Gonzales,8642
+1900,Texas,48179,Gray,Gray,13
+1900,Texas,48181,Grayson,Grayson,7742
+1900,Texas,48183,Gregg,Gregg,6898
+1900,Texas,48185,Grimes,Grimes,14327
+1900,Texas,48187,Guadalupe,Guadalupe,5187
+1900,Texas,48189,Hale,Hale,3
+1900,Texas,48191,Hall,Hall,0
+1900,Texas,48193,Hamilton,Hamilton,7
+1900,Texas,48195,Hansford,Hansford,1
+1900,Texas,48197,Hardeman,Hardeman,18
+1900,Texas,48199,Hardin,Hardin,948
+1900,Texas,48201,Harris,Harris,19894
+1900,Texas,48203,Harrison,Harrison,21697
+1900,Texas,48205,Hartley,Hartley,1
+1900,Texas,48207,Haskell,Haskell,5
+1900,Texas,48209,Hays,Hays,2132
+1900,Texas,48211,Hemphill,Hemphill,2
+1900,Texas,48213,Henderson,Henderson,4347
+1900,Texas,48215,Hidalgo,Hidalgo,110
+1900,Texas,48217,Hill,Hill,2973
+1900,Texas,48219,Hockley,Hockley,0
+1900,Texas,48221,Hood,Hood,241
+1900,Texas,48223,Hopkins,Hopkins,3808
+1900,Texas,48225,Houston,Houston,10342
+1900,Texas,48227,Howard,Howard,86
+1900,Texas,48231,Hunt,Hunt,4340
+1900,Texas,48233,Hutchinson,Hutchinson,0
+1900,Texas,48235,Irion,Irion,4
+1900,Texas,48237,Jack,Jack,115
+1900,Texas,48239,Jackson,Jackson,2189
+1900,Texas,48241,Jasper,Jasper,2996
+1900,Texas,48243,Jeff Davis,Jeff Davis,42
+1900,Texas,48245,Jefferson,Jefferson,3945
+1900,Texas,48251,Johnson,Johnson,1147
+1900,Texas,48253,Jones,Jones,4
+1900,Texas,48255,Karnes,Karnes,633
+1900,Texas,48257,Kaufman,Kaufman,6092
+1900,Texas,48259,Kendall,Kendall,235
+1900,Texas,48263,Kent,Kent,0
+1900,Texas,48265,Kerr,Kerr,148
+1900,Texas,48267,Kimble,Kimble,6
+1900,Texas,48269,King,King,0
+1900,Texas,48271,Kinney,Kinney,349
+1900,Texas,48275,Knox,Knox,0
+1900,Texas,48277,Lamar,Lamar,11007
+1900,Texas,48279,Lamb,Lamb,0
+1900,Texas,48281,Lampasas,Lampasas,370
+1900,Texas,48283,La Salle,La Salle,63
+1900,Texas,48285,Lavaca,Lavaca,4890
+1900,Texas,48287,Lee,Lee,4343
+1900,Texas,48289,Leon,Leon,6937
+1900,Texas,48291,Liberty,Liberty,2366
+1900,Texas,48293,Limestone,Limestone,6354
+1900,Texas,48295,Lipscomb,Lipscomb,0
+1900,Texas,48297,Live Oak,Live Oak,73
+1900,Texas,48299,Llano,Llano,39
+1900,Texas,48301,Loving,Loving,0
+1900,Texas,48303,Lubbock,Lubbock,0
+1900,Texas,48305,Lynn,Lynn,0
+1900,Texas,48307,McCulloch,Mcculloch,31
+1900,Texas,48309,McLennan,Mclennan,14405
+1900,Texas,48311,McMullen,Mcmullen,33
+1900,Texas,48313,Madison,Madison,2458
+1900,Texas,48315,Marion,Marion,7147
+1900,Texas,48317,Martin,Martin,2
+1900,Texas,48319,Mason,Mason,54
+1900,Texas,48321,Matagorda,Matagorda,3791
+1900,Texas,48323,Maverick,Maverick,195
+1900,Texas,48325,Medina,Medina,356
+1900,Texas,48327,Menard,Menard,20
+1900,Texas,48329,Midland,Midland,56
+1900,Texas,48331,Milam,Milam,10473
+1900,Texas,48333,Mills,Mills,13
+1900,Texas,48335,Mitchell,Mitchell,140
+1900,Texas,48337,Montague,Montague,26
+1900,Texas,48339,Montgomery,Montgomery,6619
+1900,Texas,48341,Moore,Moore,0
+1900,Texas,48343,Morris,Morris,3342
+1900,Texas,48345,Motley,Motley,0
+1900,Texas,48347,Nacogdoches,Nacogdoches,6677
+1900,Texas,48349,Navarro,Navarro,9072
+1900,Texas,48351,Newton,Newton,2485
+1900,Texas,48353,Nolan,Nolan,20
+1900,Texas,48355,Nueces,Nueces,577
+1900,Texas,48357,Ochiltree,Ochiltree,0
+1900,Texas,48359,Oldham,Oldham,1
+1900,Texas,48361,Orange,Orange,1018
+1900,Texas,48363,Palo Pinto,Palo Pinto,292
+1900,Texas,48365,Panola,Panola,9204
+1900,Texas,48367,Parker,Parker,865
+1900,Texas,48369,Parmer,Parmer,0
+1900,Texas,48371,Pecos,Pecos,22
+1900,Texas,48373,Polk,Polk,4849
+1900,Texas,48375,Potter,Potter,15
+1900,Texas,48377,Presidio,Presidio,53
+1900,Texas,48379,Rains,Rains,539
+1900,Texas,48381,Randall,Randall,1
+1900,Texas,48387,Red River,Red River,8422
+1900,Texas,48389,Reeves,Reeves,12
+1900,Texas,48391,Refugio,Refugio,461
+1900,Texas,48393,Roberts,Roberts,9
+1900,Texas,48395,Robertson,Robertson,16747
+1900,Texas,48397,Rockwall,Rockwall,402
+1900,Texas,48399,Runnels,Runnels,33
+1900,Texas,48401,Rusk,Rusk,11039
+1900,Texas,48403,Sabine,Sabine,1752
+1900,Texas,48405,San Augustine,San Augustine,2921
+1900,Texas,48407,San Jacinto,San Jacinto,5531
+1900,Texas,48409,San Patricio,San Patricio,36
+1900,Texas,48411,San Saba,San Saba,61
+1900,Texas,48413,Schleicher,Schleicher,13
+1900,Texas,48415,Scurry,Scurry,0
+1900,Texas,48417,Shackelford,Shackelford,134
+1900,Texas,48419,Shelby,Shelby,4117
+1900,Texas,48421,Sherman,Sherman,3
+1900,Texas,48423,Smith,Smith,16043
+1900,Texas,48425,Somervell,Somervell,6
+1900,Texas,48427,Starr,Starr,141
+1900,Texas,48429,Stephens,Stephens,5
+1900,Texas,48431,Sterling,Sterling,2
+1900,Texas,48433,Stonewall,Stonewall,0
+1900,Texas,48435,Sutton,Sutton,5
+1900,Texas,48437,Swisher,Swisher,0
+1900,Texas,48439,Tarrant,Tarrant,5756
+1900,Texas,48441,Taylor,Taylor,178
+1900,Texas,48445,Terry,Terry,0
+1900,Texas,48447,Throckmorton,Throckmorton,2
+1900,Texas,48449,Titus,Titus,2148
+1900,Texas,48451,Tom Green,Tom Green,898
+1900,Texas,48453,Travis,Travis,13299
+1900,Texas,48455,Trinity,Trinity,2813
+1900,Texas,48457,Tyler,Tyler,2389
+1900,Texas,48459,Upshur,Upshur,4957
+1900,Texas,48461,Upton,Upton,0
+1900,Texas,48463,Uvalde,Uvalde,129
+1900,Texas,48465,Val Verde,Val Verde,156
+1900,Texas,48467,Van Zandt,Van Zandt,1365
+1900,Texas,48469,Victoria,Victoria,3787
+1900,Texas,48471,Walker,Walker,8319
+1900,Texas,48473,Waller,Waller,7871
+1900,Texas,48475,Ward,Ward,3
+1900,Texas,48477,Washington,Washington,16039
+1900,Texas,48479,Webb,Webb,205
+1900,Texas,48481,Wharton,Wharton,8717
+1900,Texas,48483,Wheeler,Wheeler,14
+1900,Texas,48485,Wichita,Wichita,204
+1900,Texas,48487,Wilbarger,Wilbarger,43
+1900,Texas,48491,Williamson,Williamson,4332
+1900,Texas,48493,Wilson,Wilson,1114
+1900,Texas,48495,Winkler,Winkler,0
+1900,Texas,48497,Wise,Wise,167
+1900,Texas,48499,Wood,Wood,4012
+1900,Texas,48501,Yoakum,Yoakum,0
+1900,Texas,48503,Young,Young,7
+1900,Texas,48505,Zapata,Zapata,0
+1900,Texas,48507,Zavala,Zavala,1
+1900,Utah,49001,Beaver,Beaver,2
+1900,Utah,49003,Box Elder,Box Elder,10
+1900,Utah,49005,Cache,Cache,9
+1900,Utah,49007,Carbon,Carbon,1
+1900,Utah,49011,Davis,Davis,0
+1900,Utah,49015,Emery,Emery,0
+1900,Utah,49017,Garfield,Garfield,0
+1900,Utah,49019,Grand,Grand,0
+1900,Utah,49021,Iron,Iron,0
+1900,Utah,49023,Juab,Juab,4
+1900,Utah,49025,Kane,Kane,0
+1900,Utah,49027,Millard,Millard,9
+1900,Utah,49029,Morgan,Morgan,0
+1900,Utah,49031,Piute,Piute,0
+1900,Utah,49033,Rich,Rich,0
+1900,Utah,49035,Salt Lake,Salt Lake,336
+1900,Utah,49037,San Juan,San Juan,1
+1900,Utah,49039,Sanpete,Sanpete,12
+1900,Utah,49041,Sevier,Sevier,0
+1900,Utah,49043,Summit,Summit,9
+1900,Utah,49045,Tooele,Tooele,5
+1900,Utah,49047,Uintah,Uintah,214
+1900,Utah,49049,Utah,Utah,7
+1900,Utah,49051,Wasatch,Wasatch,0
+1900,Utah,49053,Washington,Washington,2
+1900,Utah,49055,Wayne,Wayne,0
+1900,Utah,49057,Weber,Weber,51
+1900,Utah,,Uintah Valley Indian Reservation,Uintah Valley Indian Reservation,0
+1900,Vermont,50001,Addison,Addison,67
+1900,Vermont,50003,Bennington,Bennington,165
+1900,Vermont,50005,Caledonia,Caledonia,5
+1900,Vermont,50007,Chittenden,Chittenden,153
+1900,Vermont,50009,Essex,Essex,1
+1900,Vermont,50011,Franklin,Franklin,74
+1900,Vermont,50013,Grand Isle,Grand Isle,11
+1900,Vermont,50015,Lamoille,Lamoille,9
+1900,Vermont,50017,Orange,Orange,18
+1900,Vermont,50019,Orleans,Orleans,13
+1900,Vermont,50021,Rutland,Rutland,146
+1900,Vermont,50023,Washington,Washington,29
+1900,Vermont,50025,Windham,Windham,64
+1900,Vermont,50027,Windsor,Windsor,71
+1900,Virginia,51001,Accomack,Accomack,11825
+1900,Virginia,51003,Albemarle,Albemarle,10337
+1900,Virginia,,Alexandria,Alexandria,2467
+1900,Virginia,51005,Alleghany,Alleghany,4013
+1900,Virginia,51007,Amelia,Amelia,5985
+1900,Virginia,51009,Amherst,Amherst,7057
+1900,Virginia,51011,Appomattox,Appomattox,3931
+1900,Virginia,51015,Augusta,Augusta,5700
+1900,Virginia,51017,Bath,Bath,1006
+1900,Virginia,51019,Bedford,Bedford,9739
+1900,Virginia,51021,Bland,Bland,212
+1900,Virginia,51023,Botetourt,Botetourt,3877
+1900,Virginia,51025,Brunswick,Brunswick,10842
+1900,Virginia,51027,Buchanan,Buchanan,5
+1900,Virginia,51029,Buckingham,Buckingham,7851
+1900,Virginia,51031,Campbell,Campbell,9615
+1900,Virginia,51033,Caroline,Caroline,9042
+1900,Virginia,51035,Carroll,Carroll,339
+1900,Virginia,51036,Charles City,Charles City,3696
+1900,Virginia,51037,Charlotte,Charlotte,8545
+1900,Virginia,51041,Chesterfield,Chesterfield,7699
+1900,Virginia,51043,Clarke,Clarke,2231
+1900,Virginia,51045,Craig,Craig,261
+1900,Virginia,51047,Culpeper,Culpeper,6053
+1900,Virginia,51049,Cumberland,Cumberland,6205
+1900,Virginia,51051,Dickenson,Dickenson,0
+1900,Virginia,51053,Dinwiddie,Dinwiddie,9500
+1900,Virginia,51055,Elizabeth City,Elizabeth City,8582
+1900,Virginia,51057,Essex,Essex,6125
+1900,Virginia,51059,Fairfax,Fairfax,5003
+1900,Virginia,51061,Fauquier,Fauquier,8298
+1900,Virginia,51063,Floyd,Floyd,1075
+1900,Virginia,51065,Fluvanna,Fluvanna,4011
+1900,Virginia,51067,Franklin,Franklin,5947
+1900,Virginia,51069,Frederick,Frederick,753
+1900,Virginia,51071,Giles,Giles,799
+1900,Virginia,51073,Gloucester,Gloucester,6608
+1900,Virginia,51075,Goochland,Goochland,5558
+1900,Virginia,51077,Grayson,Grayson,959
+1900,Virginia,51079,Greene,Greene,1431
+1900,Virginia,51081,Greensville,Greensville,6356
+1900,Virginia,51083,Halifax,Halifax,19275
+1900,Virginia,51085,Hanover,Hanover,7898
+1900,Virginia,51087,Henrico,Henrico,12816
+1900,Virginia,51089,Henry,Henry,8383
+1900,Virginia,51091,Highland,Highland,378
+1900,Virginia,51093,Isle Of Wight,Isle Of Wight,6268
+1900,Virginia,51095,James City,James City,2342
+1900,Virginia,51097,King And Queen,King And Queen,5259
+1900,Virginia,51099,King George,King George,3322
+1900,Virginia,51101,King William,King William,4962
+1900,Virginia,51103,Lancaster,Lancaster,4891
+1900,Virginia,51105,Lee,Lee,740
+1900,Virginia,51107,Loudoun,Loudoun,5868
+1900,Virginia,51109,Louisa,Louisa,8621
+1900,Virginia,51111,Lunenburg,Lunenburg,6572
+1900,Virginia,51113,Madison,Madison,3521
+1900,Virginia,51115,Matthews,Matthews,2395
+1900,Virginia,51117,Mecklenburg,Mecklenburg,16198
+1900,Virginia,51119,Middlesex,Middlesex,4536
+1900,Virginia,51121,Montgomery,Montgomery,2925
+1900,Virginia,51123,Nansemond,Nansemond,12962
+1900,Virginia,51125,Nelson,Nelson,5672
+1900,Virginia,51127,New Kent,New Kent,3204
+1900,Virginia,51129,Norfolk,Norfolk,31600
+1900,Virginia,51131,Northampton,Northampton,7627
+1900,Virginia,51133,Northumberland,Northumberland,4166
+1900,Virginia,51135,Nottoway,Nottoway,7400
+1900,Virginia,51137,Orange,Orange,5519
+1900,Virginia,51139,Page,Page,1440
+1900,Virginia,51141,Patrick,Patrick,1624
+1900,Virginia,51143,Pittsylvania,Pittsylvania,21289
+1900,Virginia,51145,Powhatan,Powhatan,4481
+1900,Virginia,51147,Prince Edward,Prince Edward,9769
+1900,Virginia,51149,Prince George,Prince George,4858
+1900,Virginia,51151,Princess Anne,Princess Anne,5687
+1900,Virginia,51153,Prince William,Prince William,2871
+1900,Virginia,51155,Pulaski,Pulaski,3237
+1900,Virginia,51157,Rappahannock,Rappahannock,2722
+1900,Virginia,51159,Richmond,Richmond,2929
+1900,Virginia,51161,Roanoke,Roanoke,3845
+1900,Virginia,51163,Rockbridge,Rockbridge,4084
+1900,Virginia,51165,Rockingham,Rockingham,2632
+1900,Virginia,51167,Russell,Russell,764
+1900,Virginia,51169,Scott,Scott,627
+1900,Virginia,51171,Shenandoah,Shenandoah,649
+1900,Virginia,51173,Smyth,Smyth,1170
+1900,Virginia,51175,Southampton,Southampton,13683
+1900,Virginia,51177,Spotsylvania,Spotsylvania,3886
+1900,Virginia,51179,Stafford,Stafford,1608
+1900,Virginia,51181,Surry,Surry,5183
+1900,Virginia,51183,Sussex,Sussex,7961
+1900,Virginia,51185,Tazewell,Tazewell,3582
+1900,Virginia,51187,Warren,Warren,1463
+1900,Virginia,51189,Warwick,Warwick,3729
+1900,Virginia,51191,Washington,Washington,2555
+1900,Virginia,51193,Westmoreland,Westmoreland,4861
+1900,Virginia,51195,Wise,Wise,1965
+1900,Virginia,51197,Wythe,Wythe,2783
+1900,Virginia,51199,York,York,4081
+1900,Virginia,51510,Alexandria City,Alexandria City,4533
+1900,Virginia,51520,Bristol City,Bristol City,1027
+1900,Virginia,51530,Buena Vista City,Buena Vista City,410
+1900,Virginia,51540,Charlottesville City,Charlottesville City,2613
+1900,Virginia,51590,Danville City,Danville City,6515
+1900,Virginia,51630,Fredericksburg City,Fredericksburg City,1621
+1900,Virginia,51680,Lynchburg City,Lynchburg City,8254
+1900,Virginia,,Manchester City,Manchester City,3338
+1900,Virginia,51700,Newport News City,Newport News City,6798
+1900,Virginia,51710,Norfolk City,Norfolk City,20230
+1900,Virginia,51730,Petersburg City,Petersburg City,10751
+1900,Virginia,51740,Portsmouth City,Portsmouth City,5625
+1900,Virginia,51750,Radford City,Radford City,456
+1900,Virginia,51760,Richmond City,Richmond City,32230
+1900,Virginia,51770,Roanoke City,Roanoke City,5834
+1900,Virginia,51790,Staunton City,Staunton City,1828
+1900,Virginia,51830,Williamsburg City,Williamsburg City,678
+1900,Virginia,51840,Winchester City,Winchester City,1105
+1900,Washington,53001,Adams,Adams,1
+1900,Washington,53003,Asotin,Asotin,0
+1900,Washington,,Chehalis,Chehalis,29
+1900,Washington,53007,Chelan,Chelan,1
+1900,Washington,53009,Clallam,Clallam,0
+1900,Washington,53011,Clark,Clark,10
+1900,Washington,53013,Columbia,Columbia,0
+1900,Washington,53015,Cowlitz,Cowlitz,2
+1900,Washington,53017,Douglas,Douglas,0
+1900,Washington,53019,Ferry,Ferry,14
+1900,Washington,53021,Franklin,Franklin,1
+1900,Washington,53023,Garfield,Garfield,1
+1900,Washington,53029,Island,Island,0
+1900,Washington,53031,Jefferson,Jefferson,10
+1900,Washington,53033,King,King,603
+1900,Washington,53035,Kitsap,Kitsap,21
+1900,Washington,53037,Kittitas,Kittitas,401
+1900,Washington,53039,Klikatat,Klikatat,14
+1900,Washington,53041,Lewis,Lewis,51
+1900,Washington,53043,Lincoln,Lincoln,8
+1900,Washington,53045,Mason,Mason,11
+1900,Washington,53047,Okanogan,Okanogan,3
+1900,Washington,53049,Pacific,Pacific,2
+1900,Washington,53053,Pierce,Pierce,404
+1900,Washington,53055,San Juan,San Juan,1
+1900,Washington,53057,Skagit,Skagit,15
+1900,Washington,53059,Skamania,Skamania,0
+1900,Washington,53061,Snohomish,Snohomish,101
+1900,Washington,53063,Spokane,Spokane,595
+1900,Washington,53065,Stevens,Stevens,20
+1900,Washington,53067,Thurston,Thurston,10
+1900,Washington,53069,Wahkiakum,Wahkiakum,4
+1900,Washington,53071,Walla Walla,Walla Walla,51
+1900,Washington,53073,Whatcom,Whatcom,33
+1900,Washington,53075,Whitman,Whitman,10
+1900,Washington,53077,Yakima,Yakima,87
+1900,Washington,,Colville Indian Reservation,Colville Indian Reservation,0
+1900,Washington,,Lummi Indian Reservation,Lummi Indian Reservation,0
+1900,Washington,,Makah Indian Reservation,Makah Indian Reservation,0
+1900,Washington,,Muckleshoot Indian Reservation,Muckleshoot Indian Reservation,0
+1900,Washington,,Queniult Indian Reservation,Queniult Indian Reservation,0
+1900,Washington,,Swinomish Indian Reservation,Swinomish Indian Reservation,0
+1900,Washington,,Tulalip Indian Reservation,Tulalip Indian Reservation,0
+1900,Washington,,Yakima Indian Reservation,Yakima Indian Reservation,0
+1900,West Virginia,54001,Barbour,Barbour,808
+1900,West Virginia,54003,Berkeley,Berkeley,1765
+1900,West Virginia,54005,Boone,Boone,135
+1900,West Virginia,54007,Braxton,Braxton,187
+1900,West Virginia,54009,Brooke,Brooke,139
+1900,West Virginia,54011,Cabell,Cabell,1537
+1900,West Virginia,54013,Calhoun,Calhoun,83
+1900,West Virginia,54015,Clay,Clay,18
+1900,West Virginia,54017,Doddridge,Doddridge,25
+1900,West Virginia,54019,Fayette,Fayette,5857
+1900,West Virginia,54021,Gilmer,Gilmer,36
+1900,West Virginia,54023,Grant,Grant,252
+1900,West Virginia,54025,Greenbrier,Greenbrier,1829
+1900,West Virginia,54027,Hampshire,Hampshire,461
+1900,West Virginia,54029,Hancock,Hancock,46
+1900,West Virginia,54031,Hardy,Hardy,457
+1900,West Virginia,54033,Harrison,Harrison,1252
+1900,West Virginia,54035,Jackson,Jackson,115
+1900,West Virginia,54037,Jefferson,Jefferson,3941
+1900,West Virginia,54039,Kanawha,Kanawha,3983
+1900,West Virginia,54041,Lewis,Lewis,178
+1900,West Virginia,54043,Lincoln,Lincoln,63
+1900,West Virginia,54045,Logan,Logan,61
+1900,West Virginia,54047,McDowell,Mcdowell,5969
+1900,West Virginia,54049,Marion,Marion,482
+1900,West Virginia,54051,Marshall,Marshall,499
+1900,West Virginia,54053,Mason,Mason,537
+1900,West Virginia,54055,Mercer,Mercer,2902
+1900,West Virginia,54057,Mineral,Mineral,665
+1900,West Virginia,54059,Mingo,Mingo,309
+1900,West Virginia,54061,Monongalia,Monongalia,299
+1900,West Virginia,54063,Monroe,Monroe,830
+1900,West Virginia,54065,Morgan,Morgan,220
+1900,West Virginia,54067,Nicholas,Nicholas,19
+1900,West Virginia,54069,Ohio,Ohio,1251
+1900,West Virginia,54071,Pendleton,Pendleton,123
+1900,West Virginia,54073,Pleasants,Pleasants,6
+1900,West Virginia,54075,Pocahontas,Pocahontas,625
+1900,West Virginia,54077,Preston,Preston,162
+1900,West Virginia,54079,Putnam,Putnam,378
+1900,West Virginia,54081,Raleigh,Raleigh,360
+1900,West Virginia,54083,Randolph,Randolph,519
+1900,West Virginia,54085,Ritchie,Ritchie,26
+1900,West Virginia,54087,Roane,Roane,32
+1900,West Virginia,54089,Summers,Summers,1115
+1900,West Virginia,54091,Taylor,Taylor,423
+1900,West Virginia,54093,Tucker,Tucker,353
+1900,West Virginia,54095,Tyler,Tyler,94
+1900,West Virginia,54097,Upshur,Upshur,221
+1900,West Virginia,54099,Wayne,Wayne,321
+1900,West Virginia,54101,Webster,Webster,12
+1900,West Virginia,54103,Wetzel,Wetzel,439
+1900,West Virginia,54105,Wirt,Wirt,64
+1900,West Virginia,54107,Wood,Wood,922
+1900,West Virginia,54109,Wyoming,Wyoming,94
+1900,Wisconsin,55001,Adams,Adams,8
+1900,Wisconsin,55003,Ashland,Ashland,14
+1900,Wisconsin,55005,Barron,Barron,1
+1900,Wisconsin,55007,Bayfield,Bayfield,5
+1900,Wisconsin,55009,Brown,Brown,50
+1900,Wisconsin,55011,Buffalo,Buffalo,1
+1900,Wisconsin,55013,Burnett,Burnett,8
+1900,Wisconsin,55015,Calumet,Calumet,33
+1900,Wisconsin,55017,Chippewa,Chippewa,5
+1900,Wisconsin,55019,Clark,Clark,1
+1900,Wisconsin,55021,Columbia,Columbia,17
+1900,Wisconsin,55023,Crawford,Crawford,5
+1900,Wisconsin,55025,Dane,Dane,82
+1900,Wisconsin,55027,Dodge,Dodge,38
+1900,Wisconsin,55029,Door,Door,3
+1900,Wisconsin,55031,Douglas,Douglas,190
+1900,Wisconsin,55033,Dunn,Dunn,2
+1900,Wisconsin,55035,Eau Claire,Eau Claire,20
+1900,Wisconsin,55037,Florence,Florence,0
+1900,Wisconsin,55039,Fond du Lac,Fond Du Lac,136
+1900,Wisconsin,55041,Forest,Forest,0
+1900,Wisconsin,55043,Grant,Grant,60
+1900,Wisconsin,55045,Green,Green,24
+1900,Wisconsin,55047,Green Lake,Green Lake,3
+1900,Wisconsin,55049,Iowa,Iowa,18
+1900,Wisconsin,55051,Iron,Iron,1
+1900,Wisconsin,55053,Jackson,Jackson,2
+1900,Wisconsin,55055,Jefferson,Jefferson,39
+1900,Wisconsin,55057,Juneau,Juneau,8
+1900,Wisconsin,55059,Kenosha,Kenosha,36
+1900,Wisconsin,55061,Kewaunee,Kewaunee,6
+1900,Wisconsin,55063,La Crosse,La Crosse,70
+1900,Wisconsin,55065,Lafayette,Lafayette,2
+1900,Wisconsin,55067,Langlade,Langlade,3
+1900,Wisconsin,55069,Lincoln,Lincoln,1
+1900,Wisconsin,55071,Manitowoc,Manitowoc,3
+1900,Wisconsin,55073,Marathon,Marathon,4
+1900,Wisconsin,55075,Marinette,Marinette,3
+1900,Wisconsin,55077,Marquette,Marquette,3
+1900,Wisconsin,55079,Milwaukee,Milwaukee,895
+1900,Wisconsin,55081,Monroe,Monroe,43
+1900,Wisconsin,55083,Oconto,Oconto,9
+1900,Wisconsin,55085,Oneida,Oneida,1
+1900,Wisconsin,55087,Outagamie,Outagamie,30
+1900,Wisconsin,55089,Ozaukee,Ozaukee,0
+1900,Wisconsin,55091,Pepin,Pepin,0
+1900,Wisconsin,55093,Pierce,Pierce,9
+1900,Wisconsin,55095,Polk,Polk,4
+1900,Wisconsin,55097,Portage,Portage,2
+1900,Wisconsin,55099,Price,Price,5
+1900,Wisconsin,55101,Racine,Racine,96
+1900,Wisconsin,55103,Richland,Richland,14
+1900,Wisconsin,55105,Rock,Rock,101
+1900,Wisconsin,55109,St Croix,St Croix,3
+1900,Wisconsin,55111,Sauk,Sauk,32
+1900,Wisconsin,55113,Sawyer,Sawyer,2
+1900,Wisconsin,55115,Shawano,Shawano,22
+1900,Wisconsin,55117,Sheboygan,Sheboygan,0
+1900,Wisconsin,55119,Taylor,Taylor,34
+1900,Wisconsin,55121,Trempealeau,Trempealeau,1
+1900,Wisconsin,55123,Vernon,Vernon,95
+1900,Wisconsin,55125,Vilas,Vilas,3
+1900,Wisconsin,55127,Walworth,Walworth,74
+1900,Wisconsin,55129,Washburn,Washburn,1
+1900,Wisconsin,55131,Washington,Washington,0
+1900,Wisconsin,55133,Waukesha,Waukesha,83
+1900,Wisconsin,55135,Waupaca,Waupaca,9
+1900,Wisconsin,55137,Waushara,Waushara,8
+1900,Wisconsin,55139,Winnebago,Winnebago,58
+1900,Wisconsin,55141,Wood,Wood,3
+1900,Wisconsin,,La Pointe Indian Reservation,La Pointe Indian Reservation,0
+1900,Wisconsin,,Menominee Indian Reservation,Menominee Indian Reservation,0
+1900,Wisconsin,,Oneida Indian Reservation,Oneida Indian Reservation,0
+1900,Wyoming,56001,Albany,Albany,170
+1900,Wyoming,56003,Big Horn,Big Horn,3
+1900,Wyoming,56007,Carbon,Carbon,200
+1900,Wyoming,56009,Converse,Converse,7
+1900,Wyoming,56011,Crook,Crook,4
+1900,Wyoming,56013,Fremont,Fremont,3
+1900,Wyoming,56019,Johnson,Johnson,2
+1900,Wyoming,56021,Laramie,Laramie,309
+1900,Wyoming,56025,Natrona,Natrona,7
+1900,Wyoming,56033,Sheridan,Sheridan,27
+1900,Wyoming,56037,Sweetwater,Sweetwater,181
+1900,Wyoming,56041,Uinta,Uinta,23
+1900,Wyoming,56045,Weston,Weston,3
+1900,Wyoming,56047,Yellowstone National Park,Yellowstone National Park,1
+1900,Wyoming,,Shoshone Indian Reservation,Shoshone Indian Reservation,0
