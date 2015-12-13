@@ -1,0 +1,3135 @@
+year,state,id,county,areaname,pop
+YEAR,STATE,,COUNTY,AREANAME,0
+1960,Alabama,01001,Autauga,Autauga,7888
+1960,Alabama,01003,Baldwin,Baldwin,10309
+1960,Alabama,01005,Barbour,Barbour,12840
+1960,Alabama,01007,Bibb,Bibb,4417
+1960,Alabama,01009,Blount,Blount,835
+1960,Alabama,01011,Bullock,Bullock,9679
+1960,Alabama,01013,Butler,Butler,10985
+1960,Alabama,01015,Calhoun,Calhoun,17936
+1960,Alabama,01017,Chambers,Chambers,13863
+1960,Alabama,01019,Cherokee,Cherokee,1685
+1960,Alabama,01021,Chilton,Chilton,4075
+1960,Alabama,01023,Choctaw,Choctaw,8857
+1960,Alabama,01025,Clarke,Clarke,12744
+1960,Alabama,01027,Clay,Clay,2016
+1960,Alabama,01029,Cleburne,Cleburne,697
+1960,Alabama,01031,Coffee,Coffee,6344
+1960,Alabama,01033,Colbert,Colbert,8975
+1960,Alabama,01035,Conecuh,Conecuh,8061
+1960,Alabama,01037,Coosa,Coosa,3878
+1960,Alabama,01039,Covington,Covington,5747
+1960,Alabama,01041,Crenshaw,Crenshaw,4639
+1960,Alabama,01043,Cullman,Cullman,514
+1960,Alabama,01045,Dale,Dale,5473
+1960,Alabama,01047,Dallas,Dallas,32687
+1960,Alabama,01049,DeKalb,Dekalb,819
+1960,Alabama,01051,Elmore,Elmore,10301
+1960,Alabama,01053,Escambia,Escambia,10960
+1960,Alabama,01055,Etowah,Etowah,14958
+1960,Alabama,01057,Fayette,Fayette,2573
+1960,Alabama,01059,Franklin,Franklin,1231
+1960,Alabama,01061,Geneva,Geneva,3358
+1960,Alabama,01063,Greene,Greene,11050
+1960,Alabama,01065,Hale,Hale,13809
+1960,Alabama,01067,Henry,Henry,6965
+1960,Alabama,01069,Houston,Houston,13870
+1960,Alabama,01071,Jackson,Jackson,2231
+1960,Alabama,01073,Jefferson,Jefferson,219542
+1960,Alabama,01075,Lamar,Lamar,2101
+1960,Alabama,01077,Lauderdale,Lauderdale,7242
+1960,Alabama,01079,Lawrence,Lawrence,5464
+1960,Alabama,01081,Lee,Lee,18233
+1960,Alabama,01083,Limestone,Limestone,7620
+1960,Alabama,01085,Lowndes,Lowndes,12438
+1960,Alabama,01087,Macon,Macon,22287
+1960,Alabama,01089,Madison,Madison,21910
+1960,Alabama,01091,Marengo,Marengo,16832
+1960,Alabama,01093,Marion,Marion,727
+1960,Alabama,01095,Marshall,Marshall,1113
+1960,Alabama,01097,Mobile,Mobile,100968
+1960,Alabama,01099,Monroe,Monroe,11324
+1960,Alabama,01101,Montgomery,Montgomery,64474
+1960,Alabama,01103,Morgan,Morgan,7625
+1960,Alabama,01105,Perry,Perry,11401
+1960,Alabama,01107,Pickens,Pickens,9784
+1960,Alabama,01109,Pike,Pike,10740
+1960,Alabama,01111,Randolph,Randolph,4973
+1960,Alabama,01113,Russell,Russell,22906
+1960,Alabama,01115,St Clair,St Clair,4263
+1960,Alabama,01117,Shelby,Shelby,6071
+1960,Alabama,01119,Sumter,Sumter,15297
+1960,Alabama,01121,Talladega,Talladega,20952
+1960,Alabama,01123,Tallapoosa,Tallapoosa,10112
+1960,Alabama,01125,Tuscaloosa,Tuscaloosa,31303
+1960,Alabama,01127,Walker,Walker,5610
+1960,Alabama,01129,Washington,Washington,5021
+1960,Alabama,01131,Wilcox,Wilcox,14592
+1960,Alabama,01133,Winston,Winston,77
+1960,Alaska,,Aleutian Islands - Elec District 14,Aleutian Islands - Elec District 14,85
+1960,Alaska,,Anchorage - Elec District 10,Anchorage - Elec District 10,3610
+1960,Alaska,,Barrow - Elec District 21,Barrow - Elec District 21,19
+1960,Alaska,,Bethel - Elec District 16,Bethel - Elec District 16,18
+1960,Alaska,,Bristol Bay - Elec District 15,Bristol Bay - Elec District 15,27
+1960,Alaska,,Cordova-McCarthy - Elec District 07,Cordova-Mc Carthy - Elec District 07,29
+1960,Alaska,,Fairbanks Northstar - Elec District 19,Fairbanks Northstar - Elec District 19,2348
+1960,Alaska,,Juneau - Elec District 05,Juneau - Elec District 05,92
+1960,Alaska,,Kenai-Cook Inlet - Elec District 12,Kenai-Cook Inlet - Elec District 12,53
+1960,Alaska,,Ketchikan - Elec District 02,Ketchikan - Elec District 02,67
+1960,Alaska,,Kobuk - Elec District 22,Kobuk - Elec District 22,9
+1960,Alaska,,Kodiak - Elec District 13,Kodiak - Elec District 13,118
+1960,Alaska,,Kuskokwim - Elec District 17,Kuskokwim - Elec District 17,12
+1960,Alaska,,Lynn Canal-Icy Straits - Elec District 06,Lynn Canal-Icy Straits - Elec District 06,1
+1960,Alaska,,Nome - Elec District 23,Nome - Elec District 23,68
+1960,Alaska,,Palmer-Wasilla-Talkeetna - Elec District 09,Palmer-Wasilla-Talkeetna - Elec District 09,0
+1960,Alaska,,Prince Of Wales - Elec District 01,Prince Of Wales - Elec District 01,1
+1960,Alaska,,Seward - Elec District 11,Seward - Elec District 11,10
+1960,Alaska,,Sitka - Elec District 04,Sitka - Elec District 04,35
+1960,Alaska,,Upper Yukon - Elec District 20,Upper Yukon - Elec District 20,5
+1960,Alaska,,Valdez-Chitina-Whittier - Elec District 08,Valdez-Chitina-Whittier - Elec District 08,80
+1960,Alaska,,Wade Hapton - Elec District 24,Wade Hapton - Elec District 24,5
+1960,Alaska,,Wrangell-Petersburg - Elec District 03,Wrangell-Petersburg - Elec District 03,1
+1960,Alaska,,Yukon-Koyukuk - Elec District 18,Yukon-Koyukuk - Elec District 18,78
+1960,Arizona,04001,Apache,Apache,774
+1960,Arizona,04003,Cochise,Cochise,1348
+1960,Arizona,04005,Coconino,Coconino,1192
+1960,Arizona,04007,Gila,Gila,100
+1960,Arizona,04009,Graham,Graham,360
+1960,Arizona,04011,Greenlee,Greenlee,49
+1960,Arizona,04013,Maricopa,Maricopa,25119
+1960,Arizona,04015,Mohave,Mohave,16
+1960,Arizona,04017,Navajo,Navajo,744
+1960,Arizona,04019,Pima,Pima,8067
+1960,Arizona,04021,Pinal,Pinal,3681
+1960,Arizona,04023,Santa Cruz,Santa Cruz,105
+1960,Arizona,04025,Yavapai,Yavapai,137
+1960,Arizona,04027,Yuma,Yuma,1711
+1960,Arkansas,05001,Arkansas,Arkansas,5757
+1960,Arkansas,05003,Ashley,Ashley,8881
+1960,Arkansas,05005,Baxter,Baxter,0
+1960,Arkansas,05007,Benton,Benton,23
+1960,Arkansas,05009,Boone,Boone,3
+1960,Arkansas,05011,Bradley,Bradley,4919
+1960,Arkansas,05013,Calhoun,Calhoun,2108
+1960,Arkansas,05015,Carroll,Carroll,6
+1960,Arkansas,05017,Chicot,Chicot,10747
+1960,Arkansas,05019,Clark,Clark,5409
+1960,Arkansas,05021,Clay,Clay,3
+1960,Arkansas,05023,Cleburne,Cleburne,1
+1960,Arkansas,05025,Cleveland,Cleveland,1704
+1960,Arkansas,05027,Columbia,Columbia,9504
+1960,Arkansas,05029,Conway,Conway,3423
+1960,Arkansas,05031,Craighead,Craighead,1584
+1960,Arkansas,05033,Crawford,Crawford,534
+1960,Arkansas,05035,Crittenden,Crittenden,28019
+1960,Arkansas,05037,Cross,Cross,5896
+1960,Arkansas,05039,Dallas,Dallas,4186
+1960,Arkansas,05041,Desha,Desha,9972
+1960,Arkansas,05043,Drew,Drew,5154
+1960,Arkansas,05045,Faulkner,Faulkner,2602
+1960,Arkansas,05047,Franklin,Franklin,120
+1960,Arkansas,05049,Fulton,Fulton,0
+1960,Arkansas,05051,Garland,Garland,4964
+1960,Arkansas,05053,Grant,Grant,569
+1960,Arkansas,05055,Greene,Greene,14
+1960,Arkansas,05057,Hempstead,Hempstead,7329
+1960,Arkansas,05059,Hot Spring,Hot Spring,3193
+1960,Arkansas,05061,Howard,Howard,2260
+1960,Arkansas,05063,Independence,Independence,527
+1960,Arkansas,05065,Izard,Izard,54
+1960,Arkansas,05067,Jackson,Jackson,3466
+1960,Arkansas,05069,Jefferson,Jefferson,35365
+1960,Arkansas,05071,Johnson,Johnson,259
+1960,Arkansas,05073,Lafayette,Lafayette,4979
+1960,Arkansas,05075,Lawrence,Lawrence,147
+1960,Arkansas,05077,Lee,Lee,12791
+1960,Arkansas,05079,Lincoln,Lincoln,6998
+1960,Arkansas,05081,Little River,Little River,2884
+1960,Arkansas,05083,Logan,Logan,325
+1960,Arkansas,05085,Lonoke,Lonoke,5849
+1960,Arkansas,05087,Madison,Madison,3
+1960,Arkansas,05089,Marion,Marion,1
+1960,Arkansas,05091,Miller,Miller,8081
+1960,Arkansas,05093,Mississippi,Mississippi,20712
+1960,Arkansas,05095,Monroe,Monroe,8407
+1960,Arkansas,05097,Montgomery,Montgomery,20
+1960,Arkansas,05099,Nevada,Nevada,3857
+1960,Arkansas,05101,Newton,Newton,1
+1960,Arkansas,05103,Ouachita,Ouachita,12161
+1960,Arkansas,05105,Perry,Perry,157
+1960,Arkansas,05107,Phillips,Phillips,25308
+1960,Arkansas,05109,Pike,Pike,336
+1960,Arkansas,05111,Poinsett,Poinsett,3236
+1960,Arkansas,05113,Polk,Polk,0
+1960,Arkansas,05115,Pope,Pope,674
+1960,Arkansas,05117,Prairie,Prairie,1942
+1960,Arkansas,05119,Pulaski,Pulaski,51945
+1960,Arkansas,05121,Randolph,Randolph,168
+1960,Arkansas,05123,St Francis,St Francis,18891
+1960,Arkansas,05125,Saline,Saline,1856
+1960,Arkansas,05127,Scott,Scott,2
+1960,Arkansas,05129,Searcy,Searcy,0
+1960,Arkansas,05131,Sebastian,Sebastian,4540
+1960,Arkansas,05133,Sevier,Sevier,957
+1960,Arkansas,05135,Sharp,Sharp,0
+1960,Arkansas,05137,Stone,Stone,0
+1960,Arkansas,05139,Union,Union,15034
+1960,Arkansas,05141,Van Buren,Van Buren,95
+1960,Arkansas,05143,Washington,Washington,466
+1960,Arkansas,05145,White,White,1241
+1960,Arkansas,05147,Woodruff,Woodruff,5741
+1960,Arkansas,05149,Yell,Yell,427
+1960,California,06001,Alameda,Alameda,111420
+1960,California,06003,Alpine,Alpine,7
+1960,California,06005,Amador,Amador,177
+1960,California,06007,Butte,Butte,931
+1960,California,06009,Calaveras,Calaveras,93
+1960,California,06011,Colusa,Colusa,105
+1960,California,06013,Contra Costa,Contra Costa,25294
+1960,California,06015,Del Norte,Del Norte,27
+1960,California,06017,El Dorado,El Dorado,38
+1960,California,06019,Fresno,Fresno,17392
+1960,California,06021,Glenn,Glenn,49
+1960,California,06023,Humboldt,Humboldt,282
+1960,California,06025,Imperial,Imperial,2992
+1960,California,06027,Inyo,Inyo,3
+1960,California,06029,Kern,Kern,16740
+1960,California,06031,Kings,Kings,2578
+1960,California,06033,Lake,Lake,7
+1960,California,06035,Lassen,Lassen,493
+1960,California,06037,Los Angeles,Los Angeles,461546
+1960,California,06039,Madera,Madera,2782
+1960,California,06041,Marin,Marin,4070
+1960,California,06043,Mariposa,Mariposa,28
+1960,California,06045,Mendocino,Mendocino,201
+1960,California,06047,Merced,Merced,5056
+1960,California,06049,Modoc,Modoc,44
+1960,California,06051,Mono,Mono,1
+1960,California,06053,Monterey,Monterey,7918
+1960,California,06055,Napa,Napa,552
+1960,California,06057,Nevada,Nevada,21
+1960,California,06059,Orange,Orange,3171
+1960,California,06061,Placer,Placer,385
+1960,California,06063,Plumas,Plumas,228
+1960,California,06065,Riverside,Riverside,12486
+1960,California,06067,Sacramento,Sacramento,19805
+1960,California,06069,San Benito,San Benito,61
+1960,California,06071,San Bernardino,San Bernardino,17234
+1960,California,06073,San Diego,San Diego,39397
+1960,California,06075,San Francisco,San Francisco,74383
+1960,California,06077,San Joaquin,San Joaquin,11684
+1960,California,06079,San Luis Obispo,San Luis Obispo,1431
+1960,California,06081,San Mateo,San Mateo,10846
+1960,California,06083,Santa Barbara,Santa Barbara,2681
+1960,California,06085,Santa Clara,Santa Clara,4187
+1960,California,06087,Santa Cruz,Santa Cruz,520
+1960,California,06089,Shasta,Shasta,414
+1960,California,06091,Sierra,Sierra,8
+1960,California,06093,Siskiyou,Siskiyou,715
+1960,California,06095,Solano,Solano,12741
+1960,California,06097,Sonoma,Sonoma,918
+1960,California,06099,Stanislaus,Stanislaus,1141
+1960,California,06101,Sutter,Sutter,193
+1960,California,06103,Tehama,Tehama,43
+1960,California,06105,Trinity,Trinity,10
+1960,California,06107,Tulare,Tulare,3074
+1960,California,06109,Tuolumne,Tuolumne,86
+1960,California,06111,Ventura,Ventura,3598
+1960,California,06113,Yolo,Yolo,607
+1960,California,06115,Yuba,Yuba,967
+1960,Colorado,08001,Adams,Adams,633
+1960,Colorado,08003,Alamosa,Alamosa,53
+1960,Colorado,08005,Arapahoe,Arapahoe,390
+1960,Colorado,08007,Archuleta,Archuleta,10
+1960,Colorado,08009,Baca,Baca,2
+1960,Colorado,08011,Bent,Bent,31
+1960,Colorado,08013,Boulder,Boulder,141
+1960,Colorado,08015,Chaffee,Chaffee,28
+1960,Colorado,08017,Cheyenne,Cheyenne,0
+1960,Colorado,08019,Clear Creek,Clear Creek,3
+1960,Colorado,08021,Conejos,Conejos,3
+1960,Colorado,08023,Costilla,Costilla,1
+1960,Colorado,08025,Crowley,Crowley,5
+1960,Colorado,08027,Custer,Custer,0
+1960,Colorado,08029,Delta,Delta,5
+1960,Colorado,08031,Denver,Denver,30251
+1960,Colorado,08033,Dolores,Dolores,0
+1960,Colorado,08035,Douglas,Douglas,2
+1960,Colorado,08037,Eagle,Eagle,2
+1960,Colorado,08039,Elbert,Elbert,7
+1960,Colorado,08041,El Paso,El Paso,5069
+1960,Colorado,08043,Fremont,Fremont,199
+1960,Colorado,08045,Garfield,Garfield,18
+1960,Colorado,08047,Gilpin,Gilpin,2
+1960,Colorado,08049,Grand,Grand,6
+1960,Colorado,08051,Gunnison,Gunnison,13
+1960,Colorado,08053,Hinsdale,Hinsdale,0
+1960,Colorado,08055,Huerfano,Huerfano,54
+1960,Colorado,08057,Jackson,Jackson,0
+1960,Colorado,08059,Jefferson,Jefferson,133
+1960,Colorado,08061,Kiowa,Kiowa,8
+1960,Colorado,08063,Kit Carson,Kit Carson,2
+1960,Colorado,08065,Lake,Lake,1
+1960,Colorado,08067,La Plata,La Plata,31
+1960,Colorado,08069,Larimer,Larimer,86
+1960,Colorado,08071,Las Animas,Las Animas,56
+1960,Colorado,08073,Lincoln,Lincoln,0
+1960,Colorado,08075,Logan,Logan,7
+1960,Colorado,08077,Mesa,Mesa,88
+1960,Colorado,08079,Mineral,Mineral,0
+1960,Colorado,08081,Moffat,Moffat,7
+1960,Colorado,08083,Montezuma,Montezuma,26
+1960,Colorado,08085,Montrose,Montrose,5
+1960,Colorado,08087,Morgan,Morgan,12
+1960,Colorado,08089,Otero,Otero,140
+1960,Colorado,08091,Ouray,Ouray,0
+1960,Colorado,08093,Park,Park,0
+1960,Colorado,08095,Phillips,Phillips,1
+1960,Colorado,08097,Pitkin,Pitkin,15
+1960,Colorado,08099,Prowers,Prowers,16
+1960,Colorado,08101,Pueblo,Pueblo,2247
+1960,Colorado,08103,Rio Blanco,Rio Blanco,15
+1960,Colorado,08105,Rio Grande,Rio Grande,14
+1960,Colorado,08107,Routt,Routt,24
+1960,Colorado,08109,Saguache,Saguache,1
+1960,Colorado,08111,San Juan,San Juan,0
+1960,Colorado,08113,San Miguel,San Miguel,0
+1960,Colorado,08115,Sedgwick,Sedgwick,25
+1960,Colorado,08117,Summit,Summit,0
+1960,Colorado,08119,Teller,Teller,0
+1960,Colorado,08121,Washington,Washington,4
+1960,Colorado,08123,Weld,Weld,101
+1960,Colorado,08125,Yuma,Yuma,1
+1960,Connecticut,09001,Fairfield,Fairfield,33614
+1960,Connecticut,09003,Hartford,Hartford,31715
+1960,Connecticut,09005,Litchfield,Litchfield,845
+1960,Connecticut,09007,Middlesex,Middlesex,1865
+1960,Connecticut,09009,New Haven,New Haven,34122
+1960,Connecticut,09011,New London,New London,4566
+1960,Connecticut,09013,Tolland,Tolland,443
+1960,Connecticut,09015,Windham,Windham,279
+1960,Delaware,10001,Kent,Kent,9570
+1960,Delaware,10003,New Castle,New Castle,36039
+1960,Delaware,10005,Sussex,Sussex,15079
+1960,District Of Columbia,11001,District Of Columbia,District Of Columbia,411737
+1960,Florida,12001,Alachua,Alachua,19412
+1960,Florida,12003,Baker,Baker,1597
+1960,Florida,12005,Bay,Bay,9894
+1960,Florida,12007,Bradford,Bradford,2876
+1960,Florida,12009,Brevard,Brevard,12334
+1960,Florida,12011,Broward,Broward,54816
+1960,Florida,12013,Calhoun,Calhoun,1189
+1960,Florida,12015,Charlotte,Charlotte,717
+1960,Florida,12017,Citrus,Citrus,1647
+1960,Florida,12019,Clay,Clay,2652
+1960,Florida,12021,Collier,Collier,2280
+1960,Florida,12023,Columbia,Columbia,6070
+1960,Florida,12025,Dade,Dade,137299
+1960,Florida,12027,De Soto,De Soto,2532
+1960,Florida,12029,Dixie,Dixie,648
+1960,Florida,12031,Duval,Duval,105655
+1960,Florida,12033,Escambia,Escambia,35856
+1960,Florida,12035,Flagler,Flagler,1733
+1960,Florida,12037,Franklin,Franklin,1391
+1960,Florida,12039,Gadsden,Gadsden,24944
+1960,Florida,12041,Gilchrist,Gilchrist,328
+1960,Florida,12043,Glades,Glades,1013
+1960,Florida,12045,Gulf,Gulf,2385
+1960,Florida,12047,Hamilton,Hamilton,3425
+1960,Florida,12049,Hardee,Hardee,1138
+1960,Florida,12051,Hendry,Hendry,1984
+1960,Florida,12053,Hernando,Hernando,2352
+1960,Florida,12055,Highlands,Highlands,4457
+1960,Florida,12057,Hillsborough,Hillsborough,55498
+1960,Florida,12059,Holmes,Holmes,452
+1960,Florida,12061,Indian River,Indian River,5380
+1960,Florida,12063,Jackson,Jackson,11232
+1960,Florida,12065,Jefferson,Jefferson,5641
+1960,Florida,12067,Lafayette,Lafayette,344
+1960,Florida,12069,Lake,Lake,11122
+1960,Florida,12071,Lee,Lee,8540
+1960,Florida,12073,Leon,Leon,24282
+1960,Florida,12075,Levy,Levy,3132
+1960,Florida,12077,Liberty,Liberty,478
+1960,Florida,12079,Madison,Madison,6723
+1960,Florida,12081,Manatee,Manatee,10452
+1960,Florida,12083,Marion,Marion,18001
+1960,Florida,12085,Martin,Martin,3392
+1960,Florida,12087,Monroe,Monroe,4770
+1960,Florida,12089,Nassau,Nassau,4287
+1960,Florida,12091,Okaloosa,Okaloosa,3972
+1960,Florida,12093,Okeechobee,Okeechobee,1051
+1960,Florida,12095,Orange,Orange,39088
+1960,Florida,12097,Osceola,Osceola,1977
+1960,Florida,12099,Palm Beach,Palm Beach,51953
+1960,Florida,12101,Pasco,Pasco,4065
+1960,Florida,12103,Pinellas,Pinellas,33088
+1960,Florida,12105,Polk,Polk,35960
+1960,Florida,12107,Putnam,Putnam,10010
+1960,Florida,12109,St Johns,St Johns,8213
+1960,Florida,12111,St Lucie,St Lucie,12732
+1960,Florida,12113,Santa Rosa,Santa Rosa,2018
+1960,Florida,12115,Sarasota,Sarasota,7412
+1960,Florida,12117,Seminole,Seminole,13500
+1960,Florida,12119,Sumter,Sumter,3053
+1960,Florida,12121,Suwannee,Suwannee,4064
+1960,Florida,12123,Taylor,Taylor,3234
+1960,Florida,12125,Union,Union,1616
+1960,Florida,12127,Volusia,Volusia,21048
+1960,Florida,12129,Wakulla,Wakulla,1500
+1960,Florida,12131,Walton,Walton,2107
+1960,Florida,12133,Washington,Washington,2175
+1960,Georgia,13001,Appling,Appling,3042
+1960,Georgia,13003,Atkinson,Atkinson,1777
+1960,Georgia,13005,Bacon,Bacon,1086
+1960,Georgia,13007,Baker,Baker,2674
+1960,Georgia,13009,Baldwin,Baldwin,13481
+1960,Georgia,13011,Banks,Banks,426
+1960,Georgia,13013,Barrow,Barrow,2557
+1960,Georgia,13015,Bartow,Bartow,4279
+1960,Georgia,13017,Ben Hill,Ben Hill,4548
+1960,Georgia,13019,Berrien,Berrien,1842
+1960,Georgia,13021,Bibb,Bibb,47131
+1960,Georgia,13023,Bleckley,Bleckley,2744
+1960,Georgia,13025,Brantley,Brantley,773
+1960,Georgia,13027,Brooks,Brooks,7452
+1960,Georgia,13029,Bryan,Bryan,2298
+1960,Georgia,13031,Bulloch,Bulloch,8947
+1960,Georgia,13033,Burke,Burke,13681
+1960,Georgia,13035,Butts,Butts,4183
+1960,Georgia,13037,Calhoun,Calhoun,4779
+1960,Georgia,13039,Camden,Camden,3973
+1960,Georgia,13043,Candler,Candler,2361
+1960,Georgia,13045,Carroll,Carroll,6987
+1960,Georgia,13047,Catoosa,Catoosa,307
+1960,Georgia,13049,Charlton,Charlton,1697
+1960,Georgia,13051,Chatham,Chatham,63930
+1960,Georgia,13053,Chattahoochee,Chattahoochee,2277
+1960,Georgia,13055,Chattooga,Chattooga,1838
+1960,Georgia,13057,Cherokee,Cherokee,902
+1960,Georgia,13059,Clarke,Clarke,11522
+1960,Georgia,13061,Clay,Clay,2837
+1960,Georgia,13063,Clayton,Clayton,4745
+1960,Georgia,13065,Clinch,Clinch,2471
+1960,Georgia,13067,Cobb,Cobb,8032
+1960,Georgia,13069,Coffee,Coffee,5979
+1960,Georgia,13071,Colquitt,Colquitt,8211
+1960,Georgia,13073,Columbia,Columbia,4770
+1960,Georgia,13075,Cook,Cook,3484
+1960,Georgia,13077,Coweta,Coweta,10464
+1960,Georgia,13079,Crawford,Crawford,3363
+1960,Georgia,13081,Crisp,Crisp,7619
+1960,Georgia,13083,Dade,Dade,135
+1960,Georgia,13085,Dawson,Dawson,1
+1960,Georgia,13087,Decatur,Decatur,10479
+1960,Georgia,13089,DeKalb,De Kalb,22171
+1960,Georgia,13091,Dodge,Dodge,4584
+1960,Georgia,13093,Dooly,Dooly,6027
+1960,Georgia,13095,Dougherty,Dougherty,25922
+1960,Georgia,13097,Douglas,Douglas,2479
+1960,Georgia,13099,Early,Early,6822
+1960,Georgia,13101,Echols,Echols,519
+1960,Georgia,13103,Effingham,Effingham,3501
+1960,Georgia,13105,Elbert,Elbert,6108
+1960,Georgia,13107,Emanuel,Emanuel,5900
+1960,Georgia,13109,Evans,Evans,2583
+1960,Georgia,13111,Fannin,Fannin,44
+1960,Georgia,13113,Fayette,Fayette,2431
+1960,Georgia,13115,Floyd,Floyd,9914
+1960,Georgia,13117,Forsyth,Forsyth,4
+1960,Georgia,13119,Franklin,Franklin,1528
+1960,Georgia,13121,Fulton,Fulton,193024
+1960,Georgia,13123,Gilmer,Gilmer,8
+1960,Georgia,13125,Glascock,Glascock,763
+1960,Georgia,13127,Glynn,Glynn,11598
+1960,Georgia,13129,Gordon,Gordon,1208
+1960,Georgia,13131,Grady,Grady,6661
+1960,Georgia,13133,Greene,Greene,5873
+1960,Georgia,13135,Gwinnett,Gwinnett,3502
+1960,Georgia,13137,Habersham,Habersham,913
+1960,Georgia,13139,Hall,Hall,5356
+1960,Georgia,13141,Hancock,Hancock,7459
+1960,Georgia,13143,Haralson,Haralson,1193
+1960,Georgia,13145,Harris,Harris,6107
+1960,Georgia,13147,Hart,Hart,3727
+1960,Georgia,13149,Heard,Heard,1226
+1960,Georgia,13151,Henry,Henry,7495
+1960,Georgia,13153,Houston,Houston,8761
+1960,Georgia,13155,Irwin,Irwin,3433
+1960,Georgia,13157,Jackson,Jackson,2368
+1960,Georgia,13159,Jasper,Jasper,3303
+1960,Georgia,13161,Jeff Davis,Jeff Davis,1824
+1960,Georgia,13163,Jefferson,Jefferson,9878
+1960,Georgia,13165,Jenkins,Jenkins,4542
+1960,Georgia,13167,Johnson,Johnson,2675
+1960,Georgia,13169,Jones,Jones,4255
+1960,Georgia,13171,Lamar,Lamar,4048
+1960,Georgia,13173,Lanier,Lanier,1543
+1960,Georgia,13175,Laurens,Laurens,12026
+1960,Georgia,13177,Lee,Lee,3889
+1960,Georgia,13179,Liberty,Liberty,6096
+1960,Georgia,13181,Lincoln,Lincoln,2893
+1960,Georgia,13183,Long,Long,1277
+1960,Georgia,13185,Lowndes,Lowndes,15927
+1960,Georgia,13187,Lumpkin,Lumpkin,127
+1960,Georgia,13189,McDuffie,Mcduffie,5352
+1960,Georgia,13191,McIntosh,Mcintosh,3690
+1960,Georgia,13193,Macon,Macon,8297
+1960,Georgia,13195,Madison,Madison,2088
+1960,Georgia,13197,Marion,Marion,3289
+1960,Georgia,13199,Meriwether,Meriwether,9777
+1960,Georgia,13201,Miller,Miller,2032
+1960,Georgia,13205,Mitchell,Mitchell,10020
+1960,Georgia,13207,Monroe,Monroe,5076
+1960,Georgia,13209,Montgomery,Montgomery,2545
+1960,Georgia,13211,Morgan,Morgan,4920
+1960,Georgia,13213,Murray,Murray,83
+1960,Georgia,13215,Muscogee,Muscogee,37929
+1960,Georgia,13217,Newton,Newton,7248
+1960,Georgia,13219,Oconee,Oconee,1393
+1960,Georgia,13221,Oglethorpe,Oglethorpe,3556
+1960,Georgia,13223,Paulding,Paulding,1203
+1960,Georgia,13225,Peach,Peach,8127
+1960,Georgia,13227,Pickens,Pickens,386
+1960,Georgia,13229,Pierce,Pierce,2127
+1960,Georgia,13231,Pike,Pike,3201
+1960,Georgia,13233,Polk,Polk,4454
+1960,Georgia,13235,Pulaski,Pulaski,3560
+1960,Georgia,13237,Putnam,Putnam,4214
+1960,Georgia,13239,Quitman,Quitman,1560
+1960,Georgia,13241,Rabun,Rabun,60
+1960,Georgia,13243,Randolph,Randolph,6886
+1960,Georgia,13245,Richmond,Richmond,42513
+1960,Georgia,13247,Rockdale,Rockdale,2889
+1960,Georgia,13249,Schley,Schley,1839
+1960,Georgia,13251,Screven,Screven,7825
+1960,Georgia,13253,Seminole,Seminole,2611
+1960,Georgia,13255,Spalding,Spalding,9973
+1960,Georgia,13257,Stephens,Stephens,2555
+1960,Georgia,13259,Stewart,Stewart,5200
+1960,Georgia,13261,Sumter,Sumter,13015
+1960,Georgia,13263,Talbot,Talbot,4975
+1960,Georgia,13265,Taliaferro,Taliaferro,2096
+1960,Georgia,13267,Tattnall,Tattnall,5033
+1960,Georgia,13269,Taylor,Taylor,4012
+1960,Georgia,13271,Telfair,Telfair,4011
+1960,Georgia,13273,Terrell,Terrell,8208
+1960,Georgia,13275,Thomas,Thomas,14189
+1960,Georgia,13277,Tift,Tift,7000
+1960,Georgia,13279,Toombs,Toombs,4731
+1960,Georgia,13281,Towns,Towns,1
+1960,Georgia,13283,Treutlen,Treutlen,1943
+1960,Georgia,13285,Troup,Troup,15760
+1960,Georgia,13287,Turner,Turner,3112
+1960,Georgia,13289,Twiggs,Twiggs,4771
+1960,Georgia,13291,Union,Union,1
+1960,Georgia,13293,Upson,Upson,6682
+1960,Georgia,13295,Walker,Walker,2420
+1960,Georgia,13297,Walton,Walton,6129
+1960,Georgia,13299,Ware,Ware,8465
+1960,Georgia,13301,Warren,Warren,4609
+1960,Georgia,13303,Washington,Washington,10801
+1960,Georgia,13305,Wayne,Wayne,3788
+1960,Georgia,13307,Webster,Webster,2074
+1960,Georgia,13309,Wheeler,Wheeler,1735
+1960,Georgia,13311,White,White,299
+1960,Georgia,13313,Whitfield,Whitfield,1904
+1960,Georgia,13315,Wilcox,Wilcox,2639
+1960,Georgia,13317,Wilkes,Wilkes,5618
+1960,Georgia,13319,Wilkinson,Wilkinson,4458
+1960,Georgia,13321,Worth,Worth,8040
+1960,Hawaii,15001,Hawaii,Hawaii,33
+1960,Hawaii,15003,Honolulu,Honolulu,4878
+1960,Hawaii,15005,Kalawao,Kalawao,0
+1960,Hawaii,15007,Kauai,Kauai,7
+1960,Hawaii,15009,Maui,Maui,25
+1960,Idaho,16001,Ada,Ada,246
+1960,Idaho,16003,Adams,Adams,1
+1960,Idaho,16005,Bannock,Bannock,494
+1960,Idaho,16007,Bear Lake,Bear Lake,2
+1960,Idaho,16009,Benewah,Benewah,12
+1960,Idaho,16011,Bingham,Bingham,12
+1960,Idaho,16013,Blaine,Blaine,9
+1960,Idaho,16015,Boise,Boise,0
+1960,Idaho,16017,Bonner,Bonner,3
+1960,Idaho,16019,Bonneville,Bonneville,85
+1960,Idaho,16021,Boundary,Boundary,0
+1960,Idaho,16023,Butte,Butte,0
+1960,Idaho,16025,Camas,Camas,0
+1960,Idaho,16027,Canyon,Canyon,123
+1960,Idaho,16029,Caribou,Caribou,0
+1960,Idaho,16031,Cassia,Cassia,31
+1960,Idaho,16033,Clark,Clark,0
+1960,Idaho,16035,Clearwater,Clearwater,3
+1960,Idaho,16037,Custer,Custer,0
+1960,Idaho,16039,Elmore,Elmore,333
+1960,Idaho,16041,Franklin,Franklin,1
+1960,Idaho,16043,Fremont,Fremont,6
+1960,Idaho,16045,Gem,Gem,2
+1960,Idaho,16047,Gooding,Gooding,2
+1960,Idaho,16049,Idaho,Idaho,12
+1960,Idaho,16051,Jefferson,Jefferson,9
+1960,Idaho,16053,Jerome,Jerome,7
+1960,Idaho,16055,Kootenai,Kootenai,1
+1960,Idaho,16057,Latah,Latah,25
+1960,Idaho,16059,Lemhi,Lemhi,1
+1960,Idaho,16061,Lewis,Lewis,0
+1960,Idaho,16063,Lincoln,Lincoln,0
+1960,Idaho,16065,Madison,Madison,2
+1960,Idaho,16067,Minidoka,Minidoka,34
+1960,Idaho,16069,Nez Perce,Nez Perce,7
+1960,Idaho,16071,Oneida,Oneida,0
+1960,Idaho,16073,Owyhee,Owyhee,0
+1960,Idaho,16075,Payette,Payette,14
+1960,Idaho,16077,Power,Power,1
+1960,Idaho,16079,Shoshone,Shoshone,2
+1960,Idaho,16081,Teton,Teton,0
+1960,Idaho,16083,Twin Falls,Twin Falls,22
+1960,Idaho,16085,Valley,Valley,0
+1960,Idaho,16087,Washington,Washington,0
+1960,Illinois,17001,Adams,Adams,1385
+1960,Illinois,17003,Alexander,Alexander,5298
+1960,Illinois,17005,Bond,Bond,81
+1960,Illinois,17007,Boone,Boone,33
+1960,Illinois,17009,Brown,Brown,2
+1960,Illinois,17011,Bureau,Bureau,35
+1960,Illinois,17013,Calhoun,Calhoun,1
+1960,Illinois,17015,Carroll,Carroll,84
+1960,Illinois,17017,Cass,Cass,2
+1960,Illinois,17019,Champaign,Champaign,6770
+1960,Illinois,17021,Christian,Christian,106
+1960,Illinois,17023,Clark,Clark,7
+1960,Illinois,17025,Clay,Clay,5
+1960,Illinois,17027,Clinton,Clinton,75
+1960,Illinois,17029,Coles,Coles,203
+1960,Illinois,17031,Cook,Cook,861146
+1960,Illinois,17033,Crawford,Crawford,7
+1960,Illinois,17035,Cumberland,Cumberland,1
+1960,Illinois,17037,DeKalb,De Kalb,259
+1960,Illinois,17039,De Witt,De Witt,35
+1960,Illinois,17041,Douglas,Douglas,3
+1960,Illinois,17043,Du Page,Du Page,677
+1960,Illinois,17045,Edgar,Edgar,101
+1960,Illinois,17047,Edwards,Edwards,17
+1960,Illinois,17049,Effingham,Effingham,6
+1960,Illinois,17051,Fayette,Fayette,411
+1960,Illinois,17053,Ford,Ford,55
+1960,Illinois,17055,Franklin,Franklin,34
+1960,Illinois,17057,Fulton,Fulton,130
+1960,Illinois,17059,Gallatin,Gallatin,84
+1960,Illinois,17061,Greene,Greene,18
+1960,Illinois,17063,Grundy,Grundy,17
+1960,Illinois,17065,Hamilton,Hamilton,2
+1960,Illinois,17067,Hancock,Hancock,18
+1960,Illinois,17069,Hardin,Hardin,16
+1960,Illinois,17071,Henderson,Henderson,9
+1960,Illinois,17073,Henry,Henry,506
+1960,Illinois,17075,Iroquois,Iroquois,145
+1960,Illinois,17077,Jackson,Jackson,2901
+1960,Illinois,17079,Jasper,Jasper,5
+1960,Illinois,17081,Jefferson,Jefferson,900
+1960,Illinois,17083,Jersey,Jersey,44
+1960,Illinois,17085,Jo Daviess,Jo Daviess,8
+1960,Illinois,17087,Johnson,Johnson,23
+1960,Illinois,17089,Kane,Kane,4675
+1960,Illinois,17091,Kankakee,Kankakee,8015
+1960,Illinois,17093,Kendall,Kendall,7
+1960,Illinois,17095,Knox,Knox,1806
+1960,Illinois,17097,Lake,Lake,11719
+1960,Illinois,17099,La Salle,La Salle,520
+1960,Illinois,17101,Lawrence,Lawrence,183
+1960,Illinois,17103,Lee,Lee,797
+1960,Illinois,17105,Livingston,Livingston,937
+1960,Illinois,17107,Logan,Logan,540
+1960,Illinois,17109,McDonough,Mcdonough,129
+1960,Illinois,17111,McHenry,Mchenry,22
+1960,Illinois,17113,McLean,Mclean,1241
+1960,Illinois,17115,Macon,Macon,6004
+1960,Illinois,17117,Macoupin,Macoupin,44
+1960,Illinois,17119,Madison,Madison,11933
+1960,Illinois,17121,Marion,Marion,1344
+1960,Illinois,17123,Marshall,Marshall,6
+1960,Illinois,17125,Mason,Mason,2
+1960,Illinois,17127,Massac,Massac,1018
+1960,Illinois,17129,Menard,Menard,14
+1960,Illinois,17131,Mercer,Mercer,18
+1960,Illinois,17133,Monroe,Monroe,1
+1960,Illinois,17135,Montgomery,Montgomery,137
+1960,Illinois,17137,Morgan,Morgan,1192
+1960,Illinois,17139,Moultrie,Moultrie,2
+1960,Illinois,17141,Ogle,Ogle,31
+1960,Illinois,17143,Peoria,Peoria,10157
+1960,Illinois,17145,Perry,Perry,363
+1960,Illinois,17147,Piatt,Piatt,1
+1960,Illinois,17149,Pike,Pike,10
+1960,Illinois,17151,Pope,Pope,70
+1960,Illinois,17153,Pulaski,Pulaski,3799
+1960,Illinois,17155,Putnam,Putnam,12
+1960,Illinois,17157,Randolph,Randolph,1453
+1960,Illinois,17159,Richland,Richland,27
+1960,Illinois,17161,Rock Island,Rock Island,4290
+1960,Illinois,17163,St Clair,St Clair,47857
+1960,Illinois,17165,Saline,Saline,845
+1960,Illinois,17167,Sangamon,Sangamon,5923
+1960,Illinois,17169,Schuyler,Schuyler,1
+1960,Illinois,17171,Scott,Scott,1
+1960,Illinois,17173,Shelby,Shelby,5
+1960,Illinois,17175,Stark,Stark,10
+1960,Illinois,17177,Stephenson,Stephenson,1445
+1960,Illinois,17179,Tazewell,Tazewell,14
+1960,Illinois,17181,Union,Union,282
+1960,Illinois,17183,Vermilion,Vermilion,5203
+1960,Illinois,17185,Wabash,Wabash,0
+1960,Illinois,17187,Warren,Warren,318
+1960,Illinois,17189,Washington,Washington,2
+1960,Illinois,17191,Wayne,Wayne,2
+1960,Illinois,17193,White,White,62
+1960,Illinois,17195,Whiteside,Whiteside,120
+1960,Illinois,17197,Will,Will,11915
+1960,Illinois,17199,Williamson,Williamson,703
+1960,Illinois,17201,Winnebago,Winnebago,8574
+1960,Illinois,17203,Woodford,Woodford,4
+1960,Indiana,18001,Adams,Adams,1
+1960,Indiana,18003,Allen,Allen,11702
+1960,Indiana,18005,Bartholomew,Bartholomew,315
+1960,Indiana,18007,Benton,Benton,11
+1960,Indiana,18009,Blackford,Blackford,2
+1960,Indiana,18011,Boone,Boone,41
+1960,Indiana,18013,Brown,Brown,3
+1960,Indiana,18015,Carroll,Carroll,16
+1960,Indiana,18017,Cass,Cass,318
+1960,Indiana,18019,Clark,Clark,2821
+1960,Indiana,18021,Clay,Clay,189
+1960,Indiana,18023,Clinton,Clinton,38
+1960,Indiana,18025,Crawford,Crawford,0
+1960,Indiana,18027,Daviess,Daviess,109
+1960,Indiana,18029,Dearborn,Dearborn,236
+1960,Indiana,18031,Decatur,Decatur,3
+1960,Indiana,18033,DeKalb,De Kalb,38
+1960,Indiana,18035,Delaware,Delaware,5762
+1960,Indiana,18037,Dubois,Dubois,0
+1960,Indiana,18039,Elkhart,Elkhart,2219
+1960,Indiana,18041,Fayette,Fayette,486
+1960,Indiana,18043,Floyd,Floyd,2010
+1960,Indiana,18045,Fountain,Fountain,5
+1960,Indiana,18047,Franklin,Franklin,3
+1960,Indiana,18049,Fulton,Fulton,39
+1960,Indiana,18051,Gibson,Gibson,657
+1960,Indiana,18053,Grant,Grant,3199
+1960,Indiana,18055,Greene,Greene,5
+1960,Indiana,18057,Hamilton,Hamilton,319
+1960,Indiana,18059,Hancock,Hancock,41
+1960,Indiana,18061,Harrison,Harrison,117
+1960,Indiana,18063,Hendricks,Hendricks,253
+1960,Indiana,18065,Henry,Henry,421
+1960,Indiana,18067,Howard,Howard,2598
+1960,Indiana,18069,Huntington,Huntington,3
+1960,Indiana,18071,Jackson,Jackson,149
+1960,Indiana,18073,Jasper,Jasper,8
+1960,Indiana,18075,Jay,Jay,85
+1960,Indiana,18077,Jefferson,Jefferson,392
+1960,Indiana,18079,Jennings,Jennings,286
+1960,Indiana,18081,Johnson,Johnson,370
+1960,Indiana,18083,Knox,Knox,250
+1960,Indiana,18085,Kosciusko,Kosciusko,84
+1960,Indiana,18087,Lagrange,Lagrange,9
+1960,Indiana,18089,Lake,Lake,87109
+1960,Indiana,18091,LaPorte,Laporte,4890
+1960,Indiana,18093,Lawrence,Lawrence,109
+1960,Indiana,18095,Madison,Madison,4976
+1960,Indiana,18097,Marion,Marion,99912
+1960,Indiana,18099,Marshall,Marshall,65
+1960,Indiana,18101,Martin,Martin,29
+1960,Indiana,18103,Miami,Miami,630
+1960,Indiana,18105,Monroe,Monroe,704
+1960,Indiana,18107,Montgomery,Montgomery,200
+1960,Indiana,18109,Morgan,Morgan,8
+1960,Indiana,18111,Newton,Newton,11
+1960,Indiana,18113,Noble,Noble,12
+1960,Indiana,18115,Ohio,Ohio,52
+1960,Indiana,18117,Orange,Orange,144
+1960,Indiana,18119,Owen,Owen,15
+1960,Indiana,18121,Parke,Parke,36
+1960,Indiana,18123,Perry,Perry,17
+1960,Indiana,18125,Pike,Pike,15
+1960,Indiana,18127,Porter,Porter,69
+1960,Indiana,18129,Posey,Posey,278
+1960,Indiana,18131,Pulaski,Pulaski,42
+1960,Indiana,18133,Putnam,Putnam,409
+1960,Indiana,18135,Randolph,Randolph,90
+1960,Indiana,18137,Ripley,Ripley,8
+1960,Indiana,18139,Rush,Rush,235
+1960,Indiana,18141,St Joseph,St Joseph,14022
+1960,Indiana,18143,Scott,Scott,3
+1960,Indiana,18145,Shelby,Shelby,379
+1960,Indiana,18147,Spencer,Spencer,189
+1960,Indiana,18149,Starke,Starke,19
+1960,Indiana,18151,Steuben,Steuben,25
+1960,Indiana,18153,Sullivan,Sullivan,44
+1960,Indiana,18155,Switzerland,Switzerland,11
+1960,Indiana,18157,Tippecanoe,Tippecanoe,632
+1960,Indiana,18159,Tipton,Tipton,1
+1960,Indiana,18161,Union,Union,64
+1960,Indiana,18163,Vanderburgh,Vanderburgh,9547
+1960,Indiana,18165,Vermillion,Vermillion,18
+1960,Indiana,18167,Vigo,Vigo,4802
+1960,Indiana,18169,Wabash,Wabash,67
+1960,Indiana,18171,Warren,Warren,0
+1960,Indiana,18173,Warrick,Warrick,251
+1960,Indiana,18175,Washington,Washington,0
+1960,Indiana,18177,Wayne,Wayne,3522
+1960,Indiana,18179,Wells,Wells,1
+1960,Indiana,18181,White,White,0
+1960,Indiana,18183,Whitley,Whitley,0
+1960,Iowa,19001,Adair,Adair,0
+1960,Iowa,19003,Adams,Adams,2
+1960,Iowa,19005,Allamakee,Allamakee,3
+1960,Iowa,19007,Appanoose,Appanoose,124
+1960,Iowa,19009,Audubon,Audubon,2
+1960,Iowa,19011,Benton,Benton,12
+1960,Iowa,19013,Black Hawk,Black Hawk,4850
+1960,Iowa,19015,Boone,Boone,29
+1960,Iowa,19017,Bremer,Bremer,21
+1960,Iowa,19019,Buchanan,Buchanan,30
+1960,Iowa,19021,Buena Vista,Buena Vista,3
+1960,Iowa,19023,Butler,Butler,0
+1960,Iowa,19025,Calhoun,Calhoun,11
+1960,Iowa,19027,Carroll,Carroll,3
+1960,Iowa,19029,Cass,Cass,14
+1960,Iowa,19031,Cedar,Cedar,1
+1960,Iowa,19033,Cerro Gordo,Cerro Gordo,213
+1960,Iowa,19035,Cherokee,Cherokee,13
+1960,Iowa,19037,Chickasaw,Chickasaw,2
+1960,Iowa,19039,Clarke,Clarke,4
+1960,Iowa,19041,Clay,Clay,0
+1960,Iowa,19043,Clayton,Clayton,0
+1960,Iowa,19045,Clinton,Clinton,334
+1960,Iowa,19047,Crawford,Crawford,5
+1960,Iowa,19049,Dallas,Dallas,112
+1960,Iowa,19051,Davis,Davis,8
+1960,Iowa,19053,Decatur,Decatur,1
+1960,Iowa,19055,Delaware,Delaware,1
+1960,Iowa,19057,Des Moines,Des Moines,489
+1960,Iowa,19059,Dickinson,Dickinson,2
+1960,Iowa,19061,Dubuque,Dubuque,83
+1960,Iowa,19063,Emmet,Emmet,1
+1960,Iowa,19065,Fayette,Fayette,39
+1960,Iowa,19067,Floyd,Floyd,1
+1960,Iowa,19069,Franklin,Franklin,3
+1960,Iowa,19071,Fremont,Fremont,3
+1960,Iowa,19073,Greene,Greene,4
+1960,Iowa,19075,Grundy,Grundy,2
+1960,Iowa,19077,Guthrie,Guthrie,6
+1960,Iowa,19079,Hamilton,Hamilton,15
+1960,Iowa,19081,Hancock,Hancock,1
+1960,Iowa,19083,Hardin,Hardin,18
+1960,Iowa,19085,Harrison,Harrison,9
+1960,Iowa,19087,Henry,Henry,100
+1960,Iowa,19089,Howard,Howard,0
+1960,Iowa,19091,Humboldt,Humboldt,0
+1960,Iowa,19093,Ida,Ida,0
+1960,Iowa,19095,Iowa,Iowa,3
+1960,Iowa,19097,Jackson,Jackson,4
+1960,Iowa,19099,Jasper,Jasper,40
+1960,Iowa,19101,Jefferson,Jefferson,50
+1960,Iowa,19103,Johnson,Johnson,317
+1960,Iowa,19105,Jones,Jones,63
+1960,Iowa,19107,Keokuk,Keokuk,3
+1960,Iowa,19109,Kossuth,Kossuth,9
+1960,Iowa,19111,Lee,Lee,1039
+1960,Iowa,19113,Linn,Linn,1183
+1960,Iowa,19115,Louisa,Louisa,0
+1960,Iowa,19117,Lucas,Lucas,10
+1960,Iowa,19119,Lyon,Lyon,1
+1960,Iowa,19121,Madison,Madison,2
+1960,Iowa,19123,Mahaska,Mahaska,52
+1960,Iowa,19125,Marion,Marion,88
+1960,Iowa,19127,Marshall,Marshall,253
+1960,Iowa,19129,Mills,Mills,15
+1960,Iowa,19131,Mitchell,Mitchell,0
+1960,Iowa,19133,Monona,Monona,1
+1960,Iowa,19135,Monroe,Monroe,53
+1960,Iowa,19137,Montgomery,Montgomery,16
+1960,Iowa,19139,Muscatine,Muscatine,144
+1960,Iowa,19141,O Brien,O Brien,3
+1960,Iowa,19143,Osceola,Osceola,0
+1960,Iowa,19145,Page,Page,48
+1960,Iowa,19147,Palo Alto,Palo Alto,2
+1960,Iowa,19149,Plymouth,Plymouth,2
+1960,Iowa,19151,Pocahontas,Pocahontas,1
+1960,Iowa,19153,Polk,Polk,10535
+1960,Iowa,19155,Pottawattamie,Pottawattamie,593
+1960,Iowa,19157,Poweshiek,Poweshiek,26
+1960,Iowa,19159,Ringgold,Ringgold,0
+1960,Iowa,19161,Sac,Sac,1
+1960,Iowa,19163,Scott,Scott,1866
+1960,Iowa,19165,Shelby,Shelby,1
+1960,Iowa,19167,Sioux,Sioux,9
+1960,Iowa,19169,Story,Story,127
+1960,Iowa,19171,Tama,Tama,46
+1960,Iowa,19173,Taylor,Taylor,7
+1960,Iowa,19175,Union,Union,9
+1960,Iowa,19177,Van Buren,Van Buren,6
+1960,Iowa,19179,Wapello,Wapello,468
+1960,Iowa,19181,Warren,Warren,6
+1960,Iowa,19183,Washington,Washington,16
+1960,Iowa,19185,Wayne,Wayne,0
+1960,Iowa,19187,Webster,Webster,350
+1960,Iowa,19189,Winnebago,Winnebago,3
+1960,Iowa,19191,Winneshiek,Winneshiek,4
+1960,Iowa,19193,Woodbury,Woodbury,1257
+1960,Iowa,19195,Worth,Worth,43
+1960,Iowa,19197,Wright,Wright,5
+1960,Kansas,20001,Allen,Allen,303
+1960,Kansas,20003,Anderson,Anderson,19
+1960,Kansas,20005,Atchison,Atchison,1424
+1960,Kansas,20007,Barber,Barber,27
+1960,Kansas,20009,Barton,Barton,587
+1960,Kansas,20011,Bourbon,Bourbon,582
+1960,Kansas,20013,Brown,Brown,138
+1960,Kansas,20015,Butler,Butler,203
+1960,Kansas,20017,Chase,Chase,51
+1960,Kansas,20019,Chautauqua,Chautauqua,55
+1960,Kansas,20021,Cherokee,Cherokee,274
+1960,Kansas,20023,Cheyenne,Cheyenne,1
+1960,Kansas,20025,Clark,Clark,0
+1960,Kansas,20027,Clay,Clay,13
+1960,Kansas,20029,Cloud,Cloud,9
+1960,Kansas,20031,Coffey,Coffey,4
+1960,Kansas,20033,Comanche,Comanche,0
+1960,Kansas,20035,Cowley,Cowley,952
+1960,Kansas,20037,Crawford,Crawford,472
+1960,Kansas,20039,Decatur,Decatur,0
+1960,Kansas,20041,Dickinson,Dickinson,161
+1960,Kansas,20043,Doniphan,Doniphan,372
+1960,Kansas,20045,Douglas,Douglas,1764
+1960,Kansas,20047,Edwards,Edwards,13
+1960,Kansas,20049,Elk,Elk,7
+1960,Kansas,20051,Ellis,Ellis,29
+1960,Kansas,20053,Ellsworth,Ellsworth,36
+1960,Kansas,20055,Finney,Finney,208
+1960,Kansas,20057,Ford,Ford,274
+1960,Kansas,20059,Franklin,Franklin,309
+1960,Kansas,20061,Geary,Geary,3370
+1960,Kansas,20063,Gove,Gove,8
+1960,Kansas,20065,Graham,Graham,195
+1960,Kansas,20067,Grant,Grant,1
+1960,Kansas,20069,Gray,Gray,14
+1960,Kansas,20071,Greeley,Greeley,14
+1960,Kansas,20073,Greenwood,Greenwood,0
+1960,Kansas,20075,Hamilton,Hamilton,15
+1960,Kansas,20077,Harper,Harper,32
+1960,Kansas,20079,Harvey,Harvey,476
+1960,Kansas,20081,Haskell,Haskell,1
+1960,Kansas,20083,Hodgeman,Hodgeman,20
+1960,Kansas,20085,Jackson,Jackson,23
+1960,Kansas,20087,Jefferson,Jefferson,100
+1960,Kansas,20089,Jewell,Jewell,2
+1960,Kansas,20091,Johnson,Johnson,943
+1960,Kansas,20093,Kearny,Kearny,1
+1960,Kansas,20095,Kingman,Kingman,11
+1960,Kansas,20097,Kiowa,Kiowa,0
+1960,Kansas,20099,Labette,Labette,1269
+1960,Kansas,20101,Lane,Lane,1
+1960,Kansas,20103,Leavenworth,Leavenworth,4412
+1960,Kansas,20105,Lincoln,Lincoln,1
+1960,Kansas,20107,Linn,Linn,66
+1960,Kansas,20109,Logan,Logan,52
+1960,Kansas,20111,Lyon,Lyon,497
+1960,Kansas,20113,McPherson,Mcpherson,67
+1960,Kansas,20115,Marion,Marion,22
+1960,Kansas,20117,Marshall,Marshall,14
+1960,Kansas,20119,Meade,Meade,3
+1960,Kansas,20121,Miami,Miami,717
+1960,Kansas,20123,Mitchell,Mitchell,12
+1960,Kansas,20125,Montgomery,Montgomery,2997
+1960,Kansas,20127,Morris,Morris,62
+1960,Kansas,20129,Morton,Morton,3
+1960,Kansas,20131,Nemaha,Nemaha,48
+1960,Kansas,20133,Neosho,Neosho,310
+1960,Kansas,20135,Ness,Ness,2
+1960,Kansas,20137,Norton,Norton,15
+1960,Kansas,20139,Osage,Osage,20
+1960,Kansas,20141,Osborne,Osborne,23
+1960,Kansas,20143,Ottawa,Ottawa,14
+1960,Kansas,20145,Pawnee,Pawnee,225
+1960,Kansas,20147,Phillips,Phillips,20
+1960,Kansas,20149,Pottawatomie,Pottawatomie,19
+1960,Kansas,20151,Pratt,Pratt,255
+1960,Kansas,20153,Rawlins,Rawlins,0
+1960,Kansas,20155,Reno,Reno,1200
+1960,Kansas,20157,Republic,Republic,2
+1960,Kansas,20159,Rice,Rice,92
+1960,Kansas,20161,Riley,Riley,1896
+1960,Kansas,20163,Rooks,Rooks,33
+1960,Kansas,20165,Rush,Rush,3
+1960,Kansas,20167,Russell,Russell,39
+1960,Kansas,20169,Saline,Saline,1742
+1960,Kansas,20171,Scott,Scott,6
+1960,Kansas,20173,Sedgwick,Sedgwick,20469
+1960,Kansas,20175,Seward,Seward,298
+1960,Kansas,20177,Shawnee,Shawnee,9513
+1960,Kansas,20179,Sheridan,Sheridan,1
+1960,Kansas,20181,Sherman,Sherman,18
+1960,Kansas,20183,Smith,Smith,0
+1960,Kansas,20185,Stafford,Stafford,17
+1960,Kansas,20187,Stanton,Stanton,3
+1960,Kansas,20189,Stevens,Stevens,66
+1960,Kansas,20191,Sumner,Sumner,241
+1960,Kansas,20193,Thomas,Thomas,0
+1960,Kansas,20195,Trego,Trego,4
+1960,Kansas,20197,Wabaunsee,Wabaunsee,128
+1960,Kansas,20199,Wallace,Wallace,32
+1960,Kansas,20201,Washington,Washington,5
+1960,Kansas,20203,Wichita,Wichita,1
+1960,Kansas,20205,Wilson,Wilson,55
+1960,Kansas,20207,Woodson,Woodson,0
+1960,Kansas,20209,Wyandotte,Wyandotte,30922
+1960,Kentucky,21001,Adair,Adair,778
+1960,Kentucky,21003,Allen,Allen,265
+1960,Kentucky,21005,Anderson,Anderson,386
+1960,Kentucky,21007,Ballard,Ballard,407
+1960,Kentucky,21009,Barren,Barren,2106
+1960,Kentucky,21011,Bath,Bath,472
+1960,Kentucky,21013,Bell,Bell,1271
+1960,Kentucky,21015,Boone,Boone,149
+1960,Kentucky,21017,Bourbon,Bourbon,2608
+1960,Kentucky,21019,Boyd,Boyd,921
+1960,Kentucky,21021,Boyle,Boyle,2287
+1960,Kentucky,21023,Bracken,Bracken,63
+1960,Kentucky,21025,Breathitt,Breathitt,49
+1960,Kentucky,21027,Breckinridge,Breckinridge,691
+1960,Kentucky,21029,Bullitt,Bullitt,223
+1960,Kentucky,21031,Butler,Butler,72
+1960,Kentucky,21033,Caldwell,Caldwell,923
+1960,Kentucky,21035,Calloway,Calloway,644
+1960,Kentucky,21037,Campbell,Campbell,823
+1960,Kentucky,21039,Carlisle,Carlisle,84
+1960,Kentucky,21041,Carroll,Carroll,232
+1960,Kentucky,21043,Carter,Carter,11
+1960,Kentucky,21045,Casey,Casey,45
+1960,Kentucky,21047,Christian,Christian,12462
+1960,Kentucky,21049,Clark,Clark,1953
+1960,Kentucky,21051,Clay,Clay,455
+1960,Kentucky,21053,Clinton,Clinton,30
+1960,Kentucky,21055,Crittenden,Crittenden,109
+1960,Kentucky,21057,Cumberland,Cumberland,478
+1960,Kentucky,21059,Daviess,Daviess,3107
+1960,Kentucky,21061,Edmonson,Edmonson,102
+1960,Kentucky,21063,Elliott,Elliott,0
+1960,Kentucky,21065,Estill,Estill,41
+1960,Kentucky,21067,Fayette,Fayette,20037
+1960,Kentucky,21069,Fleming,Fleming,364
+1960,Kentucky,21071,Floyd,Floyd,327
+1960,Kentucky,21073,Franklin,Franklin,2473
+1960,Kentucky,21075,Fulton,Fulton,1983
+1960,Kentucky,21077,Gallatin,Gallatin,100
+1960,Kentucky,21079,Garrard,Garrard,888
+1960,Kentucky,21081,Grant,Grant,59
+1960,Kentucky,21083,Graves,Graves,1573
+1960,Kentucky,21085,Grayson,Grayson,80
+1960,Kentucky,21087,Green,Green,609
+1960,Kentucky,21089,Greenup,Greenup,151
+1960,Kentucky,21091,Hancock,Hancock,146
+1960,Kentucky,21093,Hardin,Hardin,4597
+1960,Kentucky,21095,Harlan,Harlan,4055
+1960,Kentucky,21097,Harrison,Harrison,573
+1960,Kentucky,21099,Hart,Hart,1495
+1960,Kentucky,21101,Henderson,Henderson,3392
+1960,Kentucky,21103,Henry,Henry,863
+1960,Kentucky,21105,Hickman,Hickman,813
+1960,Kentucky,21107,Hopkins,Hopkins,3381
+1960,Kentucky,21109,Jackson,Jackson,0
+1960,Kentucky,21111,Jefferson,Jefferson,78350
+1960,Kentucky,21113,Jessamine,Jessamine,1254
+1960,Kentucky,21115,Johnson,Johnson,1
+1960,Kentucky,21117,Kenton,Kenton,3861
+1960,Kentucky,21119,Knott,Knott,170
+1960,Kentucky,21121,Knox,Knox,390
+1960,Kentucky,21123,Larue,Larue,548
+1960,Kentucky,21125,Laurel,Laurel,254
+1960,Kentucky,21127,Lawrence,Lawrence,41
+1960,Kentucky,21129,Lee,Lee,52
+1960,Kentucky,21131,Leslie,Leslie,0
+1960,Kentucky,21133,Letcher,Letcher,729
+1960,Kentucky,21135,Lewis,Lewis,20
+1960,Kentucky,21137,Lincoln,Lincoln,909
+1960,Kentucky,21139,Livingston,Livingston,78
+1960,Kentucky,21141,Logan,Logan,2316
+1960,Kentucky,21143,Lyon,Lyon,532
+1960,Kentucky,21145,McCracken,Mccracken,6207
+1960,Kentucky,21147,McCreary,Mccreary,0
+1960,Kentucky,21149,McLean,Mclean,60
+1960,Kentucky,21151,Madison,Madison,2586
+1960,Kentucky,21153,Magoffin,Magoffin,1
+1960,Kentucky,21155,Marion,Marion,1370
+1960,Kentucky,21157,Marshall,Marshall,10
+1960,Kentucky,21159,Martin,Martin,2
+1960,Kentucky,21161,Mason,Mason,1829
+1960,Kentucky,21163,Meade,Meade,842
+1960,Kentucky,21165,Menifee,Menifee,11
+1960,Kentucky,21167,Mercer,Mercer,872
+1960,Kentucky,21169,Metcalfe,Metcalfe,331
+1960,Kentucky,21171,Monroe,Monroe,351
+1960,Kentucky,21173,Montgomery,Montgomery,1312
+1960,Kentucky,21175,Morgan,Morgan,7
+1960,Kentucky,21177,Muhlenberg,Muhlenberg,1343
+1960,Kentucky,21179,Nelson,Nelson,1745
+1960,Kentucky,21181,Nicholas,Nicholas,193
+1960,Kentucky,21183,Ohio,Ohio,338
+1960,Kentucky,21185,Oldham,Oldham,1212
+1960,Kentucky,21187,Owen,Owen,354
+1960,Kentucky,21189,Owsley,Owsley,15
+1960,Kentucky,21191,Pendleton,Pendleton,89
+1960,Kentucky,21193,Perry,Perry,1040
+1960,Kentucky,21195,Pike,Pike,564
+1960,Kentucky,21197,Powell,Powell,94
+1960,Kentucky,21199,Pulaski,Pulaski,622
+1960,Kentucky,21201,Robertson,Robertson,18
+1960,Kentucky,21203,Rockcastle,Rockcastle,2
+1960,Kentucky,21205,Rowan,Rowan,25
+1960,Kentucky,21207,Russell,Russell,142
+1960,Kentucky,21209,Scott,Scott,1771
+1960,Kentucky,21211,Shelby,Shelby,2479
+1960,Kentucky,21213,Simpson,Simpson,1606
+1960,Kentucky,21215,Spencer,Spencer,356
+1960,Kentucky,21217,Taylor,Taylor,917
+1960,Kentucky,21219,Todd,Todd,1881
+1960,Kentucky,21221,Trigg,Trigg,1505
+1960,Kentucky,21223,Trimble,Trimble,3
+1960,Kentucky,21225,Union,Union,1324
+1960,Kentucky,21227,Warren,Warren,4420
+1960,Kentucky,21229,Washington,Washington,1148
+1960,Kentucky,21231,Wayne,Wayne,391
+1960,Kentucky,21233,Webster,Webster,1137
+1960,Kentucky,21235,Whitley,Whitley,150
+1960,Kentucky,21237,Wolfe,Wolfe,0
+1960,Kentucky,21239,Woodford,Woodford,1563
+1960,Louisiana,22001,Acadia,Acadia,9817
+1960,Louisiana,22003,Allen,Allen,4751
+1960,Louisiana,22005,Ascension,Ascension,8906
+1960,Louisiana,22007,Assumption,Assumption,7417
+1960,Louisiana,22009,Avoyelles,Avoyelles,10448
+1960,Louisiana,22011,Beauregard,Beauregard,4295
+1960,Louisiana,22013,Bienville,Bienville,8255
+1960,Louisiana,22015,Bossier,Bossier,14241
+1960,Louisiana,22017,Caddo,Caddo,81486
+1960,Louisiana,22019,Calcasieu,Calcasieu,30239
+1960,Louisiana,22021,Caldwell,Caldwell,2503
+1960,Louisiana,22023,Cameron,Cameron,434
+1960,Louisiana,22025,Catahoula,Catahoula,4015
+1960,Louisiana,22027,Claiborne,Claiborne,9755
+1960,Louisiana,22029,Concordia,Concordia,9462
+1960,Louisiana,22031,De Soto,De Soto,13949
+1960,Louisiana,22033,East Baton Rouge,East Baton Rouge,72993
+1960,Louisiana,22035,East Carroll,East Carroll,8800
+1960,Louisiana,22037,East Feliciana,East Feliciana,10907
+1960,Louisiana,22039,Evangeline,Evangeline,8478
+1960,Louisiana,22041,Franklin,Franklin,10589
+1960,Louisiana,22043,Grant,Grant,3222
+1960,Louisiana,22045,Iberia,Iberia,14781
+1960,Louisiana,22047,Iberville,Iberville,14615
+1960,Louisiana,22049,Jackson,Jackson,5127
+1960,Louisiana,22051,Jefferson,Jefferson,31625
+1960,Louisiana,22053,Jefferson Davis,Jefferson Davis,6313
+1960,Louisiana,22055,Lafayette,Lafayette,20317
+1960,Louisiana,22057,Lafourche,Lafourche,6513
+1960,Louisiana,22059,La Salle,La Salle,1614
+1960,Louisiana,22061,Lincoln,Lincoln,11928
+1960,Louisiana,22063,Livingston,Livingston,4038
+1960,Louisiana,22065,Madison,Madison,10650
+1960,Louisiana,22067,Morehouse,Morehouse,15778
+1960,Louisiana,22069,Natchitoches,Natchitoches,15529
+1960,Louisiana,22071,Orleans,Orleans,233514
+1960,Louisiana,22073,Ouachita,Ouachita,32727
+1960,Louisiana,22075,Plaquemines,Plaquemines,6339
+1960,Louisiana,22077,Pointe Coupee,Pointe Coupee,12048
+1960,Louisiana,22079,Rapides,Rapides,33769
+1960,Louisiana,22081,Red River,Red River,4746
+1960,Louisiana,22083,Richland,Richland,10561
+1960,Louisiana,22085,Sabine,Sabine,4380
+1960,Louisiana,22087,St Bernard,St Bernard,2339
+1960,Louisiana,22089,St Charles,St Charles,5733
+1960,Louisiana,22091,St Helena,St Helena,5081
+1960,Louisiana,22093,St James,St James,9047
+1960,Louisiana,22095,St John The Baptist,St John The Baptist,9511
+1960,Louisiana,22097,St Landry,St Landry,35008
+1960,Louisiana,22099,St Martin,St Martin,10817
+1960,Louisiana,22101,St Mary,St Mary,14950
+1960,Louisiana,22103,St Tammany,St Tammany,10532
+1960,Louisiana,22105,Tangipahoa,Tangipahoa,20111
+1960,Louisiana,22107,Tensas,Tensas,7665
+1960,Louisiana,22109,Terrebonne,Terrebonne,10401
+1960,Louisiana,22111,Union,Union,6482
+1960,Louisiana,22113,Vermilion,Vermilion,5008
+1960,Louisiana,22115,Vernon,Vernon,2422
+1960,Louisiana,22117,Washington,Washington,14892
+1960,Louisiana,22119,Webster,Webster,13677
+1960,Louisiana,22121,West Baton Rouge,West Baton Rouge,7294
+1960,Louisiana,22123,West Carroll,West Carroll,3178
+1960,Louisiana,22125,West Feliciana,West Feliciana,8190
+1960,Louisiana,22127,Winn,Winn,4995
+1960,Maine,23001,Androscoggin,Androscoggin,95
+1960,Maine,23003,Aroostook,Aroostook,1288
+1960,Maine,23005,Cumberland,Cumberland,648
+1960,Maine,23007,Franklin,Franklin,4
+1960,Maine,23009,Hancock,Hancock,13
+1960,Maine,23011,Kennebec,Kennebec,99
+1960,Maine,23013,Knox,Knox,33
+1960,Maine,23015,Lincoln,Lincoln,3
+1960,Maine,23017,Oxford,Oxford,23
+1960,Maine,23019,Penobscot,Penobscot,746
+1960,Maine,23021,Piscataquis,Piscataquis,7
+1960,Maine,23023,Sagadahoc,Sagadahoc,121
+1960,Maine,23025,Somerset,Somerset,12
+1960,Maine,23027,Waldo,Waldo,18
+1960,Maine,23029,Washington,Washington,20
+1960,Maine,23031,York,York,188
+1960,Maryland,24001,Allegany,Allegany,1164
+1960,Maryland,24003,Anne Arundel,Anne Arundel,29708
+1960,Maryland,24005,Baltimore,Baltimore,17054
+1960,Maryland,24009,Calvert,Calvert,6667
+1960,Maryland,24011,Caroline,Caroline,3928
+1960,Maryland,24013,Carroll,Carroll,2175
+1960,Maryland,24015,Cecil,Cecil,2876
+1960,Maryland,24017,Charles,Charles,10835
+1960,Maryland,24019,Dorchester,Dorchester,9013
+1960,Maryland,24021,Frederick,Frederick,5083
+1960,Maryland,24023,Garrett,Garrett,39
+1960,Maryland,24025,Harford,Harford,7420
+1960,Maryland,24027,Howard,Howard,4049
+1960,Maryland,24029,Kent,Kent,3868
+1960,Maryland,24031,Montgomery,Montgomery,11527
+1960,Maryland,24033,Prince Georges,Prince Georges,31011
+1960,Maryland,24035,Queen Anne's,Queen Anne's,4458
+1960,Maryland,24037,St Mary's,St Mary's,7186
+1960,Maryland,24039,Somerset,Somerset,7300
+1960,Maryland,24041,Talbot,Talbot,5852
+1960,Maryland,24043,Washington,Washington,2585
+1960,Maryland,24045,Wicomico,Wicomico,10964
+1960,Maryland,24047,Worcester,Worcester,8059
+1960,Maryland,24510,Baltimore City,Baltimore City,325589
+1960,Massachusetts,25001,Barnstable,Barnstable,1702
+1960,Massachusetts,25003,Berkshire,Berkshire,1422
+1960,Massachusetts,25005,Bristol,Bristol,4702
+1960,Massachusetts,25007,Dukes,Dukes,139
+1960,Massachusetts,25009,Essex,Essex,2488
+1960,Massachusetts,25011,Franklin,Franklin,177
+1960,Massachusetts,25013,Hampden,Hampden,14737
+1960,Massachusetts,25015,Hampshire,Hampshire,342
+1960,Massachusetts,25017,Middlesex,Middlesex,13066
+1960,Massachusetts,25019,Nantucket,Nantucket,108
+1960,Massachusetts,25021,Norfolk,Norfolk,1502
+1960,Massachusetts,25023,Plymouth,Plymouth,4563
+1960,Massachusetts,25025,Suffolk,Suffolk,63676
+1960,Massachusetts,25027,Worcester,Worcester,3218
+1960,Michigan,26001,Alcona,Alcona,0
+1960,Michigan,26003,Alger,Alger,2
+1960,Michigan,26005,Allegan,Allegan,738
+1960,Michigan,26007,Alpena,Alpena,1
+1960,Michigan,26009,Antrim,Antrim,7
+1960,Michigan,26011,Arenac,Arenac,4
+1960,Michigan,26013,Baraga,Baraga,0
+1960,Michigan,26015,Barry,Barry,19
+1960,Michigan,26017,Bay,Bay,587
+1960,Michigan,26019,Benzie,Benzie,30
+1960,Michigan,26021,Berrien,Berrien,12688
+1960,Michigan,26023,Branch,Branch,225
+1960,Michigan,26025,Calhoun,Calhoun,9922
+1960,Michigan,26027,Cass,Cass,3706
+1960,Michigan,26029,Charlevoix,Charlevoix,5
+1960,Michigan,26031,Cheboygan,Cheboygan,7
+1960,Michigan,26033,Chippewa,Chippewa,278
+1960,Michigan,26035,Clare,Clare,1
+1960,Michigan,26037,Clinton,Clinton,44
+1960,Michigan,26039,Crawford,Crawford,109
+1960,Michigan,26041,Delta,Delta,23
+1960,Michigan,26043,Dickinson,Dickinson,5
+1960,Michigan,26045,Eaton,Eaton,90
+1960,Michigan,26047,Emmet,Emmet,102
+1960,Michigan,26049,Genesee,Genesee,36553
+1960,Michigan,26051,Gladwin,Gladwin,1
+1960,Michigan,26053,Gogebic,Gogebic,2
+1960,Michigan,26055,Grand Traverse,Grand Traverse,140
+1960,Michigan,26057,Gratiot,Gratiot,51
+1960,Michigan,26059,Hillsdale,Hillsdale,28
+1960,Michigan,26061,Houghton,Houghton,25
+1960,Michigan,26063,Huron,Huron,13
+1960,Michigan,26065,Ingham,Ingham,7447
+1960,Michigan,26067,Ionia,Ionia,1081
+1960,Michigan,26069,Iosco,Iosco,107
+1960,Michigan,26071,Iron,Iron,4
+1960,Michigan,26073,Isabella,Isabella,232
+1960,Michigan,26075,Jackson,Jackson,7379
+1960,Michigan,26077,Kalamazoo,Kalamazoo,5756
+1960,Michigan,26079,Kalkaska,Kalkaska,7
+1960,Michigan,26081,Kent,Kent,14630
+1960,Michigan,26083,Keweenaw,Keweenaw,26
+1960,Michigan,26085,Lake,Lake,1409
+1960,Michigan,26087,Lapeer,Lapeer,469
+1960,Michigan,26089,Leelanau,Leelanau,8
+1960,Michigan,26091,Lenawee,Lenawee,399
+1960,Michigan,26093,Livingston,Livingston,229
+1960,Michigan,26095,Luce,Luce,12
+1960,Michigan,26097,Mackinac,Mackinac,17
+1960,Michigan,26099,Macomb,Macomb,6262
+1960,Michigan,26101,Manistee,Manistee,86
+1960,Michigan,26103,Marquette,Marquette,961
+1960,Michigan,26105,Mason,Mason,67
+1960,Michigan,26107,Mecosta,Mecosta,204
+1960,Michigan,26109,Menominee,Menominee,3
+1960,Michigan,26111,Midland,Midland,27
+1960,Michigan,26113,Missaukee,Missaukee,1
+1960,Michigan,26115,Monroe,Monroe,1938
+1960,Michigan,26117,Montcalm,Montcalm,64
+1960,Michigan,26119,Montmorency,Montmorency,1
+1960,Michigan,26121,Muskegon,Muskegon,12649
+1960,Michigan,26123,Newaygo,Newaygo,507
+1960,Michigan,26125,Oakland,Oakland,23026
+1960,Michigan,26127,Oceana,Oceana,66
+1960,Michigan,26129,Ogemaw,Ogemaw,2
+1960,Michigan,26131,Ontonagon,Ontonagon,1
+1960,Michigan,26133,Osceola,Osceola,33
+1960,Michigan,26135,Oscoda,Oscoda,1
+1960,Michigan,26137,Otsego,Otsego,9
+1960,Michigan,26139,Ottawa,Ottawa,211
+1960,Michigan,26141,Presque Isle,Presque Isle,2
+1960,Michigan,26143,Roscommon,Roscommon,0
+1960,Michigan,26145,Saginaw,Saginaw,18777
+1960,Michigan,26147,St Clair,St Clair,2393
+1960,Michigan,26149,St Joseph,St Joseph,635
+1960,Michigan,26151,Sanilac,Sanilac,4
+1960,Michigan,26153,Schoolcraft,Schoolcraft,6
+1960,Michigan,26155,Shiawassee,Shiawassee,39
+1960,Michigan,26157,Tuscola,Tuscola,333
+1960,Michigan,26159,Van Buren,Van Buren,3286
+1960,Michigan,26161,Washtenaw,Washtenaw,11773
+1960,Michigan,26163,Wayne,Wayne,529582
+1960,Michigan,26165,Wexford,Wexford,14
+1960,Minnesota,27001,Aitkin,Aitkin,3
+1960,Minnesota,27003,Anoka,Anoka,92
+1960,Minnesota,27005,Becker,Becker,3
+1960,Minnesota,27007,Beltrami,Beltrami,11
+1960,Minnesota,27009,Benton,Benton,4
+1960,Minnesota,27011,Big Stone,Big Stone,0
+1960,Minnesota,27013,Blue Earth,Blue Earth,11
+1960,Minnesota,27015,Brown,Brown,4
+1960,Minnesota,27017,Carlton,Carlton,7
+1960,Minnesota,27019,Carver,Carver,7
+1960,Minnesota,27021,Cass,Cass,21
+1960,Minnesota,27023,Chippewa,Chippewa,4
+1960,Minnesota,27025,Chisago,Chisago,21
+1960,Minnesota,27027,Clay,Clay,9
+1960,Minnesota,27029,Clearwater,Clearwater,0
+1960,Minnesota,27031,Cook,Cook,13
+1960,Minnesota,27033,Cottonwood,Cottonwood,0
+1960,Minnesota,27035,Crow Wing,Crow Wing,10
+1960,Minnesota,27037,Dakota,Dakota,56
+1960,Minnesota,27039,Dodge,Dodge,8
+1960,Minnesota,27041,Douglas,Douglas,5
+1960,Minnesota,27043,Faribault,Faribault,5
+1960,Minnesota,27045,Fillmore,Fillmore,5
+1960,Minnesota,27047,Freeborn,Freeborn,2
+1960,Minnesota,27049,Goodhue,Goodhue,18
+1960,Minnesota,27051,Grant,Grant,0
+1960,Minnesota,27053,Hennepin,Hennepin,12025
+1960,Minnesota,27055,Houston,Houston,3
+1960,Minnesota,27057,Hubbard,Hubbard,1
+1960,Minnesota,27059,Isanti,Isanti,49
+1960,Minnesota,27061,Itasca,Itasca,21
+1960,Minnesota,27063,Jackson,Jackson,2
+1960,Minnesota,27065,Kanabec,Kanabec,3
+1960,Minnesota,27067,Kandiyohi,Kandiyohi,29
+1960,Minnesota,27069,Kittson,Kittson,14
+1960,Minnesota,27071,Koochiching,Koochiching,3
+1960,Minnesota,27073,Lac Qui Parle,Lac Qui Parle,0
+1960,Minnesota,27075,Lake,Lake,17
+1960,Minnesota,27077,Lake Of The Woods,Lake Of The Woods,19
+1960,Minnesota,27079,Le Sueur,Le Sueur,0
+1960,Minnesota,27081,Lincoln,Lincoln,0
+1960,Minnesota,27083,Lyon,Lyon,1
+1960,Minnesota,27085,McLeod,Mcleod,0
+1960,Minnesota,27087,Mahnomen,Mahnomen,3
+1960,Minnesota,27089,Marshall,Marshall,2
+1960,Minnesota,27091,Martin,Martin,1
+1960,Minnesota,27093,Meeker,Meeker,0
+1960,Minnesota,27095,Mille Lacs,Mille Lacs,3
+1960,Minnesota,27097,Morrison,Morrison,2
+1960,Minnesota,27099,Mower,Mower,12
+1960,Minnesota,27101,Murray,Murray,18
+1960,Minnesota,27103,Nicollet,Nicollet,47
+1960,Minnesota,27105,Nobles,Nobles,2
+1960,Minnesota,27107,Norman,Norman,0
+1960,Minnesota,27109,Olmsted,Olmsted,68
+1960,Minnesota,27111,Otter Tail,Otter Tail,22
+1960,Minnesota,27113,Pennington,Pennington,1
+1960,Minnesota,27115,Pine,Pine,167
+1960,Minnesota,27117,Pipestone,Pipestone,2
+1960,Minnesota,27119,Polk,Polk,5
+1960,Minnesota,27121,Pope,Pope,3
+1960,Minnesota,27123,Ramsey,Ramsey,8394
+1960,Minnesota,27125,Red Lake,Red Lake,0
+1960,Minnesota,27127,Redwood,Redwood,4
+1960,Minnesota,27129,Renville,Renville,3
+1960,Minnesota,27131,Rice,Rice,36
+1960,Minnesota,27133,Rock,Rock,0
+1960,Minnesota,27135,Roseau,Roseau,0
+1960,Minnesota,27137,St Louis,St Louis,653
+1960,Minnesota,27139,Scott,Scott,2
+1960,Minnesota,27141,Sherburne,Sherburne,62
+1960,Minnesota,27143,Sibley,Sibley,3
+1960,Minnesota,27145,Stearns,Stearns,43
+1960,Minnesota,27147,Steele,Steele,11
+1960,Minnesota,27149,Stevens,Stevens,0
+1960,Minnesota,27151,Swift,Swift,0
+1960,Minnesota,27153,Todd,Todd,5
+1960,Minnesota,27155,Traverse,Traverse,0
+1960,Minnesota,27157,Wabasha,Wabasha,1
+1960,Minnesota,27159,Wadena,Wadena,18
+1960,Minnesota,27161,Waseca,Waseca,2
+1960,Minnesota,27163,Washington,Washington,135
+1960,Minnesota,27165,Watonwan,Watonwan,5
+1960,Minnesota,27167,Wilkin,Wilkin,0
+1960,Minnesota,27169,Winona,Winona,18
+1960,Minnesota,27171,Wright,Wright,8
+1960,Minnesota,27173,Yellow Medicine,Yellow Medicine,2
+1960,Mississippi,28001,Adams,Adams,18670
+1960,Mississippi,28003,Alcorn,Alcorn,3333
+1960,Mississippi,28005,Amite,Amite,8440
+1960,Mississippi,28007,Attala,Attala,9523
+1960,Mississippi,28009,Benton,Benton,3609
+1960,Mississippi,28011,Bolivar,Bolivar,36663
+1960,Mississippi,28013,Calhoun,Calhoun,4346
+1960,Mississippi,28015,Carroll,Carroll,6492
+1960,Mississippi,28017,Chickasaw,Chickasaw,6499
+1960,Mississippi,28019,Choctaw,Choctaw,2516
+1960,Mississippi,28021,Claiborne,Claiborne,8239
+1960,Mississippi,28023,Clarke,Clarke,6470
+1960,Mississippi,28025,Clay,Clay,9717
+1960,Mississippi,28027,Coahoma,Coahoma,31440
+1960,Mississippi,28029,Copiah,Copiah,14058
+1960,Mississippi,28031,Covington,Covington,4733
+1960,Mississippi,28033,De Soto,De Soto,14625
+1960,Mississippi,28035,Forrest,Forrest,14719
+1960,Mississippi,28037,Franklin,Franklin,3798
+1960,Mississippi,28039,George,George,1285
+1960,Mississippi,28041,Greene,Greene,1923
+1960,Mississippi,28043,Grenada,Grenada,9050
+1960,Mississippi,28045,Hancock,Hancock,2246
+1960,Mississippi,28047,Harrison,Harrison,19057
+1960,Mississippi,28049,Hinds,Hinds,74750
+1960,Mississippi,28051,Holmes,Holmes,19488
+1960,Mississippi,28053,Humphreys,Humphreys,13300
+1960,Mississippi,28055,Issaquena,Issaquena,2399
+1960,Mississippi,28057,Itawamba,Itawamba,872
+1960,Mississippi,28059,Jackson,Jackson,10817
+1960,Mississippi,28061,Jasper,Jasper,8437
+1960,Mississippi,28063,Jefferson,Jefferson,7652
+1960,Mississippi,28065,Jefferson Davis,Jefferson Davis,7408
+1960,Mississippi,28067,Jones,Jones,15393
+1960,Mississippi,28069,Kemper,Kemper,7212
+1960,Mississippi,28071,Lafayette,Lafayette,7208
+1960,Mississippi,28073,Lamar,Lamar,2231
+1960,Mississippi,28075,Lauderdale,Lauderdale,23464
+1960,Mississippi,28077,Lawrence,Lawrence,3861
+1960,Mississippi,28079,Leake,Leake,7582
+1960,Mississippi,28081,Lee,Lee,10284
+1960,Mississippi,28083,Leflore,Leflore,30307
+1960,Mississippi,28085,Lincoln,Lincoln,8340
+1960,Mississippi,28087,Lowndes,Lowndes,17743
+1960,Mississippi,28089,Madison,Madison,23630
+1960,Mississippi,28091,Marion,Marion,7883
+1960,Mississippi,28093,Marshall,Marshall,17239
+1960,Mississippi,28095,Monroe,Monroe,12012
+1960,Mississippi,28097,Montgomery,Montgomery,5968
+1960,Mississippi,28099,Neshoba,Neshoba,4686
+1960,Mississippi,28101,Newton,Newton,6183
+1960,Mississippi,28103,Noxubee,Noxubee,12064
+1960,Mississippi,28105,Oktibbeha,Oktibbeha,11435
+1960,Mississippi,28107,Panola,Panola,16216
+1960,Mississippi,28109,Pearl River,Pearl River,5177
+1960,Mississippi,28111,Perry,Perry,2411
+1960,Mississippi,28113,Pike,Pike,15397
+1960,Mississippi,28115,Pontotoc,Pontotoc,3284
+1960,Mississippi,28117,Prentiss,Prentiss,2185
+1960,Mississippi,28119,Quitman,Quitman,13254
+1960,Mississippi,28121,Rankin,Rankin,12806
+1960,Mississippi,28123,Scott,Scott,8089
+1960,Mississippi,28125,Sharkey,Sharkey,7469
+1960,Mississippi,28127,Simpson,Simpson,7194
+1960,Mississippi,28129,Smith,Smith,3235
+1960,Mississippi,28131,Stone,Stone,1709
+1960,Mississippi,28133,Sunflower,Sunflower,30855
+1960,Mississippi,28135,Tallahatchie,Tallahatchie,15400
+1960,Mississippi,28137,Tate,Tate,10439
+1960,Mississippi,28139,Tippah,Tippah,2743
+1960,Mississippi,28141,Tishomingo,Tishomingo,677
+1960,Mississippi,28143,Tunica,Tunica,13315
+1960,Mississippi,28145,Union,Union,3312
+1960,Mississippi,28147,Walthall,Walthall,6099
+1960,Mississippi,28149,Warren,Warren,19660
+1960,Mississippi,28151,Washington,Washington,43097
+1960,Mississippi,28153,Wayne,Wayne,5799
+1960,Mississippi,28155,Webster,Webster,2619
+1960,Mississippi,28157,Wilkinson,Wilkinson,9428
+1960,Mississippi,28159,Winston,Winston,8278
+1960,Mississippi,28161,Yalobusha,Yalobusha,5538
+1960,Mississippi,28163,Yazoo,Yazoo,18759
+1960,Missouri,29001,Adair,Adair,70
+1960,Missouri,29003,Andrew,Andrew,5
+1960,Missouri,29005,Atchison,Atchison,3
+1960,Missouri,29007,Audrain,Audrain,1654
+1960,Missouri,29009,Barry,Barry,5
+1960,Missouri,29011,Barton,Barton,1
+1960,Missouri,29013,Bates,Bates,134
+1960,Missouri,29015,Benton,Benton,22
+1960,Missouri,29017,Bollinger,Bollinger,0
+1960,Missouri,29019,Boone,Boone,3268
+1960,Missouri,29021,Buchanan,Buchanan,2582
+1960,Missouri,29023,Butler,Butler,2511
+1960,Missouri,29025,Caldwell,Caldwell,5
+1960,Missouri,29027,Callaway,Callaway,2028
+1960,Missouri,29029,Camden,Camden,11
+1960,Missouri,29031,Cape Girardeau,Cape Girardeau,1192
+1960,Missouri,29033,Carroll,Carroll,258
+1960,Missouri,29035,Carter,Carter,0
+1960,Missouri,29037,Cass,Cass,307
+1960,Missouri,29039,Cedar,Cedar,0
+1960,Missouri,29041,Chariton,Chariton,852
+1960,Missouri,29043,Christian,Christian,4
+1960,Missouri,29045,Clark,Clark,8
+1960,Missouri,29047,Clay,Clay,723
+1960,Missouri,29049,Clinton,Clinton,331
+1960,Missouri,29051,Cole,Cole,3161
+1960,Missouri,29053,Cooper,Cooper,1196
+1960,Missouri,29055,Crawford,Crawford,4
+1960,Missouri,29057,Dade,Dade,66
+1960,Missouri,29059,Dallas,Dallas,0
+1960,Missouri,29061,Daviess,Daviess,30
+1960,Missouri,29063,DeKalb,De Kalb,0
+1960,Missouri,29065,Dent,Dent,1
+1960,Missouri,29067,Douglas,Douglas,2
+1960,Missouri,29069,Dunklin,Dunklin,1613
+1960,Missouri,29071,Franklin,Franklin,543
+1960,Missouri,29073,Gasconade,Gasconade,2
+1960,Missouri,29075,Gentry,Gentry,4
+1960,Missouri,29077,Greene,Greene,2358
+1960,Missouri,29079,Grundy,Grundy,18
+1960,Missouri,29081,Harrison,Harrison,1
+1960,Missouri,29083,Henry,Henry,238
+1960,Missouri,29085,Hickory,Hickory,0
+1960,Missouri,29087,Holt,Holt,2
+1960,Missouri,29089,Howard,Howard,1091
+1960,Missouri,29091,Howell,Howell,86
+1960,Missouri,29093,Iron,Iron,48
+1960,Missouri,29095,Jackson,Jackson,84022
+1960,Missouri,29097,Jasper,Jasper,1049
+1960,Missouri,29099,Jefferson,Jefferson,831
+1960,Missouri,29101,Johnson,Johnson,866
+1960,Missouri,29103,Knox,Knox,18
+1960,Missouri,29105,Laclede,Laclede,169
+1960,Missouri,29107,Lafayette,Lafayette,968
+1960,Missouri,29109,Lawrence,Lawrence,47
+1960,Missouri,29111,Lewis,Lewis,467
+1960,Missouri,29113,Lincoln,Lincoln,543
+1960,Missouri,29115,Linn,Linn,225
+1960,Missouri,29117,Livingston,Livingston,336
+1960,Missouri,29119,McDonald,Mcdonald,5
+1960,Missouri,29121,Macon,Macon,307
+1960,Missouri,29123,Madison,Madison,32
+1960,Missouri,29125,Maries,Maries,1
+1960,Missouri,29127,Marion,Marion,1566
+1960,Missouri,29129,Mercer,Mercer,3
+1960,Missouri,29131,Miller,Miller,20
+1960,Missouri,29133,Mississippi,Mississippi,4941
+1960,Missouri,29135,Moniteau,Moniteau,152
+1960,Missouri,29137,Monroe,Monroe,513
+1960,Missouri,29139,Montgomery,Montgomery,539
+1960,Missouri,29141,Morgan,Morgan,166
+1960,Missouri,29143,New Madrid,New Madrid,6336
+1960,Missouri,29145,Newton,Newton,153
+1960,Missouri,29147,Nodaway,Nodaway,8
+1960,Missouri,29149,Oregon,Oregon,3
+1960,Missouri,29151,Osage,Osage,14
+1960,Missouri,29153,Ozark,Ozark,0
+1960,Missouri,29155,Pemiscot,Pemiscot,10255
+1960,Missouri,29157,Perry,Perry,9
+1960,Missouri,29159,Pettis,Pettis,1767
+1960,Missouri,29161,Phelps,Phelps,151
+1960,Missouri,29163,Pike,Pike,1298
+1960,Missouri,29165,Platte,Platte,288
+1960,Missouri,29167,Polk,Polk,0
+1960,Missouri,29169,Pulaski,Pulaski,2772
+1960,Missouri,29171,Putnam,Putnam,2
+1960,Missouri,29173,Ralls,Ralls,212
+1960,Missouri,29175,Randolph,Randolph,1133
+1960,Missouri,29177,Ray,Ray,355
+1960,Missouri,29179,Reynolds,Reynolds,0
+1960,Missouri,29181,Ripley,Ripley,2
+1960,Missouri,29183,St Charles,St Charles,868
+1960,Missouri,29185,St Clair,St Clair,36
+1960,Missouri,29186,Ste Genevieve,Ste Genevieve,70
+1960,Missouri,29187,St Francois,St Francois,167
+1960,Missouri,29189,St Louis,St Louis,19007
+1960,Missouri,29195,Saline,Saline,1359
+1960,Missouri,29197,Schuyler,Schuyler,0
+1960,Missouri,29199,Scotland,Scotland,4
+1960,Missouri,29201,Scott,Scott,3166
+1960,Missouri,29203,Shannon,Shannon,0
+1960,Missouri,29205,Shelby,Shelby,194
+1960,Missouri,29207,Stoddard,Stoddard,1994
+1960,Missouri,29209,Stone,Stone,3
+1960,Missouri,29211,Sullivan,Sullivan,2
+1960,Missouri,29213,Taney,Taney,0
+1960,Missouri,29215,Texas,Texas,5
+1960,Missouri,29217,Vernon,Vernon,15
+1960,Missouri,29219,Warren,Warren,356
+1960,Missouri,29221,Washington,Washington,135
+1960,Missouri,29223,Wayne,Wayne,4
+1960,Missouri,29225,Webster,Webster,17
+1960,Missouri,29227,Worth,Worth,0
+1960,Missouri,29229,Wright,Wright,92
+1960,Missouri,29510,St Louis City,St Louis City,214377
+1960,Montana,30001,Beaverhead,Beaverhead,1
+1960,Montana,30003,Big Horn,Big Horn,14
+1960,Montana,30005,Blaine,Blaine,14
+1960,Montana,30007,Broadwater,Broadwater,0
+1960,Montana,30009,Carbon,Carbon,2
+1960,Montana,30011,Carter,Carter,0
+1960,Montana,30013,Cascade,Cascade,517
+1960,Montana,30015,Chouteau,Chouteau,0
+1960,Montana,30017,Custer,Custer,18
+1960,Montana,30019,Daniels,Daniels,0
+1960,Montana,30021,Dawson,Dawson,2
+1960,Montana,30023,Deer Lodge,Deer Lodge,102
+1960,Montana,30025,Fallon,Fallon,1
+1960,Montana,30027,Fergus,Fergus,12
+1960,Montana,30029,Flathead,Flathead,27
+1960,Montana,30031,Gallatin,Gallatin,20
+1960,Montana,30033,Garfield,Garfield,0
+1960,Montana,30035,Glacier,Glacier,24
+1960,Montana,30037,Golden Valley,Golden Valley,0
+1960,Montana,30039,Granite,Granite,0
+1960,Montana,30041,Hill,Hill,24
+1960,Montana,30043,Jefferson,Jefferson,4
+1960,Montana,30045,Judith Basin,Judith Basin,1
+1960,Montana,30047,Lake,Lake,16
+1960,Montana,30049,Lewis And Clark,Lewis And Clark,71
+1960,Montana,30051,Liberty,Liberty,0
+1960,Montana,30053,Lincoln,Lincoln,3
+1960,Montana,30055,McCone,Mccone,0
+1960,Montana,30057,Madison,Madison,2
+1960,Montana,30059,Meagher,Meagher,5
+1960,Montana,30061,Mineral,Mineral,0
+1960,Montana,30063,Missoula,Missoula,54
+1960,Montana,30065,Musselshell,Musselshell,3
+1960,Montana,30067,Park,Park,8
+1960,Montana,30069,Petroleum,Petroleum,0
+1960,Montana,30071,Phillips,Phillips,3
+1960,Montana,30073,Pondera,Pondera,0
+1960,Montana,30075,Powder River,Powder River,0
+1960,Montana,30077,Powell,Powell,16
+1960,Montana,30079,Prairie,Prairie,0
+1960,Montana,30081,Ravalli,Ravalli,1
+1960,Montana,30083,Richland,Richland,0
+1960,Montana,30085,Roosevelt,Roosevelt,11
+1960,Montana,30087,Rosebud,Rosebud,7
+1960,Montana,30089,Sanders,Sanders,1
+1960,Montana,30091,Sheridan,Sheridan,6
+1960,Montana,30093,Silver Bow,Silver Bow,82
+1960,Montana,30095,Stillwater,Stillwater,1
+1960,Montana,30097,Sweet Grass,Sweet Grass,0
+1960,Montana,30099,Teton,Teton,1
+1960,Montana,30101,Toole,Toole,1
+1960,Montana,30103,Treasure,Treasure,0
+1960,Montana,30105,Valley,Valley,156
+1960,Montana,30107,Wheatland,Wheatland,1
+1960,Montana,30109,Wibaux,Wibaux,0
+1960,Montana,30111,Yellowstone,Yellowstone,235
+1960,Montana,30113,Yellowstone National Park,Yellowstone National Park,0
+1960,Nebraska,31001,Adams,Adams,209
+1960,Nebraska,31003,Antelope,Antelope,0
+1960,Nebraska,31005,Arthur,Arthur,0
+1960,Nebraska,31007,Banner,Banner,0
+1960,Nebraska,31009,Blaine,Blaine,0
+1960,Nebraska,31011,Boone,Boone,0
+1960,Nebraska,31013,Box Butte,Box Butte,36
+1960,Nebraska,31015,Boyd,Boyd,1
+1960,Nebraska,31017,Brown,Brown,0
+1960,Nebraska,31019,Buffalo,Buffalo,32
+1960,Nebraska,31021,Burt,Burt,5
+1960,Nebraska,31023,Butler,Butler,0
+1960,Nebraska,31025,Cass,Cass,6
+1960,Nebraska,31027,Cedar,Cedar,1
+1960,Nebraska,31029,Chase,Chase,0
+1960,Nebraska,31031,Cherry,Cherry,9
+1960,Nebraska,31033,Cheyenne,Cheyenne,31
+1960,Nebraska,31035,Clay,Clay,2
+1960,Nebraska,31037,Colfax,Colfax,7
+1960,Nebraska,31039,Cuming,Cuming,4
+1960,Nebraska,31041,Custer,Custer,2
+1960,Nebraska,31043,Dakota,Dakota,142
+1960,Nebraska,31045,Dawes,Dawes,10
+1960,Nebraska,31047,Dawson,Dawson,12
+1960,Nebraska,31049,Deuel,Deuel,0
+1960,Nebraska,31051,Dixon,Dixon,1
+1960,Nebraska,31053,Dodge,Dodge,14
+1960,Nebraska,31055,Douglas,Douglas,25269
+1960,Nebraska,31057,Dundy,Dundy,0
+1960,Nebraska,31059,Fillmore,Fillmore,5
+1960,Nebraska,31061,Franklin,Franklin,0
+1960,Nebraska,31063,Frontier,Frontier,0
+1960,Nebraska,31065,Furnas,Furnas,0
+1960,Nebraska,31067,Gage,Gage,40
+1960,Nebraska,31069,Garden,Garden,0
+1960,Nebraska,31071,Garfield,Garfield,1
+1960,Nebraska,31073,Gosper,Gosper,0
+1960,Nebraska,31075,Grant,Grant,0
+1960,Nebraska,31077,Greeley,Greeley,0
+1960,Nebraska,31079,Hall,Hall,82
+1960,Nebraska,31081,Hamilton,Hamilton,2
+1960,Nebraska,31083,Harlan,Harlan,0
+1960,Nebraska,31085,Hayes,Hayes,0
+1960,Nebraska,31087,Hitchcock,Hitchcock,1
+1960,Nebraska,31089,Holt,Holt,1
+1960,Nebraska,31091,Hooker,Hooker,0
+1960,Nebraska,31093,Howard,Howard,1
+1960,Nebraska,31095,Jefferson,Jefferson,2
+1960,Nebraska,31097,Johnson,Johnson,1
+1960,Nebraska,31099,Kearney,Kearney,1
+1960,Nebraska,31101,Keith,Keith,1
+1960,Nebraska,31103,Keya Paha,Keya Paha,0
+1960,Nebraska,31105,Kimball,Kimball,1
+1960,Nebraska,31107,Knox,Knox,3
+1960,Nebraska,31109,Lancaster,Lancaster,2537
+1960,Nebraska,31111,Lincoln,Lincoln,92
+1960,Nebraska,31113,Logan,Logan,0
+1960,Nebraska,31115,Loup,Loup,0
+1960,Nebraska,31117,McPherson,Mcpherson,0
+1960,Nebraska,31119,Madison,Madison,61
+1960,Nebraska,31121,Merrick,Merrick,1
+1960,Nebraska,31123,Morrill,Morrill,0
+1960,Nebraska,31125,Nance,Nance,1
+1960,Nebraska,31127,Nemaha,Nemaha,3
+1960,Nebraska,31129,Nuckolls,Nuckolls,4
+1960,Nebraska,31131,Otoe,Otoe,29
+1960,Nebraska,31133,Pawnee,Pawnee,3
+1960,Nebraska,31135,Perkins,Perkins,0
+1960,Nebraska,31137,Phelps,Phelps,0
+1960,Nebraska,31139,Pierce,Pierce,0
+1960,Nebraska,31141,Platte,Platte,2
+1960,Nebraska,31143,Polk,Polk,0
+1960,Nebraska,31145,Red Willow,Red Willow,31
+1960,Nebraska,31147,Richardson,Richardson,15
+1960,Nebraska,31149,Rock,Rock,0
+1960,Nebraska,31151,Saline,Saline,7
+1960,Nebraska,31153,Sarpy,Sarpy,423
+1960,Nebraska,31155,Saunders,Saunders,4
+1960,Nebraska,31157,Scotts Bluff,Scotts Bluff,65
+1960,Nebraska,31159,Seward,Seward,2
+1960,Nebraska,31161,Sheridan,Sheridan,0
+1960,Nebraska,31163,Sherman,Sherman,1
+1960,Nebraska,31165,Sioux,Sioux,3
+1960,Nebraska,31167,Stanton,Stanton,0
+1960,Nebraska,31169,Thayer,Thayer,0
+1960,Nebraska,31171,Thomas,Thomas,0
+1960,Nebraska,31173,Thurston,Thurston,0
+1960,Nebraska,31175,Valley,Valley,0
+1960,Nebraska,31177,Washington,Washington,14
+1960,Nebraska,31179,Wayne,Wayne,1
+1960,Nebraska,31181,Webster,Webster,1
+1960,Nebraska,31183,Wheeler,Wheeler,0
+1960,Nebraska,31185,York,York,27
+1960,Nevada,32001,Churchill,Churchill,64
+1960,Nevada,32003,Clark,Clark,11005
+1960,Nevada,32005,Douglas,Douglas,0
+1960,Nevada,32007,Elko,Elko,121
+1960,Nevada,32009,Esmeralda,Esmeralda,0
+1960,Nevada,32011,Eureka,Eureka,3
+1960,Nevada,32013,Humboldt,Humboldt,82
+1960,Nevada,32015,Lander,Lander,1
+1960,Nevada,32017,Lincoln,Lincoln,1
+1960,Nevada,32019,Lyon,Lyon,5
+1960,Nevada,32021,Mineral,Mineral,419
+1960,Nevada,32023,Nye,Nye,51
+1960,Nevada,32025,Ormsby,Ormsby,71
+1960,Nevada,32027,Pershing,Pershing,12
+1960,Nevada,32029,Storey,Storey,0
+1960,Nevada,32031,Washoe,Washoe,1628
+1960,Nevada,32033,White Pine,White Pine,21
+1960,New Hampshire,33001,Belknap,Belknap,17
+1960,New Hampshire,33003,Carroll,Carroll,1
+1960,New Hampshire,33005,Cheshire,Cheshire,34
+1960,New Hampshire,33007,Coos,Coos,11
+1960,New Hampshire,33009,Grafton,Grafton,37
+1960,New Hampshire,33011,Hillsborough,Hillsborough,312
+1960,New Hampshire,33013,Merrimack,Merrimack,65
+1960,New Hampshire,33015,Rockingham,Rockingham,1375
+1960,New Hampshire,33017,Strafford,Strafford,32
+1960,New Hampshire,33019,Sullivan,Sullivan,19
+1960,New Jersey,34001,Atlantic,Atlantic,28225
+1960,New Jersey,34003,Bergen,Bergen,16269
+1960,New Jersey,34005,Burlington,Burlington,14280
+1960,New Jersey,34007,Camden,Camden,35297
+1960,New Jersey,34009,Cape May,Cape May,3902
+1960,New Jersey,34011,Cumberland,Cumberland,13028
+1960,New Jersey,34013,Essex,Essex,180737
+1960,New Jersey,34015,Gloucester,Gloucester,12262
+1960,New Jersey,34017,Hudson,Hudson,41327
+1960,New Jersey,34019,Hunterdon,Hunterdon,1128
+1960,New Jersey,34021,Mercer,Mercer,33714
+1960,New Jersey,34023,Middlesex,Middlesex,16489
+1960,New Jersey,34025,Monmouth,Monmouth,30730
+1960,New Jersey,34027,Morris,Morris,5375
+1960,New Jersey,34029,Ocean,Ocean,3351
+1960,New Jersey,34031,Passaic,Passaic,26799
+1960,New Jersey,34033,Salem,Salem,8812
+1960,New Jersey,34035,Somerset,Somerset,4476
+1960,New Jersey,34037,Sussex,Sussex,160
+1960,New Jersey,34039,Union,Union,37972
+1960,New Jersey,34041,Warren,Warren,542
+1960,New Mexico,35001,Bernalillo,Bernalillo,4672
+1960,New Mexico,35003,Catron,Catron,30
+1960,New Mexico,35005,Chaves,Chaves,2050
+1960,New Mexico,35007,Colfax,Colfax,75
+1960,New Mexico,35009,Curry,Curry,1798
+1960,New Mexico,35011,De Baca,De Baca,3
+1960,New Mexico,35013,Dona Ana,Dona Ana,1375
+1960,New Mexico,35015,Eddy,Eddy,1047
+1960,New Mexico,35017,Grant,Grant,94
+1960,New Mexico,35019,Guadalupe,Guadalupe,7
+1960,New Mexico,35021,Harding,Harding,1
+1960,New Mexico,35023,Hidalgo,Hidalgo,11
+1960,New Mexico,35025,Lea,Lea,2624
+1960,New Mexico,35027,Lincoln,Lincoln,19
+1960,New Mexico,35028,Los Alamos,Los Alamos,33
+1960,New Mexico,35029,Luna,Luna,193
+1960,New Mexico,35031,McKinley,Mckinley,346
+1960,New Mexico,35033,Mora,Mora,2
+1960,New Mexico,35035,Otero,Otero,1442
+1960,New Mexico,35037,Quay,Quay,136
+1960,New Mexico,35039,Rio Arriba,Rio Arriba,40
+1960,New Mexico,35041,Roosevelt,Roosevelt,50
+1960,New Mexico,35043,Sandoval,Sandoval,8
+1960,New Mexico,35045,San Juan,San Juan,438
+1960,New Mexico,35047,San Miguel,San Miguel,79
+1960,New Mexico,35049,Santa Fe,Santa Fe,235
+1960,New Mexico,35051,Sierra,Sierra,20
+1960,New Mexico,35053,Socorro,Socorro,47
+1960,New Mexico,35055,Taos,Taos,55
+1960,New Mexico,35057,Torrance,Torrance,14
+1960,New Mexico,35059,Union,Union,2
+1960,New Mexico,35061,Valencia,Valencia,117
+1960,New York,36001,Albany,Albany,11210
+1960,New York,36003,Allegany,Allegany,102
+1960,New York,36005,Bronx,Bronx,163896
+1960,New York,36007,Broome,Broome,1290
+1960,New York,36009,Cattaraugus,Cattaraugus,493
+1960,New York,36011,Cayuga,Cayuga,1329
+1960,New York,36013,Chautauqua,Chautauqua,1259
+1960,New York,36015,Chemung,Chemung,2560
+1960,New York,36017,Chenango,Chenango,204
+1960,New York,36019,Clinton,Clinton,2582
+1960,New York,36021,Columbia,Columbia,1515
+1960,New York,36023,Cortland,Cortland,63
+1960,New York,36025,Delaware,Delaware,173
+1960,New York,36027,Dutchess,Dutchess,9917
+1960,New York,36029,Erie,Erie,74880
+1960,New York,36031,Essex,Essex,122
+1960,New York,36033,Franklin,Franklin,62
+1960,New York,36035,Fulton,Fulton,328
+1960,New York,36037,Genesee,Genesee,741
+1960,New York,36039,Greene,Greene,865
+1960,New York,36041,Hamilton,Hamilton,4
+1960,New York,36043,Herkimer,Herkimer,84
+1960,New York,36045,Jefferson,Jefferson,232
+1960,New York,36047,Kings,Kings,371405
+1960,New York,36049,Lewis,Lewis,10
+1960,New York,36051,Livingston,Livingston,839
+1960,New York,36053,Madison,Madison,328
+1960,New York,36055,Monroe,Monroe,24184
+1960,New York,36057,Montgomery,Montgomery,229
+1960,New York,36059,Nassau,Nassau,39350
+1960,New York,36061,New York,New York,397101
+1960,New York,36063,Niagara,Niagara,8030
+1960,New York,36065,Oneida,Oneida,4768
+1960,New York,36067,Onondaga,Onondaga,11767
+1960,New York,36069,Ontario,Ontario,960
+1960,New York,36071,Orange,Orange,9644
+1960,New York,36073,Orleans,Orleans,1462
+1960,New York,36075,Oswego,Oswego,194
+1960,New York,36077,Otsego,Otsego,150
+1960,New York,36079,Putnam,Putnam,116
+1960,New York,36081,Queens,Queens,145855
+1960,New York,36083,Rensselaer,Rensselaer,2366
+1960,New York,36085,Richmond,Richmond,9674
+1960,New York,36087,Rockland,Rockland,6854
+1960,New York,36089,St Lawrence,St Lawrence,96
+1960,New York,36091,Saratoga,Saratoga,811
+1960,New York,36093,Schenectady,Schenectady,2171
+1960,New York,36095,Schoharie,Schoharie,81
+1960,New York,36097,Schuyler,Schuyler,106
+1960,New York,36099,Seneca,Seneca,326
+1960,New York,36101,Steuben,Steuben,790
+1960,New York,36103,Suffolk,Suffolk,33035
+1960,New York,36105,Sullivan,Sullivan,1879
+1960,New York,36107,Tioga,Tioga,189
+1960,New York,36109,Tompkins,Tompkins,1241
+1960,New York,36111,Ulster,Ulster,4003
+1960,New York,36113,Warren,Warren,147
+1960,New York,36115,Washington,Washington,539
+1960,New York,36117,Wayne,Wayne,1517
+1960,New York,36119,Westchester,Westchester,60455
+1960,New York,36121,Wyoming,Wyoming,807
+1960,New York,36123,Yates,Yates,121
+1960,North Carolina,37001,Alamance,Alamance,14740
+1960,North Carolina,37003,Alexander,Alexander,1067
+1960,North Carolina,37005,Alleghany,Alleghany,209
+1960,North Carolina,37007,Anson,Anson,11961
+1960,North Carolina,37009,Ashe,Ashe,191
+1960,North Carolina,37011,Avery,Avery,151
+1960,North Carolina,37013,Beaufort,Beaufort,13276
+1960,North Carolina,37015,Bertie,Bertie,14447
+1960,North Carolina,37017,Bladen,Bladen,11958
+1960,North Carolina,37019,Brunswick,Brunswick,7159
+1960,North Carolina,37021,Buncombe,Buncombe,14040
+1960,North Carolina,37023,Burke,Burke,3700
+1960,North Carolina,37025,Cabarrus,Cabarrus,10811
+1960,North Carolina,37027,Caldwell,Caldwell,3492
+1960,North Carolina,37029,Camden,Camden,2357
+1960,North Carolina,37031,Carteret,Carteret,3684
+1960,North Carolina,37033,Caswell,Caswell,9549
+1960,North Carolina,37035,Catawba,Catawba,6770
+1960,North Carolina,37037,Chatham,Chatham,8408
+1960,North Carolina,37039,Cherokee,Cherokee,317
+1960,North Carolina,37041,Chowan,Chowan,5462
+1960,North Carolina,37043,Clay,Clay,49
+1960,North Carolina,37045,Cleveland,Cleveland,14779
+1960,North Carolina,37047,Columbus,Columbus,16254
+1960,North Carolina,37049,Craven,Craven,16742
+1960,North Carolina,37051,Cumberland,Cumberland,37690
+1960,North Carolina,37053,Currituck,Currituck,2083
+1960,North Carolina,37055,Dare,Dare,403
+1960,North Carolina,37057,Davidson,Davidson,8622
+1960,North Carolina,37059,Davie,Davie,2065
+1960,North Carolina,37061,Duplin,Duplin,15142
+1960,North Carolina,37063,Durham,Durham,35862
+1960,North Carolina,37065,Edgecombe,Edgecombe,28096
+1960,North Carolina,37067,Forsyth,Forsyth,45659
+1960,North Carolina,37069,Franklin,Franklin,12718
+1960,North Carolina,37071,Gaston,Gaston,16560
+1960,North Carolina,37073,Gates,Gates,5009
+1960,North Carolina,37075,Graham,Graham,0
+1960,North Carolina,37077,Granville,Granville,14717
+1960,North Carolina,37079,Greene,Greene,8424
+1960,North Carolina,37081,Guilford,Guilford,51159
+1960,North Carolina,37083,Halifax,Halifax,31926
+1960,North Carolina,37085,Harnett,Harnett,13032
+1960,North Carolina,37087,Haywood,Haywood,867
+1960,North Carolina,37089,Henderson,Henderson,1961
+1960,North Carolina,37091,Hertford,Hertford,13398
+1960,North Carolina,37093,Hoke,Hoke,7931
+1960,North Carolina,37095,Hyde,Hyde,2435
+1960,North Carolina,37097,Iredell,Iredell,11125
+1960,North Carolina,37099,Jackson,Jackson,341
+1960,North Carolina,37101,Johnston,Johnston,14116
+1960,North Carolina,37103,Jones,Jones,5163
+1960,North Carolina,37105,Lee,Lee,5884
+1960,North Carolina,37107,Lenoir,Lenoir,21847
+1960,North Carolina,37109,Lincoln,Lincoln,3523
+1960,North Carolina,37111,McDowell,Mcdowell,1373
+1960,North Carolina,37113,Macon,Macon,278
+1960,North Carolina,37115,Madison,Madison,118
+1960,North Carolina,37117,Martin,Martin,13554
+1960,North Carolina,37119,Mecklenburg,Mecklenburg,66701
+1960,North Carolina,37121,Mitchell,Mitchell,38
+1960,North Carolina,37123,Montgomery,Montgomery,4580
+1960,North Carolina,37125,Moore,Moore,9666
+1960,North Carolina,37127,Nash,Nash,24205
+1960,North Carolina,37129,New Hanover,New Hanover,19865
+1960,North Carolina,37131,Northampton,Northampton,17093
+1960,North Carolina,37133,Onslow,Onslow,10511
+1960,North Carolina,37135,Orange,Orange,10131
+1960,North Carolina,37137,Pamlico,Pamlico,3611
+1960,North Carolina,37139,Pasquotank,Pasquotank,10114
+1960,North Carolina,37141,Pender,Pender,8886
+1960,North Carolina,37143,Perquimans,Perquimans,4303
+1960,North Carolina,37145,Person,Person,9306
+1960,North Carolina,37147,Pitt,Pitt,30467
+1960,North Carolina,37149,Polk,Polk,1422
+1960,North Carolina,37151,Randolph,Randolph,5105
+1960,North Carolina,37153,Richmond,Richmond,11774
+1960,North Carolina,37155,Robeson,Robeson,26256
+1960,North Carolina,37157,Rockingham,Rockingham,14649
+1960,North Carolina,37159,Rowan,Rowan,13917
+1960,North Carolina,37161,Rutherford,Rutherford,5391
+1960,North Carolina,37163,Sampson,Sampson,17251
+1960,North Carolina,37165,Scotland,Scotland,10374
+1960,North Carolina,37167,Stanly,Stanly,4482
+1960,North Carolina,37169,Stokes,Stokes,2258
+1960,North Carolina,37171,Surry,Surry,2795
+1960,North Carolina,37173,Swain,Swain,70
+1960,North Carolina,37175,Transylvania,Transylvania,854
+1960,North Carolina,37177,Tyrrell,Tyrrell,1974
+1960,North Carolina,37179,Union,Union,9562
+1960,North Carolina,37181,Vance,Vance,14017
+1960,North Carolina,37183,Wake,Wake,43851
+1960,North Carolina,37185,Warren,Warren,12306
+1960,North Carolina,37187,Washington,Washington,6083
+1960,North Carolina,37189,Watauga,Watauga,228
+1960,North Carolina,37191,Wayne,Wayne,30106
+1960,North Carolina,37193,Wilkes,Wilkes,2694
+1960,North Carolina,37195,Wilson,Wilson,23207
+1960,North Carolina,37197,Yadkin,Yadkin,1128
+1960,North Carolina,37199,Yancey,Yancey,136
+1960,North Dakota,38001,Adams,Adams,0
+1960,North Dakota,38003,Barnes,Barnes,1
+1960,North Dakota,38005,Benson,Benson,2
+1960,North Dakota,38007,Billings,Billings,0
+1960,North Dakota,38009,Bottineau,Bottineau,4
+1960,North Dakota,38011,Bowman,Bowman,0
+1960,North Dakota,38013,Burke,Burke,0
+1960,North Dakota,38015,Burleigh,Burleigh,21
+1960,North Dakota,38017,Cass,Cass,14
+1960,North Dakota,38019,Cavalier,Cavalier,3
+1960,North Dakota,38021,Dickey,Dickey,1
+1960,North Dakota,38023,Divide,Divide,19
+1960,North Dakota,38025,Dunn,Dunn,1
+1960,North Dakota,38027,Eddy,Eddy,0
+1960,North Dakota,38029,Emmons,Emmons,0
+1960,North Dakota,38031,Foster,Foster,0
+1960,North Dakota,38033,Golden Valley,Golden Valley,0
+1960,North Dakota,38035,Grand Forks,Grand Forks,287
+1960,North Dakota,38037,Grant,Grant,0
+1960,North Dakota,38039,Griggs,Griggs,0
+1960,North Dakota,38041,Hettinger,Hettinger,0
+1960,North Dakota,38043,Kidder,Kidder,1
+1960,North Dakota,38045,La Moure,La Moure,1
+1960,North Dakota,38047,Logan,Logan,0
+1960,North Dakota,38049,McHenry,Mchenry,6
+1960,North Dakota,38051,McIntosh,Mcintosh,0
+1960,North Dakota,38053,McKenzie,Mckenzie,6
+1960,North Dakota,38055,McLean,Mclean,1
+1960,North Dakota,38057,Mercer,Mercer,0
+1960,North Dakota,38059,Morton,Morton,4
+1960,North Dakota,38061,Mountrail,Mountrail,4
+1960,North Dakota,38063,Nelson,Nelson,0
+1960,North Dakota,38065,Oliver,Oliver,0
+1960,North Dakota,38067,Pembina,Pembina,0
+1960,North Dakota,38069,Pierce,Pierce,0
+1960,North Dakota,38071,Ramsey,Ramsey,9
+1960,North Dakota,38073,Ransom,Ransom,2
+1960,North Dakota,38075,Renville,Renville,0
+1960,North Dakota,38077,Richland,Richland,1
+1960,North Dakota,38079,Rolette,Rolette,10
+1960,North Dakota,38081,Sargent,Sargent,1
+1960,North Dakota,38083,Sheridan,Sheridan,0
+1960,North Dakota,38085,Sioux,Sioux,1
+1960,North Dakota,38087,Slope,Slope,1
+1960,North Dakota,38089,Stark,Stark,31
+1960,North Dakota,38091,Steele,Steele,14
+1960,North Dakota,38093,Stutsman,Stutsman,10
+1960,North Dakota,38095,Towner,Towner,1
+1960,North Dakota,38097,Traill,Traill,1
+1960,North Dakota,38099,Walsh,Walsh,1
+1960,North Dakota,38101,Ward,Ward,310
+1960,North Dakota,38103,Wells,Wells,3
+1960,North Dakota,38105,Williams,Williams,5
+1960,Ohio,39001,Adams,Adams,60
+1960,Ohio,39003,Allen,Allen,7322
+1960,Ohio,39005,Ashland,Ashland,138
+1960,Ohio,39007,Ashtabula,Ashtabula,2119
+1960,Ohio,39009,Athens,Athens,1014
+1960,Ohio,39011,Auglaize,Auglaize,55
+1960,Ohio,39013,Belmont,Belmont,2071
+1960,Ohio,39015,Brown,Brown,537
+1960,Ohio,39017,Butler,Butler,10315
+1960,Ohio,39019,Carroll,Carroll,314
+1960,Ohio,39021,Champaign,Champaign,1099
+1960,Ohio,39023,Clark,Clark,12251
+1960,Ohio,39025,Clermont,Clermont,999
+1960,Ohio,39027,Clinton,Clinton,680
+1960,Ohio,39029,Columbiana,Columbiana,1718
+1960,Ohio,39031,Coshocton,Coshocton,356
+1960,Ohio,39033,Crawford,Crawford,327
+1960,Ohio,39035,Cuyahoga,Cuyahoga,255310
+1960,Ohio,39037,Darke,Darke,259
+1960,Ohio,39039,Defiance,Defiance,17
+1960,Ohio,39041,Delaware,Delaware,877
+1960,Ohio,39043,Erie,Erie,4421
+1960,Ohio,39045,Fairfield,Fairfield,475
+1960,Ohio,39047,Fayette,Fayette,778
+1960,Ohio,39049,Franklin,Franklin,80235
+1960,Ohio,39051,Fulton,Fulton,36
+1960,Ohio,39053,Gallia,Gallia,1238
+1960,Ohio,39055,Geauga,Geauga,1032
+1960,Ohio,39057,Greene,Greene,6514
+1960,Ohio,39059,Guernsey,Guernsey,688
+1960,Ohio,39061,Hamilton,Hamilton,123437
+1960,Ohio,39063,Hancock,Hancock,268
+1960,Ohio,39065,Hardin,Hardin,198
+1960,Ohio,39067,Harrison,Harrison,571
+1960,Ohio,39069,Henry,Henry,4
+1960,Ohio,39071,Highland,Highland,862
+1960,Ohio,39073,Hocking,Hocking,154
+1960,Ohio,39075,Holmes,Holmes,7
+1960,Ohio,39077,Huron,Huron,534
+1960,Ohio,39079,Jackson,Jackson,247
+1960,Ohio,39081,Jefferson,Jefferson,5314
+1960,Ohio,39083,Knox,Knox,380
+1960,Ohio,39085,Lake,Lake,1963
+1960,Ohio,39087,Lawrence,Lawrence,1798
+1960,Ohio,39089,Licking,Licking,1285
+1960,Ohio,39091,Logan,Logan,714
+1960,Ohio,39093,Lorain,Lorain,12234
+1960,Ohio,39095,Lucas,Lucas,42863
+1960,Ohio,39097,Madison,Madison,1568
+1960,Ohio,39099,Mahoning,Mahoning,34949
+1960,Ohio,39101,Marion,Marion,1493
+1960,Ohio,39103,Medina,Medina,612
+1960,Ohio,39105,Meigs,Meigs,337
+1960,Ohio,39107,Mercer,Mercer,7
+1960,Ohio,39109,Miami,Miami,1386
+1960,Ohio,39111,Monroe,Monroe,7
+1960,Ohio,39113,Montgomery,Montgomery,61886
+1960,Ohio,39115,Morgan,Morgan,495
+1960,Ohio,39117,Morrow,Morrow,10
+1960,Ohio,39119,Muskingum,Muskingum,3376
+1960,Ohio,39121,Noble,Noble,3
+1960,Ohio,39123,Ottawa,Ottawa,303
+1960,Ohio,39125,Paulding,Paulding,295
+1960,Ohio,39127,Perry,Perry,301
+1960,Ohio,39129,Pickaway,Pickaway,805
+1960,Ohio,39131,Pike,Pike,313
+1960,Ohio,39133,Portage,Portage,2438
+1960,Ohio,39135,Preble,Preble,111
+1960,Ohio,39137,Putnam,Putnam,5
+1960,Ohio,39139,Richland,Richland,6853
+1960,Ohio,39141,Ross,Ross,3121
+1960,Ohio,39143,Sandusky,Sandusky,797
+1960,Ohio,39145,Scioto,Scioto,1666
+1960,Ohio,39147,Seneca,Seneca,771
+1960,Ohio,39149,Shelby,Shelby,380
+1960,Ohio,39151,Stark,Stark,18303
+1960,Ohio,39153,Summit,Summit,41256
+1960,Ohio,39155,Trumbull,Trumbull,11731
+1960,Ohio,39157,Tuscarawas,Tuscarawas,793
+1960,Ohio,39159,Union,Union,314
+1960,Ohio,39161,Van Wert,Van Wert,97
+1960,Ohio,39163,Vinton,Vinton,16
+1960,Ohio,39165,Warren,Warren,909
+1960,Ohio,39167,Washington,Washington,843
+1960,Ohio,39169,Wayne,Wayne,1075
+1960,Ohio,39171,Williams,Williams,4
+1960,Ohio,39173,Wood,Wood,380
+1960,Ohio,39175,Wyandot,Wyandot,0
+1960,Oklahoma,40001,Adair,Adair,1
+1960,Oklahoma,40003,Alfalfa,Alfalfa,0
+1960,Oklahoma,40005,Atoka,Atoka,662
+1960,Oklahoma,40007,Beaver,Beaver,0
+1960,Oklahoma,40009,Beckham,Beckham,435
+1960,Oklahoma,40011,Blaine,Blaine,756
+1960,Oklahoma,40013,Bryan,Bryan,549
+1960,Oklahoma,40015,Caddo,Caddo,857
+1960,Oklahoma,40017,Canadian,Canadian,919
+1960,Oklahoma,40019,Carter,Carter,3276
+1960,Oklahoma,40021,Cherokee,Cherokee,281
+1960,Oklahoma,40023,Choctaw,Choctaw,2875
+1960,Oklahoma,40025,Cimarron,Cimarron,1
+1960,Oklahoma,40027,Cleveland,Cleveland,167
+1960,Oklahoma,40029,Coal,Coal,113
+1960,Oklahoma,40031,Comanche,Comanche,7609
+1960,Oklahoma,40033,Cotton,Cotton,196
+1960,Oklahoma,40035,Craig,Craig,503
+1960,Oklahoma,40037,Creek,Creek,3043
+1960,Oklahoma,40039,Custer,Custer,952
+1960,Oklahoma,40041,Delaware,Delaware,2
+1960,Oklahoma,40043,Dewey,Dewey,0
+1960,Oklahoma,40045,Ellis,Ellis,0
+1960,Oklahoma,40047,Garfield,Garfield,1639
+1960,Oklahoma,40049,Garvin,Garvin,1000
+1960,Oklahoma,40051,Grady,Grady,1517
+1960,Oklahoma,40053,Grant,Grant,4
+1960,Oklahoma,40055,Greer,Greer,461
+1960,Oklahoma,40057,Harmon,Harmon,435
+1960,Oklahoma,40059,Harper,Harper,1
+1960,Oklahoma,40061,Haskell,Haskell,87
+1960,Oklahoma,40063,Hughes,Hughes,702
+1960,Oklahoma,40065,Jackson,Jackson,1892
+1960,Oklahoma,40067,Jefferson,Jefferson,124
+1960,Oklahoma,40069,Johnston,Johnston,330
+1960,Oklahoma,40071,Kay,Kay,821
+1960,Oklahoma,40073,Kingfisher,Kingfisher,611
+1960,Oklahoma,40075,Kiowa,Kiowa,741
+1960,Oklahoma,40077,Latimer,Latimer,120
+1960,Oklahoma,40079,Le Flore,Le Flore,1029
+1960,Oklahoma,40081,Lincoln,Lincoln,1168
+1960,Oklahoma,40083,Logan,Logan,3820
+1960,Oklahoma,40085,Love,Love,395
+1960,Oklahoma,40087,McClain,Mcclain,325
+1960,Oklahoma,40089,McCurtain,Mccurtain,4524
+1960,Oklahoma,40091,McIntosh,Mcintosh,1750
+1960,Oklahoma,40093,Major,Major,12
+1960,Oklahoma,40095,Marshall,Marshall,201
+1960,Oklahoma,40097,Mayes,Mayes,105
+1960,Oklahoma,40099,Murray,Murray,267
+1960,Oklahoma,40101,Muskogee,Muskogee,11842
+1960,Oklahoma,40103,Noble,Noble,232
+1960,Oklahoma,40105,Nowata,Nowata,733
+1960,Oklahoma,40107,Okfuskee,Okfuskee,2571
+1960,Oklahoma,40109,Oklahoma,Oklahoma,39985
+1960,Oklahoma,40111,Okmulgee,Okmulgee,5965
+1960,Oklahoma,40113,Osage,Osage,689
+1960,Oklahoma,40115,Ottawa,Ottawa,2
+1960,Oklahoma,40117,Pawnee,Pawnee,214
+1960,Oklahoma,40119,Payne,Payne,1035
+1960,Oklahoma,40121,Pittsburg,Pittsburg,2531
+1960,Oklahoma,40123,Pontotoc,Pontotoc,944
+1960,Oklahoma,40125,Pottowatomie,Pottowatomie,1183
+1960,Oklahoma,40127,Pushmataha,Pushmataha,180
+1960,Oklahoma,40129,Roger Mills,Roger Mills,1
+1960,Oklahoma,40131,Rogers,Rogers,404
+1960,Oklahoma,40133,Seminole,Seminole,2748
+1960,Oklahoma,40135,Sequoyah,Sequoyah,841
+1960,Oklahoma,40137,Stephens,Stephens,799
+1960,Oklahoma,40139,Texas,Texas,3
+1960,Oklahoma,40141,Tillman,Tillman,1937
+1960,Oklahoma,40143,Tulsa,Tulsa,26819
+1960,Oklahoma,40145,Wagoner,Wagoner,2580
+1960,Oklahoma,40147,Washington,Washington,1347
+1960,Oklahoma,40149,Washita,Washita,209
+1960,Oklahoma,40151,Woods,Woods,2
+1960,Oklahoma,40153,Woodward,Woodward,10
+1960,Oregon,41001,Baker,Baker,26
+1960,Oregon,41003,Benton,Benton,75
+1960,Oregon,41005,Clackamas,Clackamas,99
+1960,Oregon,41007,Clatsop,Clatsop,70
+1960,Oregon,41009,Columbia,Columbia,9
+1960,Oregon,41011,Coos,Coos,40
+1960,Oregon,41013,Crook,Crook,1
+1960,Oregon,41015,Curry,Curry,9
+1960,Oregon,41017,Deschutes,Deschutes,18
+1960,Oregon,41019,Douglas,Douglas,31
+1960,Oregon,41021,Gilliam,Gilliam,15
+1960,Oregon,41023,Grant,Grant,3
+1960,Oregon,41025,Harney,Harney,6
+1960,Oregon,41027,Hood River,Hood River,16
+1960,Oregon,41029,Jackson,Jackson,32
+1960,Oregon,41031,Jefferson,Jefferson,5
+1960,Oregon,41033,Josephine,Josephine,6
+1960,Oregon,41035,Klamath,Klamath,456
+1960,Oregon,41037,Lake,Lake,4
+1960,Oregon,41039,Lane,Lane,336
+1960,Oregon,41041,Lincoln,Lincoln,10
+1960,Oregon,41043,Linn,Linn,14
+1960,Oregon,41045,Malheur,Malheur,74
+1960,Oregon,41047,Marion,Marion,226
+1960,Oregon,41049,Morrow,Morrow,0
+1960,Oregon,41051,Multnomah,Multnomah,16082
+1960,Oregon,41053,Polk,Polk,4
+1960,Oregon,41055,Sherman,Sherman,0
+1960,Oregon,41057,Tillamook,Tillamook,10
+1960,Oregon,41059,Umatilla,Umatilla,250
+1960,Oregon,41061,Union,Union,74
+1960,Oregon,41063,Wallowa,Wallowa,11
+1960,Oregon,41065,Wasco,Wasco,45
+1960,Oregon,41067,Washington,Washington,54
+1960,Oregon,41069,Wheeler,Wheeler,0
+1960,Oregon,41071,Yamhill,Yamhill,22
+1960,Pennsylvania,42001,Adams,Adams,330
+1960,Pennsylvania,42003,Allegheny,Allegheny,134122
+1960,Pennsylvania,42005,Armstrong,Armstrong,880
+1960,Pennsylvania,42007,Beaver,Beaver,11153
+1960,Pennsylvania,42009,Bedford,Bedford,162
+1960,Pennsylvania,42011,Berks,Berks,4689
+1960,Pennsylvania,42013,Blair,Blair,1126
+1960,Pennsylvania,42015,Bradford,Bradford,57
+1960,Pennsylvania,42017,Bucks,Bucks,5488
+1960,Pennsylvania,42019,Butler,Butler,513
+1960,Pennsylvania,42021,Cambria,Cambria,3526
+1960,Pennsylvania,42023,Cameron,Cameron,11
+1960,Pennsylvania,42025,Carbon,Carbon,34
+1960,Pennsylvania,42027,Centre,Centre,611
+1960,Pennsylvania,42029,Chester,Chester,17374
+1960,Pennsylvania,42031,Clarion,Clarion,17
+1960,Pennsylvania,42033,Clearfield,Clearfield,260
+1960,Pennsylvania,42035,Clinton,Clinton,19
+1960,Pennsylvania,42037,Columbia,Columbia,71
+1960,Pennsylvania,42039,Crawford,Crawford,991
+1960,Pennsylvania,42041,Cumberland,Cumberland,1847
+1960,Pennsylvania,42043,Dauphin,Dauphin,21172
+1960,Pennsylvania,42045,Delaware,Delaware,38529
+1960,Pennsylvania,42047,Elk,Elk,24
+1960,Pennsylvania,42049,Erie,Erie,6994
+1960,Pennsylvania,42051,Fayette,Fayette,8055
+1960,Pennsylvania,42053,Forest,Forest,0
+1960,Pennsylvania,42055,Franklin,Franklin,1716
+1960,Pennsylvania,42057,Fulton,Fulton,84
+1960,Pennsylvania,42059,Greene,Greene,360
+1960,Pennsylvania,42061,Huntingdon,Huntingdon,958
+1960,Pennsylvania,42063,Indiana,Indiana,439
+1960,Pennsylvania,42065,Jefferson,Jefferson,31
+1960,Pennsylvania,42067,Juniata,Juniata,10
+1960,Pennsylvania,42069,Lackawanna,Lackawanna,763
+1960,Pennsylvania,42071,Lancaster,Lancaster,3574
+1960,Pennsylvania,42073,Lawrence,Lawrence,2815
+1960,Pennsylvania,42075,Lebanon,Lebanon,350
+1960,Pennsylvania,42077,Lehigh,Lehigh,957
+1960,Pennsylvania,42079,Luzerne,Luzerne,1081
+1960,Pennsylvania,42081,Lycoming,Lycoming,1245
+1960,Pennsylvania,42083,McKean,Mckean,75
+1960,Pennsylvania,42085,Mercer,Mercer,5022
+1960,Pennsylvania,42087,Mifflin,Mifflin,119
+1960,Pennsylvania,42089,Monroe,Monroe,588
+1960,Pennsylvania,42091,Montgomery,Montgomery,18834
+1960,Pennsylvania,42093,Montour,Montour,35
+1960,Pennsylvania,42095,Northampton,Northampton,2297
+1960,Pennsylvania,42097,Northumberland,Northumberland,143
+1960,Pennsylvania,42099,Perry,Perry,4
+1960,Pennsylvania,42101,Philadelphia,Philadelphia,529240
+1960,Pennsylvania,42103,Pike,Pike,11
+1960,Pennsylvania,42105,Potter,Potter,47
+1960,Pennsylvania,42107,Schuylkill,Schuylkill,358
+1960,Pennsylvania,42109,Snyder,Snyder,156
+1960,Pennsylvania,42111,Somerset,Somerset,132
+1960,Pennsylvania,42113,Sullivan,Sullivan,26
+1960,Pennsylvania,42115,Susquehanna,Susquehanna,62
+1960,Pennsylvania,42117,Tioga,Tioga,77
+1960,Pennsylvania,42119,Union,Union,649
+1960,Pennsylvania,42121,Venango,Venango,414
+1960,Pennsylvania,42123,Warren,Warren,69
+1960,Pennsylvania,42125,Washington,Washington,9134
+1960,Pennsylvania,42127,Wayne,Wayne,383
+1960,Pennsylvania,42129,Westmoreland,Westmoreland,7090
+1960,Pennsylvania,42131,Wyoming,Wyoming,46
+1960,Pennsylvania,42133,York,York,5301
+1960,Rhode Island,44001,Bristol,Bristol,57
+1960,Rhode Island,44003,Kent,Kent,325
+1960,Rhode Island,44005,Newport,Newport,3593
+1960,Rhode Island,44007,Providence,Providence,13275
+1960,Rhode Island,44009,Washington,Washington,1082
+1960,South Carolina,45001,Abbeville,Abbeville,6851
+1960,South Carolina,45003,Aiken,Aiken,21310
+1960,South Carolina,45005,Allendale,Allendale,7183
+1960,South Carolina,45007,Anderson,Anderson,19218
+1960,South Carolina,45009,Bamberg,Bamberg,9085
+1960,South Carolina,45011,Barnwell,Barnwell,7639
+1960,South Carolina,45013,Beaufort,Beaufort,16969
+1960,South Carolina,45015,Berkeley,Berkeley,18920
+1960,South Carolina,45017,Calhoun,Calhoun,8197
+1960,South Carolina,45019,Charleston,Charleston,78488
+1960,South Carolina,45021,Cherokee,Cherokee,7465
+1960,South Carolina,45023,Chester,Chester,12325
+1960,South Carolina,45025,Chesterfield,Chesterfield,12476
+1960,South Carolina,45027,Clarendon,Clarendon,20122
+1960,South Carolina,45029,Colleton,Colleton,14214
+1960,South Carolina,45031,Darlington,Darlington,23475
+1960,South Carolina,45033,Dillon,Dillon,14118
+1960,South Carolina,45035,Dorchester,Dorchester,11892
+1960,South Carolina,45037,Edgefield,Edgefield,9153
+1960,South Carolina,45039,Fairfield,Fairfield,12318
+1960,South Carolina,45041,Florence,Florence,36484
+1960,South Carolina,45043,Georgetown,Georgetown,18137
+1960,South Carolina,45045,Greenville,Greenville,36786
+1960,South Carolina,45047,Greenwood,Greenwood,13125
+1960,South Carolina,45049,Hampton,Hampton,9382
+1960,South Carolina,45051,Horry,Horry,18199
+1960,South Carolina,45053,Jasper,Jasper,7616
+1960,South Carolina,45055,Kershaw,Kershaw,13355
+1960,South Carolina,45057,Lancaster,Lancaster,10613
+1960,South Carolina,45059,Laurens,Laurens,14064
+1960,South Carolina,45061,Lee,Lee,14366
+1960,South Carolina,45063,Lexington,Lexington,10460
+1960,South Carolina,45065,McCormick,Mccormick,5318
+1960,South Carolina,45067,Marion,Marion,17582
+1960,South Carolina,45069,Marlboro,Marlboro,13812
+1960,South Carolina,45071,Newberry,Newberry,10427
+1960,South Carolina,45073,Oconee,Oconee,4291
+1960,South Carolina,45075,Orangeburg,Orangeburg,41181
+1960,South Carolina,45077,Pickens,Pickens,4600
+1960,South Carolina,45079,Richland,Richland,64845
+1960,South Carolina,45081,Saluda,Saluda,5330
+1960,South Carolina,45083,Spartanburg,Spartanburg,34660
+1960,South Carolina,45085,Sumter,Sumter,34997
+1960,South Carolina,45087,Union,Union,8891
+1960,South Carolina,45089,Williamsburg,Williamsburg,27171
+1960,South Carolina,45091,York,York,22181
+1960,South Dakota,46003,Aurora,Aurora,4
+1960,South Dakota,46005,Beadle,Beadle,16
+1960,South Dakota,46007,Bennett,Bennett,3
+1960,South Dakota,46009,Bon Homme,Bon Homme,1
+1960,South Dakota,46011,Brookings,Brookings,10
+1960,South Dakota,46013,Brown,Brown,4
+1960,South Dakota,46015,Brule,Brule,0
+1960,South Dakota,46017,Buffalo,Buffalo,0
+1960,South Dakota,46019,Butte,Butte,0
+1960,South Dakota,46021,Campbell,Campbell,0
+1960,South Dakota,46023,Charles Mix,Charles Mix,0
+1960,South Dakota,46025,Clark,Clark,1
+1960,South Dakota,46027,Clay,Clay,9
+1960,South Dakota,46029,Codington,Codington,4
+1960,South Dakota,46031,Corson,Corson,6
+1960,South Dakota,46033,Custer,Custer,7
+1960,South Dakota,46035,Davison,Davison,6
+1960,South Dakota,46037,Day,Day,0
+1960,South Dakota,46039,Deuel,Deuel,2
+1960,South Dakota,46041,Dewey,Dewey,7
+1960,South Dakota,46043,Douglas,Douglas,0
+1960,South Dakota,46045,Edmunds,Edmunds,0
+1960,South Dakota,46047,Fall River,Fall River,10
+1960,South Dakota,46049,Faulk,Faulk,0
+1960,South Dakota,46051,Grant,Grant,0
+1960,South Dakota,46053,Gregory,Gregory,2
+1960,South Dakota,46055,Haakon,Haakon,1
+1960,South Dakota,46057,Hamlin,Hamlin,0
+1960,South Dakota,46059,Hand,Hand,0
+1960,South Dakota,46061,Hanson,Hanson,0
+1960,South Dakota,46063,Harding,Harding,0
+1960,South Dakota,46065,Hughes,Hughes,6
+1960,South Dakota,46067,Hutchinson,Hutchinson,1
+1960,South Dakota,46069,Hyde,Hyde,0
+1960,South Dakota,46071,Jackson,Jackson,3
+1960,South Dakota,46073,Jerauld,Jerauld,0
+1960,South Dakota,46075,Jones,Jones,1
+1960,South Dakota,46077,Kingsbury,Kingsbury,0
+1960,South Dakota,46079,Lake,Lake,0
+1960,South Dakota,46081,Lawrence,Lawrence,6
+1960,South Dakota,46083,Lincoln,Lincoln,0
+1960,South Dakota,46085,Lyman,Lyman,9
+1960,South Dakota,46087,McCook,Mccook,0
+1960,South Dakota,46089,McPherson,Mcpherson,0
+1960,South Dakota,46091,Marshall,Marshall,1
+1960,South Dakota,46093,Meade,Meade,109
+1960,South Dakota,46095,Mellette,Mellette,0
+1960,South Dakota,46097,Miner,Miner,0
+1960,South Dakota,46099,Minnehaha,Minnehaha,176
+1960,South Dakota,46101,Moody,Moody,18
+1960,South Dakota,46103,Pennington,Pennington,553
+1960,South Dakota,46105,Perkins,Perkins,0
+1960,South Dakota,46107,Potter,Potter,21
+1960,South Dakota,46109,Roberts,Roberts,0
+1960,South Dakota,46111,Sanborn,Sanborn,1
+1960,South Dakota,46113,Shannon,Shannon,3
+1960,South Dakota,46115,Spink,Spink,2
+1960,South Dakota,46117,Stanley,Stanley,0
+1960,South Dakota,46119,Sully,Sully,11
+1960,South Dakota,46121,Todd,Todd,7
+1960,South Dakota,46123,Tripp,Tripp,0
+1960,South Dakota,46125,Turner,Turner,0
+1960,South Dakota,46127,Union,Union,15
+1960,South Dakota,46129,Walworth,Walworth,7
+1960,South Dakota,46131,Washabaugh,Washabaugh,2
+1960,South Dakota,46135,Yankton,Yankton,69
+1960,South Dakota,46137,Ziebach,Ziebach,0
+1960,Tennessee,47001,Anderson,Anderson,1964
+1960,Tennessee,47003,Bedford,Bedford,2760
+1960,Tennessee,47005,Benton,Benton,316
+1960,Tennessee,47007,Bledsoe,Bledsoe,455
+1960,Tennessee,47009,Blount,Blount,2760
+1960,Tennessee,47011,Bradley,Bradley,1994
+1960,Tennessee,47013,Campbell,Campbell,263
+1960,Tennessee,47015,Cannon,Cannon,200
+1960,Tennessee,47017,Carroll,Carroll,3161
+1960,Tennessee,47019,Carter,Carter,435
+1960,Tennessee,47021,Cheatham,Cheatham,623
+1960,Tennessee,47023,Chester,Chester,1284
+1960,Tennessee,47025,Claiborne,Claiborne,304
+1960,Tennessee,47027,Clay,Clay,166
+1960,Tennessee,47029,Cocke,Cocke,712
+1960,Tennessee,47031,Coffee,Coffee,1010
+1960,Tennessee,47033,Crockett,Crockett,3565
+1960,Tennessee,47035,Cumberland,Cumberland,2
+1960,Tennessee,47037,Davidson,Davidson,76437
+1960,Tennessee,47039,Decatur,Decatur,532
+1960,Tennessee,47041,DeKalb,De Kalb,275
+1960,Tennessee,47043,Dickson,Dickson,1365
+1960,Tennessee,47045,Dyer,Dyer,4359
+1960,Tennessee,47047,Fayette,Fayette,16927
+1960,Tennessee,47049,Fentress,Fentress,2
+1960,Tennessee,47051,Franklin,Franklin,2271
+1960,Tennessee,47053,Gibson,Gibson,9623
+1960,Tennessee,47055,Giles,Giles,4003
+1960,Tennessee,47057,Grainger,Grainger,177
+1960,Tennessee,47059,Greene,Greene,1073
+1960,Tennessee,47061,Grundy,Grundy,15
+1960,Tennessee,47063,Hamblen,Hamblen,2053
+1960,Tennessee,47065,Hamilton,Hamilton,47241
+1960,Tennessee,47067,Hancock,Hancock,99
+1960,Tennessee,47069,Hardeman,Hardeman,8391
+1960,Tennessee,47071,Hardin,Hardin,1084
+1960,Tennessee,47073,Hawkins,Hawkins,1050
+1960,Tennessee,47075,Haywood,Haywood,14336
+1960,Tennessee,47077,Henderson,Henderson,1713
+1960,Tennessee,47079,Henry,Henry,3322
+1960,Tennessee,47081,Hickman,Hickman,634
+1960,Tennessee,47083,Houston,Houston,362
+1960,Tennessee,47085,Humphreys,Humphreys,571
+1960,Tennessee,47087,Jackson,Jackson,34
+1960,Tennessee,47089,Jefferson,Jefferson,926
+1960,Tennessee,47091,Johnson,Johnson,138
+1960,Tennessee,47093,Knox,Knox,22709
+1960,Tennessee,47095,Lake,Lake,2202
+1960,Tennessee,47097,Lauderdale,Lauderdale,8258
+1960,Tennessee,47099,Lawrence,Lawrence,511
+1960,Tennessee,47101,Lewis,Lewis,122
+1960,Tennessee,47103,Lincoln,Lincoln,3156
+1960,Tennessee,47105,Loudon,Loudon,445
+1960,Tennessee,47107,McMinn,Mcminn,1786
+1960,Tennessee,47109,McNairy,Mcnairy,1248
+1960,Tennessee,47111,Macon,Macon,121
+1960,Tennessee,47113,Madison,Madison,20651
+1960,Tennessee,47115,Marion,Marion,1339
+1960,Tennessee,47117,Marshall,Marshall,1980
+1960,Tennessee,47119,Maury,Maury,8374
+1960,Tennessee,47121,Meigs,Meigs,254
+1960,Tennessee,47123,Monroe,Monroe,908
+1960,Tennessee,47125,Montgomery,Montgomery,10754
+1960,Tennessee,47127,Moore,Moore,295
+1960,Tennessee,47129,Morgan,Morgan,307
+1960,Tennessee,47131,Obion,Obion,3204
+1960,Tennessee,47133,Overton,Overton,77
+1960,Tennessee,47135,Perry,Perry,191
+1960,Tennessee,47137,Pickett,Pickett,6
+1960,Tennessee,47139,Polk,Polk,28
+1960,Tennessee,47141,Putnam,Putnam,528
+1960,Tennessee,47143,Rhea,Rhea,639
+1960,Tennessee,47145,Roane,Roane,1610
+1960,Tennessee,47147,Robertson,Robertson,4782
+1960,Tennessee,47149,Rutherford,Rutherford,7108
+1960,Tennessee,47151,Scott,Scott,3
+1960,Tennessee,47153,Sequatchie,Sequatchie,0
+1960,Tennessee,47155,Sevier,Sevier,184
+1960,Tennessee,47157,Shelby,Shelby,227445
+1960,Tennessee,47159,Smith,Smith,614
+1960,Tennessee,47161,Stewart,Stewart,232
+1960,Tennessee,47163,Sullivan,Sullivan,2471
+1960,Tennessee,47165,Sumner,Sumner,4118
+1960,Tennessee,47167,Tipton,Tipton,11188
+1960,Tennessee,47169,Trousdale,Trousdale,828
+1960,Tennessee,47171,Unicoi,Unicoi,5
+1960,Tennessee,47173,Union,Union,2
+1960,Tennessee,47175,Van Buren,Van Buren,31
+1960,Tennessee,47177,Warren,Warren,1117
+1960,Tennessee,47179,Washington,Washington,2501
+1960,Tennessee,47181,Wayne,Wayne,206
+1960,Tennessee,47183,Weakley,Weakley,1755
+1960,Tennessee,47185,White,White,428
+1960,Tennessee,47187,Williamson,Williamson,5051
+1960,Tennessee,47189,Wilson,Wilson,4117
+1960,Texas,48001,Anderson,Anderson,8358
+1960,Texas,48003,Andrews,Andrews,279
+1960,Texas,48005,Angelina,Angelina,7062
+1960,Texas,48007,Aransas,Aransas,281
+1960,Texas,48009,Archer,Archer,19
+1960,Texas,48011,Armstrong,Armstrong,3
+1960,Texas,48013,Atascosa,Atascosa,178
+1960,Texas,48015,Austin,Austin,2953
+1960,Texas,48017,Bailey,Bailey,365
+1960,Texas,48019,Bandera,Bandera,19
+1960,Texas,48021,Bastrop,Bastrop,5291
+1960,Texas,48023,Baylor,Baylor,233
+1960,Texas,48025,Bee,Bee,536
+1960,Texas,48027,Bell,Bell,10651
+1960,Texas,48029,Bexar,Bexar,45314
+1960,Texas,48031,Blanco,Blanco,103
+1960,Texas,48033,Borden,Borden,0
+1960,Texas,48035,Bosque,Bosque,363
+1960,Texas,48037,Bowie,Bowie,14364
+1960,Texas,48039,Brazoria,Brazoria,9073
+1960,Texas,48041,Brazos,Brazos,9340
+1960,Texas,48043,Brewster,Brewster,44
+1960,Texas,48045,Briscoe,Briscoe,191
+1960,Texas,48047,Brooks,Brooks,11
+1960,Texas,48049,Brown,Brown,743
+1960,Texas,48051,Burleson,Burleson,3497
+1960,Texas,48053,Burnet,Burnet,171
+1960,Texas,48055,Caldwell,Caldwell,2582
+1960,Texas,48057,Calhoun,Calhoun,818
+1960,Texas,48059,Callahan,Callahan,2
+1960,Texas,48061,Cameron,Cameron,922
+1960,Texas,48063,Camp,Camp,2984
+1960,Texas,48065,Carson,Carson,22
+1960,Texas,48067,Cass,Cass,6972
+1960,Texas,48069,Castro,Castro,372
+1960,Texas,48071,Chambers,Chambers,2289
+1960,Texas,48073,Cherokee,Cherokee,8522
+1960,Texas,48075,Childress,Childress,520
+1960,Texas,48077,Clay,Clay,82
+1960,Texas,48079,Cochran,Cochran,292
+1960,Texas,48081,Coke,Coke,4
+1960,Texas,48083,Coleman,Coleman,321
+1960,Texas,48085,Collin,Collin,4407
+1960,Texas,48087,Collingsworth,Collingsworth,534
+1960,Texas,48089,Colorado,Colorado,4595
+1960,Texas,48091,Comal,Comal,411
+1960,Texas,48093,Comanche,Comanche,2
+1960,Texas,48095,Concho,Concho,3
+1960,Texas,48097,Cooke,Cooke,847
+1960,Texas,48099,Coryell,Coryell,1293
+1960,Texas,48101,Cottle,Cottle,341
+1960,Texas,48103,Crane,Crane,223
+1960,Texas,48105,Crockett,Crockett,126
+1960,Texas,48107,Crosby,Crosby,873
+1960,Texas,48109,Culberson,Culberson,7
+1960,Texas,48111,Dallam,Dallam,58
+1960,Texas,48113,Dallas,Dallas,137954
+1960,Texas,48115,Dawson,Dawson,1059
+1960,Texas,48117,Deaf Smith,Deaf Smith,254
+1960,Texas,48119,Delta,Delta,830
+1960,Texas,48121,Denton,Denton,2884
+1960,Texas,48123,De Witt,De Witt,2786
+1960,Texas,48125,Dickens,Dickens,257
+1960,Texas,48127,Dimmit,Dimmit,53
+1960,Texas,48129,Donley,Donley,215
+1960,Texas,48131,Duval,Duval,7
+1960,Texas,48133,Eastland,Eastland,344
+1960,Texas,48135,Ector,Ector,4814
+1960,Texas,48137,Edwards,Edwards,7
+1960,Texas,48139,Ellis,Ellis,10243
+1960,Texas,48141,El Paso,El Paso,8571
+1960,Texas,48143,Erath,Erath,114
+1960,Texas,48145,Falls,Falls,6955
+1960,Texas,48147,Fannin,Fannin,2446
+1960,Texas,48149,Fayette,Fayette,2874
+1960,Texas,48151,Fisher,Fisher,377
+1960,Texas,48153,Floyd,Floyd,893
+1960,Texas,48155,Foard,Foard,271
+1960,Texas,48157,Fort Bend,Fort Bend,8104
+1960,Texas,48159,Franklin,Franklin,395
+1960,Texas,48161,Freestone,Freestone,4918
+1960,Texas,48163,Frio,Frio,60
+1960,Texas,48165,Gaines,Gaines,353
+1960,Texas,48167,Galveston,Galveston,29846
+1960,Texas,48169,Garza,Garza,321
+1960,Texas,48171,Gillespie,Gillespie,16
+1960,Texas,48173,Glasscock,Glasscock,13
+1960,Texas,48175,Goliad,Goliad,626
+1960,Texas,48177,Gonzales,Gonzales,3242
+1960,Texas,48179,Gray,Gray,910
+1960,Texas,48181,Grayson,Grayson,6421
+1960,Texas,48183,Gregg,Gregg,15891
+1960,Texas,48185,Grimes,Grimes,4844
+1960,Texas,48187,Guadalupe,Guadalupe,3296
+1960,Texas,48189,Hale,Hale,1988
+1960,Texas,48191,Hall,Hall,959
+1960,Texas,48193,Hamilton,Hamilton,2
+1960,Texas,48195,Hansford,Hansford,7
+1960,Texas,48197,Hardeman,Hardeman,969
+1960,Texas,48199,Hardin,Hardin,4003
+1960,Texas,48201,Harris,Harris,246351
+1960,Texas,48203,Harrison,Harrison,19740
+1960,Texas,48205,Hartley,Hartley,2
+1960,Texas,48207,Haskell,Haskell,642
+1960,Texas,48209,Hays,Hays,1101
+1960,Texas,48211,Hemphill,Hemphill,0
+1960,Texas,48213,Henderson,Henderson,4511
+1960,Texas,48215,Hidalgo,Hidalgo,456
+1960,Texas,48217,Hill,Hill,3665
+1960,Texas,48219,Hockley,Hockley,1237
+1960,Texas,48221,Hood,Hood,50
+1960,Texas,48223,Hopkins,Hopkins,2318
+1960,Texas,48225,Houston,Houston,7444
+1960,Texas,48227,Howard,Howard,1672
+1960,Texas,48229,Hudspeth,Hudspeth,13
+1960,Texas,48231,Hunt,Hunt,6408
+1960,Texas,48233,Hutchinson,Hutchinson,691
+1960,Texas,48235,Irion,Irion,10
+1960,Texas,48237,Jack,Jack,85
+1960,Texas,48239,Jackson,Jackson,1693
+1960,Texas,48241,Jasper,Jasper,5496
+1960,Texas,48243,Jeff Davis,Jeff Davis,1
+1960,Texas,48245,Jefferson,Jefferson,57171
+1960,Texas,48247,Jim Hogg,Jim Hogg,3
+1960,Texas,48249,Jim Wells,Jim Wells,389
+1960,Texas,48251,Johnson,Johnson,1668
+1960,Texas,48253,Jones,Jones,1110
+1960,Texas,48255,Karnes,Karnes,424
+1960,Texas,48257,Kaufman,Kaufman,8931
+1960,Texas,48259,Kendall,Kendall,40
+1960,Texas,48261,Kenedy,Kenedy,0
+1960,Texas,48263,Kent,Kent,47
+1960,Texas,48265,Kerr,Kerr,702
+1960,Texas,48267,Kimble,Kimble,8
+1960,Texas,48269,King,King,44
+1960,Texas,48271,Kinney,Kinney,189
+1960,Texas,48273,Kleberg,Kleberg,1011
+1960,Texas,48275,Knox,Knox,561
+1960,Texas,48277,Lamar,Lamar,6369
+1960,Texas,48279,Lamb,Lamb,1663
+1960,Texas,48281,Lampasas,Lampasas,285
+1960,Texas,48283,La Salle,La Salle,7
+1960,Texas,48285,Lavaca,Lavaca,2100
+1960,Texas,48287,Lee,Lee,2139
+1960,Texas,48289,Leon,Leon,3796
+1960,Texas,48291,Liberty,Liberty,7396
+1960,Texas,48293,Limestone,Limestone,5804
+1960,Texas,48295,Lipscomb,Lipscomb,1
+1960,Texas,48297,Live Oak,Live Oak,18
+1960,Texas,48299,Llano,Llano,46
+1960,Texas,48301,Loving,Loving,10
+1960,Texas,48303,Lubbock,Lubbock,12306
+1960,Texas,48305,Lynn,Lynn,665
+1960,Texas,48307,McCulloch,Mcculloch,319
+1960,Texas,48309,McLennan,Mclennan,24036
+1960,Texas,48311,McMullen,Mcmullen,0
+1960,Texas,48313,Madison,Madison,2236
+1960,Texas,48315,Marion,Marion,4210
+1960,Texas,48317,Martin,Martin,209
+1960,Texas,48319,Mason,Mason,23
+1960,Texas,48321,Matagorda,Matagorda,5323
+1960,Texas,48323,Maverick,Maverick,29
+1960,Texas,48325,Medina,Medina,174
+1960,Texas,48327,Menard,Menard,38
+1960,Texas,48329,Midland,Midland,6265
+1960,Texas,48331,Milam,Milam,4019
+1960,Texas,48333,Mills,Mills,1
+1960,Texas,48335,Mitchell,Mitchell,830
+1960,Texas,48337,Montague,Montague,0
+1960,Texas,48339,Montgomery,Montgomery,6125
+1960,Texas,48341,Moore,Moore,2
+1960,Texas,48343,Morris,Morris,3384
+1960,Texas,48345,Motley,Motley,266
+1960,Texas,48347,Nacogdoches,Nacogdoches,7508
+1960,Texas,48349,Navarro,Navarro,8531
+1960,Texas,48351,Newton,Newton,3446
+1960,Texas,48353,Nolan,Nolan,748
+1960,Texas,48355,Nueces,Nueces,10108
+1960,Texas,48357,Ochiltree,Ochiltree,0
+1960,Texas,48359,Oldham,Oldham,4
+1960,Texas,48361,Orange,Orange,5959
+1960,Texas,48363,Palo Pinto,Palo Pinto,878
+1960,Texas,48365,Panola,Panola,5174
+1960,Texas,48367,Parker,Parker,432
+1960,Texas,48369,Parmer,Parmer,242
+1960,Texas,48371,Pecos,Pecos,81
+1960,Texas,48373,Polk,Polk,4068
+1960,Texas,48375,Potter,Potter,7711
+1960,Texas,48377,Presidio,Presidio,1
+1960,Texas,48379,Rains,Rains,306
+1960,Texas,48381,Randall,Randall,53
+1960,Texas,48383,Reagan,Reagan,262
+1960,Texas,48385,Real,Real,4
+1960,Texas,48387,Red River,Red River,3821
+1960,Texas,48389,Reeves,Reeves,623
+1960,Texas,48391,Refugio,Refugio,1026
+1960,Texas,48393,Roberts,Roberts,1
+1960,Texas,48395,Robertson,Robertson,6543
+1960,Texas,48397,Rockwall,Rockwall,1381
+1960,Texas,48399,Runnels,Runnels,404
+1960,Texas,48401,Rusk,Rusk,10596
+1960,Texas,48403,Sabine,Sabine,1892
+1960,Texas,48405,San Augustine,San Augustine,3009
+1960,Texas,48407,San Jacinto,San Jacinto,3208
+1960,Texas,48409,San Patricio,San Patricio,831
+1960,Texas,48411,San Saba,San Saba,47
+1960,Texas,48413,Schleicher,Schleicher,77
+1960,Texas,48415,Scurry,Scurry,568
+1960,Texas,48417,Shackelford,Shackelford,127
+1960,Texas,48419,Shelby,Shelby,5248
+1960,Texas,48421,Sherman,Sherman,0
+1960,Texas,48423,Smith,Smith,23341
+1960,Texas,48425,Somervell,Somervell,3
+1960,Texas,48427,Starr,Starr,0
+1960,Texas,48429,Stephens,Stephens,395
+1960,Texas,48431,Sterling,Sterling,9
+1960,Texas,48433,Stonewall,Stonewall,119
+1960,Texas,48435,Sutton,Sutton,32
+1960,Texas,48437,Swisher,Swisher,433
+1960,Texas,48439,Tarrant,Tarrant,59026
+1960,Texas,48441,Taylor,Taylor,4583
+1960,Texas,48443,Terrell,Terrell,8
+1960,Texas,48445,Terry,Terry,598
+1960,Texas,48447,Throckmorton,Throckmorton,4
+1960,Texas,48449,Titus,Titus,2940
+1960,Texas,48451,Tom Green,Tom Green,3114
+1960,Texas,48453,Travis,Travis,26863
+1960,Texas,48455,Trinity,Trinity,2031
+1960,Texas,48457,Tyler,Tyler,2230
+1960,Texas,48459,Upshur,Upshur,5123
+1960,Texas,48461,Upton,Upton,272
+1960,Texas,48463,Uvalde,Uvalde,153
+1960,Texas,48465,Val Verde,Val Verde,727
+1960,Texas,48467,Van Zandt,Van Zandt,1427
+1960,Texas,48469,Victoria,Victoria,4005
+1960,Texas,48471,Walker,Walker,7005
+1960,Texas,48473,Waller,Waller,6466
+1960,Texas,48475,Ward,Ward,374
+1960,Texas,48477,Washington,Washington,6106
+1960,Texas,48479,Webb,Webb,208
+1960,Texas,48481,Wharton,Wharton,7803
+1960,Texas,48483,Wheeler,Wheeler,294
+1960,Texas,48485,Wichita,Wichita,8701
+1960,Texas,48487,Wilbarger,Wilbarger,1636
+1960,Texas,48489,Willacy,Willacy,105
+1960,Texas,48491,Williamson,Williamson,4878
+1960,Texas,48493,Wilson,Wilson,257
+1960,Texas,48495,Winkler,Winkler,417
+1960,Texas,48497,Wise,Wise,134
+1960,Texas,48499,Wood,Wood,2738
+1960,Texas,48501,Yoakum,Yoakum,81
+1960,Texas,48503,Young,Young,251
+1960,Texas,48505,Zapata,Zapata,17
+1960,Texas,48507,Zavala,Zavala,64
+1960,Utah,49001,Beaver,Beaver,0
+1960,Utah,49003,Box Elder,Box Elder,22
+1960,Utah,49005,Cache,Cache,15
+1960,Utah,49007,Carbon,Carbon,75
+1960,Utah,49009,Daggett,Daggett,0
+1960,Utah,49011,Davis,Davis,310
+1960,Utah,49013,Duchesne,Duchesne,2
+1960,Utah,49015,Emery,Emery,0
+1960,Utah,49017,Garfield,Garfield,0
+1960,Utah,49019,Grand,Grand,3
+1960,Utah,49021,Iron,Iron,2
+1960,Utah,49023,Juab,Juab,0
+1960,Utah,49025,Kane,Kane,4
+1960,Utah,49027,Millard,Millard,2
+1960,Utah,49029,Morgan,Morgan,1
+1960,Utah,49031,Piute,Piute,0
+1960,Utah,49033,Rich,Rich,0
+1960,Utah,49035,Salt Lake,Salt Lake,1704
+1960,Utah,49037,San Juan,San Juan,19
+1960,Utah,49039,Sanpete,Sanpete,1
+1960,Utah,49041,Sevier,Sevier,1
+1960,Utah,49043,Summit,Summit,5
+1960,Utah,49045,Tooele,Tooele,217
+1960,Utah,49047,Uintah,Uintah,1
+1960,Utah,49049,Utah,Utah,23
+1960,Utah,49051,Wasatch,Wasatch,1
+1960,Utah,49053,Washington,Washington,1
+1960,Utah,49055,Wayne,Wayne,1
+1960,Utah,49057,Weber,Weber,1738
+1960,Vermont,50001,Addison,Addison,26
+1960,Vermont,50003,Bennington,Bennington,36
+1960,Vermont,50005,Caledonia,Caledonia,26
+1960,Vermont,50007,Chittenden,Chittenden,215
+1960,Vermont,50009,Essex,Essex,7
+1960,Vermont,50011,Franklin,Franklin,42
+1960,Vermont,50013,Grand Isle,Grand Isle,0
+1960,Vermont,50015,Lamoille,Lamoille,2
+1960,Vermont,50017,Orange,Orange,10
+1960,Vermont,50019,Orleans,Orleans,9
+1960,Vermont,50021,Rutland,Rutland,29
+1960,Vermont,50023,Washington,Washington,42
+1960,Vermont,50025,Windham,Windham,26
+1960,Vermont,50027,Windsor,Windsor,49
+1960,Virginia,51001,Accomack,Accomack,11837
+1960,Virginia,51003,Albemarle,Albemarle,4545
+1960,Virginia,51005,Alleghany,Alleghany,471
+1960,Virginia,51007,Amelia,Amelia,3995
+1960,Virginia,51009,Amherst,Amherst,5217
+1960,Virginia,51011,Appomattox,Appomattox,2328
+1960,Virginia,51013,Arlington,Arlington,8590
+1960,Virginia,51015,Augusta,Augusta,1626
+1960,Virginia,51017,Bath,Bath,495
+1960,Virginia,51019,Bedford,Bedford,5992
+1960,Virginia,51021,Bland,Bland,197
+1960,Virginia,51023,Botetourt,Botetourt,1515
+1960,Virginia,51025,Brunswick,Brunswick,10428
+1960,Virginia,51027,Buchanan,Buchanan,2
+1960,Virginia,51029,Buckingham,Buckingham,4845
+1960,Virginia,51031,Campbell,Campbell,6944
+1960,Virginia,51033,Caroline,Caroline,6594
+1960,Virginia,51035,Carroll,Carroll,74
+1960,Virginia,51036,Charles City,Charles City,4145
+1960,Virginia,51037,Charlotte,Charlotte,5329
+1960,Virginia,51041,Chesterfield,Chesterfield,9405
+1960,Virginia,51043,Clarke,Clarke,1366
+1960,Virginia,51045,Craig,Craig,2
+1960,Virginia,51047,Culpeper,Culpeper,4139
+1960,Virginia,51049,Cumberland,Cumberland,3450
+1960,Virginia,51051,Dickenson,Dickenson,149
+1960,Virginia,51053,Dinwiddie,Dinwiddie,13678
+1960,Virginia,51057,Essex,Essex,3163
+1960,Virginia,51059,Fairfax,Fairfax,13821
+1960,Virginia,51061,Fauquier,Fauquier,6238
+1960,Virginia,51063,Floyd,Floyd,532
+1960,Virginia,51065,Fluvanna,Fluvanna,2722
+1960,Virginia,51067,Franklin,Franklin,3738
+1960,Virginia,51069,Frederick,Frederick,431
+1960,Virginia,51071,Giles,Giles,441
+1960,Virginia,51073,Gloucester,Gloucester,3352
+1960,Virginia,51075,Goochland,Goochland,4432
+1960,Virginia,51077,Grayson,Grayson,681
+1960,Virginia,51079,Greene,Greene,584
+1960,Virginia,51081,Greensville,Greensville,8861
+1960,Virginia,51083,Halifax,Halifax,14812
+1960,Virginia,51085,Hanover,Hanover,6960
+1960,Virginia,51087,Henrico,Henrico,5989
+1960,Virginia,51089,Henry,Henry,9110
+1960,Virginia,51091,Highland,Highland,18
+1960,Virginia,51093,Isle Of Wight,Isle Of Wight,9022
+1960,Virginia,51095,James City,James City,4085
+1960,Virginia,51097,King And Queen,King And Queen,3066
+1960,Virginia,51099,King George,King George,1950
+1960,Virginia,51101,King William,King William,3351
+1960,Virginia,51103,Lancaster,Lancaster,3635
+1960,Virginia,51105,Lee,Lee,167
+1960,Virginia,51107,Loudoun,Loudoun,4335
+1960,Virginia,51109,Louisa,Louisa,5145
+1960,Virginia,51111,Lunenburg,Lunenburg,5286
+1960,Virginia,51113,Madison,Madison,1830
+1960,Virginia,51115,Matthews,Matthews,1755
+1960,Virginia,51117,Mecklenburg,Mecklenburg,14703
+1960,Virginia,51119,Middlesex,Middlesex,2612
+1960,Virginia,51121,Montgomery,Montgomery,1422
+1960,Virginia,51123,Nansemond,Nansemond,19746
+1960,Virginia,51125,Nelson,Nelson,3554
+1960,Virginia,51127,New Kent,New Kent,2314
+1960,Virginia,51129,Norfolk,Norfolk,13478
+1960,Virginia,51131,Northampton,Northampton,9174
+1960,Virginia,51133,Northumberland,Northumberland,4343
+1960,Virginia,51135,Nottoway,Nottoway,6467
+1960,Virginia,51137,Orange,Orange,2881
+1960,Virginia,51139,Page,Page,477
+1960,Virginia,51141,Patrick,Patrick,1379
+1960,Virginia,51143,Pittsylvania,Pittsylvania,19944
+1960,Virginia,51145,Powhatan,Powhatan,2674
+1960,Virginia,51147,Prince Edward,Prince Edward,5631
+1960,Virginia,51149,Prince George,Prince George,4713
+1960,Virginia,51151,Princess Anne,Princess Anne,12393
+1960,Virginia,51153,Prince William,Prince William,3965
+1960,Virginia,51155,Pulaski,Pulaski,1788
+1960,Virginia,51157,Rappahannock,Rappahannock,945
+1960,Virginia,51159,Richmond,Richmond,2213
+1960,Virginia,51161,Roanoke,Roanoke,3662
+1960,Virginia,51163,Rockbridge,Rockbridge,1972
+1960,Virginia,51165,Rockingham,Rockingham,704
+1960,Virginia,51167,Russell,Russell,503
+1960,Virginia,51169,Scott,Scott,311
+1960,Virginia,51171,Shenandoah,Shenandoah,354
+1960,Virginia,51173,Smyth,Smyth,504
+1960,Virginia,51175,Southampton,Southampton,15659
+1960,Virginia,51177,Spotsylvania,Spotsylvania,3152
+1960,Virginia,51179,Stafford,Stafford,1954
+1960,Virginia,51181,Surry,Surry,4023
+1960,Virginia,51183,Sussex,Sussex,8223
+1960,Virginia,51185,Tazewell,Tazewell,2001
+1960,Virginia,51187,Warren,Warren,1054
+1960,Virginia,51191,Washington,Washington,947
+1960,Virginia,51193,Westmoreland,Westmoreland,5166
+1960,Virginia,51195,Wise,Wise,1228
+1960,Virginia,51197,Wythe,Wythe,955
+1960,Virginia,51199,York,York,4667
+1960,Virginia,51510,Alexandria City,Alexandria City,10353
+1960,Virginia,51520,Bristol City,Bristol City,1152
+1960,Virginia,51530,Buena Vista City,Buena Vista City,253
+1960,Virginia,51540,Charlottesville City,Charlottesville City,5561
+1960,Virginia,51560,Clifton Forge City,Clifton Forge City,1037
+1960,Virginia,51570,Colonial Heights City,Colonial Heights City,14
+1960,Virginia,51580,Covington City,Covington City,1325
+1960,Virginia,51590,Danville City,Danville City,11558
+1960,Virginia,51610,Falls Church City,Falls Church City,144
+1960,Virginia,51630,Fredericksburg City,Fredericksburg City,2593
+1960,Virginia,51640,Galax City,Galax City,342
+1960,Virginia,51650,Hampton City,Hampton City,18851
+1960,Virginia,51660,Harrisonburg City,Harrisonburg City,720
+1960,Virginia,51670,Hopewell City,Hopewell City,2972
+1960,Virginia,51680,Lynchburg City,Lynchburg City,11109
+1960,Virginia,51690,Martinsville City,Martinsville City,5691
+1960,Virginia,51700,Newport News City,Newport News City,38700
+1960,Virginia,51710,Norfolk City,Norfolk City,78806
+1960,Virginia,51720,Norton City,Norton City,381
+1960,Virginia,51730,Petersburg City,Petersburg City,17351
+1960,Virginia,51740,Portsmouth City,Portsmouth City,39290
+1960,Virginia,51750,Radford City,Radford City,620
+1960,Virginia,51760,Richmond City,Richmond City,91972
+1960,Virginia,51770,Roanoke City,Roanoke City,16527
+1960,Virginia,51780,South Boston City,South Boston City,1937
+1960,Virginia,,South Norfolk City,South Norfolk City,5772
+1960,Virginia,51790,Staunton City,Staunton City,2201
+1960,Virginia,51800,Suffolk City,Suffolk City,4699
+1960,Virginia,51810,Virginia Beach City,Virginia Beach City,515
+1960,Virginia,51820,Waynesboro City,Waynesboro City,976
+1960,Virginia,51830,Williamsburg City,Williamsburg City,928
+1960,Virginia,51840,Winchester City,Winchester City,1183
+1960,Washington,53001,Adams,Adams,47
+1960,Washington,53003,Asotin,Asotin,18
+1960,Washington,53005,Benton,Benton,296
+1960,Washington,53007,Chelan,Chelan,35
+1960,Washington,53009,Clallam,Clallam,45
+1960,Washington,53011,Clark,Clark,440
+1960,Washington,53013,Columbia,Columbia,2
+1960,Washington,53015,Cowlitz,Cowlitz,131
+1960,Washington,53017,Douglas,Douglas,18
+1960,Washington,53019,Ferry,Ferry,3
+1960,Washington,53021,Franklin,Franklin,1230
+1960,Washington,53023,Garfield,Garfield,1
+1960,Washington,53025,Grant,Grant,832
+1960,Washington,53027,Grays Harbor,Grays Harbor,39
+1960,Washington,53029,Island,Island,204
+1960,Washington,53031,Jefferson,Jefferson,16
+1960,Washington,53033,King,King,27805
+1960,Washington,53035,Kitsap,Kitsap,1243
+1960,Washington,53037,Kittitas,Kittitas,36
+1960,Washington,53039,Klikatat,Klikatat,6
+1960,Washington,53041,Lewis,Lewis,26
+1960,Washington,53043,Lincoln,Lincoln,8
+1960,Washington,53045,Mason,Mason,5
+1960,Washington,53047,Okanogan,Okanogan,25
+1960,Washington,53049,Pacific,Pacific,15
+1960,Washington,53051,Pend Oreille,Pend Oreille,2
+1960,Washington,53053,Pierce,Pierce,10520
+1960,Washington,53055,San Juan,San Juan,0
+1960,Washington,53057,Skagit,Skagit,68
+1960,Washington,53059,Skamania,Skamania,0
+1960,Washington,53061,Snohomish,Snohomish,456
+1960,Washington,53063,Spokane,Spokane,2993
+1960,Washington,53065,Stevens,Stevens,14
+1960,Washington,53067,Thurston,Thurston,68
+1960,Washington,53069,Wahkiakum,Wahkiakum,4
+1960,Washington,53071,Walla Walla,Walla Walla,380
+1960,Washington,53073,Whatcom,Whatcom,57
+1960,Washington,53075,Whitman,Whitman,24
+1960,Washington,53077,Yakima,Yakima,1626
+1960,West Virginia,54001,Barbour,Barbour,193
+1960,West Virginia,54003,Berkeley,Berkeley,1301
+1960,West Virginia,54005,Boone,Boone,342
+1960,West Virginia,54007,Braxton,Braxton,119
+1960,West Virginia,54009,Brooke,Brooke,410
+1960,West Virginia,54011,Cabell,Cabell,4760
+1960,West Virginia,54013,Calhoun,Calhoun,11
+1960,West Virginia,54015,Clay,Clay,66
+1960,West Virginia,54017,Doddridge,Doddridge,1
+1960,West Virginia,54019,Fayette,Fayette,7601
+1960,West Virginia,54021,Gilmer,Gilmer,1
+1960,West Virginia,54023,Grant,Grant,232
+1960,West Virginia,54025,Greenbrier,Greenbrier,1879
+1960,West Virginia,54027,Hampshire,Hampshire,162
+1960,West Virginia,54029,Hancock,Hancock,1521
+1960,West Virginia,54031,Hardy,Hardy,239
+1960,West Virginia,54033,Harrison,Harrison,1317
+1960,West Virginia,54035,Jackson,Jackson,6
+1960,West Virginia,54037,Jefferson,Jefferson,2882
+1960,West Virginia,54039,Kanawha,Kanawha,14535
+1960,West Virginia,54041,Lewis,Lewis,95
+1960,West Virginia,54043,Lincoln,Lincoln,3
+1960,West Virginia,54045,Logan,Logan,4776
+1960,West Virginia,54047,McDowell,Mcdowell,15899
+1960,West Virginia,54049,Marion,Marion,2737
+1960,West Virginia,54051,Marshall,Marshall,360
+1960,West Virginia,54053,Mason,Mason,529
+1960,West Virginia,54055,Mercer,Mercer,7186
+1960,West Virginia,54057,Mineral,Mineral,681
+1960,West Virginia,54059,Mingo,Mingo,2053
+1960,West Virginia,54061,Monongalia,Monongalia,1133
+1960,West Virginia,54063,Monroe,Monroe,346
+1960,West Virginia,54065,Morgan,Morgan,126
+1960,West Virginia,54067,Nicholas,Nicholas,6
+1960,West Virginia,54069,Ohio,Ohio,2089
+1960,West Virginia,54071,Pendleton,Pendleton,172
+1960,West Virginia,54073,Pleasants,Pleasants,8
+1960,West Virginia,54075,Pocahontas,Pocahontas,373
+1960,West Virginia,54077,Preston,Preston,100
+1960,West Virginia,54079,Putnam,Putnam,13
+1960,West Virginia,54081,Raleigh,Raleigh,9538
+1960,West Virginia,54083,Randolph,Randolph,260
+1960,West Virginia,54085,Ritchie,Ritchie,1
+1960,West Virginia,54087,Roane,Roane,17
+1960,West Virginia,54089,Summers,Summers,1038
+1960,West Virginia,54091,Taylor,Taylor,193
+1960,West Virginia,54093,Tucker,Tucker,20
+1960,West Virginia,54095,Tyler,Tyler,12
+1960,West Virginia,54097,Upshur,Upshur,71
+1960,West Virginia,54099,Wayne,Wayne,24
+1960,West Virginia,54101,Webster,Webster,1
+1960,West Virginia,54103,Wetzel,Wetzel,5
+1960,West Virginia,54105,Wirt,Wirt,13
+1960,West Virginia,54107,Wood,Wood,643
+1960,West Virginia,54109,Wyoming,Wyoming,1279
+1960,Wisconsin,55001,Adams,Adams,6
+1960,Wisconsin,55003,Ashland,Ashland,4
+1960,Wisconsin,55005,Barron,Barron,9
+1960,Wisconsin,55007,Bayfield,Bayfield,6
+1960,Wisconsin,55009,Brown,Brown,128
+1960,Wisconsin,55011,Buffalo,Buffalo,2
+1960,Wisconsin,55013,Burnett,Burnett,13
+1960,Wisconsin,55015,Calumet,Calumet,1
+1960,Wisconsin,55017,Chippewa,Chippewa,3
+1960,Wisconsin,55019,Clark,Clark,30
+1960,Wisconsin,55021,Columbia,Columbia,3
+1960,Wisconsin,55023,Crawford,Crawford,4
+1960,Wisconsin,55025,Dane,Dane,1611
+1960,Wisconsin,55027,Dodge,Dodge,279
+1960,Wisconsin,55029,Door,Door,10
+1960,Wisconsin,55031,Douglas,Douglas,31
+1960,Wisconsin,55033,Dunn,Dunn,9
+1960,Wisconsin,55035,Eau Claire,Eau Claire,13
+1960,Wisconsin,55037,Florence,Florence,1
+1960,Wisconsin,55039,Fond du Lac,Fond Du Lac,54
+1960,Wisconsin,55041,Forest,Forest,0
+1960,Wisconsin,55043,Grant,Grant,7
+1960,Wisconsin,55045,Green,Green,5
+1960,Wisconsin,55047,Green Lake,Green Lake,2
+1960,Wisconsin,55049,Iowa,Iowa,10
+1960,Wisconsin,55051,Iron,Iron,2
+1960,Wisconsin,55053,Jackson,Jackson,6
+1960,Wisconsin,55055,Jefferson,Jefferson,20
+1960,Wisconsin,55057,Juneau,Juneau,8
+1960,Wisconsin,55059,Kenosha,Kenosha,957
+1960,Wisconsin,55061,Kewaunee,Kewaunee,0
+1960,Wisconsin,55063,La Crosse,La Crosse,25
+1960,Wisconsin,55065,Lafayette,Lafayette,2
+1960,Wisconsin,55067,Langlade,Langlade,17
+1960,Wisconsin,55069,Lincoln,Lincoln,13
+1960,Wisconsin,55071,Manitowoc,Manitowoc,14
+1960,Wisconsin,55073,Marathon,Marathon,18
+1960,Wisconsin,55075,Marinette,Marinette,21
+1960,Wisconsin,55077,Marquette,Marquette,0
+1960,Wisconsin,55079,Milwaukee,Milwaukee,63024
+1960,Wisconsin,55081,Monroe,Monroe,53
+1960,Wisconsin,55083,Oconto,Oconto,0
+1960,Wisconsin,55085,Oneida,Oneida,7
+1960,Wisconsin,55087,Outagamie,Outagamie,3
+1960,Wisconsin,55089,Ozaukee,Ozaukee,9
+1960,Wisconsin,55091,Pepin,Pepin,2
+1960,Wisconsin,55093,Pierce,Pierce,21
+1960,Wisconsin,55095,Polk,Polk,12
+1960,Wisconsin,55097,Portage,Portage,4
+1960,Wisconsin,55099,Price,Price,0
+1960,Wisconsin,55101,Racine,Racine,5289
+1960,Wisconsin,55103,Richland,Richland,15
+1960,Wisconsin,55105,Rock,Rock,2294
+1960,Wisconsin,55107,Rusk,Rusk,12
+1960,Wisconsin,55109,St Croix,St Croix,28
+1960,Wisconsin,55111,Sauk,Sauk,17
+1960,Wisconsin,55113,Sawyer,Sawyer,0
+1960,Wisconsin,55115,Shawano,Shawano,5
+1960,Wisconsin,55117,Sheboygan,Sheboygan,6
+1960,Wisconsin,55119,Taylor,Taylor,1
+1960,Wisconsin,55121,Trempealeau,Trempealeau,9
+1960,Wisconsin,55123,Vernon,Vernon,7
+1960,Wisconsin,55125,Vilas,Vilas,0
+1960,Wisconsin,55127,Walworth,Walworth,158
+1960,Wisconsin,55129,Washburn,Washburn,10
+1960,Wisconsin,55131,Washington,Washington,8
+1960,Wisconsin,55133,Waukesha,Waukesha,146
+1960,Wisconsin,55135,Waupaca,Waupaca,5
+1960,Wisconsin,55137,Waushara,Waushara,3
+1960,Wisconsin,55139,Winnebago,Winnebago,52
+1960,Wisconsin,55141,Wood,Wood,2
+1960,Wyoming,56001,Albany,Albany,116
+1960,Wyoming,56003,Big Horn,Big Horn,4
+1960,Wyoming,56005,Campbell,Campbell,9
+1960,Wyoming,56007,Carbon,Carbon,112
+1960,Wyoming,56009,Converse,Converse,1
+1960,Wyoming,56011,Crook,Crook,0
+1960,Wyoming,56013,Fremont,Fremont,14
+1960,Wyoming,56015,Goshen,Goshen,2
+1960,Wyoming,56017,Hot Springs,Hot Springs,12
+1960,Wyoming,56019,Johnson,Johnson,0
+1960,Wyoming,56021,Laramie,Laramie,1096
+1960,Wyoming,56023,Lincoln,Lincoln,15
+1960,Wyoming,56025,Natrona,Natrona,483
+1960,Wyoming,56027,Niobrara,Niobrara,2
+1960,Wyoming,56029,Park,Park,6
+1960,Wyoming,56031,Platte,Platte,4
+1960,Wyoming,56033,Sheridan,Sheridan,42
+1960,Wyoming,56035,Sublette,Sublette,0
+1960,Wyoming,56037,Sweetwater,Sweetwater,195
+1960,Wyoming,56039,Teton,Teton,0
+1960,Wyoming,56041,Uinta,Uinta,25
+1960,Wyoming,56043,Washakie,Washakie,38
+1960,Wyoming,56045,Weston,Weston,6
+1960,Wyoming,56047,Yellowstone National Park,Yellowstone National Park,1

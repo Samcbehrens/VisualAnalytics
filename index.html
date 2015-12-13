@@ -108,7 +108,7 @@ var path = d3.geo.path()
 
     queue()
     .defer(d3.json, "us.json")
-    .defer(d3.csv, "data.csv")
+    .defer(d3.csv, "test1960.csv")
     .await(ready);
 
     function ready (error, us, data){
@@ -116,8 +116,13 @@ var path = d3.geo.path()
       var pairNameWithId = {};
 
       data.forEach(function(d) {
-        pairRateWithId[d.id] = +d.rate;
-        pairNameWithId[d.id] = d.name;
+        console.log('d',d);
+        console.log('d.pop',d.pop)
+        console.log('d.county',d.county)
+        console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
+        console.log('pairNameWithId[d.id]', pairNameWithId[d.id])
+        pairRateWithId[d.id] = +d.pop;
+        pairNameWithId[d.id] = d.county;
       });
       svg.append("g")
       .attr("class", "county")

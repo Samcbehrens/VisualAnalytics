@@ -1,0 +1,2962 @@
+year,state,id,county,areaname,pop
+YEAR,STATE,,COUNTY,AREANAME,0
+1910,Alabama,01001,Autauga,Autauga,11717
+1910,Alabama,01003,Baldwin,Baldwin,5110
+1910,Alabama,01005,Barbour,Barbour,20456
+1910,Alabama,01007,Bibb,Bibb,7710
+1910,Alabama,01009,Blount,Blount,1181
+1910,Alabama,01011,Bullock,Bullock,25362
+1910,Alabama,01013,Butler,Butler,15373
+1910,Alabama,01015,Calhoun,Calhoun,10757
+1910,Alabama,01017,Chambers,Chambers,18660
+1910,Alabama,01019,Cherokee,Cherokee,2606
+1910,Alabama,01021,Chilton,Chilton,4759
+1910,Alabama,01023,Choctaw,Choctaw,11503
+1910,Alabama,01025,Clarke,Clarke,17311
+1910,Alabama,01027,Clay,Clay,2648
+1910,Alabama,01029,Cleburne,Cleburne,711
+1910,Alabama,01031,Coffee,Coffee,5782
+1910,Alabama,01033,Colbert,Colbert,9449
+1910,Alabama,01035,Conecuh,Conecuh,10079
+1910,Alabama,01037,Coosa,Coosa,6256
+1910,Alabama,01039,Covington,Covington,8001
+1910,Alabama,01041,Crenshaw,Crenshaw,7514
+1910,Alabama,01043,Cullman,Cullman,533
+1910,Alabama,01045,Dale,Dale,5810
+1910,Alabama,01047,Dallas,Dallas,43511
+1910,Alabama,01049,DeKalb,Dekalb,854
+1910,Alabama,01051,Elmore,Elmore,13246
+1910,Alabama,01053,Escambia,Escambia,5569
+1910,Alabama,01055,Etowah,Etowah,6804
+1910,Alabama,01057,Fayette,Fayette,1866
+1910,Alabama,01059,Franklin,Franklin,1842
+1910,Alabama,01061,Geneva,Geneva,4305
+1910,Alabama,01063,Greene,Greene,19705
+1910,Alabama,01065,Hale,Hale,21987
+1910,Alabama,01067,Henry,Henry,10150
+1910,Alabama,01069,Houston,Houston,9597
+1910,Alabama,01071,Jackson,Jackson,3136
+1910,Alabama,01073,Jefferson,Jefferson,90617
+1910,Alabama,01075,Lamar,Lamar,3180
+1910,Alabama,01077,Lauderdale,Lauderdale,7096
+1910,Alabama,01079,Lawrence,Lawrence,6933
+1910,Alabama,01081,Lee,Lee,19643
+1910,Alabama,01083,Limestone,Limestone,10255
+1910,Alabama,01085,Lowndes,Lowndes,28125
+1910,Alabama,01087,Macon,Macon,22039
+1910,Alabama,01089,Madison,Madison,18894
+1910,Alabama,01091,Marengo,Marengo,30846
+1910,Alabama,01093,Marion,Marion,520
+1910,Alabama,01095,Marshall,Marshall,1365
+1910,Alabama,01097,Mobile,Mobile,34719
+1910,Alabama,01099,Monroe,Monroe,15727
+1910,Alabama,01101,Montgomery,Montgomery,56867
+1910,Alabama,01103,Morgan,Morgan,8198
+1910,Alabama,01105,Perry,Perry,24494
+1910,Alabama,01107,Pickens,Pickens,12951
+1910,Alabama,01109,Pike,Pike,14437
+1910,Alabama,01111,Randolph,Randolph,5717
+1910,Alabama,01113,Russell,Russell,20198
+1910,Alabama,01115,St Clair,St Clair,3632
+1910,Alabama,01117,Shelby,Shelby,7641
+1910,Alabama,01119,Sumter,Sumter,23322
+1910,Alabama,01121,Talladega,Talladega,18265
+1910,Alabama,01123,Tallapoosa,Tallapoosa,11457
+1910,Alabama,01125,Tuscaloosa,Tuscaloosa,19026
+1910,Alabama,01127,Walker,Walker,6538
+1910,Alabama,01129,Washington,Washington,6064
+1910,Alabama,01131,Wilcox,Wilcox,27602
+1910,Alabama,01133,Winston,Winston,54
+1910,Arizona Territory,,Apache,Apache,8
+1910,Arizona Territory,,Cochise,Cochise,478
+1910,Arizona Territory,,Coconino,Coconino,35
+1910,Arizona Territory,,Gila,Gila,226
+1910,Arizona Territory,,Graham,Graham,112
+1910,Arizona Territory,,Maricopa,Maricopa,469
+1910,Arizona Territory,,Mohave,Mohave,10
+1910,Arizona Territory,,Navajo,Navajo,38
+1910,Arizona Territory,,Pima,Pima,295
+1910,Arizona Territory,,Pinal,Pinal,48
+1910,Arizona Territory,,Santa Cruz,Santa Cruz,34
+1910,Arizona Territory,,Yavapai,Yavapai,148
+1910,Arizona Territory,,Yuma,Yuma,108
+1910,Arkansas,05001,Arkansas,Arkansas,4269
+1910,Arkansas,05003,Ashley,Ashley,13276
+1910,Arkansas,05005,Baxter,Baxter,7
+1910,Arkansas,05007,Benton,Benton,110
+1910,Arkansas,05009,Boone,Boone,7
+1910,Arkansas,05011,Bradley,Bradley,4641
+1910,Arkansas,05013,Calhoun,Calhoun,3413
+1910,Arkansas,05015,Carroll,Carroll,66
+1910,Arkansas,05017,Chicot,Chicot,17682
+1910,Arkansas,05019,Clark,Clark,7367
+1910,Arkansas,05021,Clay,Clay,10
+1910,Arkansas,05023,Cleburne,Cleburne,7
+1910,Arkansas,05025,Cleveland,Cleveland,4334
+1910,Arkansas,05027,Columbia,Columbia,10869
+1910,Arkansas,05029,Conway,Conway,8298
+1910,Arkansas,05031,Craighead,Craighead,1328
+1910,Arkansas,05033,Crawford,Crawford,2063
+1910,Arkansas,05035,Crittenden,Crittenden,19000
+1910,Arkansas,05037,Cross,Cross,6127
+1910,Arkansas,05039,Dallas,Dallas,4657
+1910,Arkansas,05041,Desha,Desha,12129
+1910,Arkansas,05043,Drew,Drew,11789
+1910,Arkansas,05045,Faulkner,Faulkner,4460
+1910,Arkansas,05047,Franklin,Franklin,382
+1910,Arkansas,05049,Fulton,Fulton,44
+1910,Arkansas,05051,Garland,Garland,4665
+1910,Arkansas,05053,Grant,Grant,994
+1910,Arkansas,05055,Greene,Greene,40
+1910,Arkansas,05057,Hempstead,Hempstead,14100
+1910,Arkansas,05059,Hot Spring,Hot Spring,1960
+1910,Arkansas,05061,Howard,Howard,3498
+1910,Arkansas,05063,Independence,Independence,1264
+1910,Arkansas,05065,Izard,Izard,242
+1910,Arkansas,05067,Jackson,Jackson,6203
+1910,Arkansas,05069,Jefferson,Jefferson,37692
+1910,Arkansas,05071,Johnson,Johnson,517
+1910,Arkansas,05073,Lafayette,Lafayette,7181
+1910,Arkansas,05075,Lawrence,Lawrence,750
+1910,Arkansas,05077,Lee,Lee,19003
+1910,Arkansas,05079,Lincoln,Lincoln,9967
+1910,Arkansas,05081,Little River,Little River,5698
+1910,Arkansas,05083,Logan,Logan,640
+1910,Arkansas,05085,Lonoke,Lonoke,11268
+1910,Arkansas,05087,Madison,Madison,45
+1910,Arkansas,05089,Marion,Marion,0
+1910,Arkansas,05091,Miller,Miller,7163
+1910,Arkansas,05093,Mississippi,Mississippi,13472
+1910,Arkansas,05095,Monroe,Monroe,12526
+1910,Arkansas,05097,Montgomery,Montgomery,304
+1910,Arkansas,05099,Nevada,Nevada,6790
+1910,Arkansas,05101,Newton,Newton,10
+1910,Arkansas,05103,Ouachita,Ouachita,12333
+1910,Arkansas,05105,Perry,Perry,910
+1910,Arkansas,05107,Phillips,Phillips,26354
+1910,Arkansas,05109,Pike,Pike,918
+1910,Arkansas,05111,Poinsett,Poinsett,2121
+1910,Arkansas,05113,Polk,Polk,46
+1910,Arkansas,05115,Pope,Pope,1867
+1910,Arkansas,05117,Prairie,Prairie,4481
+1910,Arkansas,05119,Pulaski,Pulaski,35462
+1910,Arkansas,05121,Randolph,Randolph,515
+1910,Arkansas,05123,St Francis,St Francis,15508
+1910,Arkansas,05125,Saline,Saline,1833
+1910,Arkansas,05127,Scott,Scott,22
+1910,Arkansas,05129,Searcy,Searcy,104
+1910,Arkansas,05131,Sebastian,Sebastian,5410
+1910,Arkansas,05133,Sevier,Sevier,2296
+1910,Arkansas,05135,Sharp,Sharp,83
+1910,Arkansas,05137,Stone,Stone,94
+1910,Arkansas,05139,Union,Union,13747
+1910,Arkansas,05141,Van Buren,Van Buren,220
+1910,Arkansas,05143,Washington,Washington,614
+1910,Arkansas,05145,White,White,2162
+1910,Arkansas,05147,Woodruff,Woodruff,11705
+1910,Arkansas,05149,Yell,Yell,1759
+1910,California,06001,Alameda,Alameda,3634
+1910,California,06003,Alpine,Alpine,0
+1910,California,06005,Amador,Amador,2
+1910,California,06007,Butte,Butte,122
+1910,California,06009,Calaveras,Calaveras,17
+1910,California,06011,Colusa,Colusa,50
+1910,California,06013,Contra Costa,Contra Costa,67
+1910,California,06015,Del Norte,Del Norte,1
+1910,California,06017,El Dorado,El Dorado,28
+1910,California,06019,Fresno,Fresno,474
+1910,California,06021,Glenn,Glenn,15
+1910,California,06023,Humboldt,Humboldt,40
+1910,California,06025,Imperial,Imperial,65
+1910,California,06027,Inyo,Inyo,21
+1910,California,06029,Kern,Kern,369
+1910,California,06031,Kings,Kings,172
+1910,California,06033,Lake,Lake,11
+1910,California,06035,Lassen,Lassen,1
+1910,California,06037,Los Angeles,Los Angeles,9424
+1910,California,06039,Madera,Madera,56
+1910,California,06041,Marin,Marin,145
+1910,California,06043,Mariposa,Mariposa,18
+1910,California,06045,Mendocino,Mendocino,31
+1910,California,06047,Merced,Merced,75
+1910,California,06049,Modoc,Modoc,4
+1910,California,06051,Mono,Mono,0
+1910,California,06053,Monterey,Monterey,107
+1910,California,06055,Napa,Napa,48
+1910,California,06057,Nevada,Nevada,14
+1910,California,06059,Orange,Orange,97
+1910,California,06061,Placer,Placer,55
+1910,California,06063,Plumas,Plumas,5
+1910,California,06065,Riverside,Riverside,518
+1910,California,06067,Sacramento,Sacramento,631
+1910,California,06069,San Benito,San Benito,26
+1910,California,06071,San Bernardino,San Bernardino,642
+1910,California,06073,San Diego,San Diego,684
+1910,California,06075,San Francisco,San Francisco,1642
+1910,California,06077,San Joaquin,San Joaquin,307
+1910,California,06079,San Luis Obispo,San Luis Obispo,77
+1910,California,06081,San Mateo,San Mateo,67
+1910,California,06083,Santa Barbara,Santa Barbara,108
+1910,California,06085,Santa Clara,Santa Clara,262
+1910,California,06087,Santa Cruz,Santa Cruz,83
+1910,California,06089,Shasta,Shasta,159
+1910,California,06091,Sierra,Sierra,0
+1910,California,06093,Siskiyou,Siskiyou,29
+1910,California,06095,Solano,Solano,250
+1910,California,06097,Sonoma,Sonoma,43
+1910,California,06099,Stanislaus,Stanislaus,89
+1910,California,06101,Sutter,Sutter,10
+1910,California,06103,Tehama,Tehama,91
+1910,California,06105,Trinity,Trinity,8
+1910,California,06107,Tulare,Tulare,190
+1910,California,06109,Tuolumne,Tuolumne,14
+1910,California,06111,Ventura,Ventura,64
+1910,California,06113,Yolo,Yolo,280
+1910,California,06115,Yuba,Yuba,203
+1910,Colorado,08001,Adams,Adams,49
+1910,Colorado,08005,Arapahoe,Arapahoe,131
+1910,Colorado,08007,Archuleta,Archuleta,7
+1910,Colorado,08009,Baca,Baca,2
+1910,Colorado,08011,Bent,Bent,51
+1910,Colorado,08013,Boulder,Boulder,186
+1910,Colorado,08015,Chaffee,Chaffee,60
+1910,Colorado,08017,Cheyenne,Cheyenne,27
+1910,Colorado,08019,Clear Creek,Clear Creek,43
+1910,Colorado,08021,Conejos,Conejos,49
+1910,Colorado,08023,Costilla,Costilla,22
+1910,Colorado,08027,Custer,Custer,1
+1910,Colorado,08029,Delta,Delta,9
+1910,Colorado,08031,Denver,Denver,5426
+1910,Colorado,08033,Dolores,Dolores,1
+1910,Colorado,08035,Douglas,Douglas,8
+1910,Colorado,08037,Eagle,Eagle,1
+1910,Colorado,08039,Elbert,Elbert,0
+1910,Colorado,08041,El Paso,El Paso,1330
+1910,Colorado,08043,Fremont,Fremont,339
+1910,Colorado,08045,Garfield,Garfield,64
+1910,Colorado,08047,Gilpin,Gilpin,18
+1910,Colorado,08049,Grand,Grand,9
+1910,Colorado,08051,Gunnison,Gunnison,44
+1910,Colorado,08053,Hinsdale,Hinsdale,6
+1910,Colorado,08055,Huerfano,Huerfano,323
+1910,Colorado,08057,Jackson,Jackson,0
+1910,Colorado,08059,Jefferson,Jefferson,134
+1910,Colorado,08061,Kiowa,Kiowa,1
+1910,Colorado,08063,Kit Carson,Kit Carson,5
+1910,Colorado,08065,Lake,Lake,71
+1910,Colorado,08067,La Plata,La Plata,63
+1910,Colorado,08069,Larimer,Larimer,33
+1910,Colorado,08071,Las Animas,Las Animas,379
+1910,Colorado,08073,Lincoln,Lincoln,8
+1910,Colorado,08075,Logan,Logan,23
+1910,Colorado,08077,Mesa,Mesa,130
+1910,Colorado,08079,Mineral,Mineral,2
+1910,Colorado,08083,Montezuma,Montezuma,3
+1910,Colorado,08085,Montrose,Montrose,9
+1910,Colorado,08087,Morgan,Morgan,17
+1910,Colorado,08089,Otero,Otero,247
+1910,Colorado,08091,Ouray,Ouray,22
+1910,Colorado,08093,Park,Park,1
+1910,Colorado,08095,Phillips,Phillips,1
+1910,Colorado,08097,Pitkin,Pitkin,15
+1910,Colorado,08099,Prowers,Prowers,38
+1910,Colorado,08101,Pueblo,Pueblo,1689
+1910,Colorado,08103,Rio Blanco,Rio Blanco,7
+1910,Colorado,08105,Rio Grande,Rio Grande,5
+1910,Colorado,08107,Routt,Routt,28
+1910,Colorado,08109,Saguache,Saguache,5
+1910,Colorado,08111,San Juan,San Juan,16
+1910,Colorado,08113,San Miguel,San Miguel,16
+1910,Colorado,08115,Sedgwick,Sedgwick,15
+1910,Colorado,08117,Summit,Summit,2
+1910,Colorado,08119,Teller,Teller,139
+1910,Colorado,08121,Washington,Washington,31
+1910,Colorado,08123,Weld,Weld,92
+1910,Colorado,08125,Yuma,Yuma,0
+1910,Connecticut,09001,Fairfield,Fairfield,3516
+1910,Connecticut,09003,Hartford,Hartford,2934
+1910,Connecticut,09005,Litchfield,Litchfield,758
+1910,Connecticut,09007,Middlesex,Middlesex,367
+1910,Connecticut,09009,New Haven,New Haven,5634
+1910,Connecticut,09011,New London,New London,1431
+1910,Connecticut,09013,Tolland,Tolland,109
+1910,Connecticut,09015,Windham,Windham,425
+1910,Delaware,10001,Kent,Kent,7561
+1910,Delaware,10003,New Castle,New Castle,15682
+1910,Delaware,10005,Sussex,Sussex,7938
+1910,District Of Columbia,11001,District Of Columbia,District Of Columbia,94446
+1910,Florida,12001,Alachua,Alachua,19092
+1910,Florida,12003,Baker,Baker,1159
+1910,Florida,12007,Bradford,Bradford,3987
+1910,Florida,12009,Brevard,Brevard,1399
+1910,Florida,12013,Calhoun,Calhoun,2140
+1910,Florida,12017,Citrus,Citrus,3635
+1910,Florida,12019,Clay,Clay,2453
+1910,Florida,12023,Columbia,Columbia,8411
+1910,Florida,12025,Dade,Dade,4194
+1910,Florida,12027,De Soto,De Soto,2351
+1910,Florida,12031,Duval,Duval,37270
+1910,Florida,12033,Escambia,Escambia,15111
+1910,Florida,12037,Franklin,Franklin,2487
+1910,Florida,12039,Gadsden,Gadsden,14965
+1910,Florida,12047,Hamilton,Hamilton,5533
+1910,Florida,12053,Hernando,Hernando,2781
+1910,Florida,12057,Hillsborough,Hillsborough,16445
+1910,Florida,12059,Holmes,Holmes,1194
+1910,Florida,12063,Jackson,Jackson,14254
+1910,Florida,12065,Jefferson,Jefferson,13114
+1910,Florida,12067,Lafayette,Lafayette,1361
+1910,Florida,12069,Lake,Lake,3627
+1910,Florida,12071,Lee,Lee,937
+1910,Florida,12073,Leon,Leon,14726
+1910,Florida,12075,Levy,Levy,4727
+1910,Florida,12077,Liberty,Liberty,2111
+1910,Florida,12079,Madison,Madison,9410
+1910,Florida,12081,Manatee,Manatee,2346
+1910,Florida,12083,Marion,Marion,16376
+1910,Florida,12087,Monroe,Monroe,5842
+1910,Florida,12089,Nassau,Nassau,5553
+1910,Florida,12095,Orange,Orange,7604
+1910,Florida,12097,Osceola,Osceola,927
+1910,Florida,12099,Palm Beach,Palm Beach,2220
+1910,Florida,12101,Pasco,Pasco,2456
+1910,Florida,12105,Polk,Polk,7419
+1910,Florida,12107,Putnam,Putnam,6804
+1910,Florida,12109,St Johns,St Johns,5454
+1910,Florida,12111,St Lucie,St Lucie,865
+1910,Florida,12113,Santa Rosa,Santa Rosa,4234
+1910,Florida,12119,Sumter,Sumter,2255
+1910,Florida,12121,Suwannee,Suwannee,7813
+1910,Florida,12123,Taylor,Taylor,2689
+1910,Florida,12127,Volusia,Volusia,6592
+1910,Florida,12129,Wakulla,Wakulla,2384
+1910,Florida,12131,Walton,Walton,4997
+1910,Florida,12133,Washington,Washington,4965
+1910,Georgia,13001,Appling,Appling,2863
+1910,Georgia,13007,Baker,Baker,5718
+1910,Georgia,13009,Baldwin,Baldwin,11005
+1910,Georgia,13011,Banks,Banks,2321
+1910,Georgia,13015,Bartow,Bartow,6348
+1910,Georgia,13017,Ben Hill,Ben Hill,4901
+1910,Georgia,13019,Berrien,Berrien,6263
+1910,Georgia,13021,Bibb,Bibb,27481
+1910,Georgia,13027,Brooks,Brooks,14086
+1910,Georgia,13029,Bryan,Bryan,3337
+1910,Georgia,13031,Bulloch,Bulloch,10591
+1910,Georgia,13033,Burke,Burke,22462
+1910,Georgia,13035,Butts,Butts,7200
+1910,Georgia,13037,Calhoun,Calhoun,8361
+1910,Georgia,13039,Camden,Camden,5113
+1910,Georgia,,Campbell,Campbell,3616
+1910,Georgia,13045,Carroll,Carroll,6383
+1910,Georgia,13047,Catoosa,Catoosa,476
+1910,Georgia,13049,Charlton,Charlton,1189
+1910,Georgia,13051,Chatham,Chatham,43981
+1910,Georgia,13053,Chattahoochee,Chattahoochee,3864
+1910,Georgia,13055,Chattooga,Chattooga,2454
+1910,Georgia,13057,Cherokee,Cherokee,1168
+1910,Georgia,13059,Clarke,Clarke,11767
+1910,Georgia,13061,Clay,Clay,6569
+1910,Georgia,13063,Clayton,Clayton,4632
+1910,Georgia,13065,Clinch,Clinch,3378
+1910,Georgia,13067,Cobb,Cobb,7418
+1910,Georgia,13069,Coffee,Coffee,7734
+1910,Georgia,13071,Colquitt,Colquitt,4617
+1910,Georgia,13073,Columbia,Columbia,9198
+1910,Georgia,13077,Coweta,Coweta,16267
+1910,Georgia,13079,Crawford,Crawford,4922
+1910,Georgia,13081,Crisp,Crisp,8616
+1910,Georgia,13083,Dade,Dade,291
+1910,Georgia,13085,Dawson,Dawson,152
+1910,Georgia,13087,Decatur,Decatur,16738
+1910,Georgia,13089,DeKalb,De Kalb,8362
+1910,Georgia,13091,Dodge,Dodge,8460
+1910,Georgia,13093,Dooly,Dooly,12728
+1910,Georgia,13095,Dougherty,Dougherty,12049
+1910,Georgia,13097,Douglas,Douglas,2171
+1910,Georgia,13099,Early,Early,11273
+1910,Georgia,13101,Echols,Echols,990
+1910,Georgia,13103,Effingham,Effingham,4278
+1910,Georgia,13105,Elbert,Elbert,12082
+1910,Georgia,13107,Emanuel,Emanuel,9990
+1910,Georgia,13111,Fannin,Fannin,162
+1910,Georgia,13113,Fayette,Fayette,3815
+1910,Georgia,13115,Floyd,Floyd,10482
+1910,Georgia,13117,Forsyth,Forsyth,1098
+1910,Georgia,13119,Franklin,Franklin,3974
+1910,Georgia,13121,Fulton,Fulton,57985
+1910,Georgia,13123,Gilmer,Gilmer,71
+1910,Georgia,13125,Glascock,Glascock,1507
+1910,Georgia,13127,Glynn,Glynn,9774
+1910,Georgia,13129,Gordon,Gordon,1356
+1910,Georgia,13131,Grady,Grady,7403
+1910,Georgia,13133,Greene,Greene,11636
+1910,Georgia,13135,Gwinnett,Gwinnett,4431
+1910,Georgia,13137,Habersham,Habersham,711
+1910,Georgia,13139,Hall,Hall,4030
+1910,Georgia,13141,Hancock,Hancock,14268
+1910,Georgia,13143,Haralson,Haralson,2027
+1910,Georgia,13145,Harris,Harris,12865
+1910,Georgia,13147,Hart,Hart,5080
+1910,Georgia,13149,Heard,Heard,3756
+1910,Georgia,13151,Henry,Henry,10184
+1910,Georgia,13153,Houston,Houston,17388
+1910,Georgia,13155,Irwin,Irwin,4916
+1910,Georgia,13157,Jackson,Jackson,8613
+1910,Georgia,13159,Jasper,Jasper,11484
+1910,Georgia,13161,Jeff Davis,Jeff Davis,1593
+1910,Georgia,13163,Jefferson,Jefferson,12979
+1910,Georgia,13165,Jenkins,Jenkins,7296
+1910,Georgia,13167,Johnson,Johnson,5557
+1910,Georgia,13169,Jones,Jones,9288
+1910,Georgia,13175,Laurens,Laurens,17544
+1910,Georgia,13177,Lee,Lee,9992
+1910,Georgia,13179,Liberty,Liberty,8355
+1910,Georgia,13181,Lincoln,Lincoln,5175
+1910,Georgia,13185,Lowndes,Lowndes,12955
+1910,Georgia,13187,Lumpkin,Lumpkin,320
+1910,Georgia,13189,McDuffie,Mcduffie,5985
+1910,Georgia,13191,McIntosh,Mcintosh,4978
+1910,Georgia,13193,Macon,Macon,10581
+1910,Georgia,13195,Madison,Madison,5149
+1910,Georgia,13197,Marion,Marion,5364
+1910,Georgia,13199,Meriwether,Meriwether,14730
+1910,Georgia,13201,Miller,Miller,3257
+1910,Georgia,,Milton,Milton,718
+1910,Georgia,13205,Mitchell,Mitchell,11649
+1910,Georgia,13207,Monroe,Monroe,13656
+1910,Georgia,13209,Montgomery,Montgomery,7310
+1910,Georgia,13211,Morgan,Morgan,13414
+1910,Georgia,13213,Murray,Murray,402
+1910,Georgia,13215,Muscogee,Muscogee,16747
+1910,Georgia,13217,Newton,Newton,9458
+1910,Georgia,13219,Oconee,Oconee,5162
+1910,Georgia,13221,Oglethorpe,Oglethorpe,11338
+1910,Georgia,13223,Paulding,Paulding,1588
+1910,Georgia,13227,Pickens,Pickens,440
+1910,Georgia,13229,Pierce,Pierce,2742
+1910,Georgia,13231,Pike,Pike,10159
+1910,Georgia,13233,Polk,Polk,5697
+1910,Georgia,13235,Pulaski,Pulaski,13504
+1910,Georgia,13237,Putnam,Putnam,10178
+1910,Georgia,13239,Quitman,Quitman,3588
+1910,Georgia,13241,Rabun,Rabun,156
+1910,Georgia,13243,Randolph,Randolph,12986
+1910,Georgia,13245,Richmond,Richmond,28390
+1910,Georgia,13247,Rockdale,Rockdale,3592
+1910,Georgia,13249,Schley,Schley,3291
+1910,Georgia,13251,Screven,Screven,12165
+1910,Georgia,13255,Spalding,Spalding,10060
+1910,Georgia,13257,Stephens,Stephens,2222
+1910,Georgia,13259,Stewart,Stewart,10381
+1910,Georgia,13261,Sumter,Sumter,21243
+1910,Georgia,13263,Talbot,Talbot,8230
+1910,Georgia,13265,Taliaferro,Taliaferro,6450
+1910,Georgia,13267,Tattnall,Tattnall,5841
+1910,Georgia,13269,Taylor,Taylor,5379
+1910,Georgia,13271,Telfair,Telfair,4761
+1910,Georgia,13273,Terrell,Terrell,16607
+1910,Georgia,13275,Thomas,Thomas,17086
+1910,Georgia,13277,Tift,Tift,3777
+1910,Georgia,13279,Toombs,Toombs,3411
+1910,Georgia,13281,Towns,Towns,15
+1910,Georgia,13285,Troup,Troup,15399
+1910,Georgia,13287,Turner,Turner,4018
+1910,Georgia,13289,Twiggs,Twiggs,7396
+1910,Georgia,13291,Union,Union,64
+1910,Georgia,13293,Upson,Upson,6998
+1910,Georgia,13295,Walker,Walker,2451
+1910,Georgia,13297,Walton,Walton,10070
+1910,Georgia,13299,Ware,Ware,8914
+1910,Georgia,13301,Warren,Warren,8132
+1910,Georgia,13303,Washington,Washington,17393
+1910,Georgia,13305,Wayne,Wayne,3309
+1910,Georgia,13307,Webster,Webster,4182
+1910,Georgia,13311,White,White,397
+1910,Georgia,13313,Whitfield,Whitfield,1719
+1910,Georgia,13315,Wilcox,Wilcox,5505
+1910,Georgia,13317,Wilkes,Wilkes,16598
+1910,Georgia,13319,Wilkinson,Wilkinson,5155
+1910,Georgia,13321,Worth,Worth,9517
+1910,Hawaii Territory,,Hawaii,Hawaii,140
+1910,Hawaii Territory,,Honolulu,Honolulu,399
+1910,Hawaii Territory,,Kalawao,Kalawao,3
+1910,Hawaii Territory,,Kauai,Kauai,59
+1910,Hawaii Territory,,Maui,Maui,94
+1910,Idaho,16001,Ada,Ada,168
+1910,Idaho,16005,Bannock,Bannock,129
+1910,Idaho,16007,Bear Lake,Bear Lake,1
+1910,Idaho,16011,Bingham,Bingham,44
+1910,Idaho,16013,Blaine,Blaine,10
+1910,Idaho,16015,Boise,Boise,3
+1910,Idaho,16017,Bonner,Bonner,16
+1910,Idaho,16027,Canyon,Canyon,33
+1910,Idaho,16031,Cassia,Cassia,1
+1910,Idaho,16037,Custer,Custer,1
+1910,Idaho,16039,Elmore,Elmore,1
+1910,Idaho,16043,Fremont,Fremont,20
+1910,Idaho,16049,Idaho,Idaho,5
+1910,Idaho,16055,Kootenai,Kootenai,44
+1910,Idaho,16057,Latah,Latah,28
+1910,Idaho,16059,Lemhi,Lemhi,5
+1910,Idaho,16063,Lincoln,Lincoln,28
+1910,Idaho,16069,Nez Perce,Nez Perce,48
+1910,Idaho,16071,Oneida,Oneida,2
+1910,Idaho,16073,Owyhee,Owyhee,3
+1910,Idaho,16079,Shoshone,Shoshone,18
+1910,Idaho,16083,Twin Falls,Twin Falls,31
+1910,Idaho,16087,Washington,Washington,12
+1910,Illinois,17001,Adams,Adams,1880
+1910,Illinois,17003,Alexander,Alexander,7775
+1910,Illinois,17005,Bond,Bond,160
+1910,Illinois,17007,Boone,Boone,43
+1910,Illinois,17009,Brown,Brown,6
+1910,Illinois,17011,Bureau,Bureau,223
+1910,Illinois,17013,Calhoun,Calhoun,0
+1910,Illinois,17015,Carroll,Carroll,13
+1910,Illinois,17017,Cass,Cass,4
+1910,Illinois,17019,Champaign,Champaign,950
+1910,Illinois,17021,Christian,Christian,181
+1910,Illinois,17023,Clark,Clark,74
+1910,Illinois,17025,Clay,Clay,26
+1910,Illinois,17027,Clinton,Clinton,285
+1910,Illinois,17029,Coles,Coles,201
+1910,Illinois,17031,Cook,Cook,46627
+1910,Illinois,17033,Crawford,Crawford,38
+1910,Illinois,17035,Cumberland,Cumberland,7
+1910,Illinois,17037,DeKalb,De Kalb,151
+1910,Illinois,17039,De Witt,De Witt,65
+1910,Illinois,17041,Douglas,Douglas,58
+1910,Illinois,17043,Du Page,Du Page,171
+1910,Illinois,17045,Edgar,Edgar,312
+1910,Illinois,17047,Edwards,Edwards,86
+1910,Illinois,17049,Effingham,Effingham,23
+1910,Illinois,17051,Fayette,Fayette,19
+1910,Illinois,17053,Ford,Ford,87
+1910,Illinois,17055,Franklin,Franklin,19
+1910,Illinois,17057,Fulton,Fulton,248
+1910,Illinois,17059,Gallatin,Gallatin,606
+1910,Illinois,17061,Greene,Greene,62
+1910,Illinois,17063,Grundy,Grundy,78
+1910,Illinois,17065,Hamilton,Hamilton,3
+1910,Illinois,17067,Hancock,Hancock,59
+1910,Illinois,17069,Hardin,Hardin,140
+1910,Illinois,17071,Henderson,Henderson,15
+1910,Illinois,17073,Henry,Henry,175
+1910,Illinois,17075,Iroquois,Iroquois,172
+1910,Illinois,17077,Jackson,Jackson,2696
+1910,Illinois,17079,Jasper,Jasper,69
+1910,Illinois,17081,Jefferson,Jefferson,378
+1910,Illinois,17083,Jersey,Jersey,89
+1910,Illinois,17085,Jo Daviess,Jo Daviess,20
+1910,Illinois,17087,Johnson,Johnson,164
+1910,Illinois,17089,Kane,Kane,760
+1910,Illinois,17091,Kankakee,Kankakee,315
+1910,Illinois,17093,Kendall,Kendall,51
+1910,Illinois,17095,Knox,Knox,770
+1910,Illinois,17097,Lake,Lake,491
+1910,Illinois,17099,La Salle,La Salle,311
+1910,Illinois,17101,Lawrence,Lawrence,289
+1910,Illinois,17103,Lee,Lee,62
+1910,Illinois,17105,Livingston,Livingston,397
+1910,Illinois,17107,Logan,Logan,377
+1910,Illinois,17109,McDonough,Mcdonough,123
+1910,Illinois,17111,McHenry,Mchenry,29
+1910,Illinois,17113,McLean,Mclean,1118
+1910,Illinois,17115,Macon,Macon,906
+1910,Illinois,17117,Macoupin,Macoupin,186
+1910,Illinois,17119,Madison,Madison,3146
+1910,Illinois,17121,Marion,Marion,651
+1910,Illinois,17123,Marshall,Marshall,41
+1910,Illinois,17125,Mason,Mason,10
+1910,Illinois,17127,Massac,Massac,2584
+1910,Illinois,17129,Menard,Menard,107
+1910,Illinois,17131,Mercer,Mercer,34
+1910,Illinois,17133,Monroe,Monroe,13
+1910,Illinois,17135,Montgomery,Montgomery,238
+1910,Illinois,17137,Morgan,Morgan,1361
+1910,Illinois,17139,Moultrie,Moultrie,4
+1910,Illinois,17141,Ogle,Ogle,33
+1910,Illinois,17143,Peoria,Peoria,1737
+1910,Illinois,17145,Perry,Perry,814
+1910,Illinois,17147,Piatt,Piatt,12
+1910,Illinois,17149,Pike,Pike,162
+1910,Illinois,17151,Pope,Pope,523
+1910,Illinois,17153,Pulaski,Pulaski,5911
+1910,Illinois,17155,Putnam,Putnam,10
+1910,Illinois,17157,Randolph,Randolph,1525
+1910,Illinois,17159,Richland,Richland,15
+1910,Illinois,17161,Rock Island,Rock Island,822
+1910,Illinois,17163,St Clair,St Clair,8110
+1910,Illinois,17165,Saline,Saline,918
+1910,Illinois,17167,Sangamon,Sangamon,3633
+1910,Illinois,17169,Schuyler,Schuyler,6
+1910,Illinois,17171,Scott,Scott,15
+1910,Illinois,17173,Shelby,Shelby,75
+1910,Illinois,17175,Stark,Stark,9
+1910,Illinois,17177,Stephenson,Stephenson,82
+1910,Illinois,17179,Tazewell,Tazewell,25
+1910,Illinois,17181,Union,Union,211
+1910,Illinois,17183,Vermilion,Vermilion,2038
+1910,Illinois,17185,Wabash,Wabash,45
+1910,Illinois,17187,Warren,Warren,576
+1910,Illinois,17189,Washington,Washington,73
+1910,Illinois,17191,Wayne,Wayne,11
+1910,Illinois,17193,White,White,470
+1910,Illinois,17195,Whiteside,Whiteside,62
+1910,Illinois,17197,Will,Will,1134
+1910,Illinois,17199,Williamson,Williamson,866
+1910,Illinois,17201,Winnebago,Winnebago,257
+1910,Illinois,17203,Woodford,Woodford,37
+1910,Indiana,18001,Adams,Adams,2
+1910,Indiana,18003,Allen,Allen,601
+1910,Indiana,18005,Bartholomew,Bartholomew,319
+1910,Indiana,18007,Benton,Benton,71
+1910,Indiana,18009,Blackford,Blackford,40
+1910,Indiana,18011,Boone,Boone,123
+1910,Indiana,18013,Brown,Brown,1
+1910,Indiana,18015,Carroll,Carroll,7
+1910,Indiana,18017,Cass,Cass,240
+1910,Indiana,18019,Clark,Clark,2745
+1910,Indiana,18021,Clay,Clay,227
+1910,Indiana,18023,Clinton,Clinton,84
+1910,Indiana,18025,Crawford,Crawford,0
+1910,Indiana,18027,Daviess,Daviess,210
+1910,Indiana,18029,Dearborn,Dearborn,180
+1910,Indiana,18031,Decatur,Decatur,89
+1910,Indiana,18033,DeKalb,De Kalb,21
+1910,Indiana,18035,Delaware,Delaware,1460
+1910,Indiana,18037,Dubois,Dubois,9
+1910,Indiana,18039,Elkhart,Elkhart,91
+1910,Indiana,18041,Fayette,Fayette,440
+1910,Indiana,18043,Floyd,Floyd,1749
+1910,Indiana,18045,Fountain,Fountain,30
+1910,Indiana,18047,Franklin,Franklin,6
+1910,Indiana,18049,Fulton,Fulton,6
+1910,Indiana,18051,Gibson,Gibson,1445
+1910,Indiana,18053,Grant,Grant,1528
+1910,Indiana,18055,Greene,Greene,85
+1910,Indiana,18057,Hamilton,Hamilton,555
+1910,Indiana,18059,Hancock,Hancock,125
+1910,Indiana,18061,Harrison,Harrison,293
+1910,Indiana,18063,Hendricks,Hendricks,301
+1910,Indiana,18065,Henry,Henry,415
+1910,Indiana,18067,Howard,Howard,490
+1910,Indiana,18069,Huntington,Huntington,16
+1910,Indiana,18071,Jackson,Jackson,136
+1910,Indiana,18073,Jasper,Jasper,6
+1910,Indiana,18075,Jay,Jay,171
+1910,Indiana,18077,Jefferson,Jefferson,604
+1910,Indiana,18079,Jennings,Jennings,295
+1910,Indiana,18081,Johnson,Johnson,360
+1910,Indiana,18083,Knox,Knox,572
+1910,Indiana,18085,Kosciusko,Kosciusko,28
+1910,Indiana,18087,Lagrange,Lagrange,10
+1910,Indiana,18089,Lake,Lake,493
+1910,Indiana,18091,LaPorte,Laporte,338
+1910,Indiana,18093,Lawrence,Lawrence,345
+1910,Indiana,18095,Madison,Madison,690
+1910,Indiana,18097,Marion,Marion,23256
+1910,Indiana,18099,Marshall,Marshall,71
+1910,Indiana,18101,Martin,Martin,18
+1910,Indiana,18103,Miami,Miami,109
+1910,Indiana,18105,Monroe,Monroe,438
+1910,Indiana,18107,Montgomery,Montgomery,246
+1910,Indiana,18109,Morgan,Morgan,94
+1910,Indiana,18111,Newton,Newton,20
+1910,Indiana,18113,Noble,Noble,26
+1910,Indiana,18115,Ohio,Ohio,144
+1910,Indiana,18117,Orange,Orange,363
+1910,Indiana,18119,Owen,Owen,89
+1910,Indiana,18121,Parke,Parke,160
+1910,Indiana,18123,Perry,Perry,193
+1910,Indiana,18125,Pike,Pike,133
+1910,Indiana,18127,Porter,Porter,8
+1910,Indiana,18129,Posey,Posey,963
+1910,Indiana,18131,Pulaski,Pulaski,2
+1910,Indiana,18133,Putnam,Putnam,221
+1910,Indiana,18135,Randolph,Randolph,235
+1910,Indiana,18137,Ripley,Ripley,31
+1910,Indiana,18139,Rush,Rush,418
+1910,Indiana,18141,St Joseph,St Joseph,722
+1910,Indiana,18143,Scott,Scott,1
+1910,Indiana,18145,Shelby,Shelby,483
+1910,Indiana,18147,Spencer,Spencer,837
+1910,Indiana,18149,Starke,Starke,14
+1910,Indiana,18151,Steuben,Steuben,22
+1910,Indiana,18153,Sullivan,Sullivan,120
+1910,Indiana,18155,Switzerland,Switzerland,48
+1910,Indiana,18157,Tippecanoe,Tippecanoe,387
+1910,Indiana,18159,Tipton,Tipton,9
+1910,Indiana,18161,Union,Union,101
+1910,Indiana,18163,Vanderburgh,Vanderburgh,6548
+1910,Indiana,18165,Vermillion,Vermillion,121
+1910,Indiana,18167,Vigo,Vigo,3323
+1910,Indiana,18169,Wabash,Wabash,167
+1910,Indiana,18171,Warren,Warren,18
+1910,Indiana,18173,Warrick,Warrick,456
+1910,Indiana,18175,Washington,Washington,8
+1910,Indiana,18177,Wayne,Wayne,1591
+1910,Indiana,18179,Wells,Wells,3
+1910,Indiana,18181,White,White,11
+1910,Indiana,18183,Whitley,Whitley,40
+1910,Iowa,19001,Adair,Adair,21
+1910,Iowa,19003,Adams,Adams,13
+1910,Iowa,19005,Allamakee,Allamakee,19
+1910,Iowa,19007,Appanoose,Appanoose,486
+1910,Iowa,19009,Audubon,Audubon,5
+1910,Iowa,19011,Benton,Benton,9
+1910,Iowa,19013,Black Hawk,Black Hawk,29
+1910,Iowa,19015,Boone,Boone,105
+1910,Iowa,19017,Bremer,Bremer,6
+1910,Iowa,19019,Buchanan,Buchanan,18
+1910,Iowa,19021,Buena Vista,Buena Vista,0
+1910,Iowa,19023,Butler,Butler,1
+1910,Iowa,19025,Calhoun,Calhoun,11
+1910,Iowa,19027,Carroll,Carroll,31
+1910,Iowa,19029,Cass,Cass,22
+1910,Iowa,19031,Cedar,Cedar,21
+1910,Iowa,19033,Cerro Gordo,Cerro Gordo,148
+1910,Iowa,19035,Cherokee,Cherokee,5
+1910,Iowa,19037,Chickasaw,Chickasaw,0
+1910,Iowa,19039,Clarke,Clarke,43
+1910,Iowa,19041,Clay,Clay,0
+1910,Iowa,19043,Clayton,Clayton,26
+1910,Iowa,19045,Clinton,Clinton,436
+1910,Iowa,19047,Crawford,Crawford,25
+1910,Iowa,19049,Dallas,Dallas,131
+1910,Iowa,19051,Davis,Davis,43
+1910,Iowa,19053,Decatur,Decatur,34
+1910,Iowa,19055,Delaware,Delaware,2
+1910,Iowa,19057,Des Moines,Des Moines,429
+1910,Iowa,19059,Dickinson,Dickinson,5
+1910,Iowa,19061,Dubuque,Dubuque,96
+1910,Iowa,19063,Emmet,Emmet,19
+1910,Iowa,19065,Fayette,Fayette,107
+1910,Iowa,19067,Floyd,Floyd,17
+1910,Iowa,19069,Franklin,Franklin,10
+1910,Iowa,19071,Fremont,Fremont,39
+1910,Iowa,19073,Greene,Greene,1
+1910,Iowa,19075,Grundy,Grundy,11
+1910,Iowa,19077,Guthrie,Guthrie,2
+1910,Iowa,19079,Hamilton,Hamilton,37
+1910,Iowa,19081,Hancock,Hancock,11
+1910,Iowa,19083,Hardin,Hardin,46
+1910,Iowa,19085,Harrison,Harrison,15
+1910,Iowa,19087,Henry,Henry,264
+1910,Iowa,19089,Howard,Howard,12
+1910,Iowa,19091,Humboldt,Humboldt,4
+1910,Iowa,19093,Ida,Ida,2
+1910,Iowa,19095,Iowa,Iowa,5
+1910,Iowa,19097,Jackson,Jackson,0
+1910,Iowa,19099,Jasper,Jasper,182
+1910,Iowa,19101,Jefferson,Jefferson,79
+1910,Iowa,19103,Johnson,Johnson,65
+1910,Iowa,19105,Jones,Jones,83
+1910,Iowa,19107,Keokuk,Keokuk,17
+1910,Iowa,19109,Kossuth,Kossuth,6
+1910,Iowa,19111,Lee,Lee,1471
+1910,Iowa,19113,Linn,Linn,258
+1910,Iowa,19115,Louisa,Louisa,17
+1910,Iowa,19117,Lucas,Lucas,83
+1910,Iowa,19119,Lyon,Lyon,4
+1910,Iowa,19121,Madison,Madison,5
+1910,Iowa,19123,Mahaska,Mahaska,677
+1910,Iowa,19125,Marion,Marion,93
+1910,Iowa,19127,Marshall,Marshall,148
+1910,Iowa,19129,Mills,Mills,47
+1910,Iowa,19131,Mitchell,Mitchell,5
+1910,Iowa,19133,Monona,Monona,0
+1910,Iowa,19135,Monroe,Monroe,2371
+1910,Iowa,19137,Montgomery,Montgomery,48
+1910,Iowa,19139,Muscatine,Muscatine,137
+1910,Iowa,19141,O Brien,O Brien,2
+1910,Iowa,19143,Osceola,Osceola,6
+1910,Iowa,19145,Page,Page,262
+1910,Iowa,19147,Palo Alto,Palo Alto,4
+1910,Iowa,19149,Plymouth,Plymouth,10
+1910,Iowa,19151,Pocahontas,Pocahontas,3
+1910,Iowa,19153,Polk,Polk,3591
+1910,Iowa,19155,Pottawattamie,Pottawattamie,353
+1910,Iowa,19157,Poweshiek,Poweshiek,55
+1910,Iowa,19159,Ringgold,Ringgold,1
+1910,Iowa,19161,Sac,Sac,30
+1910,Iowa,19163,Scott,Scott,572
+1910,Iowa,19165,Shelby,Shelby,7
+1910,Iowa,19167,Sioux,Sioux,2
+1910,Iowa,19169,Story,Story,8
+1910,Iowa,19171,Tama,Tama,33
+1910,Iowa,19173,Taylor,Taylor,61
+1910,Iowa,19175,Union,Union,70
+1910,Iowa,19177,Van Buren,Van Buren,60
+1910,Iowa,19179,Wapello,Wapello,624
+1910,Iowa,19181,Warren,Warren,47
+1910,Iowa,19183,Washington,Washington,104
+1910,Iowa,19185,Wayne,Wayne,9
+1910,Iowa,19187,Webster,Webster,84
+1910,Iowa,19189,Winnebago,Winnebago,2
+1910,Iowa,19191,Winneshiek,Winneshiek,18
+1910,Iowa,19193,Woodbury,Woodbury,317
+1910,Iowa,19195,Worth,Worth,16
+1910,Iowa,19197,Wright,Wright,4
+1910,Kansas,20001,Allen,Allen,1047
+1910,Kansas,20003,Anderson,Anderson,161
+1910,Kansas,20005,Atchison,Atchison,2992
+1910,Kansas,20007,Barber,Barber,72
+1910,Kansas,20009,Barton,Barton,388
+1910,Kansas,20011,Bourbon,Bourbon,1215
+1910,Kansas,20013,Brown,Brown,457
+1910,Kansas,20015,Butler,Butler,149
+1910,Kansas,20017,Chase,Chase,103
+1910,Kansas,20019,Chautauqua,Chautauqua,118
+1910,Kansas,20021,Cherokee,Cherokee,1181
+1910,Kansas,20023,Cheyenne,Cheyenne,0
+1910,Kansas,20025,Clark,Clark,21
+1910,Kansas,20027,Clay,Clay,111
+1910,Kansas,20029,Cloud,Cloud,58
+1910,Kansas,20031,Coffey,Coffey,75
+1910,Kansas,20033,Comanche,Comanche,0
+1910,Kansas,20035,Cowley,Cowley,571
+1910,Kansas,20037,Crawford,Crawford,1563
+1910,Kansas,20039,Decatur,Decatur,17
+1910,Kansas,20041,Dickinson,Dickinson,162
+1910,Kansas,20043,Doniphan,Doniphan,683
+1910,Kansas,20045,Douglas,Douglas,2281
+1910,Kansas,20047,Edwards,Edwards,50
+1910,Kansas,20049,Elk,Elk,6
+1910,Kansas,20051,Ellis,Ellis,69
+1910,Kansas,20053,Ellsworth,Ellsworth,113
+1910,Kansas,20055,Finney,Finney,189
+1910,Kansas,20057,Ford,Ford,93
+1910,Kansas,20059,Franklin,Franklin,490
+1910,Kansas,20061,Geary,Geary,587
+1910,Kansas,20063,Gove,Gove,55
+1910,Kansas,20065,Graham,Graham,595
+1910,Kansas,20067,Grant,Grant,21
+1910,Kansas,20069,Gray,Gray,14
+1910,Kansas,20071,Greeley,Greeley,2
+1910,Kansas,20073,Greenwood,Greenwood,32
+1910,Kansas,20075,Hamilton,Hamilton,25
+1910,Kansas,20077,Harper,Harper,37
+1910,Kansas,20079,Harvey,Harvey,415
+1910,Kansas,20081,Haskell,Haskell,9
+1910,Kansas,20083,Hodgeman,Hodgeman,67
+1910,Kansas,20085,Jackson,Jackson,153
+1910,Kansas,20087,Jefferson,Jefferson,451
+1910,Kansas,20089,Jewell,Jewell,0
+1910,Kansas,20091,Johnson,Johnson,611
+1910,Kansas,20093,Kearny,Kearny,1
+1910,Kansas,20095,Kingman,Kingman,32
+1910,Kansas,20097,Kiowa,Kiowa,8
+1910,Kansas,20099,Labette,Labette,1756
+1910,Kansas,20101,Lane,Lane,1
+1910,Kansas,20103,Leavenworth,Leavenworth,4071
+1910,Kansas,20105,Lincoln,Lincoln,27
+1910,Kansas,20107,Linn,Linn,323
+1910,Kansas,20109,Logan,Logan,298
+1910,Kansas,20111,Lyon,Lyon,786
+1910,Kansas,20113,McPherson,Mcpherson,3
+1910,Kansas,20115,Marion,Marion,132
+1910,Kansas,20117,Marshall,Marshall,244
+1910,Kansas,20119,Meade,Meade,32
+1910,Kansas,20121,Miami,Miami,873
+1910,Kansas,20123,Mitchell,Mitchell,46
+1910,Kansas,20125,Montgomery,Montgomery,2966
+1910,Kansas,20127,Morris,Morris,317
+1910,Kansas,20129,Morton,Morton,20
+1910,Kansas,20131,Nemaha,Nemaha,164
+1910,Kansas,20133,Neosho,Neosho,376
+1910,Kansas,20135,Ness,Ness,0
+1910,Kansas,20137,Norton,Norton,28
+1910,Kansas,20139,Osage,Osage,362
+1910,Kansas,20141,Osborne,Osborne,69
+1910,Kansas,20143,Ottawa,Ottawa,42
+1910,Kansas,20145,Pawnee,Pawnee,81
+1910,Kansas,20147,Phillips,Phillips,67
+1910,Kansas,20149,Pottawatomie,Pottawatomie,132
+1910,Kansas,20151,Pratt,Pratt,218
+1910,Kansas,20153,Rawlins,Rawlins,0
+1910,Kansas,20155,Reno,Reno,904
+1910,Kansas,20157,Republic,Republic,8
+1910,Kansas,20159,Rice,Rice,132
+1910,Kansas,20161,Riley,Riley,311
+1910,Kansas,20163,Rooks,Rooks,79
+1910,Kansas,20165,Rush,Rush,14
+1910,Kansas,20167,Russell,Russell,54
+1910,Kansas,20169,Saline,Saline,509
+1910,Kansas,20171,Scott,Scott,2
+1910,Kansas,20173,Sedgwick,Sedgwick,2652
+1910,Kansas,20175,Seward,Seward,2
+1910,Kansas,20177,Shawnee,Shawnee,5722
+1910,Kansas,20179,Sheridan,Sheridan,29
+1910,Kansas,20181,Sherman,Sherman,16
+1910,Kansas,20183,Smith,Smith,5
+1910,Kansas,20185,Stafford,Stafford,127
+1910,Kansas,20187,Stanton,Stanton,2
+1910,Kansas,20189,Stevens,Stevens,81
+1910,Kansas,20191,Sumner,Sumner,328
+1910,Kansas,20193,Thomas,Thomas,7
+1910,Kansas,20195,Trego,Trego,26
+1910,Kansas,20197,Wabaunsee,Wabaunsee,708
+1910,Kansas,20199,Wallace,Wallace,36
+1910,Kansas,20201,Washington,Washington,8
+1910,Kansas,20203,Wichita,Wichita,3
+1910,Kansas,20205,Wilson,Wilson,85
+1910,Kansas,20207,Woodson,Woodson,24
+1910,Kansas,20209,Wyandotte,Wyandotte,11172
+1910,Kentucky,21001,Adair,Adair,1475
+1910,Kentucky,21003,Allen,Allen,910
+1910,Kentucky,21005,Anderson,Anderson,734
+1910,Kentucky,21007,Ballard,Ballard,1585
+1910,Kentucky,21009,Barren,Barren,3590
+1910,Kentucky,21011,Bath,Bath,1336
+1910,Kentucky,21013,Bell,Bell,2920
+1910,Kentucky,21015,Boone,Boone,478
+1910,Kentucky,21017,Bourbon,Bourbon,5642
+1910,Kentucky,21019,Boyd,Boyd,822
+1910,Kentucky,21021,Boyle,Boyle,4153
+1910,Kentucky,21023,Bracken,Bracken,339
+1910,Kentucky,21025,Breathitt,Breathitt,260
+1910,Kentucky,21027,Breckinridge,Breckinridge,1581
+1910,Kentucky,21029,Bullitt,Bullitt,679
+1910,Kentucky,21031,Butler,Butler,561
+1910,Kentucky,21033,Caldwell,Caldwell,2520
+1910,Kentucky,21035,Calloway,Calloway,1069
+1910,Kentucky,21037,Campbell,Campbell,735
+1910,Kentucky,21039,Carlisle,Carlisle,393
+1910,Kentucky,21041,Carroll,Carroll,530
+1910,Kentucky,21043,Carter,Carter,110
+1910,Kentucky,21045,Casey,Casey,278
+1910,Kentucky,21047,Christian,Christian,15956
+1910,Kentucky,21049,Clark,Clark,4462
+1910,Kentucky,21051,Clay,Clay,494
+1910,Kentucky,21053,Clinton,Clinton,94
+1910,Kentucky,21055,Crittenden,Crittenden,588
+1910,Kentucky,21057,Cumberland,Cumberland,1024
+1910,Kentucky,21059,Daviess,Daviess,5195
+1910,Kentucky,21061,Edmonson,Edmonson,439
+1910,Kentucky,21063,Elliott,Elliott,1
+1910,Kentucky,21065,Estill,Estill,106
+1910,Kentucky,21067,Fayette,Fayette,14879
+1910,Kentucky,21069,Fleming,Fleming,1027
+1910,Kentucky,21071,Floyd,Floyd,99
+1910,Kentucky,21073,Franklin,Franklin,3746
+1910,Kentucky,21075,Fulton,Fulton,3356
+1910,Kentucky,21077,Gallatin,Gallatin,274
+1910,Kentucky,21079,Garrard,Garrard,2284
+1910,Kentucky,21081,Grant,Grant,292
+1910,Kentucky,21083,Graves,Graves,2899
+1910,Kentucky,21085,Grayson,Grayson,333
+1910,Kentucky,21087,Green,Green,1343
+1910,Kentucky,21089,Greenup,Greenup,257
+1910,Kentucky,21091,Hancock,Hancock,566
+1910,Kentucky,21093,Hardin,Hardin,1826
+1910,Kentucky,21095,Harlan,Harlan,564
+1910,Kentucky,21097,Harrison,Harrison,1750
+1910,Kentucky,21099,Hart,Hart,1991
+1910,Kentucky,21101,Henderson,Henderson,6818
+1910,Kentucky,21103,Henry,Henry,1792
+1910,Kentucky,21105,Hickman,Hickman,1766
+1910,Kentucky,21107,Hopkins,Hopkins,6573
+1910,Kentucky,21109,Jackson,Jackson,22
+1910,Kentucky,21111,Jefferson,Jefferson,45794
+1910,Kentucky,21113,Jessamine,Jessamine,2962
+1910,Kentucky,21115,Johnson,Johnson,47
+1910,Kentucky,21117,Kenton,Kenton,3228
+1910,Kentucky,21119,Knott,Knott,157
+1910,Kentucky,21121,Knox,Knox,1059
+1910,Kentucky,21123,Larue,Larue,785
+1910,Kentucky,21125,Laurel,Laurel,657
+1910,Kentucky,21127,Lawrence,Lawrence,163
+1910,Kentucky,21129,Lee,Lee,234
+1910,Kentucky,21131,Leslie,Leslie,132
+1910,Kentucky,21133,Letcher,Letcher,17
+1910,Kentucky,21135,Lewis,Lewis,141
+1910,Kentucky,21137,Lincoln,Lincoln,2955
+1910,Kentucky,21139,Livingston,Livingston,670
+1910,Kentucky,21141,Logan,Logan,5349
+1910,Kentucky,21143,Lyon,Lyon,1799
+1910,Kentucky,21145,McCracken,Mccracken,7934
+1910,Kentucky,21149,McLean,Mclean,750
+1910,Kentucky,21151,Madison,Madison,5698
+1910,Kentucky,21153,Magoffin,Magoffin,54
+1910,Kentucky,21155,Marion,Marion,2266
+1910,Kentucky,21157,Marshall,Marshall,135
+1910,Kentucky,21159,Martin,Martin,4
+1910,Kentucky,21161,Mason,Mason,2868
+1910,Kentucky,21163,Meade,Meade,655
+1910,Kentucky,21165,Menifee,Menifee,40
+1910,Kentucky,21167,Mercer,Mercer,2171
+1910,Kentucky,21169,Metcalfe,Metcalfe,794
+1910,Kentucky,21171,Monroe,Monroe,705
+1910,Kentucky,21173,Montgomery,Montgomery,3192
+1910,Kentucky,21175,Morgan,Morgan,34
+1910,Kentucky,21177,Muhlenberg,Muhlenberg,2911
+1910,Kentucky,21179,Nelson,Nelson,2935
+1910,Kentucky,21181,Nicholas,Nicholas,896
+1910,Kentucky,21183,Ohio,Ohio,1288
+1910,Kentucky,21185,Oldham,Oldham,1078
+1910,Kentucky,21187,Owen,Owen,943
+1910,Kentucky,21189,Owsley,Owsley,75
+1910,Kentucky,21191,Pendleton,Pendleton,261
+1910,Kentucky,21193,Perry,Perry,214
+1910,Kentucky,21195,Pike,Pike,332
+1910,Kentucky,21197,Powell,Powell,337
+1910,Kentucky,21199,Pulaski,Pulaski,1187
+1910,Kentucky,21201,Robertson,Robertson,70
+1910,Kentucky,21203,Rockcastle,Rockcastle,125
+1910,Kentucky,21205,Rowan,Rowan,59
+1910,Kentucky,21207,Russell,Russell,207
+1910,Kentucky,21209,Scott,Scott,4044
+1910,Kentucky,21211,Shelby,Shelby,3991
+1910,Kentucky,21213,Simpson,Simpson,2165
+1910,Kentucky,21215,Spencer,Spencer,758
+1910,Kentucky,21217,Taylor,Taylor,1429
+1910,Kentucky,21219,Todd,Todd,5343
+1910,Kentucky,21221,Trigg,Trigg,3322
+1910,Kentucky,21223,Trimble,Trimble,142
+1910,Kentucky,21225,Union,Union,2414
+1910,Kentucky,21227,Warren,Warren,6113
+1910,Kentucky,21229,Washington,Washington,1779
+1910,Kentucky,21231,Wayne,Wayne,739
+1910,Kentucky,21233,Webster,Webster,2643
+1910,Kentucky,21235,Whitley,Whitley,1111
+1910,Kentucky,21237,Wolfe,Wolfe,56
+1910,Kentucky,21239,Woodford,Woodford,3724
+1910,Louisiana,22001,Acadia,Acadia,6546
+1910,Louisiana,22005,Ascension,Ascension,11255
+1910,Louisiana,22007,Assumption,Assumption,10105
+1910,Louisiana,22009,Avoyelles,Avoyelles,12039
+1910,Louisiana,22013,Bienville,Bienville,9464
+1910,Louisiana,22015,Bossier,Bossier,16735
+1910,Louisiana,22017,Caddo,Caddo,36142
+1910,Louisiana,22019,Calcasieu,Calcasieu,16562
+1910,Louisiana,22021,Caldwell,Caldwell,3465
+1910,Louisiana,22023,Cameron,Cameron,538
+1910,Louisiana,22025,Catahoula,Catahoula,5195
+1910,Louisiana,22027,Claiborne,Claiborne,14938
+1910,Louisiana,22029,Concordia,Concordia,11941
+1910,Louisiana,22031,De Soto,De Soto,17932
+1910,Louisiana,22033,East Baton Rouge,East Baton Rouge,21342
+1910,Louisiana,22035,East Carroll,East Carroll,10390
+1910,Louisiana,22037,East Feliciana,East Feliciana,14536
+1910,Louisiana,22041,Franklin,Franklin,5264
+1910,Louisiana,22043,Grant,Grant,4869
+1910,Louisiana,22045,Iberia,Iberia,14474
+1910,Louisiana,22047,Iberville,Iberville,19145
+1910,Louisiana,22049,Jackson,Jackson,3996
+1910,Louisiana,22051,Jefferson,Jefferson,6785
+1910,Louisiana,22055,Lafayette,Lafayette,10734
+1910,Louisiana,22057,Lafourche,Lafourche,7973
+1910,Louisiana,22059,La Salle,La Salle,1953
+1910,Louisiana,22061,Lincoln,Lincoln,7289
+1910,Louisiana,22063,Livingston,Livingston,1377
+1910,Louisiana,22065,Madison,Madison,9455
+1910,Louisiana,22067,Morehouse,Morehouse,13971
+1910,Louisiana,22069,Natchitoches,Natchitoches,20334
+1910,Louisiana,22071,Orleans,Orleans,89262
+1910,Louisiana,22073,Ouachita,Ouachita,14153
+1910,Louisiana,22075,Plaquemines,Plaquemines,6847
+1910,Louisiana,22077,Pointe Coupee,Pointe Coupee,17147
+1910,Louisiana,22079,Rapides,Rapides,21445
+1910,Louisiana,22081,Red River,Red River,6212
+1910,Louisiana,22083,Richland,Richland,10463
+1910,Louisiana,22085,Sabine,Sabine,4164
+1910,Louisiana,22087,St Bernard,St Bernard,1933
+1910,Louisiana,22089,St Charles,St Charles,6720
+1910,Louisiana,22091,St Helena,St Helena,4573
+1910,Louisiana,22093,St James,St James,13164
+1910,Louisiana,22095,St John The Baptist,St John The Baptist,8126
+1910,Louisiana,22097,St Landry,St Landry,31234
+1910,Louisiana,22099,St Martin,St Martin,9836
+1910,Louisiana,22101,St Mary,St Mary,21266
+1910,Louisiana,22103,St Tammany,St Tammany,6731
+1910,Louisiana,22105,Tangipahoa,Tangipahoa,9135
+1910,Louisiana,22107,Tensas,Tensas,15613
+1910,Louisiana,22109,Terrebonne,Terrebonne,11194
+1910,Louisiana,22111,Union,Union,7448
+1910,Louisiana,22113,Vermilion,Vermilion,4500
+1910,Louisiana,22115,Vernon,Vernon,3716
+1910,Louisiana,22117,Washington,Washington,5458
+1910,Louisiana,22119,Webster,Webster,9900
+1910,Louisiana,22121,West Baton Rouge,West Baton Rouge,9223
+1910,Louisiana,22123,West Carroll,West Carroll,2724
+1910,Louisiana,22125,West Feliciana,West Feliciana,11012
+1910,Louisiana,22127,Winn,Winn,3931
+1910,Maine,23001,Androscoggin,Androscoggin,73
+1910,Maine,23003,Aroostook,Aroostook,51
+1910,Maine,23005,Cumberland,Cumberland,428
+1910,Maine,23007,Franklin,Franklin,17
+1910,Maine,23009,Hancock,Hancock,33
+1910,Maine,23011,Kennebec,Kennebec,139
+1910,Maine,23013,Knox,Knox,73
+1910,Maine,23015,Lincoln,Lincoln,18
+1910,Maine,23017,Oxford,Oxford,30
+1910,Maine,23019,Penobscot,Penobscot,246
+1910,Maine,23021,Piscataquis,Piscataquis,7
+1910,Maine,23023,Sagadahoc,Sagadahoc,103
+1910,Maine,23025,Somerset,Somerset,19
+1910,Maine,23027,Waldo,Waldo,15
+1910,Maine,23029,Washington,Washington,59
+1910,Maine,23031,York,York,52
+1910,Maryland,24001,Allegany,Allegany,1517
+1910,Maryland,24003,Anne Arundel,Anne Arundel,14136
+1910,Maryland,24005,Baltimore,Baltimore,12601
+1910,Maryland,24009,Calvert,Calvert,5046
+1910,Maryland,24011,Caroline,Caroline,4787
+1910,Maryland,24013,Carroll,Carroll,2006
+1910,Maryland,24015,Cecil,Cecil,3315
+1910,Maryland,24017,Charles,Charles,8572
+1910,Maryland,24019,Dorchester,Dorchester,9421
+1910,Maryland,24021,Frederick,Frederick,5399
+1910,Maryland,24023,Garrett,Garrett,107
+1910,Maryland,24025,Harford,Harford,5116
+1910,Maryland,24027,Howard,Howard,3772
+1910,Maryland,24029,Kent,Kent,6162
+1910,Maryland,24031,Montgomery,Montgomery,9235
+1910,Maryland,24033,Prince Georges,Prince Georges,11493
+1910,Maryland,24035,Queen Anne's,Queen Anne's,5814
+1910,Maryland,24037,St Mary's,St Mary's,7304
+1910,Maryland,24039,Somerset,Somerset,9476
+1910,Maryland,24041,Talbot,Talbot,6774
+1910,Maryland,24043,Washington,Washington,2113
+1910,Maryland,24045,Wicomico,Wicomico,6310
+1910,Maryland,24047,Worcester,Worcester,7025
+1910,Maryland,24510,Baltimore City,Baltimore City,84749
+1910,Massachusetts,25001,Barnstable,Barnstable,897
+1910,Massachusetts,25003,Berkshire,Berkshire,1149
+1910,Massachusetts,25005,Bristol,Bristol,4003
+1910,Massachusetts,25007,Dukes,Dukes,193
+1910,Massachusetts,25009,Essex,Essex,2024
+1910,Massachusetts,25011,Franklin,Franklin,119
+1910,Massachusetts,25013,Hampden,Hampden,1757
+1910,Massachusetts,25015,Hampshire,Hampshire,281
+1910,Massachusetts,25017,Middlesex,Middlesex,8583
+1910,Massachusetts,25019,Nantucket,Nantucket,35
+1910,Massachusetts,25021,Norfolk,Norfolk,797
+1910,Massachusetts,25023,Plymouth,Plymouth,2484
+1910,Massachusetts,25025,Suffolk,Suffolk,13886
+1910,Massachusetts,25027,Worcester,Worcester,1847
+1910,Michigan,26001,Alcona,Alcona,9
+1910,Michigan,26003,Alger,Alger,12
+1910,Michigan,26005,Allegan,Allegan,241
+1910,Michigan,26007,Alpena,Alpena,3
+1910,Michigan,26009,Antrim,Antrim,35
+1910,Michigan,26011,Arenac,Arenac,6
+1910,Michigan,26013,Baraga,Baraga,2
+1910,Michigan,26015,Barry,Barry,23
+1910,Michigan,26017,Bay,Bay,188
+1910,Michigan,26019,Benzie,Benzie,89
+1910,Michigan,26021,Berrien,Berrien,713
+1910,Michigan,26023,Branch,Branch,50
+1910,Michigan,26025,Calhoun,Calhoun,690
+1910,Michigan,26027,Cass,Cass,1444
+1910,Michigan,26029,Charlevoix,Charlevoix,89
+1910,Michigan,26031,Cheboygan,Cheboygan,34
+1910,Michigan,26033,Chippewa,Chippewa,43
+1910,Michigan,26035,Clare,Clare,3
+1910,Michigan,26037,Clinton,Clinton,38
+1910,Michigan,26039,Crawford,Crawford,2
+1910,Michigan,26041,Delta,Delta,34
+1910,Michigan,26043,Dickinson,Dickinson,9
+1910,Michigan,26045,Eaton,Eaton,74
+1910,Michigan,26047,Emmet,Emmet,44
+1910,Michigan,26049,Genesee,Genesee,416
+1910,Michigan,26051,Gladwin,Gladwin,37
+1910,Michigan,26053,Gogebic,Gogebic,6
+1910,Michigan,26055,Grand Traverse,Grand Traverse,32
+1910,Michigan,26057,Gratiot,Gratiot,92
+1910,Michigan,26059,Hillsdale,Hillsdale,22
+1910,Michigan,26061,Houghton,Houghton,61
+1910,Michigan,26063,Huron,Huron,8
+1910,Michigan,26065,Ingham,Ingham,404
+1910,Michigan,26067,Ionia,Ionia,90
+1910,Michigan,26069,Iosco,Iosco,5
+1910,Michigan,26071,Iron,Iron,8
+1910,Michigan,26073,Isabella,Isabella,135
+1910,Michigan,26075,Jackson,Jackson,399
+1910,Michigan,26077,Kalamazoo,Kalamazoo,790
+1910,Michigan,26079,Kalkaska,Kalkaska,23
+1910,Michigan,26081,Kent,Kent,729
+1910,Michigan,26083,Keweenaw,Keweenaw,3
+1910,Michigan,26085,Lake,Lake,5
+1910,Michigan,26087,Lapeer,Lapeer,28
+1910,Michigan,26089,Leelanau,Leelanau,22
+1910,Michigan,26091,Lenawee,Lenawee,245
+1910,Michigan,26093,Livingston,Livingston,35
+1910,Michigan,26095,Luce,Luce,3
+1910,Michigan,26097,Mackinac,Mackinac,11
+1910,Michigan,26099,Macomb,Macomb,102
+1910,Michigan,26101,Manistee,Manistee,20
+1910,Michigan,26103,Marquette,Marquette,83
+1910,Michigan,26105,Mason,Mason,6
+1910,Michigan,26107,Mecosta,Mecosta,237
+1910,Michigan,26109,Menominee,Menominee,7
+1910,Michigan,26111,Midland,Midland,119
+1910,Michigan,26113,Missaukee,Missaukee,15
+1910,Michigan,26115,Monroe,Monroe,88
+1910,Michigan,26117,Montcalm,Montcalm,105
+1910,Michigan,26119,Montmorency,Montmorency,1
+1910,Michigan,26121,Muskegon,Muskegon,79
+1910,Michigan,26123,Newaygo,Newaygo,19
+1910,Michigan,26125,Oakland,Oakland,251
+1910,Michigan,26127,Oceana,Oceana,25
+1910,Michigan,26129,Ogemaw,Ogemaw,2
+1910,Michigan,26131,Ontonagon,Ontonagon,2
+1910,Michigan,26133,Osceola,Osceola,39
+1910,Michigan,26135,Oscoda,Oscoda,4
+1910,Michigan,26137,Otsego,Otsego,1
+1910,Michigan,26139,Ottawa,Ottawa,42
+1910,Michigan,26141,Presque Isle,Presque Isle,3
+1910,Michigan,26143,Roscommon,Roscommon,2
+1910,Michigan,26145,Saginaw,Saginaw,343
+1910,Michigan,26147,St Clair,St Clair,65
+1910,Michigan,26149,St Joseph,St Joseph,88
+1910,Michigan,26151,Sanilac,Sanilac,8
+1910,Michigan,26153,Schoolcraft,Schoolcraft,5
+1910,Michigan,26155,Shiawassee,Shiawassee,39
+1910,Michigan,26157,Tuscola,Tuscola,21
+1910,Michigan,26159,Van Buren,Van Buren,535
+1910,Michigan,26161,Washtenaw,Washtenaw,1130
+1910,Michigan,26163,Wayne,Wayne,6085
+1910,Michigan,26165,Wexford,Wexford,60
+1910,Minnesota,27001,Aitkin,Aitkin,46
+1910,Minnesota,27003,Anoka,Anoka,41
+1910,Minnesota,27005,Becker,Becker,4
+1910,Minnesota,27007,Beltrami,Beltrami,11
+1910,Minnesota,27009,Benton,Benton,2
+1910,Minnesota,27011,Big Stone,Big Stone,3
+1910,Minnesota,27013,Blue Earth,Blue Earth,8
+1910,Minnesota,27015,Brown,Brown,2
+1910,Minnesota,27017,Carlton,Carlton,0
+1910,Minnesota,27019,Carver,Carver,4
+1910,Minnesota,27021,Cass,Cass,36
+1910,Minnesota,27023,Chippewa,Chippewa,5
+1910,Minnesota,27025,Chisago,Chisago,4
+1910,Minnesota,27027,Clay,Clay,15
+1910,Minnesota,27029,Clearwater,Clearwater,0
+1910,Minnesota,27031,Cook,Cook,0
+1910,Minnesota,27033,Cottonwood,Cottonwood,2
+1910,Minnesota,27035,Crow Wing,Crow Wing,2
+1910,Minnesota,27037,Dakota,Dakota,40
+1910,Minnesota,27039,Dodge,Dodge,27
+1910,Minnesota,27041,Douglas,Douglas,5
+1910,Minnesota,27043,Faribault,Faribault,9
+1910,Minnesota,27045,Fillmore,Fillmore,11
+1910,Minnesota,27047,Freeborn,Freeborn,7
+1910,Minnesota,27049,Goodhue,Goodhue,45
+1910,Minnesota,27051,Grant,Grant,0
+1910,Minnesota,27053,Hennepin,Hennepin,2646
+1910,Minnesota,27055,Houston,Houston,1
+1910,Minnesota,27057,Hubbard,Hubbard,15
+1910,Minnesota,27059,Isanti,Isanti,4
+1910,Minnesota,27061,Itasca,Itasca,12
+1910,Minnesota,27063,Jackson,Jackson,2
+1910,Minnesota,27065,Kanabec,Kanabec,0
+1910,Minnesota,27067,Kandiyohi,Kandiyohi,5
+1910,Minnesota,27069,Kittson,Kittson,2
+1910,Minnesota,27071,Koochiching,Koochiching,10
+1910,Minnesota,27073,Lac Qui Parle,Lac Qui Parle,5
+1910,Minnesota,27075,Lake,Lake,0
+1910,Minnesota,27079,Le Sueur,Le Sueur,23
+1910,Minnesota,27081,Lincoln,Lincoln,1
+1910,Minnesota,27083,Lyon,Lyon,5
+1910,Minnesota,27085,McLeod,Mcleod,12
+1910,Minnesota,27087,Mahnomen,Mahnomen,0
+1910,Minnesota,27089,Marshall,Marshall,3
+1910,Minnesota,27091,Martin,Martin,4
+1910,Minnesota,27093,Meeker,Meeker,3
+1910,Minnesota,27095,Mille Lacs,Mille Lacs,6
+1910,Minnesota,27097,Morrison,Morrison,6
+1910,Minnesota,27099,Mower,Mower,21
+1910,Minnesota,27101,Murray,Murray,1
+1910,Minnesota,27103,Nicollet,Nicollet,11
+1910,Minnesota,27105,Nobles,Nobles,0
+1910,Minnesota,27107,Norman,Norman,2
+1910,Minnesota,27109,Olmsted,Olmsted,33
+1910,Minnesota,27111,Otter Tail,Otter Tail,52
+1910,Minnesota,27113,Pennington,Pennington,7
+1910,Minnesota,27115,Pine,Pine,11
+1910,Minnesota,27117,Pipestone,Pipestone,1
+1910,Minnesota,27119,Polk,Polk,27
+1910,Minnesota,27121,Pope,Pope,3
+1910,Minnesota,27123,Ramsey,Ramsey,3154
+1910,Minnesota,27125,Red Lake,Red Lake,0
+1910,Minnesota,27127,Redwood,Redwood,11
+1910,Minnesota,27129,Renville,Renville,1
+1910,Minnesota,27131,Rice,Rice,21
+1910,Minnesota,27133,Rock,Rock,3
+1910,Minnesota,27135,Roseau,Roseau,2
+1910,Minnesota,27137,St Louis,St Louis,439
+1910,Minnesota,27139,Scott,Scott,1
+1910,Minnesota,27141,Sherburne,Sherburne,9
+1910,Minnesota,27143,Sibley,Sibley,6
+1910,Minnesota,27145,Stearns,Stearns,14
+1910,Minnesota,27147,Steele,Steele,20
+1910,Minnesota,27149,Stevens,Stevens,2
+1910,Minnesota,27151,Swift,Swift,1
+1910,Minnesota,27153,Todd,Todd,2
+1910,Minnesota,27155,Traverse,Traverse,2
+1910,Minnesota,27157,Wabasha,Wabasha,11
+1910,Minnesota,27159,Wadena,Wadena,1
+1910,Minnesota,27161,Waseca,Waseca,5
+1910,Minnesota,27163,Washington,Washington,71
+1910,Minnesota,27165,Watonwan,Watonwan,1
+1910,Minnesota,27167,Wilkin,Wilkin,3
+1910,Minnesota,27169,Winona,Winona,22
+1910,Minnesota,27171,Wright,Wright,18
+1910,Minnesota,27173,Yellow Medicine,Yellow Medicine,1
+1910,Mississippi,28001,Adams,Adams,18908
+1910,Mississippi,28003,Alcorn,Alcorn,4275
+1910,Mississippi,28005,Amite,Amite,12590
+1910,Mississippi,28007,Attala,Attala,13219
+1910,Mississippi,28009,Benton,Benton,5037
+1910,Mississippi,28011,Bolivar,Bolivar,42763
+1910,Mississippi,28013,Calhoun,Calhoun,3812
+1910,Mississippi,28015,Carroll,Carroll,13475
+1910,Mississippi,28017,Chickasaw,Chickasaw,12714
+1910,Mississippi,28019,Choctaw,Choctaw,4169
+1910,Mississippi,28021,Claiborne,Claiborne,13608
+1910,Mississippi,28023,Clarke,Clarke,10262
+1910,Mississippi,28025,Clay,Clay,14105
+1910,Mississippi,28027,Coahoma,Coahoma,30382
+1910,Mississippi,28029,Copiah,Copiah,19981
+1910,Mississippi,28031,Covington,Covington,5224
+1910,Mississippi,28033,De Soto,De Soto,17572
+1910,Mississippi,28035,Forrest,Forrest,7683
+1910,Mississippi,28037,Franklin,Franklin,6823
+1910,Mississippi,28039,George,George,1827
+1910,Mississippi,28041,Greene,Greene,1347
+1910,Mississippi,28043,Grenada,Grenada,11161
+1910,Mississippi,28045,Hancock,Hancock,4339
+1910,Mississippi,28047,Harrison,Harrison,10643
+1910,Mississippi,28049,Hinds,Hinds,45407
+1910,Mississippi,28051,Holmes,Holmes,31197
+1910,Mississippi,28055,Issaquena,Issaquena,9946
+1910,Mississippi,28057,Itawamba,Itawamba,1198
+1910,Mississippi,28059,Jackson,Jackson,5467
+1910,Mississippi,28061,Jasper,Jasper,9013
+1910,Mississippi,28063,Jefferson,Jefferson,14287
+1910,Mississippi,28065,Jefferson Davis,Jefferson Davis,6757
+1910,Mississippi,28067,Jones,Jones,8417
+1910,Mississippi,28069,Kemper,Kemper,11691
+1910,Mississippi,28071,Lafayette,Lafayette,9904
+1910,Mississippi,28073,Lamar,Lamar,3619
+1910,Mississippi,28075,Lauderdale,Lauderdale,21875
+1910,Mississippi,28077,Lawrence,Lawrence,5147
+1910,Mississippi,28079,Leake,Leake,6171
+1910,Mississippi,28081,Lee,Lee,10667
+1910,Mississippi,28083,Leflore,Leflore,30628
+1910,Mississippi,28085,Lincoln,Lincoln,12054
+1910,Mississippi,28087,Lowndes,Lowndes,21784
+1910,Mississippi,28089,Madison,Madison,27298
+1910,Mississippi,28091,Marion,Marion,6063
+1910,Mississippi,28093,Marshall,Marshall,19342
+1910,Mississippi,28095,Monroe,Monroe,19535
+1910,Mississippi,28097,Montgomery,Montgomery,8927
+1910,Mississippi,28099,Neshoba,Neshoba,2949
+1910,Mississippi,28101,Newton,Newton,8950
+1910,Mississippi,28103,Noxubee,Noxubee,23947
+1910,Mississippi,28105,Oktibbeha,Oktibbeha,12675
+1910,Mississippi,28107,Panola,Panola,21224
+1910,Mississippi,28109,Pearl River,Pearl River,2422
+1910,Mississippi,28111,Perry,Perry,2581
+1910,Mississippi,28113,Pike,Pike,17597
+1910,Mississippi,28115,Pontotoc,Pontotoc,4727
+1910,Mississippi,28117,Prentiss,Prentiss,2875
+1910,Mississippi,28119,Quitman,Quitman,8864
+1910,Mississippi,28121,Rankin,Rankin,14249
+1910,Mississippi,28123,Scott,Scott,6896
+1910,Mississippi,28125,Sharkey,Sharkey,13967
+1910,Mississippi,28127,Simpson,Simpson,5969
+1910,Mississippi,28129,Smith,Smith,2899
+1910,Mississippi,28133,Sunflower,Sunflower,23281
+1910,Mississippi,28135,Tallahatchie,Tallahatchie,20180
+1910,Mississippi,28137,Tate,Tate,11535
+1910,Mississippi,28139,Tippah,Tippah,2801
+1910,Mississippi,28141,Tishomingo,Tishomingo,1089
+1910,Mississippi,28143,Tunica,Tunica,16910
+1910,Mississippi,28145,Union,Union,4216
+1910,Mississippi,28149,Warren,Warren,26191
+1910,Mississippi,28151,Washington,Washington,41600
+1910,Mississippi,28153,Wayne,Wayne,5843
+1910,Mississippi,28155,Webster,Webster,3286
+1910,Mississippi,28157,Wilkinson,Wilkinson,13904
+1910,Mississippi,28159,Winston,Winston,6863
+1910,Mississippi,28161,Yalobusha,Yalobusha,11182
+1910,Mississippi,28163,Yazoo,Yazoo,35502
+1910,Missouri,29001,Adair,Adair,216
+1910,Missouri,29003,Andrew,Andrew,130
+1910,Missouri,29005,Atchison,Atchison,14
+1910,Missouri,29007,Audrain,Audrain,1617
+1910,Missouri,29009,Barry,Barry,6
+1910,Missouri,29011,Barton,Barton,24
+1910,Missouri,29013,Bates,Bates,238
+1910,Missouri,29015,Benton,Benton,136
+1910,Missouri,29017,Bollinger,Bollinger,30
+1910,Missouri,29019,Boone,Boone,4185
+1910,Missouri,29021,Buchanan,Buchanan,4457
+1910,Missouri,29023,Butler,Butler,1372
+1910,Missouri,29025,Caldwell,Caldwell,278
+1910,Missouri,29027,Callaway,Callaway,3514
+1910,Missouri,29029,Camden,Camden,46
+1910,Missouri,29031,Cape Girardeau,Cape Girardeau,1990
+1910,Missouri,29033,Carroll,Carroll,1019
+1910,Missouri,29035,Carter,Carter,2
+1910,Missouri,29037,Cass,Cass,510
+1910,Missouri,29039,Cedar,Cedar,13
+1910,Missouri,29041,Chariton,Chariton,2232
+1910,Missouri,29043,Christian,Christian,51
+1910,Missouri,29045,Clark,Clark,50
+1910,Missouri,29047,Clay,Clay,1052
+1910,Missouri,29049,Clinton,Clinton,769
+1910,Missouri,29051,Cole,Cole,2157
+1910,Missouri,29053,Cooper,Cooper,2878
+1910,Missouri,29055,Crawford,Crawford,35
+1910,Missouri,29057,Dade,Dade,235
+1910,Missouri,29059,Dallas,Dallas,2
+1910,Missouri,29061,Daviess,Daviess,258
+1910,Missouri,29063,DeKalb,De Kalb,64
+1910,Missouri,29065,Dent,Dent,18
+1910,Missouri,29067,Douglas,Douglas,8
+1910,Missouri,29069,Dunklin,Dunklin,96
+1910,Missouri,29071,Franklin,Franklin,1365
+1910,Missouri,29073,Gasconade,Gasconade,41
+1910,Missouri,29075,Gentry,Gentry,11
+1910,Missouri,29077,Greene,Greene,2625
+1910,Missouri,29079,Grundy,Grundy,159
+1910,Missouri,29081,Harrison,Harrison,28
+1910,Missouri,29083,Henry,Henry,842
+1910,Missouri,29085,Hickory,Hickory,7
+1910,Missouri,29087,Holt,Holt,118
+1910,Missouri,29089,Howard,Howard,3152
+1910,Missouri,29091,Howell,Howell,127
+1910,Missouri,29093,Iron,Iron,179
+1910,Missouri,29095,Jackson,Jackson,24936
+1910,Missouri,29097,Jasper,Jasper,1368
+1910,Missouri,29099,Jefferson,Jefferson,1565
+1910,Missouri,29101,Johnson,Johnson,1251
+1910,Missouri,29103,Knox,Knox,168
+1910,Missouri,29105,Laclede,Laclede,216
+1910,Missouri,29107,Lafayette,Lafayette,2869
+1910,Missouri,29109,Lawrence,Lawrence,91
+1910,Missouri,29111,Lewis,Lewis,776
+1910,Missouri,29113,Lincoln,Lincoln,1362
+1910,Missouri,29115,Linn,Linn,668
+1910,Missouri,29117,Livingston,Livingston,596
+1910,Missouri,29119,McDonald,Mcdonald,2
+1910,Missouri,29121,Macon,Macon,1004
+1910,Missouri,29123,Madison,Madison,280
+1910,Missouri,29125,Maries,Maries,8
+1910,Missouri,29127,Marion,Marion,2894
+1910,Missouri,29129,Mercer,Mercer,33
+1910,Missouri,29131,Miller,Miller,96
+1910,Missouri,29133,Mississippi,Mississippi,2006
+1910,Missouri,29135,Moniteau,Moniteau,503
+1910,Missouri,29137,Monroe,Monroe,1223
+1910,Missouri,29139,Montgomery,Montgomery,1176
+1910,Missouri,29141,Morgan,Morgan,410
+1910,Missouri,29143,New Madrid,New Madrid,2097
+1910,Missouri,29145,Newton,Newton,539
+1910,Missouri,29147,Nodaway,Nodaway,155
+1910,Missouri,29149,Oregon,Oregon,9
+1910,Missouri,29151,Osage,Osage,149
+1910,Missouri,29153,Ozark,Ozark,16
+1910,Missouri,29155,Pemiscot,Pemiscot,1533
+1910,Missouri,29157,Perry,Perry,228
+1910,Missouri,29159,Pettis,Pettis,2715
+1910,Missouri,29161,Phelps,Phelps,136
+1910,Missouri,29163,Pike,Pike,3350
+1910,Missouri,29165,Platte,Platte,719
+1910,Missouri,29167,Polk,Polk,138
+1910,Missouri,29169,Pulaski,Pulaski,22
+1910,Missouri,29171,Putnam,Putnam,20
+1910,Missouri,29173,Ralls,Ralls,610
+1910,Missouri,29175,Randolph,Randolph,2458
+1910,Missouri,29177,Ray,Ray,1215
+1910,Missouri,29179,Reynolds,Reynolds,2
+1910,Missouri,29181,Ripley,Ripley,5
+1910,Missouri,29183,St Charles,St Charles,1718
+1910,Missouri,29185,St Clair,St Clair,184
+1910,Missouri,29186,Ste Genevieve,Ste Genevieve,386
+1910,Missouri,29187,St Francois,St Francois,556
+1910,Missouri,29189,St Louis,St Louis,4253
+1910,Missouri,29195,Saline,Saline,3784
+1910,Missouri,29197,Schuyler,Schuyler,4
+1910,Missouri,29199,Scotland,Scotland,45
+1910,Missouri,29201,Scott,Scott,545
+1910,Missouri,29203,Shannon,Shannon,0
+1910,Missouri,29205,Shelby,Shelby,558
+1910,Missouri,29207,Stoddard,Stoddard,24
+1910,Missouri,29209,Stone,Stone,1
+1910,Missouri,29211,Sullivan,Sullivan,93
+1910,Missouri,29213,Taney,Taney,1
+1910,Missouri,29215,Texas,Texas,2
+1910,Missouri,29217,Vernon,Vernon,138
+1910,Missouri,29219,Warren,Warren,478
+1910,Missouri,29221,Washington,Washington,403
+1910,Missouri,29223,Wayne,Wayne,23
+1910,Missouri,29225,Webster,Webster,87
+1910,Missouri,29227,Worth,Worth,0
+1910,Missouri,29229,Wright,Wright,236
+1910,Missouri,29510,St Louis City,St Louis City,43960
+1910,Montana,30001,Beaverhead,Beaverhead,26
+1910,Montana,30007,Broadwater,Broadwater,19
+1910,Montana,30009,Carbon,Carbon,5
+1910,Montana,30013,Cascade,Cascade,145
+1910,Montana,30015,Chouteau,Chouteau,56
+1910,Montana,30017,Custer,Custer,94
+1910,Montana,30021,Dawson,Dawson,12
+1910,Montana,30023,Deer Lodge,Deer Lodge,130
+1910,Montana,30027,Fergus,Fergus,64
+1910,Montana,30029,Flathead,Flathead,27
+1910,Montana,30031,Gallatin,Gallatin,49
+1910,Montana,30039,Granite,Granite,10
+1910,Montana,30043,Jefferson,Jefferson,12
+1910,Montana,30049,Lewis And Clark,Lewis And Clark,430
+1910,Montana,30053,Lincoln,Lincoln,1
+1910,Montana,30057,Madison,Madison,27
+1910,Montana,30059,Meagher,Meagher,30
+1910,Montana,30063,Missoula,Missoula,133
+1910,Montana,30067,Park,Park,21
+1910,Montana,30077,Powell,Powell,43
+1910,Montana,30081,Ravalli,Ravalli,13
+1910,Montana,30087,Rosebud,Rosebud,18
+1910,Montana,30089,Sanders,Sanders,19
+1910,Montana,30093,Silver Bow,Silver Bow,260
+1910,Montana,30097,Sweet Grass,Sweet Grass,1
+1910,Montana,30099,Teton,Teton,7
+1910,Montana,30105,Valley,Valley,15
+1910,Montana,30111,Yellowstone,Yellowstone,167
+1910,Nebraska,31001,Adams,Adams,97
+1910,Nebraska,31003,Antelope,Antelope,9
+1910,Nebraska,31007,Banner,Banner,0
+1910,Nebraska,31009,Blaine,Blaine,14
+1910,Nebraska,31011,Boone,Boone,5
+1910,Nebraska,31013,Box Butte,Box Butte,55
+1910,Nebraska,31015,Boyd,Boyd,3
+1910,Nebraska,31017,Brown,Brown,5
+1910,Nebraska,31019,Buffalo,Buffalo,58
+1910,Nebraska,31021,Burt,Burt,5
+1910,Nebraska,31023,Butler,Butler,12
+1910,Nebraska,31025,Cass,Cass,30
+1910,Nebraska,31027,Cedar,Cedar,2
+1910,Nebraska,31029,Chase,Chase,0
+1910,Nebraska,31031,Cherry,Cherry,80
+1910,Nebraska,31033,Cheyenne,Cheyenne,4
+1910,Nebraska,31035,Clay,Clay,9
+1910,Nebraska,31037,Colfax,Colfax,12
+1910,Nebraska,31039,Cuming,Cuming,1
+1910,Nebraska,31041,Custer,Custer,54
+1910,Nebraska,31043,Dakota,Dakota,12
+1910,Nebraska,31045,Dawes,Dawes,105
+1910,Nebraska,31047,Dawson,Dawson,11
+1910,Nebraska,31049,Deuel,Deuel,0
+1910,Nebraska,31051,Dixon,Dixon,0
+1910,Nebraska,31053,Dodge,Dodge,56
+1910,Nebraska,31055,Douglas,Douglas,5208
+1910,Nebraska,31057,Dundy,Dundy,8
+1910,Nebraska,31059,Fillmore,Fillmore,8
+1910,Nebraska,31061,Franklin,Franklin,2
+1910,Nebraska,31063,Frontier,Frontier,1
+1910,Nebraska,31065,Furnas,Furnas,7
+1910,Nebraska,31067,Gage,Gage,58
+1910,Nebraska,31069,Garden,Garden,4
+1910,Nebraska,31071,Garfield,Garfield,14
+1910,Nebraska,31073,Gosper,Gosper,1
+1910,Nebraska,31075,Grant,Grant,15
+1910,Nebraska,31077,Greeley,Greeley,5
+1910,Nebraska,31079,Hall,Hall,129
+1910,Nebraska,31081,Hamilton,Hamilton,29
+1910,Nebraska,31083,Harlan,Harlan,24
+1910,Nebraska,31085,Hayes,Hayes,4
+1910,Nebraska,31087,Hitchcock,Hitchcock,1
+1910,Nebraska,31089,Holt,Holt,10
+1910,Nebraska,31091,Hooker,Hooker,0
+1910,Nebraska,31093,Howard,Howard,3
+1910,Nebraska,31095,Jefferson,Jefferson,33
+1910,Nebraska,31097,Johnson,Johnson,1
+1910,Nebraska,31099,Kearney,Kearney,15
+1910,Nebraska,31101,Keith,Keith,0
+1910,Nebraska,31103,Keya Paha,Keya Paha,7
+1910,Nebraska,31105,Kimball,Kimball,2
+1910,Nebraska,31107,Knox,Knox,8
+1910,Nebraska,31109,Lancaster,Lancaster,870
+1910,Nebraska,31111,Lincoln,Lincoln,25
+1910,Nebraska,31113,Logan,Logan,0
+1910,Nebraska,31115,Loup,Loup,4
+1910,Nebraska,31117,McPherson,Mcpherson,3
+1910,Nebraska,31119,Madison,Madison,61
+1910,Nebraska,31121,Merrick,Merrick,28
+1910,Nebraska,31123,Morrill,Morrill,6
+1910,Nebraska,31125,Nance,Nance,12
+1910,Nebraska,31127,Nemaha,Nemaha,19
+1910,Nebraska,31129,Nuckolls,Nuckolls,4
+1910,Nebraska,31131,Otoe,Otoe,81
+1910,Nebraska,31133,Pawnee,Pawnee,0
+1910,Nebraska,31135,Perkins,Perkins,0
+1910,Nebraska,31137,Phelps,Phelps,8
+1910,Nebraska,31139,Pierce,Pierce,0
+1910,Nebraska,31141,Platte,Platte,15
+1910,Nebraska,31143,Polk,Polk,6
+1910,Nebraska,31145,Red Willow,Red Willow,4
+1910,Nebraska,31147,Richardson,Richardson,83
+1910,Nebraska,31149,Rock,Rock,1
+1910,Nebraska,31151,Saline,Saline,23
+1910,Nebraska,31153,Sarpy,Sarpy,36
+1910,Nebraska,31155,Saunders,Saunders,21
+1910,Nebraska,31157,Scotts Bluff,Scotts Bluff,16
+1910,Nebraska,31159,Seward,Seward,8
+1910,Nebraska,31161,Sheridan,Sheridan,1
+1910,Nebraska,31163,Sherman,Sherman,5
+1910,Nebraska,31165,Sioux,Sioux,14
+1910,Nebraska,31167,Stanton,Stanton,1
+1910,Nebraska,31169,Thayer,Thayer,2
+1910,Nebraska,31171,Thomas,Thomas,11
+1910,Nebraska,31173,Thurston,Thurston,13
+1910,Nebraska,31175,Valley,Valley,2
+1910,Nebraska,31177,Washington,Washington,2
+1910,Nebraska,31179,Wayne,Wayne,1
+1910,Nebraska,31181,Webster,Webster,6
+1910,Nebraska,31183,Wheeler,Wheeler,33
+1910,Nebraska,31185,York,York,28
+1910,Nevada,32001,Churchill,Churchill,1
+1910,Nevada,32003,Clark,Clark,12
+1910,Nevada,32005,Douglas,Douglas,7
+1910,Nevada,32007,Elko,Elko,38
+1910,Nevada,32009,Esmeralda,Esmeralda,99
+1910,Nevada,32011,Eureka,Eureka,1
+1910,Nevada,32013,Humboldt,Humboldt,36
+1910,Nevada,32015,Lander,Lander,7
+1910,Nevada,32017,Lincoln,Lincoln,7
+1910,Nevada,32019,Lyon,Lyon,4
+1910,Nevada,32023,Nye,Nye,74
+1910,Nevada,32025,Ormsby,Ormsby,56
+1910,Nevada,32029,Storey,Storey,10
+1910,Nevada,32031,Washoe,Washoe,115
+1910,Nevada,32033,White Pine,White Pine,46
+1910,New Hampshire,33001,Belknap,Belknap,41
+1910,New Hampshire,33003,Carroll,Carroll,13
+1910,New Hampshire,33005,Cheshire,Cheshire,26
+1910,New Hampshire,33007,Coos,Coos,31
+1910,New Hampshire,33009,Grafton,Grafton,44
+1910,New Hampshire,33011,Hillsborough,Hillsborough,77
+1910,New Hampshire,33013,Merrimack,Merrimack,122
+1910,New Hampshire,33015,Rockingham,Rockingham,158
+1910,New Hampshire,33017,Strafford,Strafford,25
+1910,New Hampshire,33019,Sullivan,Sullivan,27
+1910,New Jersey,34001,Atlantic,Atlantic,10782
+1910,New Jersey,34003,Bergen,Bergen,3295
+1910,New Jersey,34005,Burlington,Burlington,3454
+1910,New Jersey,34007,Camden,Camden,9402
+1910,New Jersey,34009,Cape May,Cape May,1444
+1910,New Jersey,34011,Cumberland,Cumberland,2641
+1910,New Jersey,34013,Essex,Essex,18104
+1910,New Jersey,34015,Gloucester,Gloucester,2375
+1910,New Jersey,34017,Hudson,Hudson,7173
+1910,New Jersey,34019,Hunterdon,Hunterdon,438
+1910,New Jersey,34021,Mercer,Mercer,5125
+1910,New Jersey,34023,Middlesex,Middlesex,1846
+1910,New Jersey,34025,Monmouth,Monmouth,8279
+1910,New Jersey,34027,Morris,Morris,1940
+1910,New Jersey,34029,Ocean,Ocean,438
+1910,New Jersey,34031,Passaic,Passaic,2401
+1910,New Jersey,34033,Salem,Salem,3324
+1910,New Jersey,34035,Somerset,Somerset,1414
+1910,New Jersey,34037,Sussex,Sussex,168
+1910,New Jersey,34039,Union,Union,5353
+1910,New Jersey,34041,Warren,Warren,364
+1910,New Mexico Territory,,Bernalillo,Bernalillo,311
+1910,New Mexico Territory,,Chaves,Chaves,233
+1910,New Mexico Territory,,Colfax,Colfax,225
+1910,New Mexico Territory,,Curry,Curry,6
+1910,New Mexico Territory,,Dona Ana,Dona Ana,65
+1910,New Mexico Territory,,Eddy,Eddy,56
+1910,New Mexico Territory,,Grant,Grant,164
+1910,New Mexico Territory,,Guadalupe,Guadalupe,10
+1910,New Mexico Territory,,Lincoln,Lincoln,27
+1910,New Mexico Territory,,Luna,Luna,11
+1910,New Mexico Territory,,McKinley,Mckinley,66
+1910,New Mexico Territory,,Mora,Mora,5
+1910,New Mexico Territory,,Otero,Otero,24
+1910,New Mexico Territory,,Quay,Quay,25
+1910,New Mexico Territory,,Rio Arriba,Rio Arriba,2
+1910,New Mexico Territory,,Roosevelt,Roosevelt,4
+1910,New Mexico Territory,,Sandoval,Sandoval,7
+1910,New Mexico Territory,,San Juan,San Juan,7
+1910,New Mexico Territory,,San Miguel,San Miguel,122
+1910,New Mexico Territory,,Santa Fe,Santa Fe,128
+1910,New Mexico Territory,,Sierra,Sierra,8
+1910,New Mexico Territory,,Socorro,Socorro,45
+1910,New Mexico Territory,,Taos,Taos,5
+1910,New Mexico Territory,,Torrance,Torrance,8
+1910,New Mexico Territory,,Union,Union,42
+1910,New Mexico Territory,,Valencia,Valencia,22
+1910,New York,36001,Albany,Albany,1222
+1910,New York,36003,Allegany,Allegany,325
+1910,New York,36007,Broome,Broome,725
+1910,New York,36009,Cattaraugus,Cattaraugus,333
+1910,New York,36011,Cayuga,Cayuga,661
+1910,New York,36013,Chautauqua,Chautauqua,169
+1910,New York,36015,Chemung,Chemung,593
+1910,New York,36017,Chenango,Chenango,196
+1910,New York,36019,Clinton,Clinton,251
+1910,New York,36021,Columbia,Columbia,1103
+1910,New York,36023,Cortland,Cortland,71
+1910,New York,36025,Delaware,Delaware,226
+1910,New York,36027,Dutchess,Dutchess,2367
+1910,New York,36029,Erie,Erie,2059
+1910,New York,36031,Essex,Essex,82
+1910,New York,36033,Franklin,Franklin,53
+1910,New York,36035,Fulton,Fulton,317
+1910,New York,36037,Genesee,Genesee,162
+1910,New York,36039,Greene,Greene,513
+1910,New York,36041,Hamilton,Hamilton,0
+1910,New York,36043,Herkimer,Herkimer,196
+1910,New York,36045,Jefferson,Jefferson,244
+1910,New York,36047,Kings,Kings,22708
+1910,New York,36049,Lewis,Lewis,13
+1910,New York,36051,Livingston,Livingston,344
+1910,New York,36053,Madison,Madison,296
+1910,New York,36055,Monroe,Monroe,1224
+1910,New York,36057,Montgomery,Montgomery,213
+1910,New York,36059,Nassau,Nassau,2317
+1910,New York,36061,New York,New York,64651
+1910,New York,36063,Niagara,Niagara,435
+1910,New York,36065,Oneida,Oneida,632
+1910,New York,36067,Onondaga,Onondaga,1296
+1910,New York,36069,Ontario,Ontario,365
+1910,New York,36071,Orange,Orange,3081
+1910,New York,36073,Orleans,Orleans,147
+1910,New York,36075,Oswego,Oswego,437
+1910,New York,36077,Otsego,Otsego,104
+1910,New York,36079,Putnam,Putnam,190
+1910,New York,36081,Queens,Queens,3198
+1910,New York,36083,Rensselaer,Rensselaer,798
+1910,New York,36085,Richmond,Richmond,1152
+1910,New York,36087,Rockland,Rockland,1534
+1910,New York,36089,St Lawrence,St Lawrence,56
+1910,New York,36091,Saratoga,Saratoga,697
+1910,New York,36093,Schenectady,Schenectady,288
+1910,New York,36095,Schoharie,Schoharie,224
+1910,New York,36097,Schuyler,Schuyler,184
+1910,New York,36099,Seneca,Seneca,122
+1910,New York,36101,Steuben,Steuben,357
+1910,New York,36103,Suffolk,Suffolk,2771
+1910,New York,36105,Sullivan,Sullivan,64
+1910,New York,36107,Tioga,Tioga,242
+1910,New York,36109,Tompkins,Tompkins,533
+1910,New York,36111,Ulster,Ulster,2026
+1910,New York,36113,Warren,Warren,25
+1910,New York,36115,Washington,Washington,197
+1910,New York,36117,Wayne,Wayne,194
+1910,New York,36119,Westchester,Westchester,8986
+1910,New York,36121,Wyoming,Wyoming,88
+1910,New York,36123,Yates,Yates,134
+1910,North Carolina,37001,Alamance,Alamance,7173
+1910,North Carolina,37003,Alexander,Alexander,910
+1910,North Carolina,37005,Alleghany,Alleghany,340
+1910,North Carolina,37007,Anson,Anson,13326
+1910,North Carolina,37009,Ashe,Ashe,550
+1910,North Carolina,37013,Beaufort,Beaufort,12941
+1910,North Carolina,37015,Bertie,Bertie,13503
+1910,North Carolina,37017,Bladen,Bladen,8392
+1910,North Carolina,37019,Brunswick,Brunswick,5406
+1910,North Carolina,37021,Buncombe,Buncombe,7982
+1910,North Carolina,37023,Burke,Burke,2570
+1910,North Carolina,37025,Cabarrus,Cabarrus,6095
+1910,North Carolina,37027,Caldwell,Caldwell,2416
+1910,North Carolina,37029,Camden,Camden,2213
+1910,North Carolina,37031,Carteret,Carteret,2292
+1910,North Carolina,37033,Caswell,Caswell,7651
+1910,North Carolina,37035,Catawba,Catawba,3471
+1910,North Carolina,37037,Chatham,Chatham,7668
+1910,North Carolina,37039,Cherokee,Cherokee,503
+1910,North Carolina,37041,Chowan,Chowan,6159
+1910,North Carolina,37043,Clay,Clay,158
+1910,North Carolina,37045,Cleveland,Cleveland,5779
+1910,North Carolina,37047,Columbus,Columbus,8955
+1910,North Carolina,37049,Craven,Craven,14310
+1910,North Carolina,37051,Cumberland,Cumberland,15353
+1910,North Carolina,37053,Currituck,Currituck,2598
+1910,North Carolina,37055,Dare,Dare,495
+1910,North Carolina,37057,Davidson,Davidson,3744
+1910,North Carolina,37059,Davie,Davie,2350
+1910,North Carolina,37061,Duplin,Duplin,9281
+1910,North Carolina,37063,Durham,Durham,12383
+1910,North Carolina,37065,Edgecombe,Edgecombe,19453
+1910,North Carolina,37067,Forsyth,Forsyth,14027
+1910,North Carolina,37069,Franklin,Franklin,11564
+1910,North Carolina,37071,Gaston,Gaston,8502
+1910,North Carolina,37073,Gates,Gates,4693
+1910,North Carolina,37075,Graham,Graham,0
+1910,North Carolina,37077,Granville,Granville,12239
+1910,North Carolina,37079,Greene,Greene,6096
+1910,North Carolina,37081,Guilford,Guilford,15379
+1910,North Carolina,37083,Halifax,Halifax,24328
+1910,North Carolina,37085,Harnett,Harnett,6442
+1910,North Carolina,37087,Haywood,Haywood,567
+1910,North Carolina,37089,Henderson,Henderson,1815
+1910,North Carolina,37091,Hertford,Hertford,9098
+1910,North Carolina,37095,Hyde,Hyde,3701
+1910,North Carolina,37097,Iredell,Iredell,7456
+1910,North Carolina,37099,Jackson,Jackson,603
+1910,North Carolina,37101,Johnston,Johnston,10169
+1910,North Carolina,37103,Jones,Jones,4096
+1910,North Carolina,37105,Lee,Lee,3526
+1910,North Carolina,37107,Lenoir,Lenoir,10225
+1910,North Carolina,37109,Lincoln,Lincoln,2797
+1910,North Carolina,37111,McDowell,Mcdowell,2080
+1910,North Carolina,37113,Macon,Macon,576
+1910,North Carolina,37115,Madison,Madison,432
+1910,North Carolina,37117,Martin,Martin,8838
+1910,North Carolina,37119,Mecklenburg,Mecklenburg,25481
+1910,North Carolina,37121,Mitchell,Mitchell,343
+1910,North Carolina,37123,Montgomery,Montgomery,3660
+1910,North Carolina,37125,Moore,Moore,5637
+1910,North Carolina,37127,Nash,Nash,14104
+1910,North Carolina,37129,New Hanover,New Hanover,15302
+1910,North Carolina,37131,Northampton,Northampton,13062
+1910,North Carolina,37133,Onslow,Onslow,4238
+1910,North Carolina,37135,Orange,Orange,4926
+1910,North Carolina,37137,Pamlico,Pamlico,3773
+1910,North Carolina,37139,Pasquotank,Pasquotank,8357
+1910,North Carolina,37141,Pender,Pender,7620
+1910,North Carolina,37143,Perquimans,Perquimans,5589
+1910,North Carolina,37145,Person,Person,7474
+1910,North Carolina,37147,Pitt,Pitt,18106
+1910,North Carolina,37149,Polk,Polk,1094
+1910,North Carolina,37151,Randolph,Randolph,3421
+1910,North Carolina,37153,Richmond,Richmond,9225
+1910,North Carolina,37155,Robeson,Robeson,22518
+1910,North Carolina,37157,Rockingham,Rockingham,10474
+1910,North Carolina,37159,Rowan,Rowan,9074
+1910,North Carolina,37161,Rutherford,Rutherford,4288
+1910,North Carolina,37163,Sampson,Sampson,10043
+1910,North Carolina,37165,Scotland,Scotland,8473
+1910,North Carolina,37167,Stanly,Stanly,2132
+1910,North Carolina,37169,Stokes,Stokes,2569
+1910,North Carolina,37171,Surry,Surry,2632
+1910,North Carolina,37173,Swain,Swain,185
+1910,North Carolina,37175,Transylvania,Transylvania,638
+1910,North Carolina,37177,Tyrrell,Tyrrell,1642
+1910,North Carolina,37179,Union,Union,9337
+1910,North Carolina,37181,Vance,Vance,10004
+1910,North Carolina,37183,Wake,Wake,25870
+1910,North Carolina,37185,Warren,Warren,13207
+1910,North Carolina,37187,Washington,Washington,5503
+1910,North Carolina,37189,Watauga,Watauga,246
+1910,North Carolina,37191,Wayne,Wayne,15579
+1910,North Carolina,37193,Wilkes,Wilkes,2591
+1910,North Carolina,37195,Wilson,Wilson,12350
+1910,North Carolina,37197,Yadkin,Yadkin,1174
+1910,North Carolina,37199,Yancey,Yancey,233
+1910,North Dakota,38001,Adams,Adams,0
+1910,North Dakota,38003,Barnes,Barnes,2
+1910,North Dakota,38005,Benson,Benson,9
+1910,North Dakota,38007,Billings,Billings,6
+1910,North Dakota,38009,Bottineau,Bottineau,10
+1910,North Dakota,38011,Bowman,Bowman,1
+1910,North Dakota,38013,Burke,Burke,4
+1910,North Dakota,38015,Burleigh,Burleigh,54
+1910,North Dakota,38017,Cass,Cass,120
+1910,North Dakota,38019,Cavalier,Cavalier,14
+1910,North Dakota,38021,Dickey,Dickey,6
+1910,North Dakota,38023,Divide,Divide,3
+1910,North Dakota,38025,Dunn,Dunn,0
+1910,North Dakota,38027,Eddy,Eddy,2
+1910,North Dakota,38029,Emmons,Emmons,9
+1910,North Dakota,38031,Foster,Foster,3
+1910,North Dakota,38035,Grand Forks,Grand Forks,60
+1910,North Dakota,38039,Griggs,Griggs,15
+1910,North Dakota,38041,Hettinger,Hettinger,8
+1910,North Dakota,38043,Kidder,Kidder,11
+1910,North Dakota,38045,La Moure,La Moure,5
+1910,North Dakota,38047,Logan,Logan,1
+1910,North Dakota,38049,McHenry,Mchenry,14
+1910,North Dakota,38051,McIntosh,Mcintosh,3
+1910,North Dakota,38053,McKenzie,Mckenzie,2
+1910,North Dakota,38055,McLean,Mclean,4
+1910,North Dakota,38057,Mercer,Mercer,0
+1910,North Dakota,38059,Morton,Morton,12
+1910,North Dakota,38061,Mountrail,Mountrail,1
+1910,North Dakota,38063,Nelson,Nelson,1
+1910,North Dakota,38065,Oliver,Oliver,0
+1910,North Dakota,38067,Pembina,Pembina,5
+1910,North Dakota,38069,Pierce,Pierce,25
+1910,North Dakota,38071,Ramsey,Ramsey,44
+1910,North Dakota,38073,Ransom,Ransom,8
+1910,North Dakota,38075,Renville,Renville,0
+1910,North Dakota,38077,Richland,Richland,11
+1910,North Dakota,38079,Rolette,Rolette,6
+1910,North Dakota,38081,Sargent,Sargent,1
+1910,North Dakota,38083,Sheridan,Sheridan,0
+1910,North Dakota,38089,Stark,Stark,6
+1910,North Dakota,38091,Steele,Steele,3
+1910,North Dakota,38093,Stutsman,Stutsman,8
+1910,North Dakota,38095,Towner,Towner,19
+1910,North Dakota,38097,Traill,Traill,2
+1910,North Dakota,38099,Walsh,Walsh,5
+1910,North Dakota,38101,Ward,Ward,67
+1910,North Dakota,38103,Wells,Wells,3
+1910,North Dakota,38105,Williams,Williams,24
+1910,Ohio,39001,Adams,Adams,184
+1910,Ohio,39003,Allen,Allen,1030
+1910,Ohio,39005,Ashland,Ashland,25
+1910,Ohio,39007,Ashtabula,Ashtabula,217
+1910,Ohio,39009,Athens,Athens,1240
+1910,Ohio,39011,Auglaize,Auglaize,36
+1910,Ohio,39013,Belmont,Belmont,1782
+1910,Ohio,39015,Brown,Brown,1288
+1910,Ohio,39017,Butler,Butler,1781
+1910,Ohio,39019,Carroll,Carroll,25
+1910,Ohio,39021,Champaign,Champaign,1410
+1910,Ohio,39023,Clark,Clark,5583
+1910,Ohio,39025,Clermont,Clermont,865
+1910,Ohio,39027,Clinton,Clinton,939
+1910,Ohio,39029,Columbiana,Columbiana,967
+1910,Ohio,39031,Coshocton,Coshocton,97
+1910,Ohio,39033,Crawford,Crawford,77
+1910,Ohio,39035,Cuyahoga,Cuyahoga,8763
+1910,Ohio,39037,Darke,Darke,376
+1910,Ohio,39039,Defiance,Defiance,23
+1910,Ohio,39041,Delaware,Delaware,671
+1910,Ohio,39043,Erie,Erie,311
+1910,Ohio,39045,Fairfield,Fairfield,449
+1910,Ohio,39047,Fayette,Fayette,1231
+1910,Ohio,39049,Franklin,Franklin,14006
+1910,Ohio,39051,Fulton,Fulton,6
+1910,Ohio,39053,Gallia,Gallia,1875
+1910,Ohio,39055,Geauga,Geauga,9
+1910,Ohio,39057,Greene,Greene,3970
+1910,Ohio,39059,Guernsey,Guernsey,489
+1910,Ohio,39061,Hamilton,Hamilton,24300
+1910,Ohio,39063,Hancock,Hancock,249
+1910,Ohio,39065,Hardin,Hardin,556
+1910,Ohio,39067,Harrison,Harrison,612
+1910,Ohio,39069,Henry,Henry,8
+1910,Ohio,39071,Highland,Highland,1379
+1910,Ohio,39073,Hocking,Hocking,143
+1910,Ohio,39075,Holmes,Holmes,8
+1910,Ohio,39077,Huron,Huron,284
+1910,Ohio,39079,Jackson,Jackson,708
+1910,Ohio,39081,Jefferson,Jefferson,1647
+1910,Ohio,39083,Knox,Knox,323
+1910,Ohio,39085,Lake,Lake,237
+1910,Ohio,39087,Lawrence,Lawrence,1789
+1910,Ohio,39089,Licking,Licking,432
+1910,Ohio,39091,Logan,Logan,777
+1910,Ohio,39093,Lorain,Lorain,1521
+1910,Ohio,39095,Lucas,Lucas,1918
+1910,Ohio,39097,Madison,Madison,745
+1910,Ohio,39099,Mahoning,Mahoning,2083
+1910,Ohio,39101,Marion,Marion,232
+1910,Ohio,39103,Medina,Medina,114
+1910,Ohio,39105,Meigs,Meigs,690
+1910,Ohio,39107,Mercer,Mercer,115
+1910,Ohio,39109,Miami,Miami,1109
+1910,Ohio,39111,Monroe,Monroe,90
+1910,Ohio,39113,Montgomery,Montgomery,5481
+1910,Ohio,39115,Morgan,Morgan,147
+1910,Ohio,39117,Morrow,Morrow,56
+1910,Ohio,39119,Muskingum,Muskingum,1686
+1910,Ohio,39121,Noble,Noble,44
+1910,Ohio,39123,Ottawa,Ottawa,31
+1910,Ohio,39125,Paulding,Paulding,502
+1910,Ohio,39127,Perry,Perry,563
+1910,Ohio,39129,Pickaway,Pickaway,695
+1910,Ohio,39131,Pike,Pike,717
+1910,Ohio,39133,Portage,Portage,192
+1910,Ohio,39135,Preble,Preble,265
+1910,Ohio,39137,Putnam,Putnam,26
+1910,Ohio,39139,Richland,Richland,253
+1910,Ohio,39141,Ross,Ross,2382
+1910,Ohio,39143,Sandusky,Sandusky,146
+1910,Ohio,39145,Scioto,Scioto,1016
+1910,Ohio,39147,Seneca,Seneca,157
+1910,Ohio,39149,Shelby,Shelby,231
+1910,Ohio,39151,Stark,Stark,752
+1910,Ohio,39153,Summit,Summit,757
+1910,Ohio,39155,Trumbull,Trumbull,208
+1910,Ohio,39157,Tuscarawas,Tuscarawas,194
+1910,Ohio,39159,Union,Union,264
+1910,Ohio,39161,Van Wert,Van Wert,327
+1910,Ohio,39163,Vinton,Vinton,213
+1910,Ohio,39165,Warren,Warren,729
+1910,Ohio,39167,Washington,Washington,1378
+1910,Ohio,39169,Wayne,Wayne,70
+1910,Ohio,39171,Williams,Williams,5
+1910,Ohio,39173,Wood,Wood,150
+1910,Ohio,39175,Wyandot,Wyandot,21
+1910,Oklahoma,40001,Adair,Adair,22
+1910,Oklahoma,40003,Alfalfa,Alfalfa,5
+1910,Oklahoma,40005,Atoka,Atoka,2109
+1910,Oklahoma,40007,Beaver,Beaver,12
+1910,Oklahoma,40009,Beckham,Beckham,2
+1910,Oklahoma,40011,Blaine,Blaine,1434
+1910,Oklahoma,40013,Bryan,Bryan,2184
+1910,Oklahoma,40015,Caddo,Caddo,1178
+1910,Oklahoma,40017,Canadian,Canadian,823
+1910,Oklahoma,40019,Carter,Carter,4315
+1910,Oklahoma,40021,Cherokee,Cherokee,995
+1910,Oklahoma,40023,Choctaw,Choctaw,4303
+1910,Oklahoma,40025,Cimarron,Cimarron,2
+1910,Oklahoma,40027,Cleveland,Cleveland,456
+1910,Oklahoma,40029,Coal,Coal,976
+1910,Oklahoma,40031,Comanche,Comanche,962
+1910,Oklahoma,40035,Craig,Craig,1175
+1910,Oklahoma,40037,Creek,Creek,2778
+1910,Oklahoma,40039,Custer,Custer,291
+1910,Oklahoma,40041,Delaware,Delaware,38
+1910,Oklahoma,40043,Dewey,Dewey,52
+1910,Oklahoma,40045,Ellis,Ellis,2
+1910,Oklahoma,40047,Garfield,Garfield,822
+1910,Oklahoma,40049,Garvin,Garvin,2318
+1910,Oklahoma,40051,Grady,Grady,1731
+1910,Oklahoma,40053,Grant,Grant,14
+1910,Oklahoma,40055,Greer,Greer,146
+1910,Oklahoma,40057,Harmon,Harmon,0
+1910,Oklahoma,40059,Harper,Harper,4
+1910,Oklahoma,40061,Haskell,Haskell,385
+1910,Oklahoma,40063,Hughes,Hughes,1737
+1910,Oklahoma,40065,Jackson,Jackson,114
+1910,Oklahoma,40067,Jefferson,Jefferson,397
+1910,Oklahoma,40069,Johnston,Johnston,884
+1910,Oklahoma,40071,Kay,Kay,109
+1910,Oklahoma,40073,Kingfisher,Kingfisher,2392
+1910,Oklahoma,40075,Kiowa,Kiowa,317
+1910,Oklahoma,40077,Latimer,Latimer,618
+1910,Oklahoma,40079,Le Flore,Le Flore,1781
+1910,Oklahoma,40081,Lincoln,Lincoln,3945
+1910,Oklahoma,40083,Logan,Logan,8196
+1910,Oklahoma,40085,Love,Love,1021
+1910,Oklahoma,40087,McClain,Mcclain,1081
+1910,Oklahoma,40089,McCurtain,Mccurtain,4576
+1910,Oklahoma,40091,McIntosh,Mcintosh,5283
+1910,Oklahoma,40093,Major,Major,90
+1910,Oklahoma,40095,Marshall,Marshall,319
+1910,Oklahoma,40097,Mayes,Mayes,799
+1910,Oklahoma,40099,Murray,Murray,423
+1910,Oklahoma,40101,Muskogee,Muskogee,16454
+1910,Oklahoma,40103,Noble,Noble,642
+1910,Oklahoma,40105,Nowata,Nowata,1954
+1910,Oklahoma,40107,Okfuskee,Okfuskee,8073
+1910,Oklahoma,40109,Oklahoma,Oklahoma,9227
+1910,Oklahoma,40111,Okmulgee,Okmulgee,5933
+1910,Oklahoma,40113,Osage,Osage,391
+1910,Oklahoma,40115,Ottawa,Ottawa,11
+1910,Oklahoma,40117,Pawnee,Pawnee,806
+1910,Oklahoma,40119,Payne,Payne,1456
+1910,Oklahoma,40121,Pittsburg,Pittsburg,5244
+1910,Oklahoma,40123,Pontotoc,Pontotoc,1009
+1910,Oklahoma,40125,Pottowatomie,Pottowatomie,2017
+1910,Oklahoma,40127,Pushmataha,Pushmataha,385
+1910,Oklahoma,40129,Roger Mills,Roger Mills,0
+1910,Oklahoma,40131,Rogers,Rogers,620
+1910,Oklahoma,40133,Seminole,Seminole,4081
+1910,Oklahoma,40135,Sequoyah,Sequoyah,3178
+1910,Oklahoma,40137,Stephens,Stephens,96
+1910,Oklahoma,40139,Texas,Texas,1
+1910,Oklahoma,40141,Tillman,Tillman,432
+1910,Oklahoma,40143,Tulsa,Tulsa,2754
+1910,Oklahoma,40145,Wagoner,Wagoner,8761
+1910,Oklahoma,40147,Washington,Washington,434
+1910,Oklahoma,40149,Washita,Washita,25
+1910,Oklahoma,40151,Woods,Woods,3
+1910,Oklahoma,40153,Woodward,Woodward,9
+1910,Oregon,41001,Baker,Baker,27
+1910,Oregon,41003,Benton,Benton,1
+1910,Oregon,41005,Clackamas,Clackamas,11
+1910,Oregon,41007,Clatsop,Clatsop,25
+1910,Oregon,41009,Columbia,Columbia,1
+1910,Oregon,41011,Coos,Coos,17
+1910,Oregon,41013,Crook,Crook,8
+1910,Oregon,41015,Curry,Curry,1
+1910,Oregon,41019,Douglas,Douglas,11
+1910,Oregon,41021,Gilliam,Gilliam,1
+1910,Oregon,41023,Grant,Grant,3
+1910,Oregon,41025,Harney,Harney,2
+1910,Oregon,41027,Hood River,Hood River,8
+1910,Oregon,41029,Jackson,Jackson,41
+1910,Oregon,41033,Josephine,Josephine,4
+1910,Oregon,41035,Klamath,Klamath,21
+1910,Oregon,41037,Lake,Lake,8
+1910,Oregon,41039,Lane,Lane,13
+1910,Oregon,41041,Lincoln,Lincoln,2
+1910,Oregon,41043,Linn,Linn,2
+1910,Oregon,41045,Malheur,Malheur,14
+1910,Oregon,41047,Marion,Marion,58
+1910,Oregon,41049,Morrow,Morrow,5
+1910,Oregon,41051,Multnomah,Multnomah,1081
+1910,Oregon,41053,Polk,Polk,2
+1910,Oregon,41055,Sherman,Sherman,1
+1910,Oregon,41057,Tillamook,Tillamook,1
+1910,Oregon,41059,Umatilla,Umatilla,55
+1910,Oregon,41061,Union,Union,21
+1910,Oregon,41063,Wallowa,Wallowa,1
+1910,Oregon,41065,Wasco,Wasco,31
+1910,Oregon,41067,Washington,Washington,7
+1910,Oregon,41069,Wheeler,Wheeler,2
+1910,Oregon,41071,Yamhill,Yamhill,6
+1910,Pennsylvania,42001,Adams,Adams,325
+1910,Pennsylvania,42003,Allegheny,Allegheny,34217
+1910,Pennsylvania,42005,Armstrong,Armstrong,495
+1910,Pennsylvania,42007,Beaver,Beaver,1235
+1910,Pennsylvania,42009,Bedford,Bedford,365
+1910,Pennsylvania,42011,Berks,Berks,1007
+1910,Pennsylvania,42013,Blair,Blair,786
+1910,Pennsylvania,42015,Bradford,Bradford,234
+1910,Pennsylvania,42017,Bucks,Bucks,1832
+1910,Pennsylvania,42019,Butler,Butler,217
+1910,Pennsylvania,42021,Cambria,Cambria,640
+1910,Pennsylvania,42023,Cameron,Cameron,31
+1910,Pennsylvania,42025,Carbon,Carbon,27
+1910,Pennsylvania,42027,Centre,Centre,265
+1910,Pennsylvania,42029,Chester,Chester,10622
+1910,Pennsylvania,42031,Clarion,Clarion,24
+1910,Pennsylvania,42033,Clearfield,Clearfield,315
+1910,Pennsylvania,42035,Clinton,Clinton,209
+1910,Pennsylvania,42037,Columbia,Columbia,119
+1910,Pennsylvania,42039,Crawford,Crawford,355
+1910,Pennsylvania,42041,Cumberland,Cumberland,1788
+1910,Pennsylvania,42043,Dauphin,Dauphin,6536
+1910,Pennsylvania,42045,Delaware,Delaware,11897
+1910,Pennsylvania,42047,Elk,Elk,34
+1910,Pennsylvania,42049,Erie,Erie,392
+1910,Pennsylvania,42051,Fayette,Fayette,5852
+1910,Pennsylvania,42053,Forest,Forest,8
+1910,Pennsylvania,42055,Franklin,Franklin,1716
+1910,Pennsylvania,42057,Fulton,Fulton,94
+1910,Pennsylvania,42059,Greene,Greene,389
+1910,Pennsylvania,42061,Huntingdon,Huntingdon,305
+1910,Pennsylvania,42063,Indiana,Indiana,183
+1910,Pennsylvania,42065,Jefferson,Jefferson,105
+1910,Pennsylvania,42067,Juniata,Juniata,171
+1910,Pennsylvania,42069,Lackawanna,Lackawanna,696
+1910,Pennsylvania,42071,Lancaster,Lancaster,2299
+1910,Pennsylvania,42073,Lawrence,Lawrence,699
+1910,Pennsylvania,42075,Lebanon,Lebanon,215
+1910,Pennsylvania,42077,Lehigh,Lehigh,247
+1910,Pennsylvania,42079,Luzerne,Luzerne,924
+1910,Pennsylvania,42081,Lycoming,Lycoming,1182
+1910,Pennsylvania,42083,McKean,Mckean,251
+1910,Pennsylvania,42085,Mercer,Mercer,621
+1910,Pennsylvania,42087,Mifflin,Mifflin,172
+1910,Pennsylvania,42089,Monroe,Monroe,185
+1910,Pennsylvania,42091,Montgomery,Montgomery,6021
+1910,Pennsylvania,42093,Montour,Montour,77
+1910,Pennsylvania,42095,Northampton,Northampton,615
+1910,Pennsylvania,42097,Northumberland,Northumberland,237
+1910,Pennsylvania,42099,Perry,Perry,73
+1910,Pennsylvania,42101,Philadelphia,Philadelphia,84459
+1910,Pennsylvania,42103,Pike,Pike,72
+1910,Pennsylvania,42105,Potter,Potter,54
+1910,Pennsylvania,42107,Schuylkill,Schuylkill,242
+1910,Pennsylvania,42109,Snyder,Snyder,4
+1910,Pennsylvania,42111,Somerset,Somerset,246
+1910,Pennsylvania,42113,Sullivan,Sullivan,2
+1910,Pennsylvania,42115,Susquehanna,Susquehanna,114
+1910,Pennsylvania,42117,Tioga,Tioga,73
+1910,Pennsylvania,42119,Union,Union,59
+1910,Pennsylvania,42121,Venango,Venango,541
+1910,Pennsylvania,42123,Warren,Warren,75
+1910,Pennsylvania,42125,Washington,Washington,5888
+1910,Pennsylvania,42127,Wayne,Wayne,20
+1910,Pennsylvania,42129,Westmoreland,Westmoreland,2641
+1910,Pennsylvania,42131,Wyoming,Wyoming,12
+1910,Pennsylvania,42133,York,York,2113
+1910,Rhode Island,44001,Bristol,Bristol,153
+1910,Rhode Island,44003,Kent,Kent,266
+1910,Rhode Island,44005,Newport,Newport,1881
+1910,Rhode Island,44007,Providence,Providence,6391
+1910,Rhode Island,44009,Washington,Washington,838
+1910,South Carolina,45001,Abbeville,Abbeville,22522
+1910,South Carolina,45003,Aiken,Aiken,22850
+1910,South Carolina,45007,Anderson,Anderson,26335
+1910,South Carolina,45009,Bamberg,Bamberg,12874
+1910,South Carolina,45011,Barnwell,Barnwell,24647
+1910,South Carolina,45013,Beaufort,Beaufort,26376
+1910,South Carolina,45015,Berkeley,Berkeley,18231
+1910,South Carolina,45017,Calhoun,Calhoun,12739
+1910,South Carolina,45019,Charleston,Charleston,56033
+1910,South Carolina,45021,Cherokee,Cherokee,8510
+1910,South Carolina,45023,Chester,Chester,19140
+1910,South Carolina,45025,Chesterfield,Chesterfield,10557
+1910,South Carolina,45027,Clarendon,Clarendon,23393
+1910,South Carolina,45029,Colleton,Colleton,22296
+1910,South Carolina,45031,Darlington,Darlington,21283
+1910,South Carolina,45033,Dillon,Dillon,11539
+1910,South Carolina,45035,Dorchester,Dorchester,10982
+1910,South Carolina,45037,Edgefield,Edgefield,20114
+1910,South Carolina,45039,Fairfield,Fairfield,22377
+1910,South Carolina,45041,Florence,Florence,20340
+1910,South Carolina,45043,Georgetown,Georgetown,16110
+1910,South Carolina,45045,Greenville,Greenville,20861
+1910,South Carolina,45047,Greenwood,Greenwood,21302
+1910,South Carolina,45049,Hampton,Hampton,16120
+1910,South Carolina,45051,Horry,Horry,6668
+1910,South Carolina,45055,Kershaw,Kershaw,16444
+1910,South Carolina,45057,Lancaster,Lancaster,13115
+1910,South Carolina,45059,Laurens,Laurens,22753
+1910,South Carolina,45061,Lee,Lee,17251
+1910,South Carolina,45063,Lexington,Lexington,11638
+1910,South Carolina,45067,Marion,Marion,11208
+1910,South Carolina,45069,Marlboro,Marlboro,18928
+1910,South Carolina,45071,Newberry,Newberry,22040
+1910,South Carolina,45073,Oconee,Oconee,6848
+1910,South Carolina,45075,Orangeburg,Orangeburg,36794
+1910,South Carolina,45077,Pickens,Pickens,5430
+1910,South Carolina,45079,Richland,Richland,29533
+1910,South Carolina,45081,Saluda,Saluda,11189
+1910,South Carolina,45083,Spartanburg,Spartanburg,26410
+1910,South Carolina,45085,Sumter,Sumter,28103
+1910,South Carolina,45087,Union,Union,15471
+1910,South Carolina,45089,Williamsburg,Williamsburg,23214
+1910,South Carolina,45091,York,York,25275
+1910,South Dakota,46001,Armstrong,Armstrong,1
+1910,South Dakota,46003,Aurora,Aurora,1
+1910,South Dakota,46005,Beadle,Beadle,39
+1910,South Dakota,46007,Bennett,Bennett,0
+1910,South Dakota,46009,Bon Homme,Bon Homme,1
+1910,South Dakota,46011,Brookings,Brookings,21
+1910,South Dakota,46013,Brown,Brown,74
+1910,South Dakota,46015,Brule,Brule,2
+1910,South Dakota,46017,Buffalo,Buffalo,1
+1910,South Dakota,46019,Butte,Butte,0
+1910,South Dakota,46021,Campbell,Campbell,0
+1910,South Dakota,46023,Charles Mix,Charles Mix,0
+1910,South Dakota,46025,Clark,Clark,4
+1910,South Dakota,46027,Clay,Clay,0
+1910,South Dakota,46029,Codington,Codington,25
+1910,South Dakota,46031,Corson,Corson,3
+1910,South Dakota,46033,Custer,Custer,4
+1910,South Dakota,46035,Davison,Davison,18
+1910,South Dakota,46037,Day,Day,1
+1910,South Dakota,46039,Deuel,Deuel,5
+1910,South Dakota,46041,Dewey,Dewey,0
+1910,South Dakota,46043,Douglas,Douglas,2
+1910,South Dakota,46045,Edmunds,Edmunds,5
+1910,South Dakota,46047,Fall River,Fall River,20
+1910,South Dakota,46049,Faulk,Faulk,3
+1910,South Dakota,46051,Grant,Grant,0
+1910,South Dakota,46053,Gregory,Gregory,20
+1910,South Dakota,46057,Hamlin,Hamlin,0
+1910,South Dakota,46059,Hand,Hand,2
+1910,South Dakota,46061,Hanson,Hanson,1
+1910,South Dakota,46063,Harding,Harding,0
+1910,South Dakota,46065,Hughes,Hughes,13
+1910,South Dakota,46067,Hutchinson,Hutchinson,3
+1910,South Dakota,46069,Hyde,Hyde,1
+1910,South Dakota,46073,Jerauld,Jerauld,0
+1910,South Dakota,46077,Kingsbury,Kingsbury,13
+1910,South Dakota,46079,Lake,Lake,1
+1910,South Dakota,46081,Lawrence,Lawrence,177
+1910,South Dakota,46083,Lincoln,Lincoln,2
+1910,South Dakota,46085,Lyman,Lyman,27
+1910,South Dakota,46087,McCook,Mccook,5
+1910,South Dakota,46089,McPherson,Mcpherson,0
+1910,South Dakota,46091,Marshall,Marshall,6
+1910,South Dakota,46093,Meade,Meade,30
+1910,South Dakota,46095,Mellette,Mellette,0
+1910,South Dakota,46097,Miner,Miner,0
+1910,South Dakota,46099,Minnehaha,Minnehaha,72
+1910,South Dakota,46101,Moody,Moody,2
+1910,South Dakota,46103,Pennington,Pennington,33
+1910,South Dakota,46105,Perkins,Perkins,2
+1910,South Dakota,46107,Potter,Potter,0
+1910,South Dakota,46109,Roberts,Roberts,3
+1910,South Dakota,46111,Sanborn,Sanborn,3
+1910,South Dakota,,Schnasse,Schnasse,0
+1910,South Dakota,46113,Shannon,Shannon,0
+1910,South Dakota,46115,Spink,Spink,0
+1910,South Dakota,46117,Stanley,Stanley,38
+1910,South Dakota,,Sterling,Sterling,1
+1910,South Dakota,46119,Sully,Sully,49
+1910,South Dakota,46121,Todd,Todd,5
+1910,South Dakota,46123,Tripp,Tripp,5
+1910,South Dakota,46125,Turner,Turner,0
+1910,South Dakota,46127,Union,Union,2
+1910,South Dakota,46129,Walworth,Walworth,0
+1910,South Dakota,46131,Washabaugh,Washabaugh,0
+1910,South Dakota,46133,Washington,Washington,0
+1910,South Dakota,46135,Yankton,Yankton,61
+1910,South Dakota,,Pine Ridge Indian Reservation,Pine Ridge Indian Reservation,10
+1910,Tennessee,47001,Anderson,Anderson,921
+1910,Tennessee,47003,Bedford,Bedford,5486
+1910,Tennessee,47005,Benton,Benton,340
+1910,Tennessee,47007,Bledsoe,Bledsoe,391
+1910,Tennessee,47009,Blount,Blount,1221
+1910,Tennessee,47011,Bradley,Bradley,1717
+1910,Tennessee,47013,Campbell,Campbell,1887
+1910,Tennessee,47015,Cannon,Cannon,580
+1910,Tennessee,47017,Carroll,Carroll,5051
+1910,Tennessee,47019,Carter,Carter,660
+1910,Tennessee,47021,Cheatham,Cheatham,1593
+1910,Tennessee,47023,Chester,Chester,1571
+1910,Tennessee,47025,Claiborne,Claiborne,819
+1910,Tennessee,47027,Clay,Clay,289
+1910,Tennessee,47029,Cocke,Cocke,1051
+1910,Tennessee,47031,Coffee,Coffee,1624
+1910,Tennessee,47033,Crockett,Crockett,3611
+1910,Tennessee,47035,Cumberland,Cumberland,63
+1910,Tennessee,47037,Davidson,Davidson,46710
+1910,Tennessee,47039,Decatur,Decatur,1019
+1910,Tennessee,47041,DeKalb,De Kalb,835
+1910,Tennessee,47043,Dickson,Dickson,3079
+1910,Tennessee,47045,Dyer,Dyer,5685
+1910,Tennessee,47047,Fayette,Fayette,22702
+1910,Tennessee,47049,Fentress,Fentress,98
+1910,Tennessee,47051,Franklin,Franklin,3126
+1910,Tennessee,47053,Gibson,Gibson,9547
+1910,Tennessee,47055,Giles,Giles,10867
+1910,Tennessee,47057,Grainger,Grainger,483
+1910,Tennessee,47059,Greene,Greene,1369
+1910,Tennessee,47061,Grundy,Grundy,143
+1910,Tennessee,47063,Hamblen,Hamblen,1610
+1910,Tennessee,47065,Hamilton,Hamilton,26026
+1910,Tennessee,47067,Hancock,Hancock,481
+1910,Tennessee,47069,Hardeman,Hardeman,10098
+1910,Tennessee,47071,Hardin,Hardin,2170
+1910,Tennessee,47073,Hawkins,Hawkins,1805
+1910,Tennessee,47075,Haywood,Haywood,17710
+1910,Tennessee,47077,Henderson,Henderson,1918
+1910,Tennessee,47079,Henry,Henry,5921
+1910,Tennessee,47081,Hickman,Hickman,2430
+1910,Tennessee,47083,Houston,Houston,910
+1910,Tennessee,47085,Humphreys,Humphreys,1201
+1910,Tennessee,47087,Jackson,Jackson,302
+1910,Tennessee,,James,James,492
+1910,Tennessee,47089,Jefferson,Jefferson,1639
+1910,Tennessee,47091,Johnson,Johnson,377
+1910,Tennessee,47093,Knox,Knox,12709
+1910,Tennessee,47095,Lake,Lake,3268
+1910,Tennessee,47097,Lauderdale,Lauderdale,9554
+1910,Tennessee,47099,Lawrence,Lawrence,969
+1910,Tennessee,47101,Lewis,Lewis,854
+1910,Tennessee,47103,Lincoln,Lincoln,5502
+1910,Tennessee,47105,Loudon,Loudon,964
+1910,Tennessee,47107,McMinn,Mcminn,1892
+1910,Tennessee,47109,McNairy,Mcnairy,1557
+1910,Tennessee,47111,Macon,Macon,732
+1910,Tennessee,47113,Madison,Madison,16167
+1910,Tennessee,47115,Marion,Marion,2289
+1910,Tennessee,47117,Marshall,Marshall,3414
+1910,Tennessee,47119,Maury,Maury,16169
+1910,Tennessee,47121,Meigs,Meigs,566
+1910,Tennessee,47123,Monroe,Monroe,1167
+1910,Tennessee,47125,Montgomery,Montgomery,13430
+1910,Tennessee,47127,Moore,Moore,334
+1910,Tennessee,47129,Morgan,Morgan,691
+1910,Tennessee,47131,Obion,Obion,5293
+1910,Tennessee,47133,Overton,Overton,299
+1910,Tennessee,47135,Perry,Perry,633
+1910,Tennessee,47137,Pickett,Pickett,11
+1910,Tennessee,47139,Polk,Polk,284
+1910,Tennessee,47141,Putnam,Putnam,892
+1910,Tennessee,47143,Rhea,Rhea,1316
+1910,Tennessee,47145,Roane,Roane,2366
+1910,Tennessee,47147,Robertson,Robertson,6492
+1910,Tennessee,47149,Rutherford,Rutherford,11357
+1910,Tennessee,47151,Scott,Scott,97
+1910,Tennessee,47153,Sequatchie,Sequatchie,139
+1910,Tennessee,47155,Sevier,Sevier,378
+1910,Tennessee,47157,Shelby,Shelby,91719
+1910,Tennessee,47159,Smith,Smith,2325
+1910,Tennessee,47161,Stewart,Stewart,1806
+1910,Tennessee,47163,Sullivan,Sullivan,1535
+1910,Tennessee,47165,Sumner,Sumner,5386
+1910,Tennessee,47167,Tipton,Tipton,13353
+1910,Tennessee,47169,Trousdale,Trousdale,1781
+1910,Tennessee,47171,Unicoi,Unicoi,131
+1910,Tennessee,47173,Union,Union,30
+1910,Tennessee,47175,Van Buren,Van Buren,48
+1910,Tennessee,47177,Warren,Warren,1949
+1910,Tennessee,47179,Washington,Washington,2267
+1910,Tennessee,47181,Wayne,Wayne,845
+1910,Tennessee,47183,Weakley,Weakley,3470
+1910,Tennessee,47185,White,White,899
+1910,Tennessee,47187,Williamson,Williamson,7828
+1910,Tennessee,47189,Wilson,Wilson,6303
+1910,Texas,48001,Anderson,Anderson,11323
+1910,Texas,48003,Andrews,Andrews,1
+1910,Texas,48005,Angelina,Angelina,2435
+1910,Texas,48007,Aransas,Aransas,136
+1910,Texas,48009,Archer,Archer,3
+1910,Texas,48011,Armstrong,Armstrong,0
+1910,Texas,48013,Atascosa,Atascosa,228
+1910,Texas,48015,Austin,Austin,5018
+1910,Texas,48017,Bailey,Bailey,0
+1910,Texas,48019,Bandera,Bandera,34
+1910,Texas,48021,Bastrop,Bastrop,9428
+1910,Texas,48023,Baylor,Baylor,3
+1910,Texas,48025,Bee,Bee,568
+1910,Texas,48027,Bell,Bell,6302
+1910,Texas,48029,Bexar,Bexar,11642
+1910,Texas,48031,Blanco,Blanco,350
+1910,Texas,48033,Borden,Borden,0
+1910,Texas,48035,Bosque,Bosque,848
+1910,Texas,48037,Bowie,Bowie,12734
+1910,Texas,48039,Brazoria,Brazoria,6237
+1910,Texas,48041,Brazos,Brazos,8827
+1910,Texas,48043,Brewster,Brewster,71
+1910,Texas,48045,Briscoe,Briscoe,0
+1910,Texas,48049,Brown,Brown,525
+1910,Texas,48051,Burleson,Burleson,8587
+1910,Texas,48053,Burnet,Burnet,292
+1910,Texas,48055,Caldwell,Caldwell,5378
+1910,Texas,48057,Calhoun,Calhoun,491
+1910,Texas,48059,Callahan,Callahan,4
+1910,Texas,48061,Cameron,Cameron,74
+1910,Texas,48063,Camp,Camp,4415
+1910,Texas,48065,Carson,Carson,0
+1910,Texas,48067,Cass,Cass,9952
+1910,Texas,48069,Castro,Castro,0
+1910,Texas,48071,Chambers,Chambers,1032
+1910,Texas,48073,Cherokee,Cherokee,7641
+1910,Texas,48075,Childress,Childress,0
+1910,Texas,48077,Clay,Clay,101
+1910,Texas,48079,Cochran,Cochran,0
+1910,Texas,48081,Coke,Coke,0
+1910,Texas,48083,Coleman,Coleman,253
+1910,Texas,48085,Collin,Collin,2206
+1910,Texas,48087,Collingsworth,Collingsworth,3
+1910,Texas,48089,Colorado,Colorado,7074
+1910,Texas,48091,Comal,Comal,232
+1910,Texas,48093,Comanche,Comanche,12
+1910,Texas,48095,Concho,Concho,7
+1910,Texas,48097,Cooke,Cooke,1688
+1910,Texas,48099,Coryell,Coryell,488
+1910,Texas,48101,Cottle,Cottle,1
+1910,Texas,48103,Crane,Crane,0
+1910,Texas,48105,Crockett,Crockett,4
+1910,Texas,48107,Crosby,Crosby,0
+1910,Texas,48111,Dallam,Dallam,6
+1910,Texas,48113,Dallas,Dallas,24355
+1910,Texas,48115,Dawson,Dawson,2
+1910,Texas,48117,Deaf Smith,Deaf Smith,68
+1910,Texas,48119,Delta,Delta,809
+1910,Texas,48121,Denton,Denton,2210
+1910,Texas,48123,De Witt,De Witt,4753
+1910,Texas,48125,Dickens,Dickens,2
+1910,Texas,48127,Dimmit,Dimmit,29
+1910,Texas,48129,Donley,Donley,38
+1910,Texas,48131,Duval,Duval,8
+1910,Texas,48133,Eastland,Eastland,57
+1910,Texas,48135,Ector,Ector,0
+1910,Texas,48137,Edwards,Edwards,4
+1910,Texas,48139,Ellis,Ellis,9623
+1910,Texas,48141,El Paso,El Paso,1562
+1910,Texas,48143,Erath,Erath,589
+1910,Texas,48145,Falls,Falls,12612
+1910,Texas,48147,Fannin,Fannin,5366
+1910,Texas,48149,Fayette,Fayette,7361
+1910,Texas,48151,Fisher,Fisher,9
+1910,Texas,48153,Floyd,Floyd,0
+1910,Texas,48155,Foard,Foard,6
+1910,Texas,48157,Fort Bend,Fort Bend,11422
+1910,Texas,48159,Franklin,Franklin,735
+1910,Texas,48161,Freestone,Freestone,8772
+1910,Texas,48163,Frio,Frio,151
+1910,Texas,48165,Gaines,Gaines,0
+1910,Texas,48167,Galveston,Galveston,8747
+1910,Texas,48169,Garza,Garza,36
+1910,Texas,48171,Gillespie,Gillespie,116
+1910,Texas,48173,Glasscock,Glasscock,5
+1910,Texas,48175,Goliad,Goliad,1501
+1910,Texas,48177,Gonzales,Gonzales,8212
+1910,Texas,48179,Gray,Gray,2
+1910,Texas,48181,Grayson,Grayson,7753
+1910,Texas,48183,Gregg,Gregg,7781
+1910,Texas,48185,Grimes,Grimes,9858
+1910,Texas,48187,Guadalupe,Guadalupe,5681
+1910,Texas,48189,Hale,Hale,5
+1910,Texas,48191,Hall,Hall,2
+1910,Texas,48193,Hamilton,Hamilton,8
+1910,Texas,48195,Hansford,Hansford,0
+1910,Texas,48197,Hardeman,Hardeman,40
+1910,Texas,48199,Hardin,Hardin,2550
+1910,Texas,48201,Harris,Harris,30950
+1910,Texas,48203,Harrison,Harrison,23698
+1910,Texas,48205,Hartley,Hartley,3
+1910,Texas,48207,Haskell,Haskell,84
+1910,Texas,48209,Hays,Hays,2165
+1910,Texas,48211,Hemphill,Hemphill,0
+1910,Texas,48213,Henderson,Henderson,4177
+1910,Texas,48215,Hidalgo,Hidalgo,62
+1910,Texas,48217,Hill,Hill,4856
+1910,Texas,48219,Hockley,Hockley,0
+1910,Texas,48221,Hood,Hood,212
+1910,Texas,48223,Hopkins,Hopkins,3283
+1910,Texas,48225,Houston,Houston,12548
+1910,Texas,48227,Howard,Howard,4
+1910,Texas,48231,Hunt,Hunt,4579
+1910,Texas,48233,Hutchinson,Hutchinson,1
+1910,Texas,48235,Irion,Irion,1
+1910,Texas,48237,Jack,Jack,118
+1910,Texas,48239,Jackson,Jackson,2114
+1910,Texas,48241,Jasper,Jasper,4731
+1910,Texas,48243,Jeff Davis,Jeff Davis,47
+1910,Texas,48245,Jefferson,Jefferson,10676
+1910,Texas,48251,Johnson,Johnson,1637
+1910,Texas,48253,Jones,Jones,259
+1910,Texas,48255,Karnes,Karnes,793
+1910,Texas,48257,Kaufman,Kaufman,8374
+1910,Texas,48259,Kendall,Kendall,253
+1910,Texas,48263,Kent,Kent,1
+1910,Texas,48265,Kerr,Kerr,248
+1910,Texas,48267,Kimble,Kimble,0
+1910,Texas,48269,King,King,8
+1910,Texas,48271,Kinney,Kinney,158
+1910,Texas,48275,Knox,Knox,17
+1910,Texas,48277,Lamar,Lamar,10993
+1910,Texas,48279,Lamb,Lamb,1
+1910,Texas,48281,Lampasas,Lampasas,436
+1910,Texas,48283,La Salle,La Salle,93
+1910,Texas,48285,Lavaca,Lavaca,4384
+1910,Texas,48287,Lee,Lee,4039
+1910,Texas,48289,Leon,Leon,6878
+1910,Texas,48291,Liberty,Liberty,3401
+1910,Texas,48293,Limestone,Limestone,9247
+1910,Texas,48295,Lipscomb,Lipscomb,3
+1910,Texas,48297,Live Oak,Live Oak,36
+1910,Texas,48299,Llano,Llano,62
+1910,Texas,48301,Loving,Loving,1
+1910,Texas,48303,Lubbock,Lubbock,5
+1910,Texas,48305,Lynn,Lynn,0
+1910,Texas,48307,McCulloch,Mcculloch,189
+1910,Texas,48309,McLennan,Mclennan,17234
+1910,Texas,48311,McMullen,Mcmullen,58
+1910,Texas,48313,Madison,Madison,2757
+1910,Texas,48315,Marion,Marion,6725
+1910,Texas,48317,Martin,Martin,1
+1910,Texas,48319,Mason,Mason,70
+1910,Texas,48321,Matagorda,Matagorda,4457
+1910,Texas,48323,Maverick,Maverick,96
+1910,Texas,48325,Medina,Medina,449
+1910,Texas,48327,Menard,Menard,24
+1910,Texas,48329,Midland,Midland,26
+1910,Texas,48331,Milam,Milam,9485
+1910,Texas,48333,Mills,Mills,7
+1910,Texas,48335,Mitchell,Mitchell,192
+1910,Texas,48337,Montague,Montague,27
+1910,Texas,48339,Montgomery,Montgomery,7104
+1910,Texas,48341,Moore,Moore,0
+1910,Texas,48343,Morris,Morris,3706
+1910,Texas,48345,Motley,Motley,0
+1910,Texas,48347,Nacogdoches,Nacogdoches,7030
+1910,Texas,48349,Navarro,Navarro,10968
+1910,Texas,48351,Newton,Newton,3864
+1910,Texas,48353,Nolan,Nolan,111
+1910,Texas,48355,Nueces,Nueces,742
+1910,Texas,48357,Ochiltree,Ochiltree,0
+1910,Texas,48359,Oldham,Oldham,0
+1910,Texas,48361,Orange,Orange,1898
+1910,Texas,48363,Palo Pinto,Palo Pinto,528
+1910,Texas,48365,Panola,Panola,8842
+1910,Texas,48367,Parker,Parker,693
+1910,Texas,48369,Parmer,Parmer,0
+1910,Texas,48371,Pecos,Pecos,2
+1910,Texas,48373,Polk,Polk,6594
+1910,Texas,48375,Potter,Potter,149
+1910,Texas,48377,Presidio,Presidio,31
+1910,Texas,48379,Rains,Rains,616
+1910,Texas,48381,Randall,Randall,0
+1910,Texas,48383,Reagan,Reagan,2
+1910,Texas,48387,Red River,Red River,8673
+1910,Texas,48389,Reeves,Reeves,82
+1910,Texas,48391,Refugio,Refugio,481
+1910,Texas,48393,Roberts,Roberts,3
+1910,Texas,48395,Robertson,Robertson,14571
+1910,Texas,48397,Rockwall,Rockwall,731
+1910,Texas,48399,Runnels,Runnels,133
+1910,Texas,48401,Rusk,Rusk,11314
+1910,Texas,48403,Sabine,Sabine,1679
+1910,Texas,48405,San Augustine,San Augustine,3453
+1910,Texas,48407,San Jacinto,San Jacinto,5193
+1910,Texas,48409,San Patricio,San Patricio,79
+1910,Texas,48411,San Saba,San Saba,103
+1910,Texas,48413,Schleicher,Schleicher,44
+1910,Texas,48415,Scurry,Scurry,1
+1910,Texas,48417,Shackelford,Shackelford,126
+1910,Texas,48419,Shelby,Shelby,5274
+1910,Texas,48421,Sherman,Sherman,2
+1910,Texas,48423,Smith,Smith,17246
+1910,Texas,48425,Somervell,Somervell,1
+1910,Texas,48427,Starr,Starr,21
+1910,Texas,48429,Stephens,Stephens,4
+1910,Texas,48431,Sterling,Sterling,1
+1910,Texas,48433,Stonewall,Stonewall,3
+1910,Texas,48435,Sutton,Sutton,3
+1910,Texas,48437,Swisher,Swisher,0
+1910,Texas,48439,Tarrant,Tarrant,15418
+1910,Texas,48441,Taylor,Taylor,639
+1910,Texas,48443,Terrell,Terrell,4
+1910,Texas,48445,Terry,Terry,1
+1910,Texas,48447,Throckmorton,Throckmorton,11
+1910,Texas,48449,Titus,Titus,3118
+1910,Texas,48451,Tom Green,Tom Green,716
+1910,Texas,48453,Travis,Travis,15473
+1910,Texas,48455,Trinity,Trinity,3195
+1910,Texas,48457,Tyler,Tyler,2207
+1910,Texas,48459,Upshur,Upshur,5649
+1910,Texas,48461,Upton,Upton,12
+1910,Texas,48463,Uvalde,Uvalde,262
+1910,Texas,48465,Val Verde,Val Verde,153
+1910,Texas,48467,Van Zandt,Van Zandt,1534
+1910,Texas,48469,Victoria,Victoria,3600
+1910,Texas,48471,Walker,Walker,8362
+1910,Texas,48473,Waller,Waller,6712
+1910,Texas,48475,Ward,Ward,3
+1910,Texas,48477,Washington,Washington,12017
+1910,Texas,48479,Webb,Webb,38
+1910,Texas,48481,Wharton,Wharton,8889
+1910,Texas,48483,Wheeler,Wheeler,2
+1910,Texas,48485,Wichita,Wichita,612
+1910,Texas,48487,Wilbarger,Wilbarger,70
+1910,Texas,48491,Williamson,Williamson,7370
+1910,Texas,48493,Wilson,Wilson,956
+1910,Texas,48495,Winkler,Winkler,1
+1910,Texas,48497,Wise,Wise,67
+1910,Texas,48499,Wood,Wood,3926
+1910,Texas,48501,Yoakum,Yoakum,0
+1910,Texas,48503,Young,Young,3
+1910,Texas,48505,Zapata,Zapata,0
+1910,Texas,48507,Zavala,Zavala,1
+1910,Utah,49001,Beaver,Beaver,13
+1910,Utah,49003,Box Elder,Box Elder,7
+1910,Utah,49005,Cache,Cache,7
+1910,Utah,49007,Carbon,Carbon,6
+1910,Utah,49011,Davis,Davis,0
+1910,Utah,49015,Emery,Emery,1
+1910,Utah,49017,Garfield,Garfield,0
+1910,Utah,49019,Grand,Grand,1
+1910,Utah,49021,Iron,Iron,2
+1910,Utah,49023,Juab,Juab,4
+1910,Utah,49025,Kane,Kane,0
+1910,Utah,49027,Millard,Millard,22
+1910,Utah,49029,Morgan,Morgan,0
+1910,Utah,49031,Piute,Piute,1
+1910,Utah,49033,Rich,Rich,0
+1910,Utah,49035,Salt Lake,Salt Lake,827
+1910,Utah,49037,San Juan,San Juan,17
+1910,Utah,49039,Sanpete,Sanpete,18
+1910,Utah,49041,Sevier,Sevier,0
+1910,Utah,49043,Summit,Summit,1
+1910,Utah,49045,Tooele,Tooele,7
+1910,Utah,49047,Uintah,Uintah,3
+1910,Utah,49049,Utah,Utah,2
+1910,Utah,49051,Wasatch,Wasatch,1
+1910,Utah,49053,Washington,Washington,0
+1910,Utah,49055,Wayne,Wayne,0
+1910,Utah,49057,Weber,Weber,204
+1910,Vermont,50001,Addison,Addison,45
+1910,Vermont,50003,Bennington,Bennington,92
+1910,Vermont,50005,Caledonia,Caledonia,10
+1910,Vermont,50007,Chittenden,Chittenden,1114
+1910,Vermont,50009,Essex,Essex,5
+1910,Vermont,50011,Franklin,Franklin,59
+1910,Vermont,50013,Grand Isle,Grand Isle,0
+1910,Vermont,50015,Lamoille,Lamoille,3
+1910,Vermont,50017,Orange,Orange,12
+1910,Vermont,50019,Orleans,Orleans,20
+1910,Vermont,50021,Rutland,Rutland,108
+1910,Vermont,50023,Washington,Washington,41
+1910,Vermont,50025,Windham,Windham,45
+1910,Vermont,50027,Windsor,Windsor,67
+1910,Virginia,51001,Accomack,Accomack,13273
+1910,Virginia,51003,Albemarle,Albemarle,9673
+1910,Virginia,,Alexandria,Alexandria,2645
+1910,Virginia,51005,Alleghany,Alleghany,2945
+1910,Virginia,51007,Amelia,Amelia,5490
+1910,Virginia,51009,Amherst,Amherst,7465
+1910,Virginia,51011,Appomattox,Appomattox,3089
+1910,Virginia,51015,Augusta,Augusta,4541
+1910,Virginia,51017,Bath,Bath,1176
+1910,Virginia,51019,Bedford,Bedford,8455
+1910,Virginia,51021,Bland,Bland,133
+1910,Virginia,51023,Botetourt,Botetourt,3495
+1910,Virginia,51025,Brunswick,Brunswick,11366
+1910,Virginia,51027,Buchanan,Buchanan,4
+1910,Virginia,51029,Buckingham,Buckingham,7570
+1910,Virginia,51031,Campbell,Campbell,9002
+1910,Virginia,51033,Caroline,Caroline,8750
+1910,Virginia,51035,Carroll,Carroll,268
+1910,Virginia,51036,Charles City,Charles City,3765
+1910,Virginia,51037,Charlotte,Charlotte,8335
+1910,Virginia,51041,Chesterfield,Chesterfield,7527
+1910,Virginia,51043,Clarke,Clarke,1900
+1910,Virginia,51045,Craig,Craig,207
+1910,Virginia,51047,Culpeper,Culpeper,5262
+1910,Virginia,51049,Cumberland,Cumberland,6053
+1910,Virginia,51051,Dickenson,Dickenson,7
+1910,Virginia,51053,Dinwiddie,Dinwiddie,9368
+1910,Virginia,51055,Elizabeth City,Elizabeth City,7992
+1910,Virginia,51057,Essex,Essex,5315
+1910,Virginia,51059,Fairfax,Fairfax,4864
+1910,Virginia,51061,Fauquier,Fauquier,7486
+1910,Virginia,51063,Floyd,Floyd,837
+1910,Virginia,51065,Fluvanna,Fluvanna,3374
+1910,Virginia,51067,Franklin,Franklin,5435
+1910,Virginia,51069,Frederick,Frederick,694
+1910,Virginia,51071,Giles,Giles,755
+1910,Virginia,51073,Gloucester,Gloucester,5907
+1910,Virginia,51075,Goochland,Goochland,5230
+1910,Virginia,51077,Grayson,Grayson,939
+1910,Virginia,51079,Greene,Greene,1339
+1910,Virginia,51081,Greensville,Greensville,7393
+1910,Virginia,51083,Halifax,Halifax,20013
+1910,Virginia,51085,Hanover,Hanover,7040
+1910,Virginia,51087,Henrico,Henrico,6837
+1910,Virginia,51089,Henry,Henry,7462
+1910,Virginia,51091,Highland,Highland,260
+1910,Virginia,51093,Isle Of Wight,Isle Of Wight,7512
+1910,Virginia,51095,James City,James City,3034
+1910,Virginia,51097,King And Queen,King And Queen,5373
+1910,Virginia,51099,King George,King George,2913
+1910,Virginia,51101,King William,King William,4855
+1910,Virginia,51103,Lancaster,Lancaster,5139
+1910,Virginia,51105,Lee,Lee,952
+1910,Virginia,51107,Loudoun,Loudoun,5221
+1910,Virginia,51109,Louisa,Louisa,7883
+1910,Virginia,51111,Lunenburg,Lunenburg,6811
+1910,Virginia,51113,Madison,Madison,3264
+1910,Virginia,51115,Matthews,Matthews,2513
+1910,Virginia,51117,Mecklenburg,Mecklenburg,16394
+1910,Virginia,51119,Middlesex,Middlesex,4636
+1910,Virginia,51121,Montgomery,Montgomery,2323
+1910,Virginia,51123,Nansemond,Nansemond,15536
+1910,Virginia,51125,Nelson,Nelson,5263
+1910,Virginia,51127,New Kent,New Kent,2791
+1910,Virginia,51129,Norfolk,Norfolk,31791
+1910,Virginia,51131,Northampton,Northampton,9314
+1910,Virginia,51133,Northumberland,Northumberland,4267
+1910,Virginia,51135,Nottoway,Nottoway,7347
+1910,Virginia,51137,Orange,Orange,5526
+1910,Virginia,51139,Page,Page,1166
+1910,Virginia,51141,Patrick,Patrick,1618
+1910,Virginia,51143,Pittsylvania,Pittsylvania,20163
+1910,Virginia,51145,Powhatan,Powhatan,3633
+1910,Virginia,51147,Prince Edward,Prince Edward,8458
+1910,Virginia,51149,Prince George,Prince George,4551
+1910,Virginia,51151,Princess Anne,Princess Anne,5818
+1910,Virginia,51153,Prince William,Prince William,2825
+1910,Virginia,51155,Pulaski,Pulaski,2930
+1910,Virginia,51157,Rappahannock,Rappahannock,2148
+1910,Virginia,51159,Richmond,Richmond,3071
+1910,Virginia,51161,Roanoke,Roanoke,3525
+1910,Virginia,51163,Rockbridge,Rockbridge,3528
+1910,Virginia,51165,Rockingham,Rockingham,2335
+1910,Virginia,51167,Russell,Russell,1025
+1910,Virginia,51169,Scott,Scott,503
+1910,Virginia,51171,Shenandoah,Shenandoah,493
+1910,Virginia,51173,Smyth,Smyth,981
+1910,Virginia,51175,Southampton,Southampton,16091
+1910,Virginia,51177,Spotsylvania,Spotsylvania,3593
+1910,Virginia,51179,Stafford,Stafford,1720
+1910,Virginia,51181,Surry,Surry,6005
+1910,Virginia,51183,Sussex,Sussex,8962
+1910,Virginia,51185,Tazewell,Tazewell,2820
+1910,Virginia,51187,Warren,Warren,1131
+1910,Virginia,51189,Warwick,Warwick,4334
+1910,Virginia,51191,Washington,Washington,2312
+1910,Virginia,51193,Westmoreland,Westmoreland,4668
+1910,Virginia,51195,Wise,Wise,2861
+1910,Virginia,51197,Wythe,Wythe,2188
+1910,Virginia,51199,York,York,3764
+1910,Virginia,51510,Alexandria City,Alexandria City,4188
+1910,Virginia,51520,Bristol City,Bristol City,1144
+1910,Virginia,51530,Buena Vista City,Buena Vista City,416
+1910,Virginia,51540,Charlottesville City,Charlottesville City,2524
+1910,Virginia,51560,Clifton Forge City,Clifton Forge City,1092
+1910,Virginia,51590,Danville City,Danville City,6207
+1910,Virginia,51630,Fredericksburg City,Fredericksburg City,1480
+1910,Virginia,51680,Lynchburg City,Lynchburg City,9466
+1910,Virginia,51700,Newport News City,Newport News City,7259
+1910,Virginia,51710,Norfolk City,Norfolk City,25039
+1910,Virginia,51730,Petersburg City,Petersburg City,11014
+1910,Virginia,51740,Portsmouth City,Portsmouth City,11617
+1910,Virginia,51750,Radford City,Radford City,665
+1910,Virginia,51760,Richmond City,Richmond City,46733
+1910,Virginia,51770,Roanoke City,Roanoke City,7924
+1910,Virginia,51790,Staunton City,Staunton City,2476
+1910,Virginia,51830,Williamsburg City,Williamsburg City,0
+1910,Virginia,51840,Winchester City,Winchester City,1038
+1910,Washington,53001,Adams,Adams,9
+1910,Washington,53003,Asotin,Asotin,1
+1910,Washington,53005,Benton,Benton,6
+1910,Washington,,Chehalis,Chehalis,60
+1910,Washington,53007,Chelan,Chelan,8
+1910,Washington,53009,Clallam,Clallam,2
+1910,Washington,53011,Clark,Clark,47
+1910,Washington,53013,Columbia,Columbia,2
+1910,Washington,53015,Cowlitz,Cowlitz,9
+1910,Washington,53017,Douglas,Douglas,11
+1910,Washington,53019,Ferry,Ferry,10
+1910,Washington,53021,Franklin,Franklin,19
+1910,Washington,53023,Garfield,Garfield,7
+1910,Washington,53025,Grant,Grant,3
+1910,Washington,53029,Island,Island,0
+1910,Washington,53031,Jefferson,Jefferson,11
+1910,Washington,53033,King,King,2487
+1910,Washington,53035,Kitsap,Kitsap,43
+1910,Washington,53037,Kittitas,Kittitas,247
+1910,Washington,53039,Klikatat,Klikatat,33
+1910,Washington,53041,Lewis,Lewis,79
+1910,Washington,53043,Lincoln,Lincoln,13
+1910,Washington,53045,Mason,Mason,6
+1910,Washington,53047,Okanogan,Okanogan,19
+1910,Washington,53049,Pacific,Pacific,3
+1910,Washington,53053,Pierce,Pierce,889
+1910,Washington,53055,San Juan,San Juan,0
+1910,Washington,53057,Skagit,Skagit,30
+1910,Washington,53059,Skamania,Skamania,3
+1910,Washington,53061,Snohomish,Snohomish,219
+1910,Washington,53063,Spokane,Spokane,1170
+1910,Washington,53065,Stevens,Stevens,12
+1910,Washington,53067,Thurston,Thurston,24
+1910,Washington,53069,Wahkiakum,Wahkiakum,2
+1910,Washington,53071,Walla Walla,Walla Walla,152
+1910,Washington,53073,Whatcom,Whatcom,56
+1910,Washington,53075,Whitman,Whitman,12
+1910,Washington,53077,Yakima,Yakima,354
+1910,West Virginia,54001,Barbour,Barbour,920
+1910,West Virginia,54003,Berkeley,Berkeley,1801
+1910,West Virginia,54005,Boone,Boone,164
+1910,West Virginia,54007,Braxton,Braxton,221
+1910,West Virginia,54009,Brooke,Brooke,151
+1910,West Virginia,54011,Cabell,Cabell,2447
+1910,West Virginia,54013,Calhoun,Calhoun,80
+1910,West Virginia,54015,Clay,Clay,5
+1910,West Virginia,54017,Doddridge,Doddridge,8
+1910,West Virginia,54019,Fayette,Fayette,9311
+1910,West Virginia,54021,Gilmer,Gilmer,17
+1910,West Virginia,54023,Grant,Grant,253
+1910,West Virginia,54025,Greenbrier,Greenbrier,1779
+1910,West Virginia,54027,Hampshire,Hampshire,303
+1910,West Virginia,54029,Hancock,Hancock,37
+1910,West Virginia,54031,Hardy,Hardy,387
+1910,West Virginia,54033,Harrison,Harrison,1359
+1910,West Virginia,54035,Jackson,Jackson,26
+1910,West Virginia,54037,Jefferson,Jefferson,3499
+1910,West Virginia,54039,Kanawha,Kanawha,6476
+1910,West Virginia,54041,Lewis,Lewis,239
+1910,West Virginia,54043,Lincoln,Lincoln,30
+1910,West Virginia,54045,Logan,Logan,532
+1910,West Virginia,54047,McDowell,Mcdowell,14667
+1910,West Virginia,54049,Marion,Marion,851
+1910,West Virginia,54051,Marshall,Marshall,575
+1910,West Virginia,54053,Mason,Mason,349
+1910,West Virginia,54055,Mercer,Mercer,5960
+1910,West Virginia,54057,Mineral,Mineral,601
+1910,West Virginia,54059,Mingo,Mingo,1236
+1910,West Virginia,54061,Monongalia,Monongalia,294
+1910,West Virginia,54063,Monroe,Monroe,673
+1910,West Virginia,54065,Morgan,Morgan,177
+1910,West Virginia,54067,Nicholas,Nicholas,48
+1910,West Virginia,54069,Ohio,Ohio,1389
+1910,West Virginia,54071,Pendleton,Pendleton,132
+1910,West Virginia,54073,Pleasants,Pleasants,9
+1910,West Virginia,54075,Pocahontas,Pocahontas,445
+1910,West Virginia,54077,Preston,Preston,151
+1910,West Virginia,54079,Putnam,Putnam,435
+1910,West Virginia,54081,Raleigh,Raleigh,2052
+1910,West Virginia,54083,Randolph,Randolph,376
+1910,West Virginia,54085,Ritchie,Ritchie,26
+1910,West Virginia,54087,Roane,Roane,18
+1910,West Virginia,54089,Summers,Summers,1130
+1910,West Virginia,54091,Taylor,Taylor,527
+1910,West Virginia,54093,Tucker,Tucker,344
+1910,West Virginia,54095,Tyler,Tyler,115
+1910,West Virginia,54097,Upshur,Upshur,226
+1910,West Virginia,54099,Wayne,Wayne,169
+1910,West Virginia,54101,Webster,Webster,8
+1910,West Virginia,54103,Wetzel,Wetzel,57
+1910,West Virginia,54105,Wirt,Wirt,40
+1910,West Virginia,54107,Wood,Wood,943
+1910,West Virginia,54109,Wyoming,Wyoming,105
+1910,Wisconsin,55001,Adams,Adams,4
+1910,Wisconsin,55003,Ashland,Ashland,8
+1910,Wisconsin,55005,Barron,Barron,18
+1910,Wisconsin,55007,Bayfield,Bayfield,8
+1910,Wisconsin,55009,Brown,Brown,69
+1910,Wisconsin,55011,Buffalo,Buffalo,1
+1910,Wisconsin,55013,Burnett,Burnett,6
+1910,Wisconsin,55015,Calumet,Calumet,3
+1910,Wisconsin,55017,Chippewa,Chippewa,7
+1910,Wisconsin,55019,Clark,Clark,15
+1910,Wisconsin,55021,Columbia,Columbia,18
+1910,Wisconsin,55023,Crawford,Crawford,3
+1910,Wisconsin,55025,Dane,Dane,173
+1910,Wisconsin,55027,Dodge,Dodge,43
+1910,Wisconsin,55029,Door,Door,3
+1910,Wisconsin,55031,Douglas,Douglas,184
+1910,Wisconsin,55033,Dunn,Dunn,12
+1910,Wisconsin,55035,Eau Claire,Eau Claire,33
+1910,Wisconsin,55037,Florence,Florence,0
+1910,Wisconsin,55039,Fond du Lac,Fond Du Lac,54
+1910,Wisconsin,55041,Forest,Forest,2
+1910,Wisconsin,55043,Grant,Grant,55
+1910,Wisconsin,55045,Green,Green,6
+1910,Wisconsin,55047,Green Lake,Green Lake,8
+1910,Wisconsin,55049,Iowa,Iowa,20
+1910,Wisconsin,55051,Iron,Iron,3
+1910,Wisconsin,55053,Jackson,Jackson,2
+1910,Wisconsin,55055,Jefferson,Jefferson,22
+1910,Wisconsin,55057,Juneau,Juneau,13
+1910,Wisconsin,55059,Kenosha,Kenosha,40
+1910,Wisconsin,55061,Kewaunee,Kewaunee,0
+1910,Wisconsin,55063,La Crosse,La Crosse,74
+1910,Wisconsin,55065,Lafayette,Lafayette,5
+1910,Wisconsin,55067,Langlade,Langlade,10
+1910,Wisconsin,55069,Lincoln,Lincoln,12
+1910,Wisconsin,55071,Manitowoc,Manitowoc,16
+1910,Wisconsin,55073,Marathon,Marathon,12
+1910,Wisconsin,55075,Marinette,Marinette,11
+1910,Wisconsin,55077,Marquette,Marquette,9
+1910,Wisconsin,55079,Milwaukee,Milwaukee,996
+1910,Wisconsin,55081,Monroe,Monroe,36
+1910,Wisconsin,55083,Oconto,Oconto,2
+1910,Wisconsin,55085,Oneida,Oneida,3
+1910,Wisconsin,55087,Outagamie,Outagamie,28
+1910,Wisconsin,55089,Ozaukee,Ozaukee,7
+1910,Wisconsin,55091,Pepin,Pepin,1
+1910,Wisconsin,55093,Pierce,Pierce,15
+1910,Wisconsin,55095,Polk,Polk,5
+1910,Wisconsin,55097,Portage,Portage,5
+1910,Wisconsin,55099,Price,Price,6
+1910,Wisconsin,55101,Racine,Racine,115
+1910,Wisconsin,55103,Richland,Richland,13
+1910,Wisconsin,55105,Rock,Rock,157
+1910,Wisconsin,55107,Rusk,Rusk,2
+1910,Wisconsin,55109,St Croix,St Croix,3
+1910,Wisconsin,55111,Sauk,Sauk,30
+1910,Wisconsin,55113,Sawyer,Sawyer,0
+1910,Wisconsin,55115,Shawano,Shawano,31
+1910,Wisconsin,55117,Sheboygan,Sheboygan,19
+1910,Wisconsin,55119,Taylor,Taylor,24
+1910,Wisconsin,55121,Trempealeau,Trempealeau,2
+1910,Wisconsin,55123,Vernon,Vernon,116
+1910,Wisconsin,55125,Vilas,Vilas,10
+1910,Wisconsin,55127,Walworth,Walworth,64
+1910,Wisconsin,55129,Washburn,Washburn,3
+1910,Wisconsin,55131,Washington,Washington,6
+1910,Wisconsin,55133,Waukesha,Waukesha,74
+1910,Wisconsin,55135,Waupaca,Waupaca,18
+1910,Wisconsin,55137,Waushara,Waushara,11
+1910,Wisconsin,55139,Winnebago,Winnebago,110
+1910,Wisconsin,55141,Wood,Wood,6
+1910,Wyoming,56001,Albany,Albany,59
+1910,Wyoming,56003,Big Horn,Big Horn,9
+1910,Wyoming,56007,Carbon,Carbon,146
+1910,Wyoming,56009,Converse,Converse,24
+1910,Wyoming,56011,Crook,Crook,5
+1910,Wyoming,56013,Fremont,Fremont,32
+1910,Wyoming,56019,Johnson,Johnson,2
+1910,Wyoming,56021,Laramie,Laramie,1607
+1910,Wyoming,56025,Natrona,Natrona,19
+1910,Wyoming,56029,Park,Park,13
+1910,Wyoming,56033,Sheridan,Sheridan,183
+1910,Wyoming,56037,Sweetwater,Sweetwater,101
+1910,Wyoming,56041,Uinta,Uinta,26
+1910,Wyoming,56045,Weston,Weston,5
+1910,Wyoming,56047,Yellowstone National Park,Yellowstone National Park,4
