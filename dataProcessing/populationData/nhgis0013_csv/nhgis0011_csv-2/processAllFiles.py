@@ -38,8 +38,8 @@ def convertToFile(filename,formatFile):
 	with open(filename, 'w') as outfile:
 	     json.dump(formatFile, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
 
-	pp = pprint.PrettyPrinter(indent=4)
-	pp.pprint(formatFile)
+	# pp = pprint.PrettyPrinter(indent=4)
+	# pp.pprint(formatFile)
 
 def readPopulationData(fileName):
 	allInformation = []
@@ -49,36 +49,37 @@ def readPopulationData(fileName):
 		csvfile.seek(0)
 		reader=csv.reader(csvfile,dialect)
 		for line in reader:
-			print line
+			#print line
 			allInformation.append(line)
 	return allInformation
 
-def checkIfExists(findId, DateDictionary):
+def checkIfExists(findId, dateDictionary):
 	if findId in dateDictionary:
-		return true
+		return True
 	else:
-		return false
+		return False
 
 
 def compileAllDates(DateDictionary):
 	allCounties = {}
 	
-	template= {'ID': {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}}
-	
-	for n in DateDictionary['1900']:
-		whatIndex = checkIfExists(n['ID'], allCounties)
-		if  keyExists == false:
-			## create new key by county id 
-			template[n['ID']] = mydict.pop('ID')
+	template= {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	for i in range(len(DateDictionary['1900'])):
+		checkId = DateDictionary['1900'][i]['ID']
+		# print checkId
+		keyExists = checkIfExists(checkId, allCounties)
+		# print keyExists
+		if  keyExists == False:
 			## assign population at that date 
-			template[n['ID']]['POP'] = n['POP']
+			template['POP'] = DateDictionary['1900'][i]['POP']
 			#add to all county key container 
-			allCounties[template]
+			allCounties[checkId] = template
 			#reset 
-			template= {'ID': {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}}
-		else:
+			template= {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	 	else:
 			#key exists so just assign that years pop to key 
-			allCounties[n['ID']]['POP'] = n['POP']
+			allCounties[checkId]['POP'] = DateDictionary['1900'][i]['POP']
+	print allCounties
 			
 def process(allInformation, ArrayOfIndex):
 	finalOutput = []
@@ -133,6 +134,7 @@ if __name__ == '__main__':
 		readInfo = readPopulationData(popFiles[i*2])
 		arrayOfIndex =popFiles[(i*2)+1]
 		final = process(readInfo, arrayOfIndex)
+		
 
 		if i == 0:
 			allYearOutputs['1900'] = final
@@ -150,10 +152,11 @@ if __name__ == '__main__':
 			allYearOutputs['1960'] = final
 		else:
 			allYearOutputs['1970'] = final
+
  
-	print allYearOutputs['1900']
+	#print allYearOutputs['1900']
 
-
+	compileAllDates(allYearOutputs)
 
 
 	# convertToCSV(outputName,final)
