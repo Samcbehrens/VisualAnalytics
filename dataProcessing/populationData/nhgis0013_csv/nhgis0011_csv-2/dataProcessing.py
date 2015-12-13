@@ -4,14 +4,34 @@ import json
 import csv
 import pprint
 
+def convertToCSV(outputFileName, contents):
+	f = open(outputFileName, 'wt')
+	try:
+		writer = csv.writer(f)
+		writer.writerow( ('year', 'state', 'id', 'county', 'areaname', 'pop') )
+		for county in contents :
+			writer.writerow( (county['YEAR'], county['STATE'], county['ID'], county['COUNTY'], county['AREANAME'], county['POP']))
+	except:
+		print "problem"
+	finally:
+		f.close()
+
+
 
 def findCountyId(StateA, CountyA):
-    stateA = stateA.rstrip("0")
-    print stateA
-    if countyA[-1] == '0':
-          countyA = countyA[0:-1]
-	print countyA
-	final=stateA+countyA
+	modState=''
+	modCounty=''
+	if CountyA[-1] == '0':
+		modState = StateA[0:-1]
+		print "state code"
+		print modState
+	if CountyA[-1] == '0':
+		modCounty = CountyA[0:-1]
+		print "county code"
+		print modCounty
+	final = modState+modCounty
+	print "this is the id"
+	print final
 	return final
 
 def convertToFile(filename,formatFile):
@@ -37,7 +57,7 @@ def readPopulationData(fileName):
 def process(allInformation, ArrayOfIndex):
 	finalOutput = []
 	for n in allInformation:
-		addEvent={'GISJOIN': 'fill','YEAR': 'fill','STATE': 'fill','STATEA': 'fill','COUNTY': 'fill','COUNTYA': 'fill','AREANAME': 'fill','POP': 'fill'}
+		addEvent={'YEAR': 'fill', 'STATE': 'fill', "ID" : "fill" ,'COUNTY': 'fill','AREANAME': 'fill','POP': 'fill'}
 		print 'contents of population in file'
 		print n[ArrayOfIndex[0]]
 		num1 = n[ArrayOfIndex[0]]
@@ -79,12 +99,15 @@ def process(allInformation, ArrayOfIndex):
 
 		print 
 		final = addEvent
-		final['GISJOIN'] = n[0]
 		final['YEAR'] = n[1]
 		final['STATE'] = n[2]
-		final['STATEA'] = n[3]
+		print "where the hell"
+		print n[3]
+		print n[5]
+		final['ID'] = findCountyId(n[3],n[5])
+		print "printing ID"
+		print final['ID']
 		final['COUNTY'] = n[4]
-		final['COUNTYA'] = n[5]
 		final['AREANAME'] = n[6]
 		final['POP'] = newPop
 		newPop = 0
@@ -108,5 +131,7 @@ if __name__ == '__main__':
 	final = process(readInfo, arrayOfIndex)
 
 	#outputName = input("Please tell what to save it as")
-	convertToFile(outputName,final)
+	#convertToFile(outputName,final)
+
+	convertToCSV("test.csv",final)
 	
