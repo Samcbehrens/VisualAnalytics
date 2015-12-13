@@ -12,7 +12,10 @@
   <script type = "text/javascript" src = "d3-timeline/src/d3-timeline.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
   <script type = "text/javascript" src="http://d3js.org/topojson.v1.min.js"></script>
-  <script type ="text/javascript" src="d3-slider" ></script>
+  <script type ="text/javascript" src="d3-slider/d3.slider.js" ></script>
+  <link rel="stylesheet" href="d3-slider/d3.slider.css" />  
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
   <link rel="stylesheet" href= "timeline.css"/>
 </head>
@@ -77,10 +80,16 @@ window.onload=function(){
 </script>
 
 <body>
-  <div>
+  <div class="page-header"><h1>Visual Analytics <small>Blues and The Great Migration</small></h1> </div>
+   <div>
+    <div id="timeline"></div>
+    <div id="slider7"></div>
     <div id="map"></div>
-    <script>
+    <div id="description"></div>
+    <div class="coloredDiv"></div>
+    <div id="name"></div>
 
+    <script>
     var width = 960,
     height = 500;
 
@@ -91,15 +100,15 @@ window.onload=function(){
     .domain(color_domain)
     .range(["#dcdcdc", "#d0d6cd", "#bdc9be", "#aabdaf", "#97b0a0", "#84a491", "#719782", "#5e8b73", "#4b7e64", "#387255", "#256546", "#125937", "#004d28"]);
 
-  var div = d3.select("body").append("div")
-  .attr("class", "tooltip")
-  .style("opacity", 0);
- 
-var svg = d3.select("body").append("svg")
-.attr("width", width)
-.attr("height", height)
-.style("margin", "10px auto");
-var path = d3.geo.path()
+    var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+    var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .style("margin", "10px auto");
+    var path = d3.geo.path()
 
 
     queue()
@@ -112,11 +121,6 @@ var path = d3.geo.path()
       var pairNameWithId = {};
 
       data.forEach(function(d) {
-        console.log('d',d);
-        console.log('d.pop',d.pop)
-        console.log('d.county',d.county)
-        console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
-        console.log('pairNameWithId[d.id]', pairNameWithId[d.id])
         pairRateWithId[d.id] = +d.pop;
         pairNameWithId[d.id] = d.county;
       });
@@ -177,13 +181,9 @@ var path = d3.geo.path()
       .attr("d", path);
     });
 
+    d3.select('#slider7').call(d3.slider().axis(true).min(2000).max(2100).step(5));
+
     </script>
-    <div>
-      <div id="timeline"></div>
-      <div id="description">
-        <div class="coloredDiv"></div>
-        <div id="name"></div>
-      </div>
     </div>
   </body>
   </html>
