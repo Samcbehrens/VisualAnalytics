@@ -32,6 +32,9 @@ def findCountyId(StateA, CountyA):
 	final = modState+modCounty
 	print "this is the id"
 	print final
+
+	final = final.lstrip('0')
+
 	return final
 
 def convertToFile(filename,formatFile):
@@ -120,8 +123,8 @@ if __name__ == '__main__':
 	#fileName= 
 	#while fileName!= 'quit':
 
-	fileName = "nhgis0011_ds31_1900_county.csv"
-	arrayOfIndex = [9,10]
+	fileName = "nhgis0013_ds91_1960_county.csv"
+	arrayOfIndex = [1,8]
 	outputName = "Pop1900.json"
 
 	#fileName = input("Please tell fileName, or enter 'quit': ")
@@ -133,5 +136,5 @@ if __name__ == '__main__':
 	#outputName = input("Please tell what to save it as")
 	#convertToFile(outputName,final)
 
-	convertToCSV("test.csv",final)
+	convertToCSV("test1960.csv",final)
 	
