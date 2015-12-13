@@ -20,7 +20,32 @@
   <link rel="stylesheet" href= "timeline.css"/>
 </head>
 
-<script type = "text/javascript">
+<body>
+  <div class="page-header"><h1>Visual Analytics <small>Blues and The Great Migration</small></h1> </div>
+   <div>
+
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <div id="timeline"></div>
+             <div id="description">
+          <div class="coloredDiv"></div>
+          <div id="name"></div>
+    </div>
+    </div>
+  </div>
+
+  <div class="well well-lg">
+     <div id="slider7"></div>
+  </div>
+
+
+
+   
+    <div id="map"></div>
+
+    <script>
+
+    // ==================STUFF FOR TIMELINE 
 window.onload=function(){
     var data; // a global
     d3.json("dataProcessing/compiledTimeline.json", function(error, json) {
@@ -77,37 +102,9 @@ window.onload=function(){
   .style("text-anchor", "right");
 }
 }
-</script>
-
-<body>
-  <div class="page-header"><h1>Visual Analytics <small>Blues and The Great Migration</small></h1> </div>
-   <div>
-
-  <div class="panel panel-default">
-  <div class="panel-body">
-    <div id="timeline"></div>
-  </div>
-  </div>
-    
-      <div class="panel panel-default">
-  <div class="panel-body">
-        <div id="description">
-        <div class="coloredDiv"></div>
-        <div id="name"></div>
-    </div>
-  </div>
-  </div>
-
-  <div class="well well-lg">
-     <div id="slider7"></div>
-  </div>
 
 
-
-   
-    <div id="map"></div>
-
-    <script>
+    // ===============STUFF FOR MAPS============
 
     var width = 960,
     height = 500;
@@ -200,7 +197,13 @@ window.onload=function(){
       .attr("d", path);
     });
 
-    d3.select('#slider7').call(d3.slider().axis(true).min(1900).max(1970).step(10));
+
+    // ===============STUFF FOR SLIDER===========
+    d3.select('#slider7').call(d3.slider().axis(true).min(1900).max(1970).step(10)
+      .on('slide',function(evt,val){
+        console.log(val)
+
+      }));
 
     </script>
     </div>
