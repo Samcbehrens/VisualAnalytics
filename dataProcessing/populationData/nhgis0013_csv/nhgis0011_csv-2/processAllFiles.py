@@ -254,7 +254,11 @@ def process(allInformation, ArrayOfIndex):
 
 			newPop = num1 + num2
 		else:
-			newPop = arrayOfIndex[0]
+			testPop = n[ArrayOfIndex[0]]
+			if testPop.isdigit(): 
+				newPop = int(testPop)
+			else:
+				newPop = 0
 
 		final = addEvent
 		final['YEAR'] = n[1]
@@ -283,6 +287,7 @@ if __name__ == '__main__':
 
 		readInfo = readPopulationData(popFiles[i*2])
 		arrayOfIndex =popFiles[(i*2)+1]
+		
 		final = process(readInfo, arrayOfIndex)
 		
 
@@ -301,15 +306,16 @@ if __name__ == '__main__':
 		elif i == 6:
 			allYearOutputs['1960'] = final
 		else:
+
 			allYearOutputs['1970'] = final
 
  
 	#print allYearOutputs['1900']
 
 	allCounties = compileAllDates(allYearOutputs)
-	for keys,values in allCounties.items():
-		print(keys)
-		print(values)
+	# for keys,values in allCounties.items():
+	# 	print(keys)
+	# 	print(values)
     
 
 
