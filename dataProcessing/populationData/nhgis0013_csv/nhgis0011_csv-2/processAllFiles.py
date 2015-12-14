@@ -5,12 +5,13 @@ import csv
 import pprint
 
 def convertToCSV(outputFileName, contents):
+	print contents
 	f = open(outputFileName, 'wt')
 	try:
 		writer = csv.writer(f)
 		writer.writerow( ('state', 'id', 'county', 'areaname', '1900', '1910','1920','1930','1940', '1950','1960','1970') )
-		for county in contents :
-			writer.writerow( (county['STATE'], county['ID'], county['COUNTY'], county['AREANAME'], county['POP10'],county['POP20'],county['POP30'],county['POP40'],county['POP50'],county['POP60'],county['POP70']))
+		for keys,values in allCounties.items():
+			writer.writerow( (key, values['STATE'], values['COUNTY'], values['AREANAME'], values['POP10'],values['POP20'],values['POP30'],values['POP40'],values['POP50'],values['POP60'],values['POP70']))
 	except:
 		print "problem"
 	finally:
@@ -334,14 +335,11 @@ if __name__ == '__main__':
 			allYearOutputs['1970'] = final
 
  
-
-
 	allCounties = compileAllDates(allYearOutputs)
-	for keys,values in allCounties.items():
-		print(keys)
-		print(values)
+
+	# for keys,values in allCounties.items():
+	# 	print(keys)
+	# 	print(values)
     
-
-
-	# convertToCSV(outputName,final)
+	convertToCSV(outputName,allCounties)
 	
