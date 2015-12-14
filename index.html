@@ -13,6 +13,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
   <script type = "text/javascript" src="http://d3js.org/topojson.v1.min.js"></script>
   <script type ="text/javascript" src="d3-slider/d3.slider.js" ></script>
+  <script src="https://raw.github.com/fryn/html5slider/master/html5slider.js"></script>
   <link rel="stylesheet" href="d3-slider/d3.slider.css" />  
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -22,8 +23,8 @@
 
 <body>
   <div class="page-header"><h1>Visual Analytics <small>Blues and The Great Migration</small></h1> </div>
-   <div>
 
+   <div>
   <div class="panel panel-default">
     <div class="panel-body">
       <div id="timeline"></div>
@@ -35,18 +36,20 @@
   </div>
 
   <div class="well well-lg">
-     <div id="slider7"></div>
+     <input id="slider" type="range" min="1900" max="1970" value="1987" step="10" />
+      <span id="range">1900</span>
   </div>
 
-
-
-   
     <div id="map"></div>
 
     <script>
 
     // ==================STUFF FOR TIMELINE 
 window.onload=function(){
+    var $ = function(id) { return document.getElementById(id); };
+    $('slider').oninput = function() { $('range').innerHTML = this.value; };
+    $('slider').oninput();
+
     var data; // a global
     d3.json("dataProcessing/compiledTimeline.json", function(error, json) {
       if (error) return console.warn(error);
@@ -129,17 +132,44 @@ window.onload=function(){
 
     queue()
     .defer(d3.json, "us.json")
-    .defer(d3.csv, "test1960.csv")
+    .defer(d3.csv, "allpopData.csv")
     .await(ready);
+
+    var savedIds;
+    function getIds(popToID){
+    
+      if(popToID === undefined){
+        return savedIds;
+      };
+
+      if(popToID != undefined){
+        savedIds = popToID;
+      };
+
+    };
+
+    var savedUS
+    function getUS(us){
+      if(us === undefined){
+        return savedUS;
+      };
+
+      if(us!= undefined){
+        savedUS = us;
+      };
+    };
 
     function ready (error, us, data){
       var pairRateWithId = {};
       var pairNameWithId = {};
 
       data.forEach(function(d) {
-        pairRateWithId[d.id] = +d.pop;
+        pairRateWithId[d.id] = [d.pop1900, d.pop1910, d.pop1920, d.pop1930, d.pop1940, d.pop1950, d.pop1960, d.pop1970];
         pairNameWithId[d.id] = d.county;
       });
+
+      getIds(pairRateWithId);
+      getUS(us);
       svg.append("g")
       .attr("class", "county")
       .selectAll("path")
@@ -147,14 +177,17 @@ window.onload=function(){
       .enter().append("path")
       .attr("d", path)
       .style ( "fill" , function (d) {
-        return color (pairRateWithId[d.id]);
+        if (typeof pairRateWithId[d.id] !== 'undefined') {
+          var colorOnDomain = color(pairRateWithId[d.id][0]);
+          return colorOnDomain;
+        };
       })
       .style("opacity", 0.8)
       .on("mouseover", function(d) {
         d3.select(this).transition().duration(300).style("opacity", 1);
         div.transition().duration(300)
         .style("opacity", 1)
-        div.text(pairNameWithId[d.id] + " : " + pairRateWithId[d.id])
+        div.text(pairNameWithId[d.id] + " : " + pairRateWithId[d.id][0])
         .style("left", (d3.event.pageX) + "px")
         .style("top", (d3.event.pageY -30) + "px");
       })
@@ -195,15 +228,83 @@ window.onload=function(){
       .data(topojson.feature(topology, topology.objects.counties).features)
       .enter().append("path")
       .attr("d", path);
-    });
+   
+        d3.selectAll("input").on("change", function change() {
+          var value = this.value;
 
 
-    // ===============STUFF FOR SLIDER===========
-    d3.select('#slider7').call(d3.slider().axis(true).min(1900).max(1970).step(10)
-      .on('slide',function(evt,val){
-        console.log(val)
+          d3.selectAll("path").style("fill", function(d) {
+            var pairRateWithId = getIds();
 
-      }));
+            switch (value) {
+              case "1900":
+                if (typeof pairRateWithId[d.id] !== 'undefined') {
+                  var colorOnDomain = color(pairRateWithId[d.id][0]);
+                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
+                  console.log(colorOnDomain);
+                  return colorOnDomain;
+                 };
+                break;
+              case "1910":
+                if (typeof pairRateWithId[d.id] !== 'undefined') {
+                  var colorOnDomain = color(pairRateWithId[d.id][1]);
+                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
+                  console.log(colorOnDomain);
+                  return colorOnDomain;
+                  };
+                break;
+              case "1920":
+                  if (typeof pairRateWithId[d.id] !== 'undefined') {
+                    var colorOnDomain = color(pairRateWithId[d.id][2]);
+                    console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
+                    console.log(colorOnDomain);
+                    return colorOnDomain;
+                  };
+                break;
+              case "1930":
+                if (typeof pairRateWithId[d.id] !== 'undefined') {
+                  var colorOnDomain = color(pairRateWithId[d.id][3]);
+                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
+                  console.log(colorOnDomain);
+                  return colorOnDomain;
+                };
+                break;
+              case "1940":
+                if (typeof pairRateWithId[d.id] !== 'undefined') {
+                  var colorOnDomain = color(pairRateWithId[d.id][4]);
+                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
+                  console.log(colorOnDomain);
+                  return colorOnDomain;
+                };
+                break;
+              case "1950":
+                if (typeof pairRateWithId[d.id] !== 'undefined') {
+                  var colorOnDomain = color(pairRateWithId[d.id][5]);
+                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
+                  console.log(colorOnDomain);
+                  return colorOnDomain;
+                };
+                break;
+              case "1960":
+                if (typeof pairRateWithId[d.id] !== 'undefined') {
+                  var colorOnDomain = color(pairRateWithId[d.id][6]);
+                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
+                  console.log(colorOnDomain);
+                  return colorOnDomain;
+                };
+                break;
+              case "1970":
+                if (typeof pairRateWithId[d.id] !== 'undefined') {
+                  var colorOnDomain = color(pairRateWithId[d.id][7]);
+                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
+                  console.log(colorOnDomain);
+                  return colorOnDomain;
+                };
+                break;
+            }
+          });
+        });
+      });
 
     </script>
     </div>
