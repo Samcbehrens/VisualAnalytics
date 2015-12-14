@@ -9,7 +9,7 @@ def convertToCSV(outputFileName, contents):
 	f = open(outputFileName, 'wt')
 	try:
 		writer = csv.writer(f)
-		writer.writerow( ( 'id', 'state','county', 'areaname', '1900', '1910','1920','1930','1940', '1950','1960','1970') )
+		writer.writerow( ( 'id', 'state','county', 'areaname', 'pop1900', 'pop1910','pop1920','pop1930','pop1940', 'pop1950','pop1960','pop1970') )
 
 		for keys,values in contents.items():
 			writer.writerow((keys, values['STATE'], values['COUNTY'], values['AREANAME'], values['POP'], values['POP10'],values['POP20'],values['POP30'],values['POP40'],values['POP50'],values['POP60'],values['POP70']))
