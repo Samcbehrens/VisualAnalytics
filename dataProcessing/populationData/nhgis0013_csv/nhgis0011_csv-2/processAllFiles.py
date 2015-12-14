@@ -85,7 +85,151 @@ def compileAllDates(DateDictionary):
 			#key exists so just assign that years pop to key 
 			allCounties[checkId]['POP'] = DateDictionary[date][i]['POP']
 
-	print allCounties
+	date ='1910'
+	for i in range(len(DateDictionary[date])):
+		checkId = DateDictionary[date][i]['ID']
+		# print checkId
+		keyExists = checkIfExists(checkId, allCounties)
+		# print keyExists
+		if  keyExists == False:
+			## assign population at that date 
+			template['POP10'] = DateDictionary[date][i]['POP']
+			template['STATE'] = DateDictionary[date][i]['STATE']
+			template['COUNTY'] = DateDictionary[date][i]['COUNTY']
+			template['AREANAME'] = DateDictionary[date][i]['AREANAME']
+			#add to all county key container 
+			allCounties[checkId] = template
+			#reset 
+			template= {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	 	else:
+			#key exists so just assign that years pop to key 
+			allCounties[checkId]['POP10'] = DateDictionary[date][i]['POP']
+
+
+	date ='1920'
+	for i in range(len(DateDictionary[date])):
+		checkId = DateDictionary[date][i]['ID']
+		# print checkId
+		keyExists = checkIfExists(checkId, allCounties)
+		# print keyExists
+		if  keyExists == False:
+			## assign population at that date 
+			template['POP20'] = DateDictionary[date][i]['POP']
+			template['STATE'] = DateDictionary[date][i]['STATE']
+			template['COUNTY'] = DateDictionary[date][i]['COUNTY']
+			template['AREANAME'] = DateDictionary[date][i]['AREANAME']
+			#add to all county key container 
+			allCounties[checkId] = template
+			#reset 
+			template= {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	 	else:
+			#key exists so just assign that years pop to key 
+			allCounties[checkId]['POP20'] = DateDictionary[date][i]['POP']
+
+	date ='1930'
+	for i in range(len(DateDictionary[date])):
+		checkId = DateDictionary[date][i]['ID']
+		# print checkId
+		keyExists = checkIfExists(checkId, allCounties)
+		# print keyExists
+		if  keyExists == False:
+			## assign population at that date 
+			template['POP30'] = DateDictionary[date][i]['POP']
+			template['STATE'] = DateDictionary[date][i]['STATE']
+			template['COUNTY'] = DateDictionary[date][i]['COUNTY']
+			template['AREANAME'] = DateDictionary[date][i]['AREANAME']
+			#add to all county key container 
+			allCounties[checkId] = template
+			#reset 
+			template= {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	 	else:
+			#key exists so just assign that years pop to key 
+			allCounties[checkId]['POP30'] = DateDictionary[date][i]['POP']
+
+	date ='1940'
+	for i in range(len(DateDictionary[date])):
+		checkId = DateDictionary[date][i]['ID']
+		# print checkId
+		keyExists = checkIfExists(checkId, allCounties)
+		# print keyExists
+		if  keyExists == False:
+			## assign population at that date 
+			template['POP40'] = DateDictionary[date][i]['POP']
+			template['STATE'] = DateDictionary[date][i]['STATE']
+			template['COUNTY'] = DateDictionary[date][i]['COUNTY']
+			template['AREANAME'] = DateDictionary[date][i]['AREANAME']
+			#add to all county key container 
+			allCounties[checkId] = template
+			#reset 
+			template= {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	 	else:
+			#key exists so just assign that years pop to key 
+			allCounties[checkId]['POP40'] = DateDictionary[date][i]['POP']
+
+
+	date ='1950'
+	for i in range(len(DateDictionary[date])):
+		checkId = DateDictionary[date][i]['ID']
+		# print checkId
+		keyExists = checkIfExists(checkId, allCounties)
+		# print keyExists
+		if  keyExists == False:
+			## assign population at that date 
+			template['POP50'] = DateDictionary[date][i]['POP']
+			template['STATE'] = DateDictionary[date][i]['STATE']
+			template['COUNTY'] = DateDictionary[date][i]['COUNTY']
+			template['AREANAME'] = DateDictionary[date][i]['AREANAME']
+			#add to all county key container 
+			allCounties[checkId] = template
+			#reset 
+			template= {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	 	else:
+			#key exists so just assign that years pop to key 
+			allCounties[checkId]['POP50'] = DateDictionary[date][i]['POP']
+
+
+	date ='1960'
+	for i in range(len(DateDictionary[date])):
+		checkId = DateDictionary[date][i]['ID']
+		# print checkId
+		keyExists = checkIfExists(checkId, allCounties)
+		# print keyExists
+		if  keyExists == False:
+			## assign population at that date 
+			template['POP60'] = DateDictionary[date][i]['POP']
+			template['STATE'] = DateDictionary[date][i]['STATE']
+			template['COUNTY'] = DateDictionary[date][i]['COUNTY']
+			template['AREANAME'] = DateDictionary[date][i]['AREANAME']
+			#add to all county key container 
+			allCounties[checkId] = template
+			#reset 
+			template= {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	 	else:
+			#key exists so just assign that years pop to key 
+			allCounties[checkId]['POP60'] = DateDictionary[date][i]['POP']
+
+
+	date ='1970'
+	for i in range(len(DateDictionary[date])):
+		checkId = DateDictionary[date][i]['ID']
+		# print checkId
+		keyExists = checkIfExists(checkId, allCounties)
+		# print keyExists
+		if  keyExists == False:
+			## assign population at that date 
+			template['POP70'] = DateDictionary[date][i]['POP']
+			template['STATE'] = DateDictionary[date][i]['STATE']
+			template['COUNTY'] = DateDictionary[date][i]['COUNTY']
+			template['AREANAME'] = DateDictionary[date][i]['AREANAME']
+			#add to all county key container 
+			allCounties[checkId] = template
+			#reset 
+			template= {'STATE': 'fill','COUNTY': 'fill','AREANAME': 'fill','POP':'fill','POP10': 'fill','POP20': 'fill','POP30': 'fill','POP40': 'fill','POP50': 'fill','POP60': 'fill','POP70': 'fill'}
+	 	else:
+			#key exists so just assign that years pop to key 
+			allCounties[checkId]['POP70'] = DateDictionary[date][i]['POP']
+
+	return allCounties
 			
 def process(allInformation, ArrayOfIndex):
 	finalOutput = []
@@ -162,7 +306,11 @@ if __name__ == '__main__':
  
 	#print allYearOutputs['1900']
 
-	compileAllDates(allYearOutputs)
+	allCounties = compileAllDates(allYearOutputs)
+	for keys,values in allCounties.items():
+		print(keys)
+		print(values)
+    
 
 
 	# convertToCSV(outputName,final)
