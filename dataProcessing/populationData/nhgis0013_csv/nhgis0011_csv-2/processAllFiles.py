@@ -26,9 +26,6 @@ def findCountyId(StateA, CountyA):
 	if CountyA[-1] == '0':
 		modCounty = CountyA[0:-1]
 
-	print "checking modState and modCounty"
-	print modState
-	print modCounty
 	final = modState+modCounty
 
 
@@ -52,7 +49,6 @@ def readPopulationData(fileName):
 		csvfile.seek(0)
 		reader=csv.reader(csvfile,dialect)
 		for line in reader:
-			#print line
 			allInformation.append(line)
 	return allInformation
 
@@ -71,9 +67,7 @@ def compileAllDates(DateDictionary):
 	date ='1900'
 	for i in range(len(DateDictionary[date])):
 		checkId = DateDictionary[date][i]['ID']
-		# print checkId
 		keyExists = checkIfExists(checkId, allCounties)
-		# print keyExists
 		if  keyExists == False:
 			## assign population at that date 
 			template['POP'] = DateDictionary[date][i]['POP']
@@ -234,6 +228,7 @@ def compileAllDates(DateDictionary):
 
 	return allCounties
 
+## census changed format in 1970s. This is a way of compensating
 def specialProcess(allInformation, ArrayOfIndex):
 	finalOutput = []
 	for n in allInformation:
@@ -249,8 +244,10 @@ def specialProcess(allInformation, ArrayOfIndex):
 		final['YEAR'] = n[1]
 		final['STATE'] = n[2]
 
-		
-		final['ID'] = n[3]+n[5]
+		countyId = n[3]+n[5]
+		countyId = countyId.lstrip('0')
+
+		final['ID'] = countyId
 		final['COUNTY'] = n[4]
 		final['AREANAME'] = n[14]
 		final['POP'] = newPop
@@ -333,20 +330,16 @@ if __name__ == '__main__':
 		elif i == 6:
 			allYearOutputs['1960'] = final
 		else:
-			print 'what the deal with the 70s'
-			print i
-			
-			print arrayOfIndex
 			final = specialProcess(readInfo, arrayOfIndex)
 			allYearOutputs['1970'] = final
 
  
-	#print allYearOutputs['1900']
+
 
 	allCounties = compileAllDates(allYearOutputs)
-	# for keys,values in allCounties.items():
-	# 	print(keys)
-	# 	print(values)
+	for keys,values in allCounties.items():
+		print(keys)
+		print(values)
     
 
 
