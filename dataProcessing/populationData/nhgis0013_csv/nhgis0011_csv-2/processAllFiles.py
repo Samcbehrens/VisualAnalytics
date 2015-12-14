@@ -5,15 +5,17 @@ import csv
 import pprint
 
 def convertToCSV(outputFileName, contents):
-	print contents
+	
 	f = open(outputFileName, 'wt')
 	try:
 		writer = csv.writer(f)
-		writer.writerow( ('state', 'id', 'county', 'areaname', '1900', '1910','1920','1930','1940', '1950','1960','1970') )
-		for keys,values in allCounties.items():
-			writer.writerow( (key, values['STATE'], values['COUNTY'], values['AREANAME'], values['POP10'],values['POP20'],values['POP30'],values['POP40'],values['POP50'],values['POP60'],values['POP70']))
-	except:
+		writer.writerow( ( 'id', 'state','county', 'areaname', '1900', '1910','1920','1930','1940', '1950','1960','1970') )
+
+		for keys,values in contents.items():
+			writer.writerow((keys, values['STATE'], values['COUNTY'], values['AREANAME'], values['POP10'],values['POP20'],values['POP30'],values['POP40'],values['POP50'],values['POP60'],values['POP70']))
+	except csv.Error, e:
 		print "problem"
+		print (e)
 	finally:
 		f.close()
 
