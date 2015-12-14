@@ -26,6 +26,9 @@ def findCountyId(StateA, CountyA):
 	if CountyA[-1] == '0':
 		modCounty = CountyA[0:-1]
 
+	print "checking modState and modCounty"
+	print modState
+	print modCounty
 	final = modState+modCounty
 
 
@@ -230,6 +233,30 @@ def compileAllDates(DateDictionary):
 			allCounties[checkId]['POP70'] = DateDictionary[date][i]['POP']
 
 	return allCounties
+
+def specialProcess(allInformation, ArrayOfIndex):
+	finalOutput = []
+	for n in allInformation:
+		addEvent={'YEAR': 'fill', 'STATE': 'fill', "ID" : "fill" ,'COUNTY': 'fill','AREANAME': 'fill','POP': 'fill'}
+		testPop = n[ArrayOfIndex[0]]
+
+		if testPop.isdigit(): 
+			newPop = int(testPop)
+		else:
+			newPop = 0
+
+		final = addEvent
+		final['YEAR'] = n[1]
+		final['STATE'] = n[2]
+
+		
+		final['ID'] = n[3]+n[5]
+		final['COUNTY'] = n[4]
+		final['AREANAME'] = n[14]
+		final['POP'] = newPop
+		newPop = 0
+		finalOutput.append(final)
+	return finalOutput
 			
 def process(allInformation, ArrayOfIndex):
 	finalOutput = []
@@ -306,7 +333,11 @@ if __name__ == '__main__':
 		elif i == 6:
 			allYearOutputs['1960'] = final
 		else:
-
+			print 'what the deal with the 70s'
+			print i
+			
+			print arrayOfIndex
+			final = specialProcess(readInfo, arrayOfIndex)
 			allYearOutputs['1970'] = final
 
  
