@@ -15,18 +15,24 @@
   <script type ="text/javascript" src="d3-slider/d3.slider.js" ></script>
   <script src="https://raw.github.com/fryn/html5slider/master/html5slider.js"></script>
   <link rel="stylesheet" href="d3-slider/d3.slider.css" />  
+   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
   <link rel="stylesheet" href= "timeline.css"/>
+  <link rel="stylesheet" href= "slider.css"/>
 </head>
 
 <body>
   <div class="page-header"><h1>Visual Analytics <small>Blues and The Great Migration</small></h1> </div>
 
-   <div>
+  <h3><span class="label label-default">U.S. Timelines - Timelines of the Blues, Major U.S. Events, and Events Associated with the Great Migration </span></h3> 
+  <div>
   <div class="panel panel-default">
     <div class="panel-body">
+
       <div id="timeline"></div>
              <div id="description">
           <div class="coloredDiv"></div>
@@ -34,7 +40,7 @@
     </div>
     </div>
   </div>
-
+<h3><span class="label label-default">View the African American U.S. population based on era during The Great Migration</span></h3>
   <div class="well well-lg">
      <input id="slider" type="range" min="1900" max="1970" value="1987" step="10" />
       <span id="range">1900</span>
@@ -112,12 +118,12 @@ window.onload=function(){
     var width = 960,
     height = 500;
 
-    var color_domain = [500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000]
-    var ext_color_domain = [0, 500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000]
-    var legend_labels = ["&lt; 500", "500+", "1000+", "1500+", "2000+", "2500+", "3000+", "3500+", "4000+", "4500+", "5000+", "5500+", "6000+"]
+    var color_domain = [0,10000,20000,30000,40000,50000,60000, 70000, 80000,90000, 100000]
+    var ext_color_domain = [0,10000,20000,30000,40000,50000,60000, 70000, 80000,90000, 100000]
+    var legend_labels = ['0', '100000', '200000', '300000', '400000', '500000', '600000', '700000', '800000', '900000', '1000000']
     var color = d3.scale.threshold()
     .domain(color_domain)
-    .range(["#dcdcdc", "#d0d6cd", "#bdc9be", "#aabdaf", "#97b0a0", "#84a491", "#719782", "#5e8b73", "#4b7e64", "#387255", "#256546", "#125937", "#004d28"]);
+    .range(["#a50026", "#d73027", "#f46d43", "#fdae61", "#fee090", "#ffffbf", "#e0f3f8", "#abd9e9", "#74add1", "#4575b4", "#313695","#181b4a"]);
 
     var div = d3.select("body").append("div")
     .attr("class", "tooltip")
@@ -236,68 +242,62 @@ window.onload=function(){
           d3.selectAll("path").style("fill", function(d) {
             var pairRateWithId = getIds();
 
+            console.log(value);
             switch (value) {
+              
               case "1900":
                 if (typeof pairRateWithId[d.id] !== 'undefined') {
                   var colorOnDomain = color(pairRateWithId[d.id][0]);
-                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
-                  console.log(colorOnDomain);
+                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][0])
                   return colorOnDomain;
                  };
                 break;
               case "1910":
                 if (typeof pairRateWithId[d.id] !== 'undefined') {
                   var colorOnDomain = color(pairRateWithId[d.id][1]);
-                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
-                  console.log(colorOnDomain);
+                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][1])
                   return colorOnDomain;
                   };
                 break;
               case "1920":
                   if (typeof pairRateWithId[d.id] !== 'undefined') {
                     var colorOnDomain = color(pairRateWithId[d.id][2]);
-                    console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
-                    console.log(colorOnDomain);
+                    console.log(pairRateWithId[d.id], pairRateWithId[d.id][2])
                     return colorOnDomain;
                   };
                 break;
               case "1930":
                 if (typeof pairRateWithId[d.id] !== 'undefined') {
                   var colorOnDomain = color(pairRateWithId[d.id][3]);
-                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
-                  console.log(colorOnDomain);
+                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][3])
                   return colorOnDomain;
                 };
                 break;
               case "1940":
                 if (typeof pairRateWithId[d.id] !== 'undefined') {
                   var colorOnDomain = color(pairRateWithId[d.id][4]);
-                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
-                  console.log(colorOnDomain);
+                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][4])
                   return colorOnDomain;
                 };
                 break;
               case "1950":
                 if (typeof pairRateWithId[d.id] !== 'undefined') {
                   var colorOnDomain = color(pairRateWithId[d.id][5]);
-                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
-                  console.log(colorOnDomain);
+                 console.log(pairRateWithId[d.id], pairRateWithId[d.id][5])
                   return colorOnDomain;
                 };
                 break;
               case "1960":
                 if (typeof pairRateWithId[d.id] !== 'undefined') {
                   var colorOnDomain = color(pairRateWithId[d.id][6]);
-                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
-                  console.log(colorOnDomain);
+                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][6])
                   return colorOnDomain;
                 };
                 break;
               case "1970":
                 if (typeof pairRateWithId[d.id] !== 'undefined') {
                   var colorOnDomain = color(pairRateWithId[d.id][7]);
-                  console.log('pairRateWithId[d.id]', pairRateWithId[d.id])
-                  console.log(colorOnDomain);
+                console.log(pairRateWithId[d.id], pairRateWithId[d.id][7])   
                   return colorOnDomain;
                 };
                 break;
@@ -307,6 +307,42 @@ window.onload=function(){
       });
 
     </script>
+    </div>
+      <div class="panel-group">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse1">About</a>
+        </h4>
+      </div>
+      <div id="collapse1" class="panel-collapse collapse">
+        <div class="panel-body">The core of this project was to illustrate the events and music around the great migration which occured from 1900 to 1970. </div>
+      </div>
+        <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse2">Future Work</a>
+        </h4>
+      </div>
+      <div id="collapse2" class="panel-collapse collapse">
+        <div class="panel-body">
+          <p>There are several  style things I didn't have time to get to. I would like to extend the US timeline into 1885 to give the timeline more context and also change the color of the bubbles to the same color depending on the timeline. I would also like to extend population data into 1885 and also make changes more visible or find an appropriate scale to indicate the change. I would like to link up the slider to the timeline and display all the text at the same time. I would also like to put all major cities on the map to give more context. I would also like to put the timeline ticks on the timeline.</p>
+          <p>  A major part of the project I could not get to was being able to hit a music api. Ideally I would map recordings and origins of blues musicians and bring up information and music of the blues to really illustrate how the great migration effect the blues and blues artists</p> 
+        </div>
+      </div>
+
+        <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" href="#collapse3">Challenges</a>
+        </h4>
+      </div>
+
+        <div id="collapse3" class="panel-collapse collapse">
+        <div class="panel-body">
+          <p>The biggest challenge of the project was just getting the data that I needed and processing it in format that would work with d3. I had trouble finding census data for african american populations and then I had trouble processing all of it to be in one timeline. Furthermore I had trouble webscraping timelines because they were so varied. Finding blues timelines was also difficult. 90% of this project was finding and processing data. I am very good at python now. </p>
+        </div>
+      </div>
+
+      </div>
     </div>
   </body>
   </html>
