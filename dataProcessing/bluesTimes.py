@@ -2,7 +2,6 @@ import datetime
 import json
 import calendar
 import csv
-import random
 from timeline3 import convertToFile
 
 def convertTime(dateAsString):
@@ -40,8 +39,7 @@ def webToJSON(soup):
 		addEvent["description"] = n[1]	
 		
 		if addEvent["description"]!="description" and addEvent["starting_time"]!=1:
-			randomNum = random.randint(0,4)
-			addEvent["color"]=colors[randomNum]
+			addEvent["color"]="blue"
 			timeline["times"].append(addEvent)
 
 			addEvent={"color":"blue", "description":"description", "starting_time": 1}

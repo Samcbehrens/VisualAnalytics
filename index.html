@@ -123,7 +123,7 @@ window.onload=function(){
     var legend_labels = ['0', '100000', '200000', '300000', '400000', '500000', '600000', '700000', '800000', '900000', '1000000']
     var color = d3.scale.threshold()
     .domain(color_domain)
-    .range(["#a50026", "#d73027", "#f46d43", "#fdae61", "#fee090", "#ffffbf", "#e0f3f8", "#abd9e9", "#74add1", "#4575b4", "#313695","#181b4a"]);
+    .range(["#767689 ", "#6c6c93", "#62629d ", "#5858a7", "#4e4eb1 ", "#4545ba", "#3b3bc4 ", "#3131ce", "#2727d8", "#1d1de2", "#1414eb ","#0000ff"]);
 
     var div = d3.select("body").append("div")
     .attr("class", "tooltip")
@@ -184,7 +184,7 @@ window.onload=function(){
       .attr("d", path)
       .style ( "fill" , function (d) {
         if (typeof pairRateWithId[d.id] !== 'undefined') {
-          var colorOnDomain = color(pairRateWithId[d.id][0]);
+          var colorOnDomain = color(pairRateWithId[d.id][7]);
           return colorOnDomain;
         };
       })
@@ -226,6 +226,12 @@ window.onload=function(){
     .attr("x", 50)
     .attr("y", function(d, i){ return height - (i*ls_h) - ls_h - 4;})
     .text(function(d, i){ return legend_labels[i]; });
+
+    legend.append("text")
+    .attr("x", 20)
+    .attr("y" , 500) 
+    .text('Population')
+    .style("margin", '10px');
 
     d3.json("us.json", function(error, topology) {
       if (error) throw error;

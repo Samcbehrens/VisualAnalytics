@@ -4,7 +4,7 @@ import re
 from timeline3 import convertTime
 from timeline3 import webToJson
 from timeline3 import convertToFile
-import random
+
 
 ## have to parse each page differently because of formatting >:(
 def parsePage(url):
@@ -50,8 +50,8 @@ def webToJson(soup):
 			addEvent["description"] = n	
 					
 		if addEvent["description"]!="description" and addEvent["starting_time"]!=1:
-			randomNum = random.randint(0,4)
-			addEvent["color"]=colors[randomNum]
+			
+			addEvent["color"]='green'
 			timeline["times"].append(addEvent)
 
 			addEvent={"color":"blue", "description":"description", "starting_time": 1}
