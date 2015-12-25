@@ -3,27 +3,27 @@
         "label": "timeline3", 
         "times": [
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "13th Amendment officially abolishes slavery.Juneteenth Freedom Celebration in Texas and Oklahoma.", 
                 "starting_time": -3281904000000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "Ex-Confederates pass \"Black Codes\" limiting movement and controlling the labor of emancipated slaves.Confederate veterans in Tennessee found Ku Klux Klan.", 
                 "starting_time": -3250368000000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "Howard University is established as a theological seminary for the education of African American clergymen in Washington D.C.", 
                 "starting_time": -3218832000000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "14th Amendment guarantees African American citizenship.", 
                 "starting_time": -3155673600000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "15th Amendment guarantees African American men the right to vote.", 
                 "starting_time": -3124137600000
             }, 
@@ -38,7 +38,7 @@
                 "starting_time": -3029443200000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "\"Race riots\" erupt in Louisiana and Mississippi.", 
                 "starting_time": -2966371200000
             }, 
@@ -58,7 +58,7 @@
                 "starting_time": -2808518400000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "African-American washerwomen in Atlanta organize a two-week strike to demand higher fees.Jim Crow law segregating railroad cars passes in Tennessee, setting precedent for other souther states.Booker T. Washington found the Normal and Industrial Institute for Negroes (later Tuskegee Institute) and becomes its president.", 
                 "starting_time": -2713910400000
             }, 
@@ -73,7 +73,7 @@
                 "starting_time": -2461449600000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "Ida B. Wells flees Memphis after receiving death threats in response to her editorial that questions the Black rapist myth.  She is forced to remain North and becomes an unrelenting crusader against lynching. The Afro-American is founded by Reverend William Alexander. It quickly becomes the largest Black owned publication onthe East Coast.", 
                 "starting_time": -2366755200000
             }, 
@@ -88,12 +88,12 @@
                 "starting_time": -2272060800000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "Wilmington, NC race riot.Williams v. Mississippi: Supreme Court agrees that Mississippi can disenfranchise Blacks through literacy tests.  Other states soon follow; Louisiana introduces \"grandfather clause\" into state constitution.", 
                 "starting_time": -2208988800000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "New Orleans, LA race riot.National Negro Business League established by Booker T. Washington.\"Lift Every Voice and Sing,\" known as the \"Black National Anthem\" is written by James Weldon Johnson.", 
                 "starting_time": -2114380800000
             }, 
@@ -103,47 +103,47 @@
                 "starting_time": -2082844800000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "Mary McLeod Bethune opens the Daytona Educational and Industrial Training School for Negro Girls in Florida.  The name is later changed to Bethune-Cookman College.", 
                 "starting_time": -2051222400000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "Chicago Defender founded.", 
                 "starting_time": -2019686400000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "Atlanta, GA race riot.", 
                 "starting_time": -1988150400000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "The Pittsburgh Courier founded.", 
                 "starting_time": -1956614400000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "Springfield, IL race riot.", 
                 "starting_time": -1924992000000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "National Association for the Advancement of Colored People (NACP) founded in New York City.The New York Amsterdam News founded.", 
                 "starting_time": -1893456000000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "", 
                 "starting_time": -1861920000000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "National Urban League is established; its goal is to help Southern migrants find jobs, housing, and adjust to city life.", 
                 "starting_time": -1798761600000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "President Woodrow Wilson reintroduces Jim Crow to Washington, DC and sanctions segregation in the federal government.Cotton prices plummet and a sever boll weevil infestation in the South leaves many African Americans in even more dire economic straits.", 
                 "starting_time": "1914-1918"
             }, 
@@ -163,7 +163,7 @@
                 "starting_time": -1672531200000
             }, 
             {
-                "color": "green", 
+                "color": "red", 
                 "description": "NAACP rallies 10,000 in NYC is a silent protest march against lynching as part of its on-going anti-lynching campaign.St. Louis, MO race riot.Marcus Garvey establishes the first American branch of the Universal Negro Improvement Association (UNIA) and the African Communities League in NYC.", 
                 "starting_time": -1640995200000
             }, 
@@ -173,22 +173,22 @@
                 "starting_time": -1609459200000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "\"Red Summer\" race riots erupt nationwide.Chicago's African-American population reaches 110,000.The Associated Negro Press is formed.Liberty Hall, the official meeting place of the UNIA, is established in Harlem.", 
                 "starting_time": -1577923200000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "First UNIA International Convention.  Garvey gives the opening address before a crowd of 20,000 at Madison Square Garden.  At the convention, the official UNIA flag is unveiled.  Its colors of red, green, and black symbolize the solidarity between the struggles of African peoples, the Irish, and the Communists.", 
                 "starting_time": -1546300800000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "Tulsa, OK race riot. ", 
                 "starting_time": -1420070400000
             }, 
             {
-                "color": "orange", 
+                "color": "red", 
                 "description": "Alain Locke publishes The New NegroBrotherhood of Sleeping Car Porters is formed.  A. Philip Randolph is its first president.", 
                 "starting_time": -1388534400000
             }, 
@@ -198,12 +198,12 @@
                 "starting_time": -1356998400000
             }, 
             {
-                "color": "blue", 
+                "color": "red", 
                 "description": "U.S. deports Marcus Garvey to Jamaica; his departure shatters the UNIA which had won mass support after World War I. ", 
                 "starting_time": -1325462400000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "The first Black representative to serve in Congress since Reconstruction, Oscar DePriest, is elected in Chicago.NBC premiers \"Amos 'n' Andy,\" a fifteen-minute comedy show that becomes the most popular program on radio.  Thought the show is about two Black men who own a cab company, the voices are performed by White men.", 
                 "starting_time": -1293840000000
             }, 
@@ -213,7 +213,7 @@
                 "starting_time": -1262304000000
             }, 
             {
-                "color": "yellow", 
+                "color": "red", 
                 "description": "Chicago's African-American population reaches 235,000.Detroit's African-American population reaches 120,000.Harlem's African-American population reaches 200,000.W.D. Fard establishes the Nation of Islam in Detroit. ", 
                 "starting_time": "1940-1960"
             }
