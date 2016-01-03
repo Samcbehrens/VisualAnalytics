@@ -3221,12 +3221,7 @@
                 "color": "green", 
                 "description": "The Civil Rights Act of 1964 ends racial segregation in schools, workplaces, and public facilities.", 
                 "starting_time": -157766400000
-            }, 
-            {
-                "color": "green", 
-                "description": "A race riot in the Watts section of Los Angeles, California, raises concerns about violence, crime, and poverty in urban African AMerican neighborhoods; the Voting Rights Act of 1965 outlaws practices designed to restrict African Americans' right to vote", 
-                "starting_time": 0
-            }
+			}
         ]
     },
      {
@@ -3371,12 +3366,7 @@
                 "color": "red", 
                 "description": "National Urban League is established; its goal is to help Southern migrants find jobs, housing, and adjust to city life.", 
                 "starting_time": -1798761600000
-            }, 
-            {
-                "color": "red", 
-                "description": "President Woodrow Wilson reintroduces Jim Crow to Washington, DC and sanctions segregation in the federal government.Cotton prices plummet and a sever boll weevil infestation in the South leaves many African Americans in even more dire economic straits.", 
-                "starting_time": "1914-1918"
-            }, 
+            },  
             {
                 "color": "red", 
                 "description": "World War I spurs Great Migration.", 
@@ -3441,11 +3431,6 @@
                 "color": "red", 
                 "description": "Chicago's Whip Newspaper launches its \"Don't Buy Where you Can't Work\" campaign. ", 
                 "starting_time": -1262304000000
-            }, 
-            {
-                "color": "red", 
-                "description": "Chicago's African-American population reaches 235,000.Detroit's African-American population reaches 120,000.Harlem's African-American population reaches 200,000.W.D. Fard establishes the Nation of Islam in Detroit. ", 
-                "starting_time": "1940-1960"
             }
         ]
     }
