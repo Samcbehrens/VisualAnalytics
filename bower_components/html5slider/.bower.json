@@ -1,0 +1,14 @@
+{
+  "name": "html5slider",
+  "_cacheHeaders": {
+    "ETag": "\"f13475f3936853f9da19455caeea02f0d23c141b\"",
+    "Content-Length": "9031",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:f13475f39",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/fryn/html5slider/gh-pages/html5slider.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/fryn/html5slider/gh-pages/html5slider.js",
+  "_direct": true
+}

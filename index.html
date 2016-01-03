@@ -1,31 +1,26 @@
 <html>
 <head>
-  <title>A Leaflet map!</title>
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
-  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <title>Great Migration Map</title>
 
-  <script src= "http://d3js.org/topojson.v1.min.js"></script>
 
-  <script type = "text/javascript" src= "d3/d3.min.js"></script>
+  <script src = "bower_components/jquery/dist/jquery.min.js"></script>
+  <script src = "bower_components/d3/d3.min.js"></script>
+  <script src = "bower_components/d3-timeline/src/d3-timeline.js"></script>
+  <script src = "bower_components/queue-async/queue.js"></script>
+  <script src = "bower_components/queue-async/queue.min.js"></script>
+  <script src = "bower_components/topojson/topojson.js"></script>
+  <script src = "bower_components/html5slider/html5slider.js"></script>
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <script src = "bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 
-  <script type = "text/javascript" src= "d3/d3.js"></script>
-  <script type = "text/javascript" src = "d3-timeline/src/d3-timeline.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
-  <script type = "text/javascript" src="http://d3js.org/topojson.v1.min.js"></script>
-  <script type ="text/javascript" src="d3-slider/d3.slider.js" ></script>
-  <script src="https://raw.github.com/fryn/html5slider/master/html5slider.js"></script>
-  <link rel="stylesheet" href="d3-slider/d3.slider.css" />  
-   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  <!-- Latest compiled and minified CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
   <link rel="stylesheet" href= "timeline.css"/>
-  <link rel="stylesheet" href= "slider.css"/>
+  <link rel= "stylesheet" href = "sidebar.css"/>
+
 </head>
 
 <body>
+  <div id = "main">
   <div class="page-header"><h1>Visual Analytics <small>Blues and The Great Migration</small></h1> </div>
 
   <h3><span class="label label-default">U.S. Timelines - Timelines of the Blues, Major U.S. Events, and Events Associated with the Great Migration </span></h3> 
@@ -57,7 +52,7 @@ window.onload=function(){
     $('slider').oninput();
 
     var data; // a global
-    d3.json("dataProcessing/compiledTimeline.json", function(error, json) {
+    d3.json("dataProcessing/newCompiledTimeline.json", function(error, json) {
       if (error) return console.warn(error);
       data = json;
       timelineHover(data);
@@ -350,5 +345,9 @@ window.onload=function(){
 
       </div>
     </div>
+    <div id ="sidebar">
+      <h3>TESTING THE SIDEBAR</h3>
+    </div>
+  </div>
   </body>
   </html>
