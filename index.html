@@ -120,11 +120,11 @@ window.onload=function(){
     .domain(color_domain)
     .range(["#767689 ", "#6c6c93", "#62629d ", "#5858a7", "#4e4eb1 ", "#4545ba", "#3b3bc4 ", "#3131ce", "#2727d8", "#1d1de2", "#1414eb ","#0000ff"]);
 
-    var div = d3.select("body").append("div")
+    var div = d3.select("#map").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
-    var svg = d3.select("body").append("svg")
+    var svg = d3.select("#map").append("svg")
     .attr("width", width)
     .attr("height", height)
     .style("margin", "10px auto");
