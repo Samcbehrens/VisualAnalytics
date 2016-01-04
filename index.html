@@ -134,12 +134,12 @@
     queue()
     .defer(d3.json, "us.json")
     .defer(d3.csv, "allpopData.csv")
-    .defer(d3.csv,"unitedstates.json")
+    .defer(d3.json,"unitedstates.json")
     .await(ready);
 
     var savedIds;
     function getIds(popToID){
-      
+
       if(popToID === undefined){
         return savedIds;
       };
@@ -169,7 +169,7 @@
         pairRateWithId[d.id] = [d.pop1900, d.pop1910, d.pop1920, d.pop1930, d.pop1940, d.pop1950, d.pop1960, d.pop1970];
         pairNameWithId[d.id] = d.county;
       });
-      
+
       console.log(cities);
 
       svg.selectAll(".place-label")
@@ -259,7 +259,7 @@
       .data(topojson.feature(topology, topology.objects.counties).features)
       .enter().append("path")
       .attr("d", path);
-      
+
       d3.selectAll("input").on("change", function change() {
         var value = this.value;
 
@@ -269,7 +269,7 @@
 
           console.log(value);
           switch (value) {
-            
+
             case "1900":
             if (typeof pairRateWithId[d.id] !== 'undefined') {
               var colorOnDomain = color(pairRateWithId[d.id][0]);
