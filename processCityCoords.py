@@ -10,22 +10,28 @@ information = data.get('cities')
 finalArray = []
 finalJSON={}
 largeJSON={}
+largeJSON['places']= {} 
+largeJSON.get('places')['type']='GeometryCollection'
+largeJSON.get('places')['geometries']= []
 
+pprint(largeJSON)
 
 for city in information:
-		coordinates = city.get('coordinates')
-		splitCoords = coordinates.split(',')
-		coordinates = [splitCoords[0], splitCoords[1]]
-		finalJSON['coordinates']= coordinates
+
+	name = city.get('name')
+	print name 
+	print 
+	newDict = {'type' : 'Point', 'properties':{ 'name':name.split(',')[0]}}
 		
 
-		name = city.get('name')
-		finalJSON['name'] = name.split(',')[0]
+	coordinates = city.get('coordinates')
+	print coordinates
+	splitCoords = coordinates.split(',')
+	coordinates = [splitCoords[0], splitCoords[1]]
+	newDict['coordinates'] = coordinates
 
-		finalArray.append(finalJSON)
-
-
-largeJSON['cities'] = finalArray
+	print largeJSON
+	largeJSON.get('places').get('geometries').append(newDict)
 
 pprint(largeJSON)
 

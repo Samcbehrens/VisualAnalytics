@@ -21,35 +21,35 @@
 
 <body>
   <div id = "main">
-  <div class="page-header"><h1>Visual Analytics <small>Blues and The Great Migration</small></h1> </div>
+    <div class="page-header"><h1>Visual Analytics <small>Blues and The Great Migration</small></h1> </div>
 
-  <h3><span class="label label-default">U.S. Timelines - Timelines of the Blues, Major U.S. Events, and Events Associated with the Great Migration </span></h3> 
-  <div>
-  <div class="panel panel-default">
-    <div class="panel-body">
+    <h3><span class="label label-default">U.S. Timelines - Timelines of the Blues, Major U.S. Events, and Events Associated with the Great Migration </span></h3> 
+    <div>
+      <div class="panel panel-default">
+        <div class="panel-body">
 
-      <div id="timeline"></div>
-             <div id="description">
-          <div class="coloredDiv"></div>
-          <div id="name"></div>
-    </div>
-    </div>
-  </div>
-<h3><span class="label label-default">View the African American U.S. population based on era during The Great Migration</span></h3>
-  <div class="well well-lg">
-     <input id="slider" type="range" min="1900" max="1970" value="1987" step="10" />
-      <span id="range">1900</span>
-  </div>
+          <div id="timeline"></div>
+          <div id="description">
+            <div class="coloredDiv"></div>
+            <div id="name"></div>
+          </div>
+        </div>
+      </div>
+      <h3><span class="label label-default">View the African American U.S. population based on era during The Great Migration</span></h3>
+      <div class="well well-lg">
+       <input id="slider" type="range" min="1900" max="1970" value="1987" step="10" />
+       <span id="range">1900</span>
+     </div>
 
-    <div id="map"></div>
+     <div id="map"></div>
 
-    <script>
+     <script>
 
     // ==================STUFF FOR TIMELINE 
-window.onload=function(){
-    var $ = function(id) { return document.getElementById(id); };
-    $('slider').oninput = function() { $('range').innerHTML = this.value; };
-    $('slider').oninput();
+    window.onload=function(){
+      var $ = function(id) { return document.getElementById(id); };
+      $('slider').oninput = function() { $('range').innerHTML = this.value; };
+      $('slider').oninput();
 
     var data; // a global
     d3.json("dataProcessing/newCompiledTimeline.json", function(error, json) {
@@ -139,7 +139,7 @@ window.onload=function(){
 
     var savedIds;
     function getIds(popToID){
-    
+      
       if(popToID === undefined){
         return savedIds;
       };
@@ -169,10 +169,12 @@ window.onload=function(){
         pairRateWithId[d.id] = [d.pop1900, d.pop1910, d.pop1920, d.pop1930, d.pop1940, d.pop1950, d.pop1960, d.pop1970];
         pairNameWithId[d.id] = d.county;
       });
+      
+      console.log(cities);
 
-        svg.selectAll(".place-label")
+      svg.selectAll(".place-label")
       .data(topojson.feature(cities, cities.objects.places).features)
-    .enter().append("text")
+      .enter().append("text")
       .attr("class", "place-label")
       .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
       .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
@@ -248,7 +250,7 @@ window.onload=function(){
     d3.json("us.json", function(error, topology) {
       if (error) throw error;
 
-       svg.append("path")
+      svg.append("path")
       .datum(topojson.mesh(topology, topology.objects.states, function(a, b) { return a !== b; }))
       .attr("class", "states")
       .attr("d", path);
@@ -257,119 +259,119 @@ window.onload=function(){
       .data(topojson.feature(topology, topology.objects.counties).features)
       .enter().append("path")
       .attr("d", path);
-   
-        d3.selectAll("input").on("change", function change() {
-          var value = this.value;
+      
+      d3.selectAll("input").on("change", function change() {
+        var value = this.value;
 
 
-          d3.selectAll("path").style("fill", function(d) {
-            var pairRateWithId = getIds();
+        d3.selectAll("path").style("fill", function(d) {
+          var pairRateWithId = getIds();
 
-            console.log(value);
-            switch (value) {
-              
-              case "1900":
-                if (typeof pairRateWithId[d.id] !== 'undefined') {
-                  var colorOnDomain = color(pairRateWithId[d.id][0]);
-                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][0])
-                  return colorOnDomain;
-                 };
-                break;
-              case "1910":
-                if (typeof pairRateWithId[d.id] !== 'undefined') {
-                  var colorOnDomain = color(pairRateWithId[d.id][1]);
-                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][1])
-                  return colorOnDomain;
-                  };
-                break;
-              case "1920":
-                  if (typeof pairRateWithId[d.id] !== 'undefined') {
-                    var colorOnDomain = color(pairRateWithId[d.id][2]);
-                    console.log(pairRateWithId[d.id], pairRateWithId[d.id][2])
-                    return colorOnDomain;
-                  };
-                break;
-              case "1930":
-                if (typeof pairRateWithId[d.id] !== 'undefined') {
-                  var colorOnDomain = color(pairRateWithId[d.id][3]);
-                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][3])
-                  return colorOnDomain;
-                };
-                break;
-              case "1940":
-                if (typeof pairRateWithId[d.id] !== 'undefined') {
-                  var colorOnDomain = color(pairRateWithId[d.id][4]);
-                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][4])
-                  return colorOnDomain;
-                };
-                break;
-              case "1950":
-                if (typeof pairRateWithId[d.id] !== 'undefined') {
-                  var colorOnDomain = color(pairRateWithId[d.id][5]);
-                 console.log(pairRateWithId[d.id], pairRateWithId[d.id][5])
-                  return colorOnDomain;
-                };
-                break;
-              case "1960":
-                if (typeof pairRateWithId[d.id] !== 'undefined') {
-                  var colorOnDomain = color(pairRateWithId[d.id][6]);
-                  console.log(pairRateWithId[d.id], pairRateWithId[d.id][6])
-                  return colorOnDomain;
-                };
-                break;
-              case "1970":
-                if (typeof pairRateWithId[d.id] !== 'undefined') {
-                  var colorOnDomain = color(pairRateWithId[d.id][7]);
-                console.log(pairRateWithId[d.id], pairRateWithId[d.id][7])   
-                  return colorOnDomain;
-                };
-                break;
-            }
-          });
+          console.log(value);
+          switch (value) {
+            
+            case "1900":
+            if (typeof pairRateWithId[d.id] !== 'undefined') {
+              var colorOnDomain = color(pairRateWithId[d.id][0]);
+              console.log(pairRateWithId[d.id], pairRateWithId[d.id][0])
+              return colorOnDomain;
+            };
+            break;
+            case "1910":
+            if (typeof pairRateWithId[d.id] !== 'undefined') {
+              var colorOnDomain = color(pairRateWithId[d.id][1]);
+              console.log(pairRateWithId[d.id], pairRateWithId[d.id][1])
+              return colorOnDomain;
+            };
+            break;
+            case "1920":
+            if (typeof pairRateWithId[d.id] !== 'undefined') {
+              var colorOnDomain = color(pairRateWithId[d.id][2]);
+              console.log(pairRateWithId[d.id], pairRateWithId[d.id][2])
+              return colorOnDomain;
+            };
+            break;
+            case "1930":
+            if (typeof pairRateWithId[d.id] !== 'undefined') {
+              var colorOnDomain = color(pairRateWithId[d.id][3]);
+              console.log(pairRateWithId[d.id], pairRateWithId[d.id][3])
+              return colorOnDomain;
+            };
+            break;
+            case "1940":
+            if (typeof pairRateWithId[d.id] !== 'undefined') {
+              var colorOnDomain = color(pairRateWithId[d.id][4]);
+              console.log(pairRateWithId[d.id], pairRateWithId[d.id][4])
+              return colorOnDomain;
+            };
+            break;
+            case "1950":
+            if (typeof pairRateWithId[d.id] !== 'undefined') {
+              var colorOnDomain = color(pairRateWithId[d.id][5]);
+              console.log(pairRateWithId[d.id], pairRateWithId[d.id][5])
+              return colorOnDomain;
+            };
+            break;
+            case "1960":
+            if (typeof pairRateWithId[d.id] !== 'undefined') {
+              var colorOnDomain = color(pairRateWithId[d.id][6]);
+              console.log(pairRateWithId[d.id], pairRateWithId[d.id][6])
+              return colorOnDomain;
+            };
+            break;
+            case "1970":
+            if (typeof pairRateWithId[d.id] !== 'undefined') {
+              var colorOnDomain = color(pairRateWithId[d.id][7]);
+              console.log(pairRateWithId[d.id], pairRateWithId[d.id][7])   
+              return colorOnDomain;
+            };
+            break;
+          }
         });
-      });
+});
+});
 
-    </script>
+</script>
+</div>
+<div class="panel-group">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse1">About</a>
+      </h4>
     </div>
-      <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#collapse1">About</a>
-        </h4>
-      </div>
-      <div id="collapse1" class="panel-collapse collapse">
-        <div class="panel-body">The core of this project was to illustrate the events and music around the great migration which occured from 1900 to 1970. </div>
-      </div>
-        <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#collapse2">Future Work</a>
-        </h4>
-      </div>
-      <div id="collapse2" class="panel-collapse collapse">
-        <div class="panel-body">
-          <p>There are several  style things I didn't have time to get to. I would like to extend the US timeline into 1885 to give the timeline more context and also change the color of the bubbles to the same color depending on the timeline. I would also like to extend population data into 1885 and also make changes more visible or find an appropriate scale to indicate the change. I would like to link up the slider to the timeline and display all the text at the same time. I would also like to put all major cities on the map to give more context. I would also like to put the timeline ticks on the timeline.</p>
-          <p>  A major part of the project I could not get to was being able to hit a music api. Ideally I would map recordings and origins of blues musicians and bring up information and music of the blues to really illustrate how the great migration effect the blues and blues artists</p> 
-        </div>
-      </div>
-
-        <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#collapse3">Challenges</a>
-        </h4>
-      </div>
-
-        <div id="collapse3" class="panel-collapse collapse">
-        <div class="panel-body">
-          <p>The biggest challenge of the project was just getting the data that I needed and processing it in format that would work with d3. I had trouble finding census data for african american populations and then I had trouble processing all of it to be in one timeline. Furthermore I had trouble webscraping timelines because they were so varied. Finding blues timelines was also difficult. 90% of this project was finding and processing data. I am very good at python now. </p>
-        </div>
-      </div>
-
+    <div id="collapse1" class="panel-collapse collapse">
+      <div class="panel-body">The core of this project was to illustrate the events and music around the great migration which occured from 1900 to 1970. </div>
+    </div>
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse2">Future Work</a>
+      </h4>
+    </div>
+    <div id="collapse2" class="panel-collapse collapse">
+      <div class="panel-body">
+        <p>There are several  style things I didn't have time to get to. I would like to extend the US timeline into 1885 to give the timeline more context and also change the color of the bubbles to the same color depending on the timeline. I would also like to extend population data into 1885 and also make changes more visible or find an appropriate scale to indicate the change. I would like to link up the slider to the timeline and display all the text at the same time. I would also like to put all major cities on the map to give more context. I would also like to put the timeline ticks on the timeline.</p>
+        <p>  A major part of the project I could not get to was being able to hit a music api. Ideally I would map recordings and origins of blues musicians and bring up information and music of the blues to really illustrate how the great migration effect the blues and blues artists</p> 
       </div>
     </div>
+
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#collapse3">Challenges</a>
+      </h4>
+    </div>
+
+    <div id="collapse3" class="panel-collapse collapse">
+      <div class="panel-body">
+        <p>The biggest challenge of the project was just getting the data that I needed and processing it in format that would work with d3. I had trouble finding census data for african american populations and then I had trouble processing all of it to be in one timeline. Furthermore I had trouble webscraping timelines because they were so varied. Finding blues timelines was also difficult. 90% of this project was finding and processing data. I am very good at python now. </p>
+      </div>
+    </div>
+
   </div>
-    <div id ="sidebar">
-      <h3>TESTING THE SIDEBAR</h3>
-    </div>
-  </body>
-  </html>
+</div>
+</div>
+<div id ="sidebar">
+  <h3>TESTING THE SIDEBAR</h3>
+</div>
+</body>
+</html>
