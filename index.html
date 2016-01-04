@@ -169,6 +169,8 @@ window.onload=function(){
         pairNameWithId[d.id] = d.county;
       });
 
+
+
       getIds(pairRateWithId);
       getUS(us);
       svg.append("g")
@@ -202,6 +204,8 @@ window.onload=function(){
 
     };
 
+
+
     var legend = svg.selectAll("g.legend")
     .data(ext_color_domain)
     .enter().append("g")
@@ -230,6 +234,11 @@ window.onload=function(){
 
     d3.json("us.json", function(error, topology) {
       if (error) throw error;
+
+       svg.append("path")
+      .datum(topojson.mesh(topology, topology.objects.states, function(a, b) { return a !== b; }))
+      .attr("class", "states")
+      .attr("d", path);
 
       svg.selectAll("path")
       .data(topojson.feature(topology, topology.objects.counties).features)
@@ -345,9 +354,9 @@ window.onload=function(){
 
       </div>
     </div>
+  </div>
     <div id ="sidebar">
       <h3>TESTING THE SIDEBAR</h3>
     </div>
-  </div>
   </body>
   </html>
