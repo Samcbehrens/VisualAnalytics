@@ -27,7 +27,7 @@ for city in information:
 	coordinates = city.get('coordinates')
 	print coordinates
 	splitCoords = coordinates.split(',')
-	coordinates = [splitCoords[0], splitCoords[1]]
+	coordinates = [float(splitCoords[0]), float(splitCoords[1])]
 	newDict['coordinates'] = coordinates
 
 	print largeJSON
